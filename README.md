@@ -7,7 +7,7 @@ Left unmerged for different extensions.
 
 Files are used for AdGuard Home DNS filtering.
 
-P.S. Looking for the way to translate multiple hostname records
+P.S. Looking for the way to translate easily multiple hostname records
 to one line accordingly to general AdBlock rules set, i.e.
 	www.abc.com
 	abc.com
