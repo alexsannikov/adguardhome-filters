@@ -19,3 +19,12 @@ to
 	||abc.com*^
 
 or similar.
+
+Need to build the following algorithm:
+1. grab original file;
+2. mirror each string and sort ( like 'cat ./file1 | rev | sort > file2' );
+3. moving down, remember each string and compare it with all the rest, deleting all longer ones ( "moc.cba||" -> delete all "moc.cba\.*" );
+4. revert strings back and sort;
+5. done.
+
+Better to be written in bash/sed/awk or python or Go.
