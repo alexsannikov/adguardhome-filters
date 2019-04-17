@@ -222,7 +222,6 @@
 ||bettbet.com
 ||bettheglobe.eu
 ||betting195.com
-||betting.betfair.com
 ||bettingchamps.eu
 ||bettingexpress.com
 ||bettingworld.co.za
@@ -250,9 +249,7 @@
 ||bingoscotland.net
 ||bingostreet.com
 ||bingotime.co.uk
-||bingo.vernons.com
 ||bingowags.com
-||bingo.williamhill.com
 ||bingoyard.com
 ||bitcoinrush.io
 ||bitcoinsports.eu
@@ -317,8 +314,6 @@
 ||casinoroom.com
 ||casinostugan.com
 ||casinotown.se
-||casino.vernons.com
-||casino.williamhill.com
 ||casinsi.com
 ||casumo.com
 ||cbmsport.com
@@ -481,9 +476,7 @@
 ||eloterija.si
 ||e-lotto.be
 ||emeraldbet.com
-||en.betclic.com
 ||energybet.com
-||en.expekt.com
 ||enterbet.com
 ||eqraffle.com
 ||esball.net
@@ -538,7 +531,6 @@
 ||gambling.com
 ||gamebookers.com
 ||gamerjackpot.com
-||games.williamhill.com
 ||gametime88.com
 ||gamingclub1.com
 ||gate777.com
@@ -550,7 +542,6 @@
 ||getlucky.com
 ||giocoreale.com
 ||glimmercasino.com
-||global.138.com
 ||globalwagering.ws
 ||globetworld.com
 ||go50.net
@@ -643,7 +634,6 @@
 ||johnslots.com
 ||joinbet.eu
 ||jojobet.com
-||juegos.loteriasyapuestas.es
 ||justbet.co
 ||justbet.co.za
 ||justbet.cx
@@ -686,10 +676,8 @@
 ||lionbet.com
 ||lippybingo.com
 ||littlebigbingo.com
-||livebetting.bwin.com
 ||livebetting.com
 ||livebingo.com
-||livecasino.williamhill.com
 ||livelounge.com
 ||livesports.ag
 ||llamabet.co.uk
@@ -708,7 +696,6 @@
 ||loterie.lu
 ||loterie.ma
 ||loterie-nationale.be
-||loteries.lotoquebec.com
 ||loterija.si
 ||loto.mk
 ||lotoquebec.com
@@ -754,7 +741,6 @@
 ||macaubet.com
 ||macau-slot.com
 ||macauslot.com
-||macau.williamhill.com
 ||madbookie.com
 ||madbookie.com.au
 ||magicbet.com
@@ -777,7 +763,6 @@
 ||matchbook.com
 ||mayansports.eu
 ||mbet.co.za
-||m.boylesports.com
 ||mcbookie.com
 ||megalotto.pl
 ||megasportsworld.com
@@ -789,7 +774,6 @@
 ||miamidicecasino.com
 ||miamidice.com
 ||middlebet.com
-||m.jetbull.com
 ||mobil6000.com
 ||mobilautomaten.com
 ||mobilbet.com
@@ -810,7 +794,6 @@
 ||mrringo.com
 ||mrslot.com
 ||mrwin.com
-||m.skybet.com
 ||msl.ua
 ||multilotto.com
 ||multipasko.pl
@@ -915,8 +898,6 @@
 ||pokerstarscasino.uk
 ||pokerstars.eu
 ||pokerstars.uk
-||poker.williamhill.com
-||portail.lotoquebec.com
 ||postcodeloterij.nl
 ||potsofluck.com
 ||pridmorebookmakers.com
@@ -962,7 +943,6 @@
 ||saturnplay.com
 ||sazka.cz
 ||sbgglobal.eu
-||sblp.intertops.eu
 ||sbobet.com
 ||scandibet.com
 ||scasino.com
@@ -1039,19 +1019,12 @@
 ||sportsbook-uk.com
 ||sportsbookusa.com
 ||sports.br.betboo.com
-||sports.bwin.com
 ||sports-gambling.com
-||sports.gamebookers.com
-||sports.gentingcasino.com
 ||sportsinteraction.com
-||sports.intertops.eu
-||sports.magicred.com
 ||sports.partypoker.com
 ||sports.smartlivegaming.com
 ||sportsspread.com
 ||sportstoto.com.my
-||sports.vernons.com
-||sports.williamhill.com
 ||sports.winner.com
 ||sporttime.net
 ||sportzbookz.com
@@ -1060,7 +1033,6 @@
 ||stakers.com
 ||stanjames.com
 ||starlottosport.com
-||statsloterij.nederlandseloterij.nl
 ||statusbet.com
 ||stoloto.ru
 ||storspelare.com
@@ -1144,7 +1116,6 @@
 ||vandersports.com
 ||vbet.com
 ||vegashero.com
-||vegas.williamhill.com
 ||veikkaus.fi
 ||verajohn.com
 ||vernons.com
