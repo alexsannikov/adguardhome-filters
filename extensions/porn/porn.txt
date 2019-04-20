@@ -4814,7 +4814,6 @@
 ||popporn.com
 ||porcore.com
 ||porkytube.com
-||.porn
 ||porn00.org
 ||porn18sex.com
 ||porn2.com
@@ -4904,6 +4903,7 @@
 ||pornhubshemale.com
 ||pornication.com
 ||pornicom.com
+||porn^$important
 ||porniq.com
 ||pornislikeairimportant.tumblr.com
 ||porn.it
@@ -5487,7 +5487,6 @@
 ||serviporno.com
 ||sesso-gratis.info
 ||seventeenvideo.com
-||.sex
 ||sex2arab.com
 ||sex2inc.com
 ||sex3.com
@@ -5540,6 +5539,7 @@
 ||sexier.com
 ||sexiestpicture.com
 ||sexil.co.il
+||sex^$important
 ||sexinart.net
 ||sexindiansex.com
 ||sexindianvideos.com
@@ -6886,7 +6886,6 @@
 ||xxtgp.com
 ||xxvideoss.org
 ||xxvids.net
-||.xxx
 ||xxx4live.com
 ||xxxadultcinema.com
 ||xxxaporn.com
@@ -6932,6 +6931,7 @@
 ||xxxhornymilfsluts.tumblr.com
 ||xxxhotgifs.tumblr.com
 ||xxxhq.me
+||xxx^$important
 ||xxxkindgirls.com
 ||xxxkingtube.com
 ||xxxkino.to
