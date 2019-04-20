@@ -1,26 +1,9 @@
 # adguardhome-filters
-Hosts lists from Steven Black (https://github.com/StevenBlack/hosts)
+Hosts lists from Steven Black (https://github.com/StevenBlack/hosts), revised for usage with Adguard Home:
 
-	cleaned-up from "localhost" records;
+	cleaned-up from "localhost/broadcast" records;
 	127.0.0.1 and 0.0.0.0 replaced to ||;
-	extensions are left unmerged;
-	left most top-domain only;
+	all extensions are left unmerged to use independently;
+	sub-domains are removed if top-level domain presented;
 
-Files are used for AdGuard Home DNS filtering.
-
-P.S. Looking for the intellectual algorithm to translate easily multiple hostname records
-to one line accordingly to general AdBlock rules set, i.e.
-
-	www1.abc.com
-	extra.abc.com
-	external.www.abc.com
-	pictures.domain.com
-	pictures1.domain.co.nz
-	pic-tures.domain.net.site
-	
-to
-
-	||abc.com*^
-	||domain.*^
-
-or similar.
+Files are compatible with AdGuard Home DNS filtering.
