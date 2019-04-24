@@ -14,4 +14,4 @@ Sources:
 1. StevenBlack repo (https://github.com/StevenBlack/hosts);
 2. RuAdList + EasyList repo by raletag (http://cdn.raletag.gq/rueasyhosts.txt).
 
-RuAdList compared with all StevenBlack files. All matching lines are removed.
+RuAdList file compared with all StevenBlack files. All matching lines are removed.
