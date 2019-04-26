@@ -354,8 +354,9 @@
 ||newsmax.com
 ||newsmutiny.com
 ||newsnow17.com
+||newsnow.co.za
+||newspunch.com
 ||newstarget.com
-||newsthump.com
 ||newswatch28.com
 ||newswatch33.com
 ||newswire-24.com
