@@ -1,7 +1,3 @@
-||0.0.0.0 lobi.co
-||0.0.0.0 mbga.jp
-||0.0.0.0 mixch.tv
-||0.0.0.0 mixi.jp
 ||abs.twimg.com
 ||ae0.bb01.ams2.tfbnw.net
 ||ae0.bb01.atl1.tfbnw.net
@@ -330,6 +326,8 @@
 ||i.pinimg.com.edgekey.net
 ||licdn.com
 ||linkedin.com
+||lobi.co
+||mbga.jp
 ||media-ams3-1.cdn.whatsapp.net
 ||media-amt2-1.cdn.whatsapp.net
 ||media-arn2-1.cdn.whatsapp.net
@@ -394,6 +392,8 @@
 ||media-yyz1-1-cdn.whatsapp.net
 ||messages-facebook.com
 ||messenger.com
+||mixch.tv
+||mixi.jp
 ||m.me
 ||mme6.whatsapp.net
 ||mme.whatsapp.net
