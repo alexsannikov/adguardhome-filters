@@ -250,6 +250,8 @@
 ||ae13.pr01.ord1.tfbnw.net
 ||ae13.pr01.sea1.tfbnw.net
 ||amp-reddit-com.cdn.ampproject.org
+||bufferapp.com
+||buffer.com
 ||cdn.syndication.twimg.com
 ||connect.facebook.net
 ||connect.facebook.net.edgekey.net
@@ -419,7 +421,6 @@
 ||pinterest.fr
 ||platform.foursquare.com
 ||plus.google.com
-||plus.l.google.com
 ||pps.whatsapp.net
 ||prod.pinterest.global.map.fastly.net
 ||redd.it
