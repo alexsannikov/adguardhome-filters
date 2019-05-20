@@ -5336,6 +5336,7 @@
 ||contentjs.com
 ||content.livesportmedia.eu
 ||content.liveuniverse.com
+||content.mql5.com
 ||content-offer-app.site
 ||contentolyze.net
 ||content.relax.ru
@@ -5804,6 +5805,7 @@
 ||d1635hfcvs8ero.cloudfront.net
 ||d1776dc25a.com
 ||d17f2fxw547952.cloudfront.net
+||d18xeipe1243h6.cloudfront.net
 ||d194f913ee63.com
 ||d19972r8wdpby8.cloudfront.net
 ||d1ade4ciw4bqyc.cloudfront.net
@@ -5961,6 +5963,7 @@
 ||d3irruagotonpp.cloudfront.net
 ||d3iwjrnl4m67rd.cloudfront.net
 ||d3jgr4uve1d188.cloudfront.net
+||d3l320urli0p1u.cloudfront.net
 ||d3lc9zmxv46zr.cloudfront.net
 ||d3lens.com
 ||d3lvr7yuk4uaui.cloudfront.net
@@ -6202,6 +6205,7 @@
 ||dealzone.co.za
 ||deammer.ru
 ||debadu.com
+||debitcrebit669.com
 ||debojuagug1sf.cloudfront.net
 ||debrium-surbara.com
 ||debuackedhkvu.bid
@@ -6261,6 +6265,7 @@
 ||dematom.com
 ||demilith.com
 ||demoreklama.net.ua
+||denis-pj0823031-491201b.com
 ||denotyro.com
 ||denza.pro
 ||deobp.com
@@ -6669,6 +6674,7 @@
 ||dooc.info
 ||doogleonduty.com
 ||doomail.org
+||doomna.com
 ||dopikas.com
 ||dopor.info
 ||doramobi.info
@@ -6808,6 +6814,7 @@
 ||drycle.ru
 ||ds02gfqy6io6i.cloudfront.net
 ||dsaprel.ru
+||dsd7ugeb97nnc.cloudfront.net
 ||dsdiztki.bid
 ||dsemgngou.com
 ||dsero.net
@@ -8343,6 +8350,7 @@
 ||flytomars.online
 ||flzelfqolfnf.com
 ||fmbjxqvkjfmj.com
+||fmcktrmnlyfjr.com
 ||fmcwqmwdaubb.com
 ||fmdwbsfxf0.com
 ||fmebili.info
@@ -9037,6 +9045,7 @@
 ||gerwen.info
 ||gestionpub.com
 ||get-ads.ru
+||getalinkandshare.com
 ||getb.7ya.ru
 ||getbonus.info
 ||getbonusnow3.com
@@ -9633,6 +9642,7 @@
 ||gtfbvxlmev.com
 ||gthrdhxhwdt.bid
 ||gtkikiwa.com
+||gtlcgovlg.com
 ||gtmonytxxglu.com
 ||gtnmyddlf.com
 ||gtorsoxdh.com
@@ -9885,6 +9895,7 @@
 ||hcyqwhquqjosn.com
 ||hcyxksgsxnzb.com
 ||hd100546b.com
+||hd149026b.com
 ||hd720biz.com
 ||hdat.xyz
 ||hdcfyrzx.com
@@ -15445,6 +15456,7 @@
 ||newsmore.info
 ||news.movieworld.kz
 ||newsnet.in.ua
+||newsnetwork.ru
 ||news-obl.top
 ||newsonlynews.com
 ||newsportal1.com
@@ -15480,6 +15492,7 @@
 ||nextclick.com.ru
 ||nextclick.com.ua
 ||nextlandingads.com
+||nextmillennium.io
 ||nextmobilecash.com
 ||neyenbozrfuocz.com
 ||neyron.com
@@ -17957,6 +17970,7 @@
 ||push-money.ru
 ||pushnative.com
 ||pushnest.com
+||pushnice.com
 ||pushprofit.ru
 ||pushservice.one
 ||pushtun.info
@@ -18775,6 +18789,7 @@
 ||rdkdexupxcfs.com
 ||rdlynbosndvx.com
 ||rdmccvanlx.bid
+||rdoovrzqazvpgv.com
 ||rdooybwcuyg.com
 ||rdpqiqlirf.com
 ||rdqyasdstllr.com
@@ -21176,6 +21191,7 @@
 ||tapjoy.com
 ||tapjoy.net
 ||tap.more-results.net
+||tapnative.com
 ||tap-nexus.appspot.com
 ||t.appsflyer.com
 ||tappx.com
@@ -21343,6 +21359,7 @@
 ||telwrite.com
 ||temphilltop.com
 ||temphilltop.net
+||tend-new.com
 ||tenlokif.com
 ||tennerlist.com
 ||teosredic.com
@@ -25207,6 +25224,7 @@
 ||xwhfvjlqfy.com
 ||xwjwdjhb3a.space
 ||xwmbaxufcdxb.com
+||xwonghmweu.com
 ||xwrmlohlri.com
 ||xwufohrjmvjy.com
 ||xwvksizcphhc.com
@@ -26062,6 +26080,7 @@
 ||zftgljkhrdze.com
 ||zfubrpobdf.bid
 ||zfvklk.ru
+||zfvrrodxfb.com
 ||zfwfrpcfvmd.com
 ||zfwzdrzcasov.com
 ||zgalejbegahc.com
