@@ -250,8 +250,6 @@
 ||ae13.pr01.ord1.tfbnw.net
 ||ae13.pr01.sea1.tfbnw.net
 ||amp-reddit-com.cdn.ampproject.org
-||bufferapp.com
-||buffer.com
 ||cdn.syndication.twimg.com
 ||connect.facebook.net
 ||connect.facebook.net.edgekey.net
