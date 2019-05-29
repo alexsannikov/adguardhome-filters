@@ -826,6 +826,7 @@
 ||97d73lsi.com
 ||97ff623306ff4c26996.com
 ||9863f10a16c1.com
+||98bf9h8jbg.com
 ||98d4b353b20a2b586cd.com
 ||991e6341910fb.com
 ||9989be8064c80b.com
@@ -1091,6 +1092,7 @@
 ||actionteaser.ru
 ||activedancer.com
 ||activiks.ru
+||activity.browser.intl.miui.com
 ||act-news.com
 ||acvxsptoqh.com
 ||acwswfbyhtsf.com
@@ -2625,6 +2627,7 @@
 ||api.miui.security.xiaomi.com
 ||api.mobojoy.baidu.com
 ||api.mobula.ds.duapps.com
+||api.newsfeed.intl.miui.com
 ||api.pingstart.com
 ||api-pravoved.s3.amazonaws.com
 ||apirelay.ru
@@ -3927,6 +3930,7 @@
 ||boaawvdg.com
 ||boafernd.com
 ||board-books.com
+||boashesu.net
 ||boat2.info
 ||bobarilla.com
 ||bobblewrite.com
@@ -5223,6 +5227,8 @@
 ||cnygzgurqpwop.bid
 ||coads.akipress.org
 ||coadvertise.com
+||coagricu.net
+||coaincltxhw.com
 ||coaterhand.net
 ||cobrand.ria.com
 ||cobrax.ru
@@ -5887,6 +5893,7 @@
 ||d2b2x1ywompm1b.cloudfront.net
 ||d2b560qq58menv.cloudfront.net
 ||d2b65ihpmocv7w.cloudfront.net
+||d2c4ylitp1qu24.cloudfront.net
 ||d2cxkkxhecdzsq.cloudfront.net
 ||d2d2lbvq8xirbs.cloudfront.net
 ||d2d8qsxiai9qwj.cloudfront.net
@@ -6272,6 +6279,7 @@
 ||delivery-s3.adswizz.com
 ||deliverytaste.com
 ||delnapb.com
+||deloplen.com
 ||delo-teh.ru
 ||delta-boa.com
 ||delta.mediafort.ru
@@ -6520,6 +6528,7 @@
 ||djchfgacdfaaadfdc.ru
 ||djeoxopgw.com
 ||djfbgfcdgdjgegjac.ru
+||djfiln.com
 ||djhqkoikovr.bid
 ||djiboutdifficial.info
 ||djiufagozzla.com
@@ -8193,6 +8202,7 @@
 ||filadmir.site
 ||filebase.me
 ||fileloadr.com
+||file.market.xiaomi.com
 ||filenlgic.bid
 ||file-online.ru
 ||filepost.ru
@@ -10237,6 +10247,7 @@
 ||hmjtutipevtmg.com
 ||hmkrfmtra.bid
 ||hmlghvujrve.com
+||hmmmcjgho.com
 ||hmongcash.com
 ||hmqzghfpl.bid
 ||hmqzhs0csdealn.ru
@@ -10482,6 +10493,7 @@
 ||htvlulpbhtkgr.com
 ||htyazxwc.com
 ||huamfriys.net
+||huangye.miui.com
 ||huayucnblhgy.com
 ||hubvotrpjios.com
 ||huccrlctmgifs.com
@@ -14970,6 +14982,7 @@
 ||mubra.ru
 ||muchhetont.ru
 ||mueqzsdabscd.com
+||muhexvakuawzo.com
 ||mujap.com
 ||mujilora.com
 ||mukipol.com
@@ -18005,6 +18018,7 @@
 ||purpreine.co
 ||pusbamejpkxq.com
 ||push2check.com
+||pushagim.com
 ||pushame.com
 ||pusharest.com
 ||pushbaddy.com
@@ -18191,6 +18205,7 @@
 ||qawaqcurthru.com
 ||qawiman.com
 ||qaxtgbdxjpibc.com
+||qaykb.com
 ||qazzzxwynmot.com
 ||qbahsvxo.com
 ||qbalehgc.com
@@ -19938,6 +19953,7 @@
 ||sctipt.prons.org
 ||scund.com
 ||scuwbelujeeu.com
+||scvdxxgbvoz.com
 ||scvonjdwad.bid
 ||scxxbyqjslyp.com
 ||sczcxmaizy.com
@@ -20660,6 +20676,7 @@
 ||sov-inform-buro.ru
 ||sovqylkbucid.com
 ||sozdyrrtsvr.com
+||spacepush.ru
 ||spamualfr.com
 ||spankmasters.com
 ||sparelli.com
@@ -22417,6 +22434,7 @@
 ||turbofileindir.com
 ||turboroller.ru
 ||turbotraf.com
+||turbotraff.com
 ||turbotraff.net
 ||turfirmy.com.ua
 ||turfmpnpiv.bid
@@ -24864,6 +24882,7 @@
 ||xakmsoaozjgm.com
 ||xalisi.co
 ||xalttgptij.com
+||xameleonads.com
 ||xamxwvtsxdva.com
 ||xanqdskuyb.com
 ||xanxj.com
@@ -26322,6 +26341,7 @@
 ||znu1ustboak.online
 ||znvctmolksaj.com
 ||znztvqgtaivf.com
+||zobsibzczd.com
 ||zodiac-game.info
 ||zodorxfj.bid
 ||zoglafi.info
