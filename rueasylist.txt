@@ -190,7 +190,6 @@
 ||1qwe2r.info
 ||1rtl.info
 ||1ru.tv
-||1rx.io
 ||1rxntv.io
 ||1sadx.net
 ||1sen-pit-fan.com
@@ -1542,6 +1541,7 @@
 ||adqic.com
 ||adquantix.com
 ||adquota.com
+||adqy6rzwcs.com
 ||adr.alltorrents.net
 ||adram.media
 ||adrcdn.com
@@ -3068,6 +3068,7 @@
 ||aykosfkx.bid
 ||ayloqdal.bid
 ||ayozhcgcsyun.com
+||ayyslqwrmoygf.com
 ||ayyvsbbbav.com
 ||ayyxveilslz.com
 ||az708531.vo.msecnd.net
@@ -3607,6 +3608,7 @@
 ||bgmgyuzcfrujc.com
 ||bgmtracker.com
 ||bgpxrwjrbsjb.com
+||bgqddlvq.com
 ||bgrndi.com
 ||bgrojtcdymmcdr.com
 ||bgtmceqoipodkv.com
@@ -3882,6 +3884,7 @@
 ||bmanpn.com
 ||bmayhacntxax.com
 ||bmbnpxxwxdt.com
+||bmbvnmgucbk.com
 ||bme9usxpo.tech
 ||bmhvaoxr.com
 ||bmichkohfqtnvq.com
@@ -4352,6 +4355,7 @@
 ||bxtcgufurbdk.bid
 ||bxvydxjqklq.com
 ||bxwbflhpk.com
+||bxxhbrpxqtwfq.com
 ||bxxlvfhaxwscz.com
 ||bxzkknilgmdt.bid
 ||bydbjtaoy.bid
@@ -5046,6 +5050,7 @@
 ||click4free.info
 ||click4wm.ru
 ||clickable.com
+||click.absoluteagency.com
 ||clickadilla.com
 ||clickadin.com
 ||clickad.pl
@@ -5729,6 +5734,7 @@
 ||cvarxvlbnphcjq.com
 ||cvdow.com
 ||cvdvexais.com
+||cvembcmcvrxly.com
 ||cvergon.info
 ||cvffhevoebnz.com
 ||cvhcrbbbfaa.com
@@ -9096,7 +9102,6 @@
 ||gerwen.info
 ||gestionpub.com
 ||get-ads.ru
-||getalinkandshare.com
 ||getb.7ya.ru
 ||getbonus.info
 ||getbonusnow3.com
@@ -9162,6 +9167,7 @@
 ||gfchcxin.com
 ||gfdeapuaymd.bid
 ||gfdfhdh5t5453.com
+||gfeaegaepsgp.com
 ||gfe.geforce.com
 ||gfe.nvidia.com
 ||gffupsrgds.com
@@ -9783,6 +9789,7 @@
 ||gxptetvbtkfj.com
 ||gxqjoqpkexn.bid
 ||gxqocoxl.com
+||gxqotelkdra.com
 ||gxqrjjcsyh.com
 ||gxuibhjxssnrol.bid
 ||gxvbogvbcivs.com
@@ -11553,6 +11560,7 @@
 ||izhvnderudte.com
 ||iziwhlafxitn.com
 ||izixtxrvogaq.com
+||izjguvanm.com
 ||izlzayrcegfvke.bid
 ||izmciznsszatv.com
 ||izmwtewwobxy.com
@@ -13448,6 +13456,7 @@
 ||llgvjtkg.com
 ||llhjbwcjnuii.com
 ||lliumrpvj.com
+||lljoapkfnwn.com
 ||lljtgiwhqtue.com
 ||llluzqrvfyrbt.com
 ||llnxfuxszevf.com
@@ -13900,7 +13909,6 @@
 ||m1cpl.ru
 ||m1.kahoxa.ru
 ||m1xclick.ru
-||m2.ai
 ||m2corp.ru
 ||m2pub.com
 ||m30w.net
@@ -17873,7 +17881,6 @@
 ||propellerclick.com
 ||propelllerads.com
 ||propelplus.com
-||proper.io
 ||propgoservice.com
 ||propolis-shungit.biz
 ||proponga.ninja
@@ -18025,7 +18032,6 @@
 ||pubmine.com
 ||pubnation.com
 ||pubnative.net
-||pub.network
 ||pubportal.brkmd.com
 ||pubrain.com
 ||pubserve.net
@@ -18830,6 +18836,7 @@
 ||ravnovesienews.ru
 ||rawasy.com
 ||rawybznxrp.bid
+||raxlextehqhw.com
 ||rax.ru
 ||rayzest.com
 ||raz-raz-mataz.com
@@ -20831,6 +20838,7 @@
 ||squarterun.com
 ||squeeder.com
 ||sqwyxzrajzsxpx.com
+||sqyvhynwl.com
 ||srbrdogg.bid
 ||srcsmrtgs.com
 ||srfizvugkheq.com
@@ -21297,8 +21305,11 @@
 ||takeman.ru
 ||takensparks.com
 ||takia.ru
+||takibb.ru
 ||takib.ru
+||takicc.ru
 ||takic.ru
+||takipp.ru
 ||tak.ru
 ||talaropa.com
 ||taljdzwer.com
@@ -21892,6 +21903,7 @@
 ||tlzovwtootkvbj.bid
 ||tm46k0ij.ru
 ||tm-79.com
+||tmblaeivephb.com
 ||tm-core.net
 ||tmcs.net
 ||tmcvwyrqwyp.com
@@ -24075,6 +24087,7 @@
 ||vzhbfwpo.com
 ||vzhlsmmboaqxlv.com
 ||vzkrfuzxoh.bid
+||vzkyivowceqcsd.com
 ||vzlyapss.com
 ||vzmnvqiqgxqk.com
 ||vzozsebg.com
@@ -24251,7 +24264,6 @@
 ||webcampromotions.com
 ||webclickengine.com
 ||webclickmanager.com
-||webcontentassessor.com
 ||webcontentdelivery.info
 ||webdiana.ru
 ||webeatyouradblocker.com
