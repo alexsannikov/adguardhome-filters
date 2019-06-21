@@ -2,6 +2,7 @@
 Filters lists revised for usage with Adguard Home:
 
 	- cleaned-up from "localhost/broadcast" records;
+	- cleaned-up from pure IP-addresses records as per RFC952;
 	- 127.0.0.1 and 0.0.0.0 replaced to ||;
 	- extensions are left unmerged to use independently;
 	- all sub-domains are removed if top-level domain presented;
