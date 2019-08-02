@@ -2658,6 +2658,7 @@
 ||api.ad-locus.com
 ||api.ads.watchabc.go.com
 ||api-adver.ru
+||api.ad.xiaomi.com
 ||api.ampiri.com
 ||api.amplitude.com
 ||api-analytics-bootstrap.metaps.com
@@ -5458,6 +5459,7 @@
 ||com-online.website
 ||company.1ps.ru
 ||compatexchange.cloudapp.net
+||competing-stinger.site
 ||comp-ex.ru
 ||completecarrd.com
 ||completeexecutor.com
@@ -7128,7 +7130,6 @@
 ||dudintrec.ru
 ||duetads.com
 ||dueybqnkkhzdh.bid
-||dugfoto.ru
 ||duggiads.com
 ||d-ughwashes.ru
 ||dugqbllwslqrlj.com
@@ -9650,6 +9651,7 @@
 ||globaladmedia.com
 ||globaladsales.com
 ||globaladv.net
+||globalapi.ad.xiaomi.com
 ||globaldating.online
 ||globalinteractive.com
 ||globalsnslp.com
@@ -10747,6 +10749,7 @@
 ||host-host-ads.com
 ||hosticanaffiliate.com
 ||hosting.conduit.com
+||hostpush.info
 ||host.torrent21.ru
 ||hotchatdirect.com
 ||hot-dances.com
@@ -18777,7 +18780,6 @@
 ||publited.com
 ||publited.net
 ||publited.org
-||pubmine.com
 ||pubnation.com
 ||pubnative.net
 ||pubportal.brkmd.com
@@ -18845,6 +18847,7 @@
 ||pushnest.com
 ||pushnevis.com
 ||pushnice.com
+||pushofferpro.com
 ||pushprofit.ru
 ||pushservice.one
 ||pushtora.com
@@ -20370,6 +20373,7 @@
 ||rrhzlgzazz.bid
 ||rriqwzgmaazsp.com
 ||rrjkbdgwoh.bid
+||rrmovh0f.ru
 ||rrmqirchpasqyw.com
 ||rrnhb863j.tech
 ||rrnqzntj.com
@@ -20873,6 +20877,7 @@
 ||sdjkldfhy.com
 ||sdk.adincube.com
 ||sdk.adtiming.com
+||sdkconfig.ad.xiaomi.com
 ||sdk.native123.com
 ||sdk-orion.appboy.com
 ||sdks.stats-locations.com
