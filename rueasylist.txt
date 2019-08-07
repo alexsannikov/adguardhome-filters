@@ -2292,6 +2292,7 @@
 ||aj1616.online
 ||aj1713.online
 ||aj1834.online
+||aj1913.online
 ||ajaeihzlcwvn.com
 ||ajansreklam.net
 ||ajaxbig.ru
@@ -2481,7 +2482,6 @@
 ||amazon-cornerstone.com
 ||amazonily.com
 ||ambaab.com
-||ambientplatform.vn
 ||ambqphwf.com
 ||ambra.com
 ||ambushar.net
@@ -11108,7 +11108,6 @@
 ||ibeyqnjfjgsuob.bid
 ||ibfsream.com
 ||ibfueyttemsefi.com
-||ibillboard.com
 ||ibishic.ru
 ||ibiza-court.com
 ||ibjtuhcgwnamyf.com
@@ -13536,6 +13535,7 @@
 ||laserhairremovalstore.com
 ||lashaucu.net
 ||lastras.ru
+||laterxxx.com
 ||latinasheat.online
 ||lativil.co
 ||latritsa.ru
@@ -14794,7 +14794,6 @@
 ||media303.com
 ||media970.com
 ||mediaadserver.org
-||mediaalpha.com
 ||media-app.com
 ||mediaclick.com
 ||media-click.ru
@@ -18271,7 +18270,6 @@
 ||polluxnetwork.com
 ||polmontventures.com
 ||polnut.com
-||polyad.net
 ||polydarth.com
 ||pomdol.com
 ||pomgal.ru
@@ -22209,9 +22207,11 @@
 ||takeman.ru
 ||takensparks.com
 ||takia.ru
+||takibb.com
 ||takibb.ru
 ||takib.ru
 ||takicc.ru
+||takicc.site
 ||takic.ru
 ||takipp.ru
 ||tak.ru
@@ -23360,6 +23360,7 @@
 ||tryanka.ru
 ||trygen.co.uk
 ||trymynewspirit.com
+||trynews.me
 ||trzi30ic.com
 ||ts-ads.info
 ||tsandycateup.com
