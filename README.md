@@ -19,3 +19,4 @@ Sources:
   RuAdlist + EasyList file left as it was on 2019 September 25th.
 
 RuAdList file compared with all StevenBlack files. All matching lines are removed.
+
