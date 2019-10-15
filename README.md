@@ -14,6 +14,7 @@ Files are compatible with AdGuard Home DNS filtering.
 Sources:
 1. StevenBlack repo (https://github.com/StevenBlack/hosts);
 2. RuAdList + EasyList repo by raletag (http://cdn.raletag.gq/rueasyhosts.txt).
+
   WARNING! raletag's resource is currently unavailable! 
   RuAdlist + EasyList file left as it was on 2019 September 25th.
 
