@@ -19,7 +19,6 @@
 ||rad.msn.com
 ||adriver.ru
 ||lm.auslogics.com
-||*-win.data.microsoft.com^
 !
 # Microsoft telemetry
 ||telemetry*.microsoft.com*^
@@ -53,6 +52,7 @@
 ||adnexus.net
 ||adnxs.com
 ||ssw.live.com
+||data.microsoft.com^
 ||cs1.wpc.v0cdn.net
 ||pre.footprintpredict.com
 ||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
@@ -61,4 +61,5 @@
 ||promokrot.com
 ||doubleclick.net
 ||doubleclick.com
-||phub.net.cable.rogers.com
+||phub.net.cable.rogers.com^$important
+#||star.c10r.facebook.com^$important
