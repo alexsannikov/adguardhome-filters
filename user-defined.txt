@@ -57,7 +57,7 @@
 ||pre.footprintpredict.com
 ||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 !
-# uTorrunt ads
+# uTorrent ads
 ||static.ap.bittorrent.com
 !
 # Extra sources
