@@ -57,9 +57,13 @@
 ||pre.footprintpredict.com
 ||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 !
+# uTorrunt ads
+||static.ap.bittorrent.com
+!
 # Extra sources
 ||promokrot.com
 ||doubleclick.net
 ||doubleclick.com
 ||phub.net.cable.rogers.com^$important
-#||star.c10r.facebook.com^$important
+||star.c10r.facebook.com^$important
+!
