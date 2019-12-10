@@ -17,7 +17,6 @@
 ||ads1.msads.net
 ||flex.msn.com
 ||rad.msn.com
-||adriver.ru
 ||lm.auslogics.com
 !
 # Microsoft telemetry
