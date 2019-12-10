@@ -21,8 +21,3 @@ RuAdList file compared with all StevenBlack files. All matching lines removed.
 
 WARNING! raletag's resource is currently unavailable!
 RuAdlist + EasyList file left as it was on 2019 September 25th.
-
-I am planning to move all files from "extensions" folder to root one.
-For some migration time (~1 month roughly) extension files will be in both directories.
-Please don't forget to update filters' sources.
-After that period files will be in their permanent place only.
