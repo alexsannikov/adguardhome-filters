@@ -441,6 +441,7 @@
 ||pbs.twimg.com
 ||pinimg.com
 ||pin.it
+||pinpages.alwaysdata.net
 ||pinterest.ch
 ||pinterest.com
 ||pinterest.com.au
