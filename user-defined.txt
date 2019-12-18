@@ -67,6 +67,8 @@
 ||phub.net.cable.rogers.com^$important
 ||star.c10r.facebook.com^$important
 !
+# RegExp
+/^protection\...police\.com/
 !
 !
 !
