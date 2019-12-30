@@ -1656,6 +1656,7 @@
 ||adsalvo.com
 ||adsame.com
 ||adsapi.manhuaren.com
+||ads.batpmturner.com
 ||adsbc.pp.ua
 ||ads-bidder-api.twitter.com
 ||adsblockkpush.com
@@ -8420,6 +8421,7 @@
 ||excalatom.com
 ||excellenceads.com
 ||exchange4media.com
+||exchange.bg
 ||exchange.informer.ua
 ||exchange.meta.ua
 ||exchangenews.ru
@@ -8802,6 +8804,7 @@
 ||fevrbniqa.com
 ||fextor.ru
 ||feybu.work
+||feynmanhopeful.eu
 ||ff52e77ba517.com
 ||ff5bd8d9f8df.com
 ||ff76khyn6c.com
@@ -10778,7 +10781,6 @@
 ||hbhcndcpohpwib.com
 ||hbhfslicqq.com
 ||hbhjamkcubtez.com
-||h-bid.com
 ||hbkajyvrus.com
 ||hbkcelqibvx.bid
 ||hbnqcbfgsjfa.com
