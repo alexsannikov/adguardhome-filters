@@ -293,6 +293,7 @@
 ||cashiopeia.com
 ||cashmio.com
 ||cashpoint.com
+||cashstormslots.com
 ||cashsweep.com.my
 ||casilando.com
 ||casimba.com
@@ -304,6 +305,7 @@
 ||casinocalzone.com
 ||casinocruise.com
 ||casinoeuro.com
+||casinogods.com
 ||casinoheroes.com
 ||casinojefe.com
 ||casinoland.com
@@ -315,6 +317,7 @@
 ||casinoroom.com
 ||casinostugan.com
 ||casinotown.se
+||casinowinner.com
 ||casinsi.com
 ||casumo.com
 ||cbmsport.com
@@ -505,9 +508,12 @@
 ||faber.de
 ||falconbet.com
 ||fansbet.com
+||fastbet.com
 ||favbet.com
 ||favourit.com
 ||fdj.fr
+||fi.888casino.com
+||fi.casiplay.com
 ||fikacasino.com
 ||flemingtonsportsbet.com.au
 ||flumecasino.com
@@ -516,6 +522,7 @@
 ||footballpools.com
 ||forsportspicks.com
 ||fortunejack.com
+||fortunelegends.com
 ||frankcasino.com
 ||frankfred.com
 ||freakyvegas.com
@@ -596,6 +603,7 @@
 ||hrwager.ag
 ||hughesbet.com
 ||hunkybingo.com
+||hypercasino.com
 ||iasbet.com
 ||ibet789.com
 ||ibetcasino.com
@@ -621,6 +629,7 @@
 ||itvbingo.com
 ||jackpotbingo.co.uk
 ||jackpotcity.com
+||jackpotvillage.com
 ||jammyduck.com
 ||japancasino.com
 ||jaxx.com
@@ -643,15 +652,20 @@
 ||justforbettors.com
 ||kaboo.com
 ||kaiserslots.com
+||kalevalakasino.com
 ||karamba.com
+||karhukasino.com
 ||karjalakasino.com
 ||karlcasino.com
 ||kashmobet.com
+||kasinot.fi
+||kassu.com
 ||katiesbingo.com
 ||keyarena.gg
 ||kingneptunescasino.com
 ||kingneptunescasino.eu
 ||kingswaybingoonline.com
+||kirsikka.com
 ||kissmybingo.com
 ||klasselotteriet.dk
 ||krugerbets.com
@@ -790,6 +804,7 @@
 ||mpi.gov.tr
 ||mr.bet
 ||mrgreen.com
+||mrjackpotspins.com
 ||mrmega.com
 ||mrmobi.com
 ||mrplay.com
@@ -828,6 +843,7 @@
 ||nlb.lk
 ||nlotto.co.kr
 ||noaccountcasino.com
+||nopeampi.com
 ||nordicbet.com
 ||norgesautomaten.com
 ||norgesspill.com
@@ -878,6 +894,8 @@
 ||parimatch.com
 ||parimatchplay1.com
 ||pasarbola.com
+||pelaa.com
+||pikakasino.com
 ||pinnacle.com
 ||pinnaclesports.com
 ||piratespin.com
@@ -909,7 +927,9 @@
 ||primeslots.com
 ||pro-factory.com
 ||proline.ca
+||promotion.eurolotto.com
 ||promotions.epic.partners
+||prontocasino.com
 ||propawin.com
 ||punchbets.com
 ||purepoker.eu
@@ -958,6 +978,7 @@
 ||secure.bkbet.eu
 ||sesbet.com
 ||setantabet.com
+||simppeli.com
 ||sirbobet.com
 ||sirjackpot.com
 ||sisal.it
@@ -980,6 +1001,7 @@
 ||slotsino.co.uk
 ||slotsmagic.com
 ||slotsons.com
+||slottyvegas.com
 ||slotv.com
 ||sloty.com
 ||smarkets.com
@@ -1034,6 +1056,7 @@
 ||spreadex.com
 ||sssbet.com
 ||stakers.com
+||stakes.com
 ||stanjames.com
 ||starlottosport.com
 ||statusbet.com
@@ -1042,6 +1065,7 @@
 ||storspiller.com
 ||strikewin.com
 ||sunbets.co.uk
+||suomikasino.com
 ||supabets.com.gh
 ||super88.club
 ||super8casino.com
@@ -1068,6 +1092,7 @@
 ||taiwanlottery.com.tw
 ||takarakuji-official.jp
 ||tatts.com
+||templenile.com
 ||tempobet.com
 ||texascasino.com
 ||thebetarena.com
@@ -1104,6 +1129,7 @@
 ||toxicjackpot.com
 ||triobet.com
 ||ttr.casino
+||turbico.com
 ||uberskins.net
 ||ubet.com
 ||ucabet.co
@@ -1151,6 +1177,7 @@
 ||whalegaming.co.uk
 ||whitebet.com
 ||wildjackpots.com
+||wildz.com
 ||williamhill.com
 ||williamhill.com.au
 ||wilsonbet.com
@@ -1158,6 +1185,7 @@
 ||winmasters.com
 ||winner.co.uk
 ||winningft.com
+||wishmaker.com
 ||wixstars.com
 ||worldofsport.co.za
 ||worldsportsbetting.co.za
