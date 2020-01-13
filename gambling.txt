@@ -326,6 +326,7 @@
 ||centrebet.com
 ||champagnebingo.com
 ||championsbet.net
+||chance.cz
 ||chancehill.com
 ||chanz.com
 ||cheekywin.com
@@ -607,6 +608,7 @@
 ||iasbet.com
 ||ibet789.com
 ||ibetcasino.com
+||ifortuna.cz
 ||igame.com
 ||igame.se
 ||ikibu.com
@@ -777,6 +779,7 @@
 ||marsbet300.com
 ||marsbet400.com
 ||matchbook.com
+||maxitip.cz
 ||mayansports.eu
 ||mbet.co.za
 ||mcbookie.com
@@ -893,6 +896,7 @@
 ||parasino.com
 ||parimatch.com
 ||parimatchplay1.com
+||partypoker.cz
 ||pasarbola.com
 ||pelaa.com
 ||pikakasino.com
@@ -917,6 +921,7 @@
 ||pokerimaa.com
 ||pokermax.com
 ||pokerstarscasino.uk
+||pokerstars.cz
 ||pokerstars.eu
 ||pokerstars.uk
 ||postcodeloterij.nl
@@ -1084,6 +1089,7 @@
 ||sverigekronan.com
 ||swedencasino.com
 ||swedencasino.se
+||synottip.cz
 ||szerencsejatek.hu
 ||szuperlotto.com
 ||tab.com.au
@@ -1104,6 +1110,7 @@
 ||tipico.com
 ||tipos.sk
 ||tipp24.com
+||tipsport.cz
 ||tipwin.com
 ||titanbet.com
 ||titansbet.com.au
