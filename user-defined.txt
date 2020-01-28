@@ -2,6 +2,7 @@
 @@||ssl.p.jwpcdn.com^$important
 @@||4shared.com^$important
 @@||fonts.gstatic.com^$important
+@@||olg.ca^$important
 !
 # Skype Ads
 ||apps.skype.com
