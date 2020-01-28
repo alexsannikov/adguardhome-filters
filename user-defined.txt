@@ -1,6 +1,7 @@
 # Do NOT block
 @@||ssl.p.jwpcdn.com^$important
 @@||4shared.com^$important
+@@||fonts.gstatic.com^$important
 !
 # Skype Ads
 ||apps.skype.com
