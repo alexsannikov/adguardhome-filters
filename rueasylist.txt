@@ -9410,6 +9410,7 @@
 ||click4.truecaller.com
 ||click4wm.ru
 ||clickable.com
+||click.absoluteagency.com
 ||clickadilla.com
 ||clickadin.com
 ||clickad.pl
@@ -30453,7 +30454,6 @@
 ||osbal.ru
 ||osbblnlmwzcr.com
 ||osdijxyjdn.bid
-||osdsoft.com
 ||oselyprepartie.info
 ||oseqbfjtsdz.com
 ||osevrgzpsu.com
@@ -37358,6 +37358,7 @@
 ||smart.allocine.fr
 ||smart-and-wheel.com
 ||smartbn.ru
+||smart.brvaffs.com
 ||smartbucks.ru
 ||smartcallback.ru
 ||smartclick.net
