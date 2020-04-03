@@ -250,6 +250,7 @@
 ||ae13.pr01.mia1.tfbnw.net
 ||ae13.pr01.ord1.tfbnw.net
 ||ae13.pr01.sea1.tfbnw.net
+||allotalk.com
 ||amp-reddit-com.cdn.ampproject.org
 ||amp.twimg.com
 ||cdninstagram.com
