@@ -2542,7 +2542,6 @@
 ||adscreendirect.com
 ||ads.cricbuzz.com
 ||ads-deltatv-x64zcsqq.netdna-ssl.com
-||ads-dev.pinterest.com
 ||ads.digitalfirstmedia.com
 ||adsdime.com
 ||adsdk.picooapp.com
@@ -2997,7 +2996,6 @@
 ||adsteroid.pro
 ||adsterra.com
 ||ads.thehiveworks.com
-||ads.tiktok.com
 ||adstock.pro
 ||adstock.ru
 ||ads.toonpass.com
@@ -3181,7 +3179,6 @@
 ||advertising.autotrader.co.uk
 ||advertising.borsaitaliana.it
 ||advertising.casinocity.com
-||advertising-cdn.dpgmedia.cloud
 ||advertising.cheezburger.com
 ||advertising.dailymotion.com
 ||advertising.deviantart.com
@@ -3789,6 +3786,7 @@
 ||aipp-italia.it
 ||aiprvqqnhm.com
 ||airartapt.site
+||airbrake.io
 ||airdauks.net
 ||airfhtyo.bid
 ||airjordannike.de
@@ -4455,7 +4453,6 @@
 ||analytics.industriemagazin.net
 ||analytics.infobae.com
 ||analytics.informationweek.com
-||analytics.inlinemanual.com
 ||analytics.int.applicationinsights.io
 ||analytics.ionic.io
 ||analytics.ip-profis.de
@@ -4504,7 +4501,6 @@
 ||analytics.mmosite.com
 ||analytics.mobileacademy.com
 ||analytics.mobimanage.com
-||analytics.modul.ac.at
 ||analytics.monkeytracker.cz
 ||analytics.moviepilot.de
 ||analytics.mozzi.com
@@ -14723,6 +14719,7 @@
 ||exitexplosion.com
 ||exitjunction.com
 ||exit.macandbumble.com
+||exjozegvbaresw.com
 ||exjthrzliajfd.com
 ||exklusiv4you.de
 ||exkruwviyy.com
@@ -17405,6 +17402,7 @@
 ||ghrgaxcc.net
 ||ghtroafchzrt.com
 ||ghttzqpeyunwdr.bid
+||ghvmjvkpapct.com
 ||ghycvwos.bid
 ||ghygzvdh.bid
 ||ghytjserb.com
@@ -19240,6 +19238,7 @@
 ||histormedengi.site
 ||hisxgmthxjdm.com
 ||hitadsmedia.com
+||hitblnplbcfh.com
 ||hitcents.com
 ||hitechcarbons.com
 ||hitechworld.biz
@@ -22077,6 +22076,7 @@
 ||jjdrwkistgfh.com
 ||jjeevbcllev.bid
 ||jjekiezbshyo.com
+||jjfankvlnhhm.com
 ||jjhnnzef.com
 ||jjipgxjf.com
 ||jjireaqdzdll.com
@@ -25217,6 +25217,7 @@
 ||lnnwwxpeodmw.com
 ||lnpqqigowz.com
 ||lnsthqzdsvzboo.bid
+||lnueliai.com
 ||lnvnzrqdajau.com
 ||lnv-store.de
 ||lnwbiuetoymifj.com
@@ -29109,6 +29110,7 @@
 ||newssy.ru
 ||newsteaser.ru
 ||newstogram.com
+||newstomat.com
 ||news-top-rated.com
 ||newsunads.com
 ||newsupdatedir.info
@@ -29583,7 +29585,6 @@
 ||norct.com
 ||norcx.com
 ||nord.adr.com.ua
-||nordfreevpn.com
 ||nordfriesenpower.de
 ||nord-hardware.com
 ||nordichardware.se
@@ -30009,6 +30010,7 @@
 ||nyvqazwtcwk.com
 ||nywpxugigwfzb.com
 ||nywuthdzdacoq.com
+||nyxvhfwfbmh.com
 ||nyyed.com
 ||nyzncfurdrdxfi.com
 ||nyzobnpbcwjwfs.com
@@ -36398,6 +36400,7 @@
 ||ryxpmonwqeg.com
 ||ryybhoklizmuew.com
 ||ryzrdgdvg.bid
+||rzajohyjxff.com
 ||rzbbcjnrsbk.com
 ||rz-bikes.de
 ||rzbozucqgmostr.com
@@ -39671,6 +39674,7 @@
 ||talterfortmarob.info
 ||talverteiler.de
 ||tamechangekn.info
+||tamhdxkh.com
 ||tamiecaseros.pro
 ||tammfmhtfhut.com
 ||tamqqjgbvbps.com
@@ -44130,6 +44134,7 @@
 ||vhpmiipdpjq.com
 ||vhpqxkhvjgwx.com
 ||vhscigqpwe.com
+||vhtadetq.com
 ||vhuhrhowm.com
 ||vhuveukirbuz.com
 ||vhvuvmjxdo.com
@@ -44708,7 +44713,6 @@
 ||vpklpmvzbogn.com
 ||vplvywqxsm.com
 ||vpn1.us
-||vpn4test.net
 ||vpnaffiliates.hidester.com
 ||vpndcpxavg.com
 ||vpnfaster.s.xoxknct.com
@@ -46297,7 +46301,6 @@
 ||wrwwvymy.com
 ||wrxivlclw.com
 ||wrzwnpmgt.bid
-||ws38.watashinonegai.ru
 ||ws-adv.ais.co.th
 ||wsaijhlcnsqu.com
 ||ws.bhzejltg.info
@@ -46939,6 +46942,7 @@
 ||xmas-xmas-wow.com
 ||xmazvzvbqli.com
 ||xmbyoyvs.bid
+||xmdwlpwvzt.com
 ||xmediawebs.net
 ||xmegspwsjzvvh.com
 ||xmejor.com
