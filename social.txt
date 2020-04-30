@@ -1,5 +1,4 @@
 ||abs.twimg.com^
-||ads-twitter.com^
 ||ae0.bb01.ams2.tfbnw.net^
 ||ae0.bb01.atl1.tfbnw.net^
 ||ae0.bb01.bos2.tfbnw.net^
@@ -256,7 +255,6 @@
 ||cdninstagram.com^
 ||connect.facebook.net^
 ||connect.facebook.net.edgekey.net^
-||cookiex.ngd.yahoo.com^
 ||crashlogs.whatsapp.net^
 ||d2rdfnizen5apl.cloudfront.net^
 ||dnt.twimg.com^

@@ -52,7 +52,6 @@
 ||actionbets.com^
 ||actiononsports.com^
 ||acttab.com.au^
-||adjarabet.com^
 ||admiralspot.com^
 ||agentspinner.com^
 ||ahacasino.com^
@@ -1158,7 +1157,6 @@
 ||vestabet365.com^
 ||videoslots.com^
 ||vierklee.com^
-||vietbet.eu^
 ||vikingslots.com^
 ||viks.com^
 ||villabet.com^

@@ -19,5 +19,8 @@ Files are compatible with AdGuard Home DNS filtering system.
    2.  RuAdList + EasyList repo by Schakal (https://schakal.ru/hosts/alive_hosts.txt).
 
 
-RuAdList file compared with all StevenBlack files. All matching lines removed.
+RuAdList file compared with all StevenBlack files. All matches removed.
+All files are compared with AdGuard Simplified Domain Names filter. All matches removed.
+
+Use AdGuard Simplified Domain Names filter as a primary source for your AdGuard home.
 
