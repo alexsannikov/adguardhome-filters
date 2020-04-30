@@ -939,15 +939,6 @@
 ||9utwbj08.top^
 ||9uznl.bemobtrk.com^
 ||9vuq3.bemobtrk.com^
-||a-0001.a-msedge.net^
-||a-0002.a-msedge.net^
-||a-0003.a-msedge.net^
-||a-0004.a-msedge.net^
-||a-0005.a-msedge.net^
-||a-0006.a-msedge.net^
-||a-0007.a-msedge.net^
-||a-0008.a-msedge.net^
-||a-0009.a-msedge.net^
 ||a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com^
 ||a0675c1160de6c6.com^
 ||a06bbd98194c252.com^
@@ -1763,7 +1754,6 @@
 ||adro.co^
 ||adrow.ru^
 ||ads1.livepromotools.com^
-||ads1.msads.net^
 ||ads20.adcolony.com^
 ||ads.20m.es^
 ||ads20.wwe-media.de^
@@ -1771,7 +1761,6 @@
 ||ads2.creativecirclemedia.com^
 ||ads2.eqads.com^
 ||ads2.matichon.co.th^
-||ads2.msads.net^
 ||ads2.msn.com.c.footprint.net^
 ||ads2.uptobox.com^
 ||ads30.adcolony.com^
@@ -2984,6 +2973,7 @@
 ||amp.services^
 ||ampugi334f.com^
 ||ampxchange.com^
+||a-msedge.net^
 ||amuseer.com^
 ||amvotes.ru^
 ||amzbr.com^
@@ -5408,7 +5398,6 @@
 ||cdn.admarvel.com^
 ||cdn.adnwif.smt.docomo.ne.jp^
 ||cdnads.com^
-||cdnads.msads.net^
 ||cdn.advertserve.com^
 ||cdn.ad.xiaomi.com^
 ||cdnapi.net^
@@ -9499,7 +9488,6 @@
 ||global-ds.cloud.netacuity.com^
 ||globalinteractive.com^
 ||globalmasksuppliers.com^
-||global.msads.net^
 ||global.msmtrakk07b.com^
 ||global.search.xiaomi.net^
 ||globalsnslp.com^
