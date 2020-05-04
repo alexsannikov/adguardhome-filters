@@ -1548,6 +1548,7 @@
 ||adw.d2c.ne.jp^
 ||ad.webnext.ru^
 ||adwise.agency^
+||adwitserver.com^
 ||adwords20.com^
 ||adwords.com^
 ||adwords.l.google.com^
@@ -3702,7 +3703,6 @@
 ||cieh.mx^
 ||cientrer.com^
 ||ci.iasds01.com^
-||ciksolre.net^
 ||cileclie.com^
 ||cinefique.com^
 ||cinemapub.top^
