@@ -3,14 +3,9 @@
 ||003.0x1f4b0.com^
 ||003.ua^
 ||004.0x1f4b0.com^
-||005.free-counter.co.uk^
 ||006.0x1f4b0.com^
-||006.free-counter.co.uk^
 ||007.0x1f4b0.com^
-||007.free-counter.co.uk^
 ||008.0x1f4b0.com^
-||008.free-counter.co.uk^
-||008.free-counters.co.uk^
 ||00.video-ak.cdn.spotify.com^
 ||00zasdf.pw^
 ||01.video-ak.cdn.spotify.com^
@@ -189,7 +184,6 @@
 ||30.video-ak.cdn.spotify.com^
 ||31.128.173.853.zhzy999.net^
 ||31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^
-||31639.xc.mieseng.com^
 ||3164401.notifysrv.com^
 ||3164603.notifysrv.com^
 ||3169269.notifysrv.com^
@@ -672,7 +666,6 @@
 ||actionbookclub.com^
 ||actioncutok.com^
 ||action.restartad.com^
-||activecost.com.au^
 ||activiks.ru^
 ||act-news.com^
 ||ac-v1.presage.io^
@@ -1796,7 +1789,6 @@
 ||alma-cmp.almamedia.io^
 ||almaghrib.de^
 ||almosto.com^
-||alnahrainfilminstitute.com^
 ||alobd24.com^
 ||aloisiuscountryfestival.de^
 ||a-love.nninfo.ru^
@@ -2461,7 +2453,6 @@
 ||a-sjo.1rx.io^
 ||askalbass.club^
 ||askcoobaa.club^
-||askmufti.org^
 ||asp-altona-nord.de^
 ||asp.animelab.com^
 ||asset1.sponsorpay.com^
@@ -2512,6 +2503,7 @@
 ||atrd.netmng.com^
 ||attendrai.com^
 ||attribution.snapads.com^
+||att.sc.omtrdc.net^
 ||a.t.webtracker.jp^
 ||au.adserver.yahoo.com^
 ||auc.ca-conv.jp^
@@ -2631,7 +2623,6 @@
 ||ba.ccm2.net^
 ||backelite.com^
 ||backend.avazutracking.net^
-||backlinksale.com^
 ||backpack.approachmall.top^
 ||backpack.pictureperfectstore.top^
 ||backpacksmake.gq^
@@ -2643,7 +2634,6 @@
 ||bader-baudienst.de^
 ||bader-deinhoff.de^
 ||badeseebirkwitz.de^
-||badgesforbullies.org^
 ||badgirlz.org^
 ||b.adinch.com^
 ||badsecs.com^
@@ -2745,7 +2735,6 @@
 ||bauwahn.com^
 ||bauwich.com^
 ||ba.video-ak.cdn.spotify.com^
-||baybars.xyz^
 ||bayerlok.de^
 ||baylnk.com^
 ||bayozo.com^
@@ -3348,7 +3337,6 @@
 ||canadajacet.club^
 ||canalds.com^
 ||cancertreatmente.tt.omtrdc.net^
-||canmivback.biz^
 ||cannabisgr.com^
 ||canonresourcecenter.com^
 ||capiecke.xyz^
@@ -3392,7 +3380,6 @@
 ||casinotreasure.com^
 ||casor.de^
 ||castellol.com^
-||castmart.ga^
 ||cas.xoxknct.com^
 ||cataspboa.site^
 ||catcut.net^
@@ -4015,7 +4002,6 @@
 ||config.ad.snappea.com^
 ||config.inmobi.cn^
 ||config.unityads.unitychina.cn^
-||config.wwmhdq.com^
 ||confluence.brightcove.com^
 ||conf.xdrig.com^
 ||conhive.com^
@@ -4781,7 +4767,6 @@
 ||downloadthesefile.com^
 ||down.my0709.xyz^
 ||down.nishuoa.com^
-||down.pdf.cqmjkjzx.com^
 ||doxodnyi.ru^
 ||dp.im.weibo.cn^
 ||dpsq2uzakdgqz.cloudfront.net^
@@ -4814,7 +4799,6 @@
 ||drf8e429z5jzt.cloudfront.net^
 ||drive360.co.za^
 ||driverequest.com^
-||drivolani.us^
 ||drjuanperez.es^
 ||drmartensau.com^
 ||drmartenshoes.club^
@@ -4826,7 +4810,6 @@
 ||droomoo.com^
 ||drowningpool.net^
 ||druming.free.fr^
-||drwendyellis.com^
 ||dry-as-possible.de^
 ||dscarf.com^
 ||ds.cybereps.com^
@@ -4835,7 +4818,6 @@
 ||dsh7ky7308k4b.cloudfront.net^
 ||dsh-clan.de^
 ||dsie7h4lo9wxu.cloudfront.net^
-||dsiun.com^
 ||d-sjc2.turn.com^
 ||dslladen.com^
 ||dsmeo.cf^
@@ -4958,7 +4940,6 @@
 ||ebesee.com^
 ||ebetoni.com^
 ||ebike-tempel24.com^
-||ebook.w3wvg.com^
 ||eb.video-ak.cdn.spotify.com^
 ||ec2-13-127-188-209.ap-south-1.compute.amazonaws.com^
 ||ecales.ru^
@@ -5821,7 +5802,6 @@
 ||ganja.com^
 ||gannett.hb.omtrdc.net^
 ||ganymed.beeppool.org^
-||gargiulo.com.ar^
 ||garlicpool.org^
 ||garmineoutlet.com^
 ||garminuniverse.de^
@@ -6029,7 +6009,6 @@
 ||glossyads.com^
 ||glows.ru^
 ||glueckaufstadt.de^
-||gmassurance.fr^
 ||gmboxx.com^
 ||gmivideo-stag.in.duokanbox.com^
 ||gm.mmstat.com^
@@ -7493,7 +7472,6 @@
 ||keywordlink3.xlisting.jp^
 ||keywordlink.co.kr^
 ||kfsd5.bemobtrk.com^
-||kgfs3.329263.com^
 ||kgkjlivo.com^
 ||kgp4e.bemobtrk.com^
 ||kg.snapads.com^
@@ -8415,7 +8393,6 @@
 ||mediumoff.com^
 ||mediumpimpin.com^
 ||medizin-rezeptfrei.com^
-||medreg.uz^
 ||medrx.telstra.com.au^
 ||medusasailor.com^
 ||medzdravinfo.ru^
@@ -8658,7 +8635,6 @@
 ||mnr.dorama.site^
 ||mn-shop.com^
 ||mo7her.incest.click^
-||mobiadnews.com^
 ||mobi.andivid.com^
 ||mobi.ficant.com^
 ||mobilc.top^
@@ -8871,7 +8847,6 @@
 ||musicosphere.com^
 ||musicplayer.s.xoxknct.com^
 ||musmia.com^
-||mutec.jp^
 ||muvflix.com^
 ||muz-loader.site^
 ||mvd-mobile.info^
@@ -9634,7 +9609,6 @@
 ||pastis-berlin.de^
 ||pastoupt.com^
 ||pastrycity.com^
-||pat4.jetos.com^
 ||paten-fuer-fluechtlinge.de^
 ||patgsrv.com^
 ||path1.xtracloud.net^
@@ -9665,7 +9639,6 @@
 ||pcanalytics.jioconnect.com^
 ||pc.belicimo.pw^
 ||pcecare.com^
-||pcexperts.co.za^
 ||pcfaster.com^
 ||pcmining.xyz^
 ||pconlinehub.com^
@@ -9786,7 +9759,6 @@
 ||pirojok.net^
 ||pitch.algolia.com^
 ||pitchfork.ch^
-||pitmansticks.com^
 ||pivht-supplements.com^
 ||piwik.darken.eu^
 ||piwik.opendesktop.org^
@@ -10507,7 +10479,6 @@
 ||real-your-girls.com^
 ||rebajapandora.es^
 ||reborndollsshop.com^
-||recepty5.com^
 ||rechtsanwalt-fiore.de^
 ||rechtsanwalt-klett.de^
 ||recino.com^
@@ -10757,7 +10728,6 @@
 ||rosettastone.tt.omtrdc.net^
 ||rosezn.com^
 ||rosheplus.com^
-||ross-ocenka.ru^
 ||rostocklimo.de^
 ||roswithabraun-sauerstein.de^
 ||rosymerry.com^
@@ -10780,7 +10750,6 @@
 ||row.bc.yahoo.com^
 ||royalads.net^
 ||royal-cash.com^
-||royalplusmobile.ir^
 ||rozfly.com^
 ||rp.gwallet.com^
 ||rpsehc.ru^
@@ -11191,7 +11160,6 @@
 ||sepsale.com^
 ||sepsneakers.com^
 ||sepsport.com^
-||seraton.online^
 ||serdce-volgi.ru^
 ||serien-sidekicks.de^
 ||serishirts.com^
@@ -11842,7 +11810,6 @@
 ||static.yeah1media.vn^
 ||static.zotabox.com^
 ||stati.in^
-||stationaryhome.com^
 ||statis.api.3g.youku.com^
 ||stat.letv.com^
 ||stat.livejournal.com^
@@ -12153,7 +12120,6 @@
 ||talverteiler.de^
 ||tamiecaseros.pro^
 ||ta.mybb.ru^
-||tandenblekenhoofddorp.nl^
 ||tankandloulou.com^
 ||tanzanite.infomine.com^
 ||tanz-bewegungstherapie-wibkekamm.de^
@@ -12335,7 +12301,6 @@
 ||thestartmagazine.com^
 ||thetransfiguration.co.uk^
 ||thetrendystock.com^
-||thevision.ro^
 ||thewatchmaker1.weebly.com^
 ||thewestlakegallery.ca^
 ||theworldbd.com^
@@ -12664,7 +12629,6 @@
 ||tracker.pomf.se^
 ||tracker-proxy.furk.net^
 ||tracker.secureboxes.net^
-||trackers.free-counters.co.uk^
 ||tracker.slash-7.com^
 ||tracker.softgarden.de^
 ||tracker-test.rqmob.com^
@@ -13489,7 +13453,6 @@
 ||vd.7vid.net^
 ||vdd-osnabrueck.de^
 ||vdna.exelator.com^
-||vdotrip.blog^
 ||vector.parrable.com^
 ||vectorstock.com^
 ||veduco.de^
@@ -13760,7 +13723,6 @@
 ||wapratios.ru^
 ||wardparser.info^
 ||warenhandelpro.com^
-||ware.ru^
 ||warmarkt.com^
 ||warmclothing.club^
 ||warminy.com^
@@ -14170,7 +14132,6 @@
 ||xn--blockchan-n5a.com^
 ||xn--e-gerteundhaus-9hb.com^
 ||xn--polenbller-deutschland-zhc.com^
-||xn--transfgran-mgbbb600b.ro^
 ||xoclkrvstrafms.com^
 ||xokako.com^
 ||xonephone.shop^
