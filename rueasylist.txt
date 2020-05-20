@@ -3511,6 +3511,7 @@
 ||dolfinsradio.de^
 ||dolomiti-bikeguide.com^
 ||domail.com^
+||domain.name^
 ||domako.de^
 ||dom-dev-analytics.bhg.tools^
 ||dominoad.adk2.co^
@@ -3922,7 +3923,6 @@
 ||ey.c.appier.net^
 ||eyesee-studio.com^
 ||eye.swfchan.com^
-||eyevfswxtcij.com^
 ||eysdfsdfsd.myshopify.com^
 ||eziobincoletto.com^
 ||eztexting.com^
@@ -6807,7 +6807,6 @@
 ||newssisiv.info^
 ||news-speaker.com^
 ||newstesting.aiservice.vn^
-||newsunads.com^
 ||news-whistleout.s3.amazonaws.com^
 ||newtrkdomain.com^
 ||newwebpick.com^
@@ -9063,7 +9062,6 @@
 ||superads.cn^
 ||supercell.net^
 ||superficial.crwdcntrl.net^
-||superficialsquare.com^
 ||superfitchaussures.fr^
 ||supergames.me^
 ||superlb.xyz^
