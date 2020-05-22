@@ -1356,7 +1356,6 @@
 ||alist.unitedblades.co.jp^
 ||alladvantage.com^
 ||allcoins.pw^
-||allegro.pl-oferta.ml^
 ||alle.one^
 ||alleone.live^
 ||alles-mit-feenstaub.de^
@@ -4488,7 +4487,6 @@
 ||go-meo.de^
 ||gomezgoal.com^
 ||go.mmstat.com^
-||go.moartraffic.com^
 ||go.mobisla.com^
 ||go.mobpartner.mobi^
 ||go.mobytrks.com^
@@ -5983,7 +5981,6 @@
 ||logs.hotstar.com^
 ||logsink.zedge.net^
 ||log.sitetag.us^
-||log.snssdk.com^
 ||log.spotify.com^
 ||log.toutiao50.com^
 ||log.trendingnow.video^
@@ -6120,6 +6117,7 @@
 ||makeupbysally.co.uk^
 ||makeyouropportunity.com^
 ||maklerprovision-garmisch.de^
+||malaysia-online-bank-kasino.com^
 ||maler-egzon.de^
 ||malerei2000.de^
 ||malereikopie.de^
@@ -6132,6 +6130,7 @@
 ||malware-check.disconnect.me^
 ||mamasandpapasonline.com^
 ||mameinnete.de^
+||manageadv.cblogs.eu^
 ||management.exoclick.com^
 ||mancegrative.info^
 ||manfred-juenemann.de^
@@ -6466,6 +6465,7 @@
 ||mmunitedaw.info^
 ||mnoa6ez1eq.com^
 ||mo7her.incest.click^
+||moartraffic.com^
 ||mobi.andivid.com^
 ||mobi.ficant.com^
 ||mobile4fun.it^
@@ -9189,7 +9189,6 @@
 ||tallerillescas209.es^
 ||tallgireffe.com^
 ||talverteiler.de^
-||tanit-dio.com^
 ||tankandloulou.com^
 ||tanzanite.infomine.com^
 ||tanz-bewegungstherapie-wibkekamm.de^
@@ -10884,7 +10883,6 @@
 ||yun-static.soperson.com^
 ||yupiromo.ru^
 ||yurivideo.com^
-||z3dmbpl6309s.com^
 ||z.abnad.net^
 ||zabomo.de^
 ||zadarma.com^
