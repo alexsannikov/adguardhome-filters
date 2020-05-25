@@ -1165,6 +1165,8 @@
 ||adulteritories.com^
 ||adultforce.com^
 ||adultgamepass.com^
+||adultgames.fun^
+||adultsense.info^
 ||adultsense.org^
 ||adultsvideo.info^
 ||adultvideoz.net^
@@ -1780,6 +1782,7 @@
 ||api-metrica.yandex.com^
 ||api-metrika.yandex.com^
 ||api.m.taobao.com^
+||api-news.dailyhunt.in^
 ||api.niumobi.com^
 ||api.offline.avazunativeads.com^
 ||api.parrable.com^
@@ -2321,6 +2324,7 @@
 ||bk4p0ne.com^
 ||bkcrelm8esyifef.ru^
 ||bkk-bavaria.de^
+||bkmsbyh9fexkflg.ru^
 ||bkrntr.netmng.com^
 ||black-dragon-wing.club^
 ||black-ghettos.info^
@@ -2708,6 +2712,7 @@
 ||cdn.performit.club^
 ||cdn.petametrics.com^
 ||cdn.revive-adserver.net^
+||cdn.riverhit.com^
 ||cdn.rlnads.net^
 ||cdn.rossoad.com^
 ||cdn.rqmob.com^
@@ -2885,6 +2890,7 @@
 ||clickkmobi.com^
 ||click.lclk.info^
 ||click.linksynergy.com^
+||click.lucky.online^
 ||click-mdsp.avazutracking.net^
 ||click.moreinfo.support^
 ||clickmw.htmedia.in^
@@ -3252,6 +3258,7 @@
 ||cyberino.store^
 ||cyberonice.store^
 ||cyber-plus.shop^
+||cyberprotection.pro^
 ||cycle.hirship.com^
 ||cydia.saurik.com.cdngc.net^
 ||cy-dragon.store^
@@ -3340,6 +3347,7 @@
 ||ddkwwstore.com^
 ||ddnd.net^
 ||de01.adywind.com^
+||deabbcdiibjggbbbacb.ru^
 ||de.ads.adviva.net^
 ||de.adserver.yahoo.com^
 ||deai.spankbang.com^
@@ -3427,6 +3435,7 @@
 ||dgeceaghdcaebegjacd.ru^
 ||d.go-mpulse.net^
 ||dhawk.parrable.com^
+||dh-beacon-rtp.dailyhunt.in^
 ||dhjhadhchjefdbdface.ru^
 ||d.href.asia^
 ||dh.serving-sys.com^
@@ -3629,6 +3638,7 @@
 ||e1151.e12.akamaiedge.net^
 ||e1.adserver.yahoo.com^
 ||e2578.p.akamaiedge.net^
+||e2wysbacctt1.com^
 ||e4f1faad220ad3c.com^
 ||e5019.e2.akamaiedge.net^
 ||e5070.g.akamaiedge.net^
@@ -3690,6 +3700,7 @@
 ||educationmanagementl.tt.omtrdc.net^
 ||edv-baden.at^
 ||edv-beratung-clp.de^
+||edvfwlacluo.com^
 ||edygosselin.co.uk^
 ||ee8f928b71ed0dc6033231fa0943d9f5.adk2.co^
 ||efancylife.com^
@@ -3846,6 +3857,7 @@
 ||eu.dspmulti.com^
 ||eu-gmtdmp.gd1.mookie1.com^
 ||eu-gmtdmp.mookie1.com^
+||eulerian.com^
 ||eu-level1.dyntrk.com^
 ||eu-pn1.adserver.yahoo.com^
 ||eu-pn2.adserver.yahoo.com^
@@ -5760,6 +5772,7 @@
 ||lachance-hn.de^
 ||ladolcevita-bremen.de^
 ||ladsats.com^
+||ladsecz.com^
 ||ladsims.com^
 ||lagis.shop^
 ||lagunaspa.de^
@@ -6001,6 +6014,7 @@
 ||lol.umengcloud.com^
 ||lomiq.de^
 ||lonelygirls.net^
+||looking4fuck.com^
 ||look.lightoping.com^
 ||look.purchses.com^
 ||looktia.com^
@@ -6037,6 +6051,7 @@
 ||lucasrealestategroup.com^
 ||luckpool.org^
 ||lucky-asian.info^
+||luckybest.ru^
 ||luckylike.net^
 ||luckypool.io^
 ||luekewagner.de^
@@ -6181,6 +6196,7 @@
 ||match.p4p.1688.com^
 ||match.prod.bidr.io^
 ||mathtype.cn^
+||matixo.me^
 ||matomo.hellohi.me^
 ||matomo.org^
 ||matomy.adk2.co^
@@ -6520,6 +6536,7 @@
 ||mona-barthel.de^
 ||monad.be^
 ||monad.network^
+||monamulet.ru^
 ||mon-deu-1.inf.nimiq.network^
 ||mon-deu-2.inf.nimiq.network^
 ||mon-deu-3.inf.nimiq.network^
@@ -8049,6 +8066,7 @@
 ||r.interakt.ru^
 ||ritsllc.com^
 ||rivcash.com^
+||rivertraffic.com^
 ||river.zhidao.baidu.com^
 ||rkrmpg.com^
 ||rlogoro.ru^
@@ -8142,7 +8160,6 @@
 ||rtve.d1.sc.omtrdc.net^
 ||ru.adserver.yahoo.com^
 ||rubicon.adformdsp.net^
-||rubiginose.com^
 ||rubygems.algolia.com^
 ||rucksack.falltlike.com^
 ||ruckusschroederraspberry.com^
@@ -8234,6 +8251,7 @@
 ||sammaw.com^
 ||sammlung-fiede.de^
 ||sampexo.waptrick.org^
+||sample.mgstage.com^
 ||samples.eyeviewads.com^
 ||samp.waptrick.org^
 ||sam.snapads.com^
@@ -9102,7 +9120,6 @@
 ||sweetsisterpain.de^
 ||switchads.com^
 ||swizzy.de^
-||sw.wpu.sh^
 ||sw.wpush.org^
 ||sxcdn02.now.sh^
 ||sxcdn4.now.sh^
@@ -9555,6 +9572,7 @@
 ||track.createsend.com^
 ||track.crowmobi.com^
 ||track.cux.io^
+||track.dailyhunt.in^
 ||track.dalenetwork.com^
 ||track.dankcash.com^
 ||track.dannixxx.com^
@@ -10000,6 +10018,7 @@
 ||triboomedia.it^
 ||tripp-marketing.de^
 ||tripvariator.at^
+||t.riverhit.com^
 ||trk.allsports4free.online^
 ||trk-a.prod.ap-southeast-1.vidible.tv^
 ||trk.billysrv.com^
@@ -10650,7 +10669,6 @@
 ||wmdstat.dev-sanook.com^
 ||wmedia.adk2.co^
 ||wmikrut.com^
-||wmi.my0709.xyz^
 ||wms-cn.amazon-adsystem.com^
 ||wms-eu.amazon-adsystem.com^
 ||wms-fe.amazon-adsystem.com^
