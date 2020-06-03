@@ -311,6 +311,7 @@
 ||casinolasvegas.com^
 ||casinolasvegas.no^
 ||casinony.com^
+||casino.org^
 ||casinopop.com^
 ||casino-pp.net^
 ||casinoroom.com^

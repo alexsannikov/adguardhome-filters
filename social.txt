@@ -435,6 +435,8 @@
 ||mmi701.whatsapp.net^
 ||mmi731.whatsapp.net^
 ||mms.whatsapp.net^
+||muscdn.com^
+||musical.ly^
 ||myspacecdn.com^
 ||myspace.com^
 ||o.twimg.com^
@@ -478,6 +480,10 @@
 ||syndication.twimg.com^
 ||tailfeather.twimg.com^
 ||t.co^
+||tiktokcdn.com^
+||tiktokcdn-com.akamaized.net^
+||tiktok.com^
+||tiktokv.com^
 ||ton.twimg.com^
 ||tumblr.com^
 ||twimg0-0.akamaihd.net^
