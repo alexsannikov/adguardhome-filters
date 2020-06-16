@@ -4,6 +4,9 @@
 @@||4shared.com^$important
 @@||fonts.gstatic.com^$important
 @@||olg.ca^$important
+@@||track.4px.com^$important
+@@||ad.admitad.com^$important
+||imgaz.staticbg.com^$important
 !
 # Skype Ads
 #
