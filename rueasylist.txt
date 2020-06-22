@@ -392,6 +392,7 @@
 ||a.abnad.net^
 ||a.adtng.com^
 ||aalbc.advertserve.com^
+||aa-metrics.trip-ai.jp^
 ||a-ams.1rx.io^
 ||aa.online-metrix.net^
 ||aaovn.info^
@@ -1402,7 +1403,6 @@
 ||ahashpool.com^
 ||ahmahm.com^
 ||ah-niederfahrenhorst.de^
-||ahscdn.com^
 ||aidigua.com^
 ||aidrapani.com^
 ||aidraulreve.com^
@@ -1509,7 +1509,6 @@
 ||amigooo.de^
 ||ammadv.it^
 ||ammapettai.com^
-||am.myapps123.com^
 ||amo-mackensen.de^
 ||a.monetate.net^
 ||a.montwam.top^
@@ -1639,7 +1638,6 @@
 ||analytics.jiuzhilan.com^
 ||analytics.justuno.com^
 ||analytics.kb.se^
-||analytics.kwpsurveys.com^
 ||analytics.lagoondivers.be^
 ||analytics.landolsi.de^
 ||analytics.leadlifesolutions.net^
@@ -1818,7 +1816,6 @@
 ||antivirusguard.s.xoxknct.com^
 ||antivirus-help.com^
 ||antivirus-mobile.club^
-||antminecloud.com^
 ||antonymsfor.com^
 ||antpool.com^
 ||anturnetss.bid^
@@ -1881,6 +1878,7 @@
 ||api.h1.he7ll.com^
 ||api.hasoffers.com^
 ||api.icolorfast.com^
+||api.idio.co^
 ||api.inbvur.com^
 ||api.infomobi.me^
 ||api.internet.org^
@@ -1987,6 +1985,7 @@
 ||ap.prizenotifications.com^
 ||appsee.com^
 ||apps.fm^
+||appstatico.electronic.us^
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
 ||appsupdate.sinaapp.com^
@@ -2138,7 +2137,6 @@
 ||audio-ak-spotify-com.akamaized.net^
 ||audio-ak.spotify.com.eip.akadns.net^
 ||audioknigi.club^
-||audiotuck.com^
 ||aueilz.ml^
 ||auethw.qkurtnucn.com^
 ||aufgewacht.at^
@@ -2520,6 +2518,7 @@
 ||bognerjackesale.com^
 ||bohemianpool.com^
 ||bohemuchnehe.club^
+||boi9osyg1uwtyafn.com^
 ||bokechengshiqipai.com^
 ||boldmatters.de^
 ||bonanza.com^
@@ -2704,7 +2703,6 @@
 ||cannabisgr.com^
 ||canonresourcecenter.com^
 ||caohavan.ezimar.com^
-||capiecke.xyz^
 ||capitalaktiv.de^
 ||capitaldistrictlocalfirst.org^
 ||capodannoinversilia.com^
@@ -3048,7 +3046,6 @@
 ||clinicafranklinpena.com^
 ||clinkad.com^
 ||clipper28.com^
-||clkcln.com^
 ||clkm.hasmobi.net^
 ||clkmon.com^
 ||clk.pointroll.com^
@@ -3097,7 +3094,6 @@
 ||c.netu.tv^
 ||cn-geo1.uber.com^
 ||cn-gmtdmp.mookie1.com^
-||cnhv.com^
 ||cn-sc.scorecardresearch.com.edgekey.net^
 ||cnt.trafficstars.com^
 ||cnzz.mmstat.com^
@@ -3465,7 +3461,6 @@
 ||data.mobclix.com^
 ||data.mozilla.com^
 ||data-sg-ads.realmemobile.com^
-||datashreddergold.com^
 ||data.ushareit.com^
 ||datenschutz-woerrstadt.de^
 ||dates.promo^
@@ -3616,6 +3611,7 @@
 ||dinkelbrezel.de^
 ||dintwas.com^
 ||diometa.com^
+||direct-events-collector.spot.im^
 ||directionsmag.com^
 ||direct.quasir.info^
 ||directtv.tt.omtrdc.net^
@@ -4334,7 +4330,6 @@
 ||fraubrit-shoppt.de^
 ||frdaew.gq^
 ||frederickcountygives.ngo^
-||freebymidas.4pu.com^
 ||freecontent.date^
 ||freecontent.net^
 ||freecontent.stream^
@@ -4431,11 +4426,9 @@
 ||gabrielebriesemeister.de^
 ||gabungyuk.wasaps.cc^
 ||gadgetplanetlimited.com^
-||gadgetworldltd.com^
 ||g.adimg.net^
 ||ga.googlevideo.io^
 ||galabau-massong.de^
-||galaxys5huelle.com^
 ||galleries.appstudio.vidible.tv^
 ||galleries.videosz.com^
 ||gallery.brightcove.com^
@@ -4528,7 +4521,6 @@
 ||genialbau.com^
 ||genialradio.com^
 ||genosyla.net^
-||gentlelistic.eu^
 ||gentlemenrallye.de^
 ||geo.atlassbx.com^
 ||geobanner.alt.com^
@@ -4538,7 +4530,6 @@
 ||geol.startbundlingnow.com^
 ||geonorwayes.online^
 ||geo.startappservice.com^
-||geoxes.online^
 ||geo.ziffdavis.com^
 ||gepush.com^
 ||geratemarkt.com^
@@ -4609,6 +4600,7 @@
 ||glaeser-kunst.de^
 ||glamberg.eu^
 ||glasgro.com^
+||glassbox.aircanada.ca^
 ||glasses2you.lpages.co^
 ||glasses-sale.com^
 ||glauchos.com^
@@ -4782,7 +4774,6 @@
 ||h-adashx4sg.ut.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
 ||hadsecs.com^
-||hadslimz.com^
 ||hagenlocher-gmbh.de^
 ||haircarehot.ga^
 ||hairtease.com^
@@ -5397,7 +5388,6 @@
 ||in.c.appier.net^
 ||incolnperchitect.pro^
 ||index.reference.com^
-||inditrain.de^
 ||individuello.com^
 ||industrie-fanshop.de^
 ||inetzteil.de^
@@ -5601,8 +5591,6 @@
 ||ipmeta.io^
 ||ip.nuggad.net^
 ||ipominer.com^
-||i.pornfuror.com^
-||i.pornlander.xxx^
 ||iqkmob.com^
 ||irantableegh.org^
 ||irce.algolia.com^
@@ -5910,7 +5898,6 @@
 ||kiplingstore.online^
 ||kippo.eu^
 ||kiri.at^
-||kirscher.de^
 ||kirschgruen-berlin.de^
 ||kirsch-royal.de^
 ||kissdoujin.com^
@@ -5975,7 +5962,6 @@
 ||kts.visitstats.com^
 ||kua.clubestyle.com^
 ||kuatraqe.com^
-||kubikgs.de^
 ||kuechenstudio-unger.de^
 ||kugo.cc^
 ||kuhnivsemisrazu.ru^
@@ -6972,7 +6958,6 @@
 ||musicgo.s.xoxknct.com^
 ||musicosphere.com^
 ||musicplayer.s.xoxknct.com^
-||mv3kosrrlxa7.com^
 ||mvd-mobile.info^
 ||mvtronics.com^
 ||m-wlmw.com^
@@ -7225,7 +7210,6 @@
 ||notice.game.xiaomi.com^
 ||notifications.tubecup.net^
 ||notifications.website^
-||notification-time.com^
 ||notificationz.com^
 ||notify-master.net^
 ||notify-service.com^
@@ -7269,7 +7253,6 @@
 ||nuggad.nuggad.net^
 ||nullrefexcep.com^
 ||nummobile.com^
-||nunuzi.de^
 ||nustonetransformations.net^
 ||nuvidp.com^
 ||nuzlihakiim.com^
@@ -7701,7 +7684,6 @@
 ||perlmann-handel.de^
 ||permissioninteractiv.tt.omtrdc.net^
 ||perr.l-err.biz^
-||perrrrsik.org^
 ||persona.style^
 ||perspectiveproperty.co.uk^
 ||p.estream.to^
@@ -7883,7 +7865,6 @@
 ||pornimg.xyz^
 ||pornnperfect.com^
 ||pornobomba.cc^
-||pornoh.info^
 ||pornohub.cc^
 ||pornoow.com^
 ||pornoplay.online^
@@ -8294,7 +8275,6 @@
 ||redir.leo.org^
 ||reditads.com^
 ||red-js.github.io^
-||redpineapplemedia.com^
 ||redsocial.com.mx^
 ||redtext.biz^
 ||reducesingleuse.shop^
@@ -8341,7 +8321,6 @@
 ||remyyadan.online.fr^
 ||renaldigkstore.com^
 ||rentcom.tt.omtrdc.net^
-||repair.cutedev.net^
 ||repaningharbut.club^
 ||repelisgocom.cdaz.icu^
 ||rephantedditont.pro^
@@ -8537,7 +8516,6 @@
 ||r.wales^
 ||rxcdn.1rx.io^
 ||rxtun.bemobtrk.com^
-||ryynoljdarrw.com^
 ||rz-bikes.de^
 ||s01.riotpixels.net^
 ||s0.2mdn.net^
@@ -8902,7 +8880,6 @@
 ||shakespeare.online^
 ||shalledinition.club^
 ||shallwead.com^
-||shanta-jos.com^
 ||share-assets.mfcimg.com^
 ||sharebar.addthiscdn.com^
 ||sharelog.midasplayer.com^
@@ -9172,7 +9149,6 @@
 ||sport5.checkm8.com^
 ||sport5digital.checkm8.com^
 ||sport-direkt.net^
-||sportimenio.info^
 ||sportschule-luna.de^
 ||sports-discount.net^
 ||sports-ha.com^
@@ -9504,7 +9480,6 @@
 ||sys.8ch.net^
 ||systemtree.com^
 ||sy-v1.presage.io^
-||syxylyche.pro^
 ||s.zimedia.com.tw^
 ||sz-loc.ushareit.com^
 ||t02.ashemaletube.com^
@@ -9710,6 +9685,7 @@
 ||thumb-v1.xhcdn.com^
 ||thumb-v-cl.xhcdn.com^
 ||tictitle.de^
+||t.idio.co^
 ||tiendaregalos.shop^
 ||tiergeschaft.net^
 ||tierpension-fuerst.at^
@@ -9719,7 +9695,6 @@
 ||timberlandberlin.de^
 ||timberlands-onlineshop.de^
 ||timberlandusonlineoutlet.com^
-||timberlandxshops.com^
 ||timcaffe.it^
 ||time.hls.ak.o.brightcove.com.edgesuite.net^
 ||time.pd.ak.o.brightcove.com^
@@ -9782,7 +9757,6 @@
 ||top80level.xyz^
 ||topages.pw^
 ||top-apotheke.com^
-||topblockchainsolutions.nl^
 ||topddl.net^
 ||topelktro-haus.de^
 ||toperuecken.com^
@@ -10076,7 +10050,6 @@
 ||tracking.whatsapplp.com^
 ||tracking.wohnnet.at^
 ||tracking.wordfly.com^
-||trackinit.com^
 ||track.in.omgpm.com^
 ||track.interracialsexfest.com^
 ||track.interracialtgirlsex.com^
@@ -10444,7 +10417,6 @@
 ||t.trackedlink.net^
 ||t.tubepush.eu^
 ||ttubusiness.com^
-||tuanp123.com^
 ||tubeadnetwork.com^
 ||tube.buzzoola.com^
 ||tube.paperstreetcash.com^
@@ -10454,7 +10426,6 @@
 ||tuijian.baidu.com^
 ||tuktukindex.com^
 ||tulistado.com^
-||tullys.app^
 ||tulsilyte.com^
 ||tune-mobile.com^
 ||tuno.nuggad.net^
@@ -10563,7 +10534,6 @@
 ||unimining.net^
 ||unionimage.baidu.com^
 ||unique-print.de^
-||united-fashion-event.de^
 ||universalsa.info^
 ||university.algolia.com^
 ||unosn.com^
@@ -10592,7 +10562,6 @@
 ||up.trkgenius.com^
 ||urbanairship.com^
 ||urbanpopz.com^
-||urerrly.com^
 ||urhair.co.uk^
 ||urkoolwear.com^
 ||url.ac^
@@ -10986,7 +10955,6 @@
 ||wemql.bemobtrk.com^
 ||wenku-cms.bj.bcebos.com^
 ||werkondo.com^
-||werkskauf.com^
 ||werkzeug-box.com^
 ||westernunion.tt.omtrdc.net^
 ||westseven.media^
@@ -11080,7 +11048,6 @@
 ||worldwidemoving.co.uk^
 ||worldwidemoving.co.za^
 ||worldwidemoving.sg^
-||wortgewaltigst.com^
 ||worth1000.crwdcntrl.net^
 ||wortwinkel.de^
 ||wossabeerarg.com^
@@ -11132,6 +11099,7 @@
 ||wvlic.brightcove.com^
 ||wvowa.com^
 ||ww2.xn--30986-udb.biz^
+||ww7.69oxt4q05.com^
 ||wwrwssale.com^
 ||wwtsg.xyz^
 ||wwvv.secure-notifications.co^
@@ -11144,7 +11112,6 @@
 ||xbc8fsvo5w75wwx8.pro^
 ||x.bidswitch.net^
 ||xbombo.com^
-||xbtitfm.com^
 ||x.castanet.net^
 ||xdadevelopers.browsi.mobi^
 ||xd.adform.net^
@@ -11362,7 +11329,6 @@
 ||zor.livefyre.com^
 ||zpool.ca^
 ||zr4cq.bemobtrk.com^
-||zro56hd6szoy.com^
 ||zseut.com^
 ||zsjcl.bemobtrk.com^
 ||zsolo.bid^
