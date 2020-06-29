@@ -865,6 +865,7 @@
 ||ads.adinall.com^
 ||ads.adjust-net.jp^
 ||ads.admarvel.com^
+||ads.adred.de^
 ||ads.adsmedia.com^
 ||ads.adthrive.com^
 ||ads.adultlinking.com^
@@ -899,11 +900,11 @@
 ||ad.secure.tripple.at^
 ||ads.edadeal.ru^
 ||adselect.nuggad.net^
-||ads.emdee.ca^
 ||ads.e-planning.net^
 ||ads.eqads.com^
 ||ads.erocms.net^
 ||adserve-ams.1rx.io^
+||adserve.jbs.org^
 ||adserve-nj.1rx.io^
 ||adserver.b2c.com^
 ||adservercheck.net^
@@ -1206,6 +1207,7 @@
 ||ads.realsrv.com^
 ||ads.renren.com^
 ||ads.ressp.net^
+||adsroller.com^
 ||adsroute.adk2.co^
 ||ads.rss-services.com^
 ||adsrt.com^
@@ -1219,6 +1221,7 @@
 ||ads.sina.com.cn^
 ||ads.s-i-r.de^
 ||ads.sofcom.com.au^
+||ads.soweb.gr^
 ||ads.sparkflow.net^
 ||ad.ssp.d2c.ne.jp^
 ||ads-stage-adaptv.vidible.tv^
@@ -1302,7 +1305,6 @@
 ||advertising.borsaitaliana.it^
 ||advertising.casinocity.com^
 ||advertising.cheezburger.com^
-||advertising.dailymotion.com^
 ||advertising.deviantart.com^
 ||advertising-eu.amazon.com^
 ||advertising.expedia.com^
@@ -1356,7 +1358,6 @@
 ||ae.bdstatic.com^
 ||aemediatraffic.com^
 ||aemmestore.it^
-||aerztehaus-am-guardinipark.de^
 ||aestivatecherish.city^
 ||a.exdynsrv.com^
 ||a.exoclick.com^
@@ -1485,7 +1486,6 @@
 ||alte-wirtsstube.de^
 ||altho-fenster.de^
 ||alt.indigital.lt^
-||alvoportas.com.br^
 ||alwayshashing.com^
 ||amagarni.com^
 ||a.master98.com^
@@ -1797,7 +1797,6 @@
 ||antik-kump.at^
 ||antik-meiers.de^
 ||antiphishing.cliqz.com^
-||antiquariat-galerie-rostock.de^
 ||antiquedealersydney.com.au^
 ||antiquitatengeschaft.xyz^
 ||antiquitatensammlungonline-shop.xyz^
@@ -2032,7 +2031,6 @@
 ||arm.c.appier.net^
 ||armhutspa.com^
 ||armuchteetthat.info^
-||arne-paulsen.de^
 ||ar-net.info^
 ||arouersobesite.free.fr^
 ||ars-textilia.at^
@@ -2199,10 +2197,7 @@
 ||backpacksworldwide.com^
 ||bactsumer-alaced.com^
 ||badboys.network^
-||badeanzugtreff.de^
-||badeseebirkwitz.de^
 ||badgirlz.org^
-||baeckerei-ruoff.de^
 ||bagsalestops.club^
 ||bagsev.de^
 ||baidu.co.th^
@@ -2211,7 +2206,6 @@
 ||bailarenmadrid.es^
 ||baitilo.com^
 ||bajarlo.net^
-||ballerinas-beratung24.de^
 ||balzbambii.de^
 ||bambinitestblog.de^
 ||bam.nr-data.net^
@@ -2544,7 +2538,6 @@
 ||brandshoesstore.com^
 ||brandssneaker.com^
 ||brandstylesworld.com^
-||brauerei-arbeitsschutz.de^
 ||brautkleiderkaufen.de^
 ||bravebiker.com^
 ||bravo-mining.com^
@@ -2699,7 +2692,6 @@
 ||capquestglobal.com^
 ||caps-store.de^
 ||carano-design.de^
-||carauto.es^
 ||carbonite.tt.omtrdc.net^
 ||card-helper.net^
 ||carethy.at^
@@ -3888,7 +3880,6 @@
 ||elfpetsic.com^
 ||elgros.de^
 ||eligius.st^
-||elina-sensina.de^
 ||elisabeth-dolezal.at^
 ||e.listenmusic.fun^
 ||elkcloth.com^
@@ -3941,7 +3932,6 @@
 ||e.reddit.com^
 ||erektslim.com^
 ||ericdress.com^
-||ernstfarm-coburg.de^
 ||eroterest.net^
 ||erotikdating.com^
 ||erraticreaction.com^
@@ -3976,7 +3966,6 @@
 ||ethosdistro.com^
 ||ethpool.org^
 ||etronotwiltons.info^
-||ets-verlag.de^
 ||eu-central-1.onemobile.yahoo.com^
 ||eu.dspmulti.com^
 ||eu-gmtdmp.gd1.mookie1.com^
@@ -4173,7 +4162,6 @@
 ||ferienhaus-siofok-xxl.de^
 ||ferienhaus-wiesenblick.at^
 ||fernseher24.store^
-||fernsehermitwlan.de^
 ||fernseher.store^
 ||festaporno.com^
 ||feuerwehr-ohlenberg.de^
@@ -4242,7 +4230,6 @@
 ||flightsy.bid^
 ||fliplake.de^
 ||flirt.com^
-||flirthacks.de^
 ||flobamorata.com^
 ||flookmiki.com^
 ||floristik-casa-flora.de^
@@ -4291,7 +4278,6 @@
 ||fota5s.adups.com^
 ||fota5t.adups.com^
 ||fota5tbk.adups.com^
-||fotodesign-steiner.de^
 ||fotografie-heike-klostermann.de^
 ||fotolog.crwdcntrl.net^
 ||fotoportemonnaie.de^
@@ -4336,7 +4322,6 @@
 ||fr.exoclick.com^
 ||fr-gmtdmp.mookie1.com^
 ||friday.spieleu.com^
-||friesenhaus-karin.de^
 ||friseur-ginny.at^
 ||frithjofhager-dialogischesoziologie.de^
 ||frivol-ads.com^
@@ -4524,7 +4509,6 @@
 ||gerhard-beuter.de^
 ||germanolec.de^
 ||germany-gamer.de^
-||gerstmann-bau.com^
 ||gerstner-frisuren.de^
 ||gesangverein-spittelstein.de^
 ||geschenkhaus.com^
@@ -4634,7 +4618,6 @@
 ||goldschmiede-karelslanina.de^
 ||gomain.pro^
 ||gomba.info^
-||go-meo.de^
 ||gomezgoal.com^
 ||go.mmstat.com^
 ||go.mobisla.com^
@@ -4796,7 +4779,6 @@
 ||hartmann-versandhaus.com^
 ||harttstore.club^
 ||harvest.surge.sh^
-||harz-mansfeld-kyffhaeuser.de^
 ||hashcoin.io^
 ||hashflare.eu^
 ||hashflare.io^
@@ -5656,11 +5638,9 @@
 ||jazzdance-freiburg.de^
 ||jb-trailer.de^
 ||jcb.tt.omtrdc.net^
-||jc-frauenstein.de^
 ||jcrew.tt.omtrdc.net^
 ||jdk8m.bemobtrk.com^
 ||jeansame.store^
-||jeans-shop-stuttgart.de^
 ||jeeves.excited.me^
 ||jefaerosol.free.fr^
 ||jellopads.com^
@@ -5758,7 +5738,6 @@
 ||ju-ahreifel.de^
 ||jucan.ga^
 ||judua3rtinpst0s.xyz^
-||jugendarbeit-ms-ismaning.de^
 ||jugendclub-rietheim.de^
 ||jugendfeuerwehr-glueckstadt.de^
 ||jugendfussball-tsveltingen.de^
@@ -5976,7 +5955,6 @@
 ||lakally.com^
 ||lakebici.com^
 ||lakobust.at^
-||lalluna.es^
 ||lamarsky.com^
 ||lambdafoobar.de^
 ||lanayasite.pro^
@@ -6045,7 +6023,6 @@
 ||leidl-skischule.de^
 ||lenas-boutique.com^
 ||leninsubscribe.com^
-||lensphotostore.site^
 ||lenzmx.com^
 ||leohd59.ru^
 ||leo-printer.com^
@@ -6080,7 +6057,6 @@
 ||lieblings-dealz.com^
 ||lieblingsdealz.de^
 ||lieblingstaschen.com^
-||liederkranz-bartholomae.de^
 ||lieferungvonkraftfahrzeugteilen.xyz^
 ||lifemymall.com^
 ||lifestreetmedia.com^
@@ -6096,7 +6072,6 @@
 ||limassolrealestate.com^
 ||limebikes.de^
 ||linasecrets.com^
-||lindenhof-tolkewitz.de^
 ||link.brightcove.com^
 ||linkexchange.ru^
 ||link.link.ru^
@@ -6413,7 +6388,6 @@
 ||makeupbysally.co.uk^
 ||makeupchiller.com^
 ||makeyouropportunity.com^
-||maklerprovision-garmisch.de^
 ||malawitreff.de^
 ||malereikopie.de^
 ||malikshabas.com^
@@ -6423,7 +6397,6 @@
 ||mallcom.com^
 ||malware-check.disconnect.me^
 ||mamasandpapasonline.com^
-||mameinnete.de^
 ||management.exoclick.com^
 ||mancegrative.info^
 ||mangold-band.de^
@@ -6440,7 +6413,6 @@
 ||marcijanesart.com^
 ||marder-aerger.de^
 ||marekstore.es^
-||marello.store^
 ||mariamartinezcoach.es^
 ||maribacaberita.com^
 ||marinasmusikwelt.de^
@@ -6619,7 +6591,6 @@
 ||melodyrun.music.s.xoxknct.com^
 ||melonmail.melon.com.au^
 ||melredirnxt.top^
-||memarket.biz^
 ||member.360in.com^
 ||memorialstevejobs.org^
 ||memorybooster2017.r.xoxknct.com^
@@ -6818,7 +6789,6 @@
 ||moengage.com^
 ||moevideo.net^
 ||mogconsult.ru^
-||molina24.store^
 ||molnari.net^
 ||monad.be^
 ||monad.network^
@@ -6924,7 +6894,6 @@
 ||muahohanghoa.com^
 ||mudanzas-al-extranjero.es^
 ||mudesa.ml^
-||muellade.de^
 ||mugleafly.com^
 ||muhsmr.de^
 ||multi-kuntze.de^
@@ -7114,7 +7083,6 @@
 ||newwebpick.com^
 ||newwindpro.info^
 ||newzem.com^
-||nextwaveband.de^
 ||nexxor.de^
 ||nfbio.dk^
 ||nfkd2ug8d9.com^
@@ -7168,7 +7136,6 @@
 ||nohasevilla.es^
 ||nolanrobertcosmetics.com^
 ||no-minimum.com^
-||nomi-physio.de^
 ||nomorsg.com^
 ||nonkads.com^
 ||nooknookrecords.com^
@@ -7277,7 +7244,6 @@
 ||offertracking.vuclip.com^
 ||officesouth.de^
 ||officialiphoneunlock.co.uk^
-||officialwheeper.de^
 ||offoonguser.com^
 ||o.freebasics.com^
 ||ogrovom.xyz^
@@ -7402,6 +7368,7 @@
 ||out.dirpy.com^
 ||outdoor-campingausrustung.xyz^
 ||outdoortitan.net^
+||outils.f5biz.com^
 ||outmanlets.com^
 ||outrain.com^
 ||outster.com^
@@ -7688,7 +7655,6 @@
 ||phee1oci.com^
 ||phereacades.info^
 ||ph-gmtdmp.mookie1.com^
-||philbeys-lunch.de^
 ||philippoehler.de^
 ||phoenixcoin.org^
 ||phoneantivirus2017.r.xoxknct.com^
@@ -7819,7 +7785,6 @@
 ||policy.video.iqiyi.com^
 ||polimedel.info^
 ||polkadotcakes.ca^
-||poloniex.agency^
 ||polwest.de^
 ||pomerous.info^
 ||pomofon.ru^
@@ -7856,7 +7821,6 @@
 ||pornstars4webcam.com^
 ||porntagged.com^
 ||portable-basketball.com^
-||portal-fuer-pferde.de^
 ||portal.prod.vidible.tv^
 ||portal.vidible.tv^
 ||port.so.tl^
@@ -8050,7 +8014,6 @@
 ||pushflew.com^
 ||pushima.info^
 ||pushinnotify.com^
-||pushkingtds.ru^
 ||push.m.youku.com^
 ||pushnami.com^
 ||pushnews.eu^
@@ -8131,7 +8094,6 @@
 ||query-us-west1.petametrics.com^
 ||quilee.pw^
 ||quill.livefyre.com^
-||quite-bag-seed-catch.xyz^
 ||quizzasport.com^
 ||r1oman.com^
 ||r1-t.trackedlink.net^
@@ -8241,7 +8203,6 @@
 ||real-your-girls.com^
 ||rebajapandora.es^
 ||reborndollsshop.com^
-||rechtsanwalt-fiore.de^
 ||rechtsanwalt-klett.de^
 ||recino.com^
 ||recommendation.algolia.com^
@@ -8553,7 +8514,6 @@
 ||salesforcecom.tt.omtrdc.net^
 ||salesloft.algolia.com^
 ||salewa-rucksack.de^
-||salomon-hu.com^
 ||salomonschoenensale.com^
 ||salomonschuh.de^
 ||salomonschuhe.at^
@@ -8572,7 +8532,6 @@
 ||sandbox.duapps.com^
 ||sandbox.xmpush.xiaomi.com^
 ||sandrachen.de^
-||sandriayurved.com^
 ||sanelec-de.com^
 ||sankei-ad-info.com^
 ||santamariaestates.com^
@@ -8613,7 +8572,6 @@
 ||sc-f6eade8.js^
 ||schachfreunde-starnberg.de^
 ||scharhoern.de^
-||schatztruhe-assmann.de^
 ||scheme.adywind.com^
 ||schenkelklopfer.org^
 ||schenkichdir.de^
@@ -8630,7 +8588,6 @@
 ||schoen365.de^
 ||schoenmann.at^
 ||schreinerei-raum-zeit.de^
-||schreiner-shooting.de^
 ||schuhe.brandsusale.com^
 ||schuhe-deutschland.com^
 ||schuhe-rabatt.com^
@@ -9523,7 +9480,6 @@
 ||taperiaespacio.es^
 ||tapsell.ir^
 ||taptun-handler.info^
-||tarantella-von-der-holderheide.de^
 ||targeting-insight.snapads.com^
 ||targeting-shadow.snapads.com^
 ||targeting.snapads.com^
@@ -9585,7 +9541,6 @@
 ||templates.glispaconnect.com^
 ||tendaisy.com^
 ||tenjin.com^
-||tennisstueberl-ruhpolding.de^
 ||tergun.com^
 ||termerdistice.pro^
 ||teronemerom.info^
@@ -9629,7 +9584,6 @@
 ||thehannashop.com^
 ||thehype.shop^
 ||thekneehighproject.com^
-||the-leather-shop.com^
 ||thelifeisbinary.netlify.com^
 ||themediafire.com^
 ||thencouserechan.info^
@@ -9729,7 +9683,6 @@
 ||toitonia.com^
 ||tolivo.de^
 ||tolmeaicq.top^
-||tomkyle1233.de^
 ||tomorrowperegrinemortician.info^
 ||tongji.linezing.com^
 ||tongood.tk^
@@ -9914,7 +9867,6 @@
 ||tracker.internet-media.com^
 ||tracker.ktxp.com^
 ||trackermap.evidon.com^
-||tracker.mmdlv.it^
 ||tracker.my.com^
 ||tracker.nitropay.com^
 ||trackerodss.eu^
@@ -10355,12 +10307,12 @@
 ||trk.prod.eu-west-1.vidible.tv^
 ||trk.prod.us-east-1.vidible.tv^
 ||trk.prod.us-west-1.vidible.tv^
+||trk.quite-bag-seed-catch.xyz^
 ||trk.shoponlinevillage.com^
 ||trk.stream-secure.stream^
 ||trk.topperformance.club^
 ||trk.tracksys55.com^
 ||troblity.com^
-||trojaweb.de^
 ||tronicoase.de^
 ||troquer.net^
 ||troutandsalmonflies.com^
@@ -10562,7 +10514,6 @@
 ||us01.adywind.com^
 ||us04logfiles.zoom.us^
 ||usaa.tt.omtrdc.net^
-||usacamper.net^
 ||us.adform.net^
 ||us.adserver.yahoo.com^
 ||us.af.beap.bc.yahoo.com^
@@ -10679,7 +10630,6 @@
 ||vetcoco.com^
 ||vfghjk.myshopify.com^
 ||v.fwmrm.net^
-||vgw35hwr4w6x.com^
 ||v-hold.net^
 ||via.placeholder.com^
 ||vidasimples.de^
@@ -10848,6 +10798,7 @@
 ||wat.ad.daum.net^
 ||watchcopy.cc^
 ||watchdog.energized.pro^
+||watchdog-spark.energized.pro^
 ||watcheseu.com^
 ||watches-fashion.com^
 ||watchformytechstuff.com^
@@ -10944,7 +10895,6 @@
 ||westseven.media^
 ||wewbay.com^
 ||wf.basebanner.com^
-||wf-city.de^
 ||wg-abi94.de^
 ||wgmannheim.de^
 ||wgo.mmstat.com^
@@ -11036,7 +10986,6 @@
 ||wossabeerarg.com^
 ||wotoba.de^
 ||woundreatand.pro^
-||wovi-reporter.de^
 ||wowtrk.com^
 ||wpc-handel24.de^
 ||wpgwonline.com^
