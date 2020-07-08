@@ -521,7 +521,6 @@
 ||ac.mmstat.com^
 ||acnescarsx.info^
 ||acnetzteil.com^
-||acp.1rx.io^
 ||a.cric.bz^
 ||acs-pharmacy.com^
 ||actioncutok.com^
@@ -1525,7 +1524,6 @@
 ||alpha.accountkit.com^
 ||alpha-ace.loginfra.com^
 ||alpha-cc.loginfra.com^
-||alpha-elektroniks.net^
 ||alpha.healthfindings.website^
 ||alpha-lcs.loginfra.com^
 ||alpha-tech.store^
@@ -2130,7 +2128,6 @@
 ||at2010.net^
 ||atakku.at^
 ||atakoyescortbayan.com^
-||atakoyescort.com^
 ||atanx2.alicdn.com^
 ||at.atwola.com^
 ||atesco.de^
@@ -2477,7 +2474,6 @@
 ||bitember.com^
 ||bitetraff.com^
 ||bitgrail.com^
-||bitminer.io^
 ||bitminer.site^
 ||bitminter.com^
 ||bitnex.io^
@@ -2507,7 +2503,6 @@
 ||blckpodz.com^
 ||bling1.midasplayer.com^
 ||bling2.midasplayer.com^
-||blinkxevent.1rx.io^
 ||blitzangebote24.de^
 ||blizardom.com^
 ||blockchaintop.nl^
@@ -2704,7 +2699,6 @@
 ||c.adup.app^
 ||cafeampeterstor.de^
 ||cafe-gluecklich-berlin.de^
-||cafe-lavida.at^
 ||cafemom.d2.sc.omtrdc.net^
 ||caglaikr.net^
 ||ca-gmtdmp.mookie1.com^
@@ -4118,7 +4112,6 @@
 ||eye.swfchan.com^
 ||eysdfsdfsd.myshopify.com^
 ||ezdns.ezimar.com^
-||eziobincoletto.com^
 ||eztexting.com^
 ||eztravel.info^
 ||f1.g.mi.com^
@@ -4136,7 +4129,6 @@
 ||facemap.foldlife.net^
 ||facepic.foldlife.net^
 ||facetz.net^
-||fachtag-diabetes.at^
 ||fadlily.com^
 ||fahdsite.pro^
 ||fahrdienstinberlin.de^
@@ -4160,7 +4152,6 @@
 ||fanshirt.at^
 ||fansign.streamray.com^
 ||fanstyle.eu^
-||fantastic-toys.net^
 ||fantasyescortblogs.com^
 ||fantasywartactics.analytics.nexonm.com^
 ||faoleds.cf^
@@ -5571,7 +5562,6 @@
 ||ip144161388.ahcdn.com^
 ||ip154516218.ahcdn.com^
 ||ip154517316.ahcdn.com^
-||ip157339303.ahcdn.com^
 ||ip159382545.ahcdn.com^
 ||ip159382547.ahcdn.com^
 ||ip166249208.ahcdn.com^
@@ -5640,7 +5630,6 @@
 ||ip46462540.ahcdn.com^
 ||ip50610632.ahcdn.com^
 ||ip51448347.ahcdn.com^
-||ip57682726.ahcdn.com^
 ||ip59439177.ahcdn.com^
 ||ip59439325.ahcdn.com^
 ||ip72057795.ahcdn.com^
@@ -5870,7 +5859,6 @@
 ||jutick-eu.info^
 ||juwelier-m-blome.de^
 ||juxiao.mediav.com^
-||jwpevent.1rx.io^
 ||jzt.jd.com^
 ||k01k0.com^
 ||k1024.de^
@@ -5894,7 +5882,6 @@
 ||kaffee-zimt.de^
 ||kahltales.com^
 ||kairospsicologia.com^
-||kalturaevent.1rx.io^
 ||kambla.com^
 ||kameratronic.de^
 ||kandiny.com^
@@ -6068,6 +6055,7 @@
 ||lakobust.at^
 ||lamarsky.com^
 ||lambdafoobar.de^
+||lameletters.com^
 ||lanayasite.pro^
 ||landing.fakehub.com^
 ||landingsplash.xyz^
@@ -6613,7 +6601,6 @@
 ||mediaclever.de^
 ||mediacpm.pl^
 ||media-deals24.de^
-||media-discount.shop^
 ||media-dream.com^
 ||media-grafix.de^
 ||mediahelden.shop^
@@ -6716,13 +6703,10 @@
 ||menily.com^
 ||mercurio.exsigma.com^
 ||m.erovideo.by^
-||merrellden.online^
-||merrelleco.online^
 ||meskiswiat.info^
 ||mesos-gcp-lb.algolia.com^
 ||messer-schopp.de^
 ||metadata.startappservice.com^
-||metal-im-blut.de^
 ||metartmoney.com^
 ||metartmoney.met-art.com^
 ||meteoonline.at^
@@ -6989,7 +6973,6 @@
 ||ms-ads.presage.io^
 ||ms-applications.appspot.com^
 ||ms-auction.presage.io^
-||msdkevents.1rx.io^
 ||m.servedby-buysellads.com^
 ||msg-2.me^
 ||msg2.video.qiyi.com^
@@ -7129,7 +7112,6 @@
 ||neosplc.com^
 ||neotrivius.com^
 ||nerdorium.org^
-||nerd-section.com^
 ||nerebtedrabla.info^
 ||netappinc.tt.omtrdc.net^
 ||netgearrouterhelp.com^
@@ -7727,7 +7709,6 @@
 ||pcmining.xyz^
 ||pcsupport.com^
 ||pc.thevideo.me^
-||pc-topangebote.de^
 ||pc.ushareit.com^
 ||pcworldcommunication.d2.sc.omtrdc.net^
 ||pdl.gionee.com^
@@ -7789,7 +7770,6 @@
 ||photo.naiadmmm.com^
 ||phulammarket.com^
 ||physio-ernst.at^
-||phytotyper.com^
 ||pialaqq365.net^
 ||pialaqq.com^
 ||picanalysis.vivo.com.cn^
@@ -8417,7 +8397,6 @@
 ||report.newsgenious.com^
 ||report-partners.appmetrica.yandex.net^
 ||report.textra.me^
-||report-zt.1rx.io^
 ||reppalorof.info^
 ||req.startappservice.com^
 ||reservedoffers.club^
@@ -8451,7 +8430,6 @@
 ||rezeptfrei-24.com^
 ||rezeptfrei-bestellen.net^
 ||rfit.hirship.com^
-||rgaudit.1rx.io^
 ||rg-id.lazada.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com^
 ||rheinadler.com^
 ||rheinadler.de^
@@ -8460,7 +8438,6 @@
 ||rhein-main-abenteuer.de^
 ||rhqkduodhizrr.com^
 ||rhsfty.com^
-||rhythmanalytics.1rx.io^
 ||riafinancial.d2.sc.omtrdc.net^
 ||ribbehof.de^
 ||ribbon.india.com^
@@ -8558,7 +8535,6 @@
 ||rtbport.com^
 ||rtb.pushdom.co^
 ||rtbsystem.com^
-||rtb.trade^
 ||rtb.tubemogul.com^
 ||rtb-useast.rtbidhost.com^
 ||rtb-va.origin.startappservice.com^
@@ -9419,7 +9395,6 @@
 ||streamsign.me^
 ||streamtopolis.com^
 ||streetdesign-motorradtechnik.de^
-||streit-elektronik.de^
 ||strialdeather.info^
 ||stripst.com^
 ||strip.taobaocdn.com^
@@ -10860,7 +10835,6 @@
 ||vowtravel.info^
 ||voxtribune.com^
 ||voze-oficial.com^
-||vpaidevents.1rx.io^
 ||vpaid.springserve.net^
 ||vpn1.us^
 ||vpnfaster.s.xoxknct.com^
