@@ -823,6 +823,7 @@
 ||adserver.b2c.com^
 ||adservercheck.net^
 ||adserver.doccheck.com^
+||adserver.ekokatu.com^
 ||adserver.ouedkniss.com^
 ||adserver-prod-1937829349.us-east-2.elb.amazonaws.com^
 ||adserver.tatts.com^
@@ -4173,6 +4174,7 @@
 ||ht.adups.com^
 ||ht.indexww.com^
 ||html.atm.youku.com^
+||hubadnetwork.com^
 ||hubi.com^
 ||huffingtonpost.crwdcntrl.net^
 ||hu-gmtdmp.mookie1.com^
@@ -4976,7 +4978,6 @@
 ||liammode.com^
 ||lianlianxian.shareitgames.com^
 ||lianlianxian-test.shareitgames.com^
-||libedgolart.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
 ||liborihof.de^
 ||lichth.goodusales.com^
