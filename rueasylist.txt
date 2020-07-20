@@ -432,7 +432,6 @@
 ||abc.logly.co.jp^
 ||abcno.nuggad.net^
 ||abcotv.hb.omtrdc.net^
-||abdurantom.com^
 ||abendbrotmainz.de^
 ||a.bestcontentfacility.top^
 ||a.bestcontentfood.top^
@@ -727,7 +726,6 @@
 ||adm.fwmrm.net^
 ||admixercreatives.blob.core.windows.net^
 ||ad.monetate.net^
-||adn.ebay.com^
 ||adnetwork.ai^
 ||adnetwrk.com^
 ||adobecorp.sc.omtrdc.net^
@@ -823,7 +821,6 @@
 ||adserver.b2c.com^
 ||adservercheck.net^
 ||adserver.doccheck.com^
-||adserver.ekokatu.com^
 ||adserver.ouedkniss.com^
 ||adserver-prod-1937829349.us-east-2.elb.amazonaws.com^
 ||adserver.tatts.com^
@@ -4174,7 +4171,6 @@
 ||ht.adups.com^
 ||ht.indexww.com^
 ||html.atm.youku.com^
-||hubadnetwork.com^
 ||hubi.com^
 ||huffingtonpost.crwdcntrl.net^
 ||hu-gmtdmp.mookie1.com^
@@ -6060,7 +6056,6 @@
 ||opred.gq^
 ||ops.adreach.co^
 ||op.searchteria.co.jp^
-||optad360.com^
 ||optickscdn-d88f.kxcdn.com^
 ||optimusblue.com^
 ||op.ule88.com^
@@ -9040,7 +9035,6 @@
 ||wasm.stream^
 ||wat.ad.daum.net^
 ||watchcopy.cc^
-||watchdog-spark.energized.pro^
 ||watcheseu.com^
 ||watches-fashion.com^
 ||watchformytechstuff.com^
