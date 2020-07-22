@@ -360,7 +360,6 @@
 ||a2.adform.net^
 ||a2z-garden24.store^
 ||a3pub.com^
-||a3yqjsrczwwp.com^
 ||a5pub.com^
 ||a9.fmax.xyz^
 ||aaa.at4.info^
@@ -865,6 +864,7 @@
 ||ad.smartmediarep.com^
 ||adsmetadata.startappservice.com^
 ||ads.metrofamilymagazine.com^
+||ads.missena.io^
 ||ads.mobilefuse.com^
 ||adsmodern.com^
 ||ads.mopub.click^
@@ -2004,7 +2004,6 @@
 ||bling1.midasplayer.com^
 ||bling2.midasplayer.com^
 ||blitzangebote24.de^
-||blockchaintop.nl^
 ||blockmunch.club^
 ||blogimgs.sina.tw^
 ||b.logly.co.jp^
@@ -2126,7 +2125,6 @@
 ||bulk-images.startappservice.com^
 ||bumelnde.org^
 ||business.lbn.ru^
-||bussaidbag.casa^
 ||butrathakinrol.info^
 ||bu-tter118.com^
 ||butterflies-and-beetles.com^
@@ -2814,7 +2812,6 @@
 ||d7016uqa4s0lw.cloudfront.net^
 ||d.abnad.net^
 ||dacash.streamplay.to^
-||dadslims.com^
 ||dailymetcon.it^
 ||daimlerag.d2.sc.omtrdc.net^
 ||daiporno.com^
@@ -3265,7 +3262,6 @@
 ||escleaner.s.xoxknct.com^
 ||escuadrone.es^
 ||esdorado.com^
-||esf397vsf1nk.com^
 ||es-gmtdmp.mookie1.com^
 ||e-shopelectronics.com^
 ||e-shop-genios.com^
@@ -3408,7 +3404,6 @@
 ||fastcooler2017.s.xoxknct.com^
 ||fastcooler.s.xoxknct.com^
 ||fasten4you.de^
-||fast-hunter.com^
 ||fastlink.pl^
 ||fast-route.com^
 ||fastspeedtest.ml^
@@ -4349,7 +4344,6 @@
 ||infinitydealsonline.com^
 ||infocenter.meizu.com^
 ||infoevent.startappservice.com^
-||infopicked.com^
 ||info.sbobet.com^
 ||info.sec.miui.com^
 ||info.startappservice.com^
@@ -4371,7 +4365,6 @@
 ||inoplugs.com^
 ||inorbitad.com^
 ||inovatik.com^
-||inpcut.com^
 ||inplaybricks.com^
 ||inrix.com^
 ||inservinea.com^
@@ -5041,6 +5034,7 @@
 ||loadus.tm.ssl.exelator.com^
 ||loan.arrow-finance.pl^
 ||lobtraining.de^
+||localads.maps.me^
 ||localdates4.com^
 ||local.tampabay.com^
 ||lochjol.com^
@@ -6877,6 +6871,8 @@
 ||reikicorfugreece.com^
 ||reimbergit.com.br^
 ||reitstunden24.de^
+||reklama.g2.tutby.com^
+||reklama.tut.by^
 ||rek.rus-porno.org^
 ||relaxdogs.de^
 ||relaxed-kidz.de^
@@ -7185,6 +7181,7 @@
 ||sdk.foursquare.com^
 ||sdk.imrworldwide.com^
 ||sdk.mediav.com^
+||sdk.starbolt.io.cdn.cloudflare.net^
 ||sdk.vindicosuite.com^
 ||s.duapps.com^
 ||se.adserver.yahoo.com^
@@ -8815,7 +8812,6 @@
 ||us-ezalter.cootekservice.com^
 ||us.fjaken.com^
 ||us-gmtdmp.mookie1.com^
-||ushoofop.com^
 ||usinesmycete.info^
 ||us-level1.dyntrk.com^
 ||us.myatkinsdiet.com^
@@ -8824,7 +8820,6 @@
 ||us-west-1.onemobile.yahoo.com^
 ||usxmrpool.com^
 ||us.y.atwola.com^
-||uthorner.info^
 ||utilities.shareitpay.in^
 ||utility.rogersmedia.com^
 ||utopia-bremen.de^
@@ -8920,7 +8915,6 @@
 ||viewyng.com^
 ||vigo.mgts.ru^
 ||villasmocambo.com^
-||vimjarawl.com^
 ||vimovil.com^
 ||vinfdv6b4j.com^
 ||vinomz.com^
@@ -9223,7 +9217,6 @@
 ||ws-eu.amazon-adsystem.com^
 ||ws-fe.amazon-adsystem.com^
 ||ws-in.amazon-adsystem.com^
-||wsjlbbqemr23.com^
 ||ws-na.amazon-adsystem.com^
 ||wtfaccessories.com^
 ||wtrs.101com.com^
