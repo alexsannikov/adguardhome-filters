@@ -261,7 +261,6 @@
 ||4m1dy.bemobtrk.com^
 ||4.mcnt.jp^
 ||4.newstart.online^
-||4rt6auqet2rx.com^
 ||4schmuck.com^
 ||4us.pw^
 ||4wlgm.bemobtrk.com^
@@ -605,6 +604,7 @@
 ||ad.adtoma.com^
 ||ad.adworx.at^
 ||ad.allcredit.co.kr^
+||adapi.dingyueads.com^
 ||adapi.flipboard.com^
 ||ad.api.kaffnet.com^
 ||ad.appier.net^
@@ -1047,6 +1047,7 @@
 ||ahmahm.com^
 ||ah-niederfahrenhorst.de^
 ||ah-v1.presage.io^
+||aider-res.meizu.com^
 ||aidigua.com^
 ||aidrapani.com^
 ||aidraulreve.com^
@@ -1475,6 +1476,7 @@
 ||api5.batmobil.net^
 ||api.9snail.com^
 ||api.aalbbh84.info^
+||apiadapter.ad5track.com^
 ||api.adthor.com^
 ||api-analytics-us.huami.com^
 ||api.appcloudbox.net^
@@ -1493,6 +1495,8 @@
 ||api.cupid.ptqy.gitv.tv^
 ||api-edge.myfreecams.com^
 ||api-ext.mediav.com^
+||api-flow.flyme.cn^
+||api-game.meizu.com^
 ||apigate.centili.com^
 ||api-gateway.dditsadn.com^
 ||api.gif.duapps.com^
@@ -1618,6 +1622,7 @@
 ||arheshanhedt.info^
 ||ariacosmetics.co.uk^
 ||arielavenue.com^
+||aries.mzres.com^
 ||arikado.ru^
 ||arila.de^
 ||arintube.com^
@@ -2166,7 +2171,6 @@
 ||cafeampeterstor.de^
 ||cafe-gluecklich-berlin.de^
 ||cafemom.d2.sc.omtrdc.net^
-||caglaikr.net^
 ||ca-gmtdmp.mookie1.com^
 ||cahrttclos.club^
 ||caigiees.com^
@@ -2232,7 +2236,6 @@
 ||catdogzoo.ru^
 ||catestore.online^
 ||catzapatos.online^
-||cawbarthe.com^
 ||cawellreceived.ga^
 ||cbsinteractive.hb.omtrdc.net^
 ||cbtnuggets.tt.omtrdc.net^
@@ -3138,6 +3141,7 @@
 ||eberharter-dengg.at^
 ||ebermann-planung.de^
 ||ebjaaeehhghahcccacg.ru^
+||ebook.res.meizu.com^
 ||ecdn.analysis.fi^
 ||ecdn.firstimpression.io^
 ||ecgajcijcbgiibdgach.ru^
@@ -3271,6 +3275,7 @@
 ||espndotcom.tt.omtrdc.net^
 ||espn.hb.omtrdc.net^
 ||espritgames.com^
+||es-res.flyme.cn^
 ||e-ssl-attribution-gate.apsalar.com^
 ||estimote.com^
 ||estnewsupdate.info^
@@ -3301,6 +3306,7 @@
 ||euroshoroom.com^
 ||eurpuma.com^
 ||euscomshop.com^
+||eu-track.inside-graph.com^
 ||eu.y.atwola.com^
 ||e-v2.presage.io^
 ||eva-hommel.de^
@@ -3677,6 +3683,8 @@
 ||gameofpets.es^
 ||gameparadies.com^
 ||gameparadies.de^
+||game-res.meizu.com^
+||game.res.meizu.com^
 ||gamesbdr.com^
 ||gamescarousel.com^
 ||gamesrevenu24.com^
@@ -5689,7 +5697,6 @@
 ||muahohanghoa.com^
 ||mudanzas-al-extranjero.es^
 ||mudesa.ml^
-||mugleafly.com^
 ||muhsmr.de^
 ||multi-kuntze.de^
 ||multimeyer.de^
@@ -6036,6 +6043,7 @@
 ||onyarysh.ru^
 ||oore.com^
 ||ooyala.com^
+||openapi-news.meizu.com^
 ||open.gobnz.com^
 ||openkatalog.com^
 ||openloads.tk^
@@ -6821,6 +6829,7 @@
 ||read.central-messages.com^
 ||reader.browser.miui.com^
 ||reader.meizu.com^
+||reader.res.meizu.com^
 ||readersdigest.tt.omtrdc.net^
 ||readnow.central-messages.com^
 ||real2clean.ru^
@@ -7081,6 +7090,7 @@
 ||sabine-kleinpeter.de^
 ||sabin.free.fr^
 ||s.advertiserurl.com^
+||safe.res.meizu.com^
 ||sagedigital.checkm8.com^
 ||sail4all.at^
 ||sajnarestaurant.com^
@@ -7625,6 +7635,7 @@
 ||ssp-3-9f58.trnox.com^
 ||ssp.blueserving.com^
 ||ssp.rambler.ru^
+||ssp-res.flyme.cn^
 ||ssp.send.microadinc.com^
 ||ss.servedby-buysellads.com^
 ||sstats.deloitte.com^
@@ -8060,6 +8071,8 @@
 ||tolivo.de^
 ||tolmeaicq.top^
 ||tomorrowperegrinemortician.info^
+||tongji.meizu.com^
+||tongji-res1.meizu.com^
 ||tongood.tk^
 ||tonic.moportals.com^
 ||tonsharrensinjust.pro^
@@ -8220,6 +8233,7 @@
 ||tracker.7tv.contentexchange.me^
 ||tracker.adultvideoscript.com^
 ||tracker.bikroy.com^
+||tracker.bt.uol.com.br^
 ||tracker.btzoo.eu^
 ||tracker.durasite.net^
 ||tracker.easylood.net^
@@ -8341,6 +8355,7 @@
 ||tracking.whatsapplp.com^
 ||tracking.wohnnet.at^
 ||tracking.wordfly.com^
+||tracking.yohoads.com^
 ||tracking.zeotap.com^
 ||track.in.omgpm.com^
 ||track.interracialsexfest.com^
@@ -8745,6 +8760,7 @@
 ||uma-pritzwalk.de^
 ||umdsmartgrowth.org^
 ||um.eqads.com^
+||umid.orion.meizu.com^
 ||umshopp.com^
 ||um.simpli.fi^
 ||umziehen-in-europa.de^
@@ -8824,6 +8840,7 @@
 ||utility.rogersmedia.com^
 ||utopia-bremen.de^
 ||u.w-x.co^
+||uxip.meizu.com^
 ||v16-ad.byteoversea.com^
 ||v1.addthisedge.com^
 ||v1.myapptrack.club^
