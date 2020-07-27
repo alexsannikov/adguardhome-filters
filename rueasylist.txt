@@ -6,6 +6,7 @@
 ||007.0x1f4b0.com^
 ||008.0x1f4b0.com^
 ||00zasdf.pw^
+||02ip.ru^
 ||0755.pics^
 ||0le8u.bemobtrk.com^
 ||0pb8hx.com^
@@ -728,6 +729,7 @@
 ||adnetwork.ai^
 ||adnetwrk.com^
 ||adobecorp.sc.omtrdc.net^
+||adobeflash31_install.ddns.info^
 ||adobe.tt.omtrdc.net^
 ||adogadgets.com^
 ||adop.fuseplatform.net^
@@ -738,6 +740,7 @@
 ||adplexmedia.adk2.co^
 ||ad.polymorphicads.jp^
 ||adpopts.top^
+||adprofile.net^
 ||adre.hasmobi.net^
 ||adrem.hasmobi.net^
 ||adrive.com^
@@ -823,6 +826,7 @@
 ||adserver.ouedkniss.com^
 ||adserver-prod-1937829349.us-east-2.elb.amazonaws.com^
 ||adserver.tatts.com^
+||adserver.thema.cc^
 ||adserver.uminer.com^
 ||adservice.google.by^
 ||adservice.google.co.id^
@@ -864,7 +868,6 @@
 ||ad.smartmediarep.com^
 ||adsmetadata.startappservice.com^
 ||ads.metrofamilymagazine.com^
-||ads.missena.io^
 ||ads.mobilefuse.com^
 ||adsmodern.com^
 ||ads.mopub.click^
@@ -1476,7 +1479,6 @@
 ||api5.batmobil.net^
 ||api.9snail.com^
 ||api.aalbbh84.info^
-||apiadapter.ad5track.com^
 ||api.adthor.com^
 ||api-analytics-us.huami.com^
 ||api.appcloudbox.net^
@@ -1535,6 +1537,7 @@
 ||api.theadex.com^
 ||api.tiledesk.com^
 ||api.tiles.mapbox.com^
+||api.tinypass.com^
 ||api.tw06.xlmc.sec.miui.com^
 ||api.ucmate.info^
 ||api.uparpu.com^
@@ -2035,7 +2038,6 @@
 ||bnmgr.adinjector.net^
 ||bnsjb1ab1e.com^
 ||bnster.com^
-||boajagoar.com^
 ||boarrabsinsand.pro^
 ||boayipids.com^
 ||bochhansl.at^
@@ -2135,6 +2137,7 @@
 ||butterflies-and-beetles.com^
 ||buvtec.net^
 ||buyjq.com^
+||buy.tinypass.com^
 ||buzzfeed.d1.sc.omtrdc.net^
 ||buzznet.crwdcntrl.net^
 ||bv68.net^
@@ -2670,6 +2673,7 @@
 ||cooltrendingclub.com^
 ||coolversace.club^
 ||cooponline.de^
+||cooster.ru^
 ||copay.io^
 ||copia-knorz.de^
 ||core.perezvoni.com^
@@ -3253,6 +3257,7 @@
 ||epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com^
 ||equifaxps.sc.omtrdc.net^
 ||equipool.1ds.us^
+||eqworks.com^
 ||eragi.ru^
 ||erdbeermund-kabarett.de^
 ||e.reddit.com^
@@ -3266,6 +3271,7 @@
 ||escleaner.s.xoxknct.com^
 ||escuadrone.es^
 ||esdorado.com^
+||esellerate.net^
 ||es-gmtdmp.mookie1.com^
 ||e-shopelectronics.com^
 ||e-shop-genios.com^
@@ -3306,7 +3312,6 @@
 ||euroshoroom.com^
 ||eurpuma.com^
 ||euscomshop.com^
-||eu-track.inside-graph.com^
 ||eu.y.atwola.com^
 ||e-v2.presage.io^
 ||eva-hommel.de^
@@ -3359,6 +3364,7 @@
 ||eye.swfchan.com^
 ||eysdfsdfsd.myshopify.com^
 ||ezdns.ezimar.com^
+||ezstat.ru^
 ||eztexting.com^
 ||eztravel.info^
 ||f1.g.mi.com^
@@ -3440,7 +3446,6 @@
 ||feed.bnz88.news^
 ||feeder.xxx^
 ||feedfetch.c.appier.net^
-||feedify.net^
 ||feed.r-tb.com^
 ||feed.seodollars.com^
 ||feeds.logicbuy.com^
@@ -3537,6 +3542,7 @@
 ||fokus-bildung.at^
 ||folmetor.com^
 ||folmy.de^
+||fonts.tinypass.com^
 ||foodfromfriends.co.nz^
 ||foodiac.de^
 ||fordeals24.com^
@@ -3574,7 +3580,6 @@
 ||fr.adserver.yahoo.com^
 ||fraktion-bfz-gruene.de^
 ||fralexgaming.at^
-||francoistsjacqu.info^
 ||franken2-band.de^
 ||frankfurter-scheune.de^
 ||frankfurt-mund-zu-mund.de^
@@ -4257,6 +4262,7 @@
 ||idn.adreach.co^
 ||idolbucks.com^
 ||idpix.media6degrees.com^
+||id.tinypass.com^
 ||idx.liadm.com^
 ||ie.adserver.yahoo.com^
 ||iefjcoiefhv.myshopify.com^
@@ -4519,7 +4525,12 @@
 ||ipcheck.blogsys.jp^
 ||ipelucas.com^
 ||ipfs.infura.io^
+||ipgrabber.ru^
+||ipgraber.ru^
 ||ip.ia22.com^
+||iplis.ru^
+||iplogger.co^
+||iplogger.info^
 ||iplua.api.xoxknct.com^
 ||iplua.o.xoxknct.com^
 ||ipmeta.io^
@@ -5281,7 +5292,6 @@
 ||mancegrative.info^
 ||mangold-band.de^
 ||mangold-immobilien.de^
-||manifest.prod.boltdns.net^
 ||manual-img.ads.noticel.com^
 ||maochic.com^
 ||map.baidu.com^
@@ -6665,7 +6675,6 @@
 ||pushails.com^
 ||pushassist.com^
 ||pushbank.pushdom.co^
-||pushbird.com^
 ||push-cdn.wshareit.com^
 ||pusheds.info^
 ||pusher.feed-xml.com^
@@ -6693,7 +6702,6 @@
 ||push.vmate.in^
 ||pushweb.a4.tl^
 ||pushwgo.news-host.pw^
-||pushwoosh.com^
 ||push.wuazu.net^
 ||push.xdrig.com^
 ||push.yandex.com^
@@ -7187,7 +7195,9 @@
 ||sdk2.youguoquan.com^
 ||sdk.api.kaffnet.com^
 ||sdkconf.avlyun.com^
+||sdk.engage.co^
 ||sdk-events.inner-active.mobi^
+||sdk.fevo.com^
 ||sdk.foursquare.com^
 ||sdk.imrworldwide.com^
 ||sdk.mediav.com^
@@ -7277,7 +7287,6 @@
 ||selly.gg^
 ||seminarski-diplomski.co.rs^
 ||semipool.com^
-||sendpulse.com^
 ||sensenetworks.com^
 ||sensoro.com^
 ||sensors.binance.cloud^
@@ -7725,6 +7734,7 @@
 ||stats.tubemogul.com^
 ||stats.vk-portal.net^
 ||stat.tracker.tcd.re^
+||status.engage.co^
 ||stb-greupner.de^
 ||stc.fx.fastcontentdelivery.com^
 ||stc.hollywood.to^
@@ -7867,6 +7877,8 @@
 ||syndicpop.com^
 ||syrields-trangola.com^
 ||sys.8ch.net^
+||sys_andriod20_designer.dynamic-dns.net^
+||system0_update04driver_roots.dynamic-dns.net^
 ||sy-v1.presage.io^
 ||s.zimedia.com.tw^
 ||t02.ashemaletube.com^
@@ -8233,7 +8245,6 @@
 ||tracker.7tv.contentexchange.me^
 ||tracker.adultvideoscript.com^
 ||tracker.bikroy.com^
-||tracker.bt.uol.com.br^
 ||tracker.btzoo.eu^
 ||tracker.durasite.net^
 ||tracker.easylood.net^
@@ -8355,7 +8366,6 @@
 ||tracking.whatsapplp.com^
 ||tracking.wohnnet.at^
 ||tracking.wordfly.com^
-||tracking.yohoads.com^
 ||tracking.zeotap.com^
 ||track.in.omgpm.com^
 ||track.interracialsexfest.com^
@@ -8794,7 +8804,6 @@
 ||uptocall.com^
 ||uptopopunder.com^
 ||up.trkgenius.com^
-||urbanairship.com^
 ||urbanpopz.com^
 ||urhair.co.uk^
 ||urkoolwear.com^
@@ -8845,6 +8854,7 @@
 ||v1.addthisedge.com^
 ||v1.myapptrack.club^
 ||v2l.ccdnss.com^
+||v3dev.estream.com^
 ||v3m.youzu.com^
 ||v7softwaregroup.com^
 ||v9banners.com^
@@ -9038,6 +9048,7 @@
 ||wantatop.com^
 ||wapaccess.mobi^
 ||wapclick.mobi^
+||wapi.engage.co^
 ||warenhandelpro.com^
 ||warmarkt.com^
 ||warmclothing.club^
@@ -9261,6 +9272,7 @@
 ||xbombo.com^
 ||x.castanet.net^
 ||xd.adform.net^
+||xdomain.engage.co^
 ||xd-q.mediav.com^
 ||xe.adserver.yahoo.com^
 ||xeminer.net^
