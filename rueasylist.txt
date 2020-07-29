@@ -2039,7 +2039,6 @@
 ||bnsjb1ab1e.com^
 ||bnster.com^
 ||boarrabsinsand.pro^
-||boayipids.com^
 ||bochhansl.at^
 ||bockwindmuel.de^
 ||bod0m.bemobtrk.com^
@@ -8804,6 +8803,7 @@
 ||uptocall.com^
 ||uptopopunder.com^
 ||up.trkgenius.com^
+||urbanairship.com^
 ||urbanpopz.com^
 ||urhair.co.uk^
 ||urkoolwear.com^
