@@ -1,4 +1,3 @@
-|||                                                ~~~~~~~~~~~~~~~~~^
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
@@ -23,7 +22,6 @@
 ||12finance.com^
 ||12-suchen.de^
 ||12xlwin3.net^
-||145 |  … nes += $lines_hosts | foreach-object { try {$idn.getascii($_)} catch  …^
 ||148apps.com^
 ||15257dddaccde96.com^
 ||15.basebanner.com^
@@ -495,7 +493,6 @@
 ||adlinktech.com^
 ||adlink.wf^
 ||ad.lmtw.com^
-||adlook.me^
 ||admanager.somoydigital.com^
 ||adman.ee^
 ||admarketplace.com^
@@ -561,7 +558,6 @@
 ||ads5-eu.truecaller.com^
 ||ads5.iphone.s3.amazonaws.com^
 ||ads5.kompasads.com^
-||ads.5min.at^
 ||ads5-noneu.truecaller.com^
 ||ads5-se1.truecaller.com^
 ||ads5.textra.me^
@@ -583,21 +579,17 @@
 ||ads.adviva.net^
 ||ads.adxadserv.com^
 ||ads.alibaba.com^
-||ads.alive.com^
 ||ads.altervista.org^
 ||ads.alwaysphonesex.com^
 ||ads.amazon.com^
-||ads.annabac.com^
 ||ads.artforum.com^
 ||ads.austrianwings.info^
 ||adsb4track.com^
-||ads.bb59.ru^
 ||adsbb.depositfiles.com^
 ||adsbydomain.fouanalytics.com^
 ||ads.cc-dt.com^
 ||ads.ccgateway.net^
 ||ads.chartboosts.com^
-||ads.citymagazine.si^
 ||ads.com^
 ||ads.commonmedia.de^
 ||ads.complex.com^
@@ -631,7 +623,6 @@
 ||ads.evga.com^
 ||ads.exosrv.com^
 ||ads.facebook.com^
-||adsfeed.brabys.com^
 ||ads.findfacebookwoman.com^
 ||ads.flingo.tv^
 ||adsforyou.rf.gd^
@@ -723,7 +714,6 @@
 ||ads.xdne.com^
 ||ads.xwire.io^
 ||ads.xxxad.net^
-||ads.zmarsa.com^
 ||ads.zumobi.net^
 ||ad-tag.inner-active.mobi^
 ||ad.tam.by^
@@ -893,6 +883,8 @@
 ||akkuware.com^
 ||akroma.eu^
 ||ak.sail-horizon.com^
+||aktywacja.allegro6.pl^
+||aktywacja.allegro7.pl^
 ||alairelibrees.online^
 ||albamariasanchez.es^
 ||albertsgruen.de^
@@ -1011,6 +1003,7 @@
 ||analytics.cheapservers.us^
 ||analytics.ci-360.se^
 ||analytics.civicplus.com^
+||analytics.cliqz.com^
 ||analytics.cloud.online.net^
 ||analytics.cocos.com^
 ||analytics.compass.at^
@@ -2779,6 +2772,8 @@
 ||dosanrnlq.com^
 ||dosugcz.net^
 ||dotisouldheck.pro^
+||dotpay.bok-poczta.pl^
+||dotpay.e-pocztex.pl^
 ||double-clickd.com^
 ||doublegear.com^
 ||doucedora.com^
@@ -3090,7 +3085,6 @@
 ||ewoufhvow.myshopify.com^
 ||ew-ph.rdtcdn.com^
 ||ew.rdtcdn.com^
-||| exception calling "getascii" with "1" argument(s): "decoded string is^
 ||exchange.face2trade.com^
 ||exclusivekicks.co.uk^
 ||exernala.com^
@@ -3161,7 +3155,6 @@
 ||fapoda.com^
 ||fapples.com^
 ||far.tienda^
-||fashional.pro^
 ||fashionnacy.com^
 ||fashiononline.online^
 ||fashionshoe.top^
@@ -4762,7 +4755,6 @@
 ||lilybeing.com^
 ||limassolrealestate.com^
 ||limebikes.de^
-||line |^
 ||linknoddle4.com^
 ||link-reports-eu.truecaller.com^
 ||link-reports-noneu.truecaller.com^
@@ -5256,7 +5248,6 @@
 ||metartmoney.met-art.com^
 ||meteoonline.at^
 ||meter.bostonglobe.com^
-||methodinvocationexception: h:\software\adblocklistgenerator\adblocklistgenerator.ps1:145^
 ||metodoroleta24h.com^
 ||metrica.yandex.com^
 ||metric.kleientertainment.com^
@@ -5732,7 +5723,6 @@
 ||northfacexx.uk.com^
 ||north-train.com^
 ||norwas.de^
-||| not a valid idn name. (parameter 'unicode')"^
 ||notebookakku.at^
 ||notebooknetzteile.at^
 ||notebook-profis.shop^
@@ -5862,11 +5852,7 @@
 ||openloads.tk^
 ||openmarket.com^
 ||opentable.tt.omtrdc.net^
-||openx2.kytary.cz^
-||openx.aosis.co.za^
 ||openx.ennaharonline.com^
-||openx.kgmedia.eu^
-||openx.skinet.cz^
 ||operasoftware.com^
 ||opertia.es^
 ||opetiv.com^
@@ -6253,6 +6239,7 @@
 ||printlive-app.de^
 ||print-nano.com^
 ||prisacom.sc.omtrdc.net^
+||privacy-center.org^
 ||privacy-test.liadm.com^
 ||private4.com^
 ||privatefloor.com^
@@ -6396,7 +6383,6 @@
 ||pxf-xender2.xenderbox.com^
 ||pxgcdn.com^
 ||px-intl.ucweb.com^
-||px.ucweb.com^
 ||pyq6n.com^
 ||pyze.com^
 ||p.zetadeo.com^
@@ -8200,7 +8186,6 @@
 ||track.tgirl-network.com^
 ||track.tgirlpinups.com^
 ||track.theagencyone.com^
-||track.thecrypto-genius.net^
 ||track.thehentaicollection.com^
 ||track.therubiqube.com^
 ||track.thrillbucks.com^
