@@ -1786,6 +1786,7 @@
 ||bd.vungle.com^
 ||bd.workbefit.com^
 ||beachampass.at^
+||beacon2.indieclicktv.com^
 ||beacon.9165619.com^
 ||beaconadnetwork.com^
 ||beacon.flipboard.com^
@@ -2035,6 +2036,7 @@
 ||buallinfo.xyz^
 ||bubblemine.com^
 ||buch-store24.de^
+||buf.lemonde.fr^
 ||bugsnag.com^
 ||buko-bamberg.de^
 ||bulk-click.startappservice.com^
@@ -2057,6 +2059,7 @@
 ||by.optimost.com^
 ||byutv.d1.sc.omtrdc.net^
 ||bza.co^
+||c0011.boursorama.com^
 ||c0nect.com^
 ||c17.adnxs.com^
 ||c1.adform.net^
@@ -3126,6 +3129,7 @@
 ||enjefiversityan.info^
 ||enjoyhop.com^
 ||enjoyrxsugar.com^
+||enormousearth.com^
 ||enstylish.com^
 ||enthusiast-gaming-d.openx.net^
 ||entrexperit.pro^
@@ -5422,7 +5426,6 @@
 ||moondash.co.in^
 ||moonify.io^
 ||mooo.com^
-||m.optnx.com^
 ||mopub-rtb.adfonic.net^
 ||mopub-win-us-east.bkswin.com^
 ||morebitcoin.club^
@@ -7137,7 +7140,6 @@
 ||soomla.com^
 ||s.openinstall.io^
 ||sophieella.com^
-||s.optnx.com^
 ||sorbuy.com^
 ||sorgenzwerge.de^
 ||sortow.ru^
@@ -8843,7 +8845,6 @@
 ||xrea.com^
 ||xsa5x.bemobtrk.com^
 ||x.shopsavvy.com^
-||xtgem.com^
 ||xtop.me^
 ||x.trc81.com^
 ||xtremeserve.xyz^
