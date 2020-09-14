@@ -335,6 +335,7 @@
 ||88mmt.bemobtrk.com^
 ||8a8cq8c8yyqjs2xr.pro^
 ||8bo1k.bemobtrk.com^
+||8hj500ro4t7.groovepages.com^
 ||8jeyy.bemobtrk.com^
 ||8lh5f.bemobtrk.com^
 ||8ti9p.bemobtrk.com^
@@ -2052,6 +2053,7 @@
 ||bvadimgs.scdn7.secure.raxcdn.com^
 ||bw.com^
 ||bwsru.com^
+||by2.uservoice.com^
 ||bybytop.store^
 ||by-clips.com^
 ||by.essl.optimost.com^
@@ -3353,6 +3355,7 @@
 ||file.market.xiaomi.com^
 ||files5.adform.net^
 ||files.adform.net^
+||files.im^
 ||files.jumpoutpopup.ru^
 ||fillamoda.com^
 ||fim.adnxs.com^
@@ -3612,11 +3615,13 @@
 ||geo.atlassbx.com^
 ||geobanner.alt.com^
 ||geobanner.sexfinder.com^
+||geo-eu.snigelweb.com^
 ||geo.frtyd.com^
 ||geolocation.1trust.app^
 ||geol.startbundlingnow.com^
 ||geonorwayes.online^
 ||geo.startappservice.com^
+||geo-us.snigelweb.com^
 ||gepush.com^
 ||geratemarkt.com^
 ||gerdegloff.de^
@@ -5349,6 +5354,7 @@
 ||mmsbee.com^
 ||mmunitedaw.info^
 ||mnews.atode.cc^
+||mnfuk.chfpgcbe.com^
 ||mnoa6ez1eq.com^
 ||mntz.life^
 ||mntzr-january2019.com^
@@ -5697,7 +5703,6 @@
 ||notice.game.xiaomi.com^
 ||notifications.tubecup.net^
 ||notify-master.net^
-||notify-service.com^
 ||notify.support^
 ||notify.zhushou.sogou.com^
 ||notontherbabla.com^
@@ -6014,7 +6019,6 @@
 ||pictureturn.com^
 ||pie.net.pk^
 ||pierrebuy.de^
-||pigwinspath.icu^
 ||pijnhelingmethode.nl^
 ||pillenpalast.com^
 ||pingback.giphy.com^
@@ -7329,6 +7333,7 @@
 ||stopplastik.de^
 ||store.com^
 ||storejordans.com^
+||storeoverlylatestapplication.best^
 ||storetity.ml^
 ||storetrading.com^
 ||stracking.rogers.com^
@@ -7801,7 +7806,6 @@
 ||tracker.bikroy.com^
 ||tracker.btzoo.eu^
 ||tracker.cdn-us-doubleverify.com^
-||tracker.durasite.net^
 ||tracker.easylood.net^
 ||tracker.emailaptitude.com^
 ||tracker.free2u.org^
@@ -8479,6 +8483,7 @@
 ||video-cdn.wshareit.com^
 ||video.dmtracker.com^
 ||video.market.xiaomi.com^
+||videomatictv.com^
 ||videonow.ru^
 ||video-people.com^
 ||video.rec.duapps.com^
@@ -8704,6 +8709,7 @@
 ||widget.solarquotes.com.au^
 ||widgets.realestate.com.au^
 ||widgets.tcimg.com^
+||widget.uservoice.com^
 ||widget.vietnamnetad.vn^
 ||wiegeschenkt.de^
 ||wiemanlebensoll.at^
