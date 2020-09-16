@@ -335,7 +335,6 @@
 ||88mmt.bemobtrk.com^
 ||8a8cq8c8yyqjs2xr.pro^
 ||8bo1k.bemobtrk.com^
-||8hj500ro4t7.groovepages.com^
 ||8jeyy.bemobtrk.com^
 ||8lh5f.bemobtrk.com^
 ||8ti9p.bemobtrk.com^
@@ -1702,7 +1701,6 @@
 ||b3.mookie1.com^
 ||b3-uk.mookie1.com^
 ||b.6sc.co^
-||b8pfulzbyj7h.com^
 ||babi.gdn^
 ||babycenter.tt.omtrdc.net^
 ||baccara-shop.com^
@@ -1787,7 +1785,6 @@
 ||bd.vungle.com^
 ||bd.workbefit.com^
 ||beachampass.at^
-||beacon2.indieclicktv.com^
 ||beacon.9165619.com^
 ||beaconadnetwork.com^
 ||beacon.flipboard.com^
@@ -2037,7 +2034,6 @@
 ||buallinfo.xyz^
 ||bubblemine.com^
 ||buch-store24.de^
-||buf.lemonde.fr^
 ||bugsnag.com^
 ||buko-bamberg.de^
 ||bulk-click.startappservice.com^
@@ -2061,7 +2057,6 @@
 ||by.optimost.com^
 ||byutv.d1.sc.omtrdc.net^
 ||bza.co^
-||c0011.boursorama.com^
 ||c0nect.com^
 ||c17.adnxs.com^
 ||c1.adform.net^
@@ -3131,7 +3126,6 @@
 ||enjefiversityan.info^
 ||enjoyhop.com^
 ||enjoyrxsugar.com^
-||enormousearth.com^
 ||enstylish.com^
 ||enthusiast-gaming-d.openx.net^
 ||entrexperit.pro^
@@ -3355,7 +3349,6 @@
 ||file.market.xiaomi.com^
 ||files5.adform.net^
 ||files.adform.net^
-||files.im^
 ||files.jumpoutpopup.ru^
 ||fillamoda.com^
 ||fim.adnxs.com^
@@ -3615,13 +3608,11 @@
 ||geo.atlassbx.com^
 ||geobanner.alt.com^
 ||geobanner.sexfinder.com^
-||geo-eu.snigelweb.com^
 ||geo.frtyd.com^
 ||geolocation.1trust.app^
 ||geol.startbundlingnow.com^
 ||geonorwayes.online^
 ||geo.startappservice.com^
-||geo-us.snigelweb.com^
 ||gepush.com^
 ||geratemarkt.com^
 ||gerdegloff.de^
@@ -4370,7 +4361,6 @@
 ||irkerecue.com^
 ||ir-na.amazon-adsystem.com^
 ||ironsource-d.openx.net^
-||irtyf.com^
 ||ir-uk.amazon-adsystem.com^
 ||isabelhumpert.de^
 ||isabeliris.com^
@@ -4666,7 +4656,6 @@
 ||kurt-helmbold.de^
 ||k.zucks.net^
 ||kzvb192.de^
-||l.123c.vn^
 ||l610i.bemobtrk.com^
 ||la4lbg.uae2grp.ucweb.com^
 ||laaming.com^
@@ -4865,6 +4854,7 @@
 ||logs.ereality.org^
 ||logservice-hamburg.de^
 ||logs.hotstar.com^
+||logs.juspay.in^
 ||log.spotify.com^
 ||logssug-sf.ucweb.com^
 ||logssug.ucweb.com^
@@ -5054,6 +5044,7 @@
 ||magnetic.com^
 ||magroswelt.de^
 ||mahnatka.ru^
+||mail.razempomagamy.xyz^
 ||mail.siom.ac.cn^
 ||main.dynsrvazg.com^
 ||main.dynsrvcab.com^
@@ -5354,7 +5345,6 @@
 ||mmsbee.com^
 ||mmunitedaw.info^
 ||mnews.atode.cc^
-||mnfuk.chfpgcbe.com^
 ||mnoa6ez1eq.com^
 ||mntz.life^
 ||mntzr-january2019.com^
@@ -6342,8 +6332,6 @@
 ||qlipso.checkm8.com^
 ||qlipsodigital.checkm8.com^
 ||q.myvisualiq.net^
-||qos-talk.123c.vn^
-||qos-zdn.123c.vn^
 ||qoyohil.xyz^
 ||qp.si^
 ||qqonline365.club^
@@ -7229,7 +7217,6 @@
 ||ssp.send.microadinc.com^
 ||sstats.deloitte.com^
 ||ssxd.mediav.com^
-||st.123c.vn^
 ||stabletrappeddevote.info^
 ||stack6.collect.igodigital.com^
 ||st.adxxx.info^
@@ -7333,7 +7320,6 @@
 ||stopplastik.de^
 ||store.com^
 ||storejordans.com^
-||storeoverlylatestapplication.best^
 ||storetity.ml^
 ||storetrading.com^
 ||stracking.rogers.com^
@@ -8483,7 +8469,6 @@
 ||video-cdn.wshareit.com^
 ||video.dmtracker.com^
 ||video.market.xiaomi.com^
-||videomatictv.com^
 ||videonow.ru^
 ||video-people.com^
 ||video.rec.duapps.com^
