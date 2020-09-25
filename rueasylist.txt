@@ -1305,7 +1305,6 @@
 ||analytics.sitefarm02.info^
 ||analytics.sitefarm.info^
 ||analytics-sm.com^
-||analytics.snappea.com^
 ||analytics.socialbakers.com^
 ||analytics.socialblade.com^
 ||analytics.social.unity.com^
@@ -2235,6 +2234,7 @@
 ||cdn.hoood.info^
 ||cdn.innity.net^
 ||cdn.intergi.com^
+||cdn.jamcdn.pro^
 ||cdnjke.com^
 ||cdn.kiwys.com^
 ||cdn.komoona.com^
@@ -3149,6 +3149,7 @@
 ||e.reddit.com^
 ||erektslim.com^
 ||ericdress.com^
+||ermao.sikabeila.com^
 ||eroterest.net^
 ||erotikdating.com^
 ||eroxdating.com^
@@ -3774,6 +3775,7 @@
 ||guce.verizonmedia.com^
 ||gu.dyntrk.com^
 ||guesswow.com^
+||guisuaphical.work^
 ||gundrymd.com^
 ||gunnareckert.de^
 ||gunungemas.cc^
@@ -4777,6 +4779,7 @@
 ||link-reports-eu.truecaller.com^
 ||link-reports-noneu.truecaller.com^
 ||link.safesslredirect.company^
+||linksnappy.com^
 ||linkstaker.bid^
 ||linktrking.com^
 ||liris-shop.de^
@@ -5128,7 +5131,6 @@
 ||maxxipmusic.de^
 ||may-js.github.io^
 ||mazon24.com^
-||mb103.com^
 ||mbdg.waptrick.org^
 ||m.benaughty.com^
 ||mb-npltf.com^
@@ -8303,6 +8305,7 @@
 ||uk2kg.bemobtrk.com^
 ||uk.adserver.yahoo.com^
 ||uk-ads.openx.net^
+||uk.bitcoinfreedom-appl.t500track42.com^
 ||ukkey3.space^
 ||uk-polo.com^
 ||ukreggae.ru^
