@@ -736,7 +736,6 @@
 ||ads.adthrive.com^
 ||ads.adultlinking.com^
 ||ads.adultplex.com^
-||ads.adxadserv.com^
 ||ads.alibaba.com^
 ||ads.altervista.org^
 ||ads.alwaysphonesex.com^
@@ -2015,6 +2014,7 @@
 ||bsch.serving-sys.com^
 ||bse4usdqd52m.com^
 ||b.sell.com^
+||b.serving-system.com^
 ||bshwat.com^
 ||bss.pandora.xiaomi.com^
 ||bt9wj.bemobtrk.com^
@@ -2133,8 +2133,6 @@
 ||cashier.shareitpay.in^
 ||cashier.unetsafe.com^
 ||cash.neweramediaworks.com^
-||cashstaging.app^
-||cashstaging.me^
 ||casinogames.com^
 ||casor.de^
 ||cas.xoxknct.com^
@@ -2234,7 +2232,6 @@
 ||cdn.hoood.info^
 ||cdn.innity.net^
 ||cdn.intergi.com^
-||cdn.jamcdn.pro^
 ||cdnjke.com^
 ||cdn.kiwys.com^
 ||cdn.komoona.com^
@@ -2833,7 +2830,6 @@
 ||dialyearse.info^
 ||diamond-dealz.com^
 ||d.iclwy.xyz^
-||didchinosdub.cam^
 ||die-bohrwiderstandsmessung.de^
 ||die-kleine-truhe.com^
 ||die-kosmetik-box.de^
@@ -3149,7 +3145,6 @@
 ||e.reddit.com^
 ||erektslim.com^
 ||ericdress.com^
-||ermao.sikabeila.com^
 ||eroterest.net^
 ||erotikdating.com^
 ||eroxdating.com^
@@ -3775,7 +3770,6 @@
 ||guce.verizonmedia.com^
 ||gu.dyntrk.com^
 ||guesswow.com^
-||guisuaphical.work^
 ||gundrymd.com^
 ||gunnareckert.de^
 ||gunungemas.cc^
@@ -4480,7 +4474,6 @@
 ||jslog.krxd.net^
 ||js.matheranalytics.com^
 ||js.mobileoffers-al-download.com^
-||js.mobileoffers-bn-download.com^
 ||jsn.24smi.org^
 ||js.pmcontent.com^
 ||js-sec.indexww.com^
@@ -4779,7 +4772,6 @@
 ||link-reports-eu.truecaller.com^
 ||link-reports-noneu.truecaller.com^
 ||link.safesslredirect.company^
-||linksnappy.com^
 ||linkstaker.bid^
 ||linktrking.com^
 ||liris-shop.de^
@@ -5826,6 +5818,7 @@
 ||opred.gq^
 ||op.searchteria.co.jp^
 ||optickscdn-d88f.kxcdn.com^
+||optimize.serving-system.com^
 ||optimize.viglink.com^
 ||optimusblue.com^
 ||oqn2ujcvgki0fgqy.pro^
@@ -6439,7 +6432,6 @@
 ||reachnova.com^
 ||reactads.cdn.adglare.net^
 ||reactads.engine.adglare.net^
-||reactor.cc^
 ||read.central-messages.com^
 ||reader.browser.miui.com^
 ||reader.meizu.com^
@@ -6501,6 +6493,7 @@
 ||rentcom.tt.omtrdc.net^
 ||repaningharbut.club^
 ||rephantedditont.pro^
+||replase.ga^
 ||replaycontroller.4seeresults.com^
 ||replayonlinesale.de^
 ||replicachinabag.top^
@@ -7025,7 +7018,6 @@
 ||shrink-service.it^
 ||shscrypto.net^
 ||shyamacreations.com^
-||shyhuetub.site^
 ||sh.zucks.net^
 ||si1.go2yd.com^
 ||si6ling.incestflix.com^
@@ -8305,7 +8297,6 @@
 ||uk2kg.bemobtrk.com^
 ||uk.adserver.yahoo.com^
 ||uk-ads.openx.net^
-||uk.bitcoinfreedom-appl.t500track42.com^
 ||ukkey3.space^
 ||uk-polo.com^
 ||ukreggae.ru^
@@ -8415,6 +8406,8 @@
 ||utopia-bremen.de^
 ||utp-dmp.ucweb.com^
 ||utp.ucweb.com^
+||ut.serving-system.com^
+||ut-static.serving-system.com^
 ||uucovers.com^
 ||u.w-x.co^
 ||v10-win.vortex.data.microsoft.com.akadns.net^
@@ -8736,6 +8729,7 @@
 ||wizardsbd.com^
 ||w.ladicdn.com^
 ||wlxrk.lovenights.net^
+||wlzohrpjbuq.com^
 ||wmikrut.com^
 ||wms-cn.amazon-adsystem.com^
 ||wms-eu.amazon-adsystem.com^
