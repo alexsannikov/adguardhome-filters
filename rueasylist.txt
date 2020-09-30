@@ -54,6 +54,7 @@
 ||110005347.collect.igodigital.com^
 ||11165151.searchiq.co^
 ||112.2o7.net^
+||1183f06f6212.com^
 ||122.2o7.net^
 ||123babyland.shop^
 ||123lnk.com^
@@ -109,6 +110,7 @@
 ||26.winprizes926.fun^
 ||2915481222.gopeerclick.com^
 ||2915481222.peerclicktrk.com^
+||2bb9dcf84c.com^
 ||2.cdn.echo.msk.ru^
 ||2d4c3870.info^
 ||2d4c3872.info^
@@ -243,6 +245,7 @@
 ||451312.s3.feed-xml.com^
 ||451312.s4.feed-xml.com^
 ||451312.s5.feed-xml.com^
+||46a5e78eda.com^
 ||488319.s2.feed-xml.com^
 ||49anm.bemobtrk.com^
 ||49oa3o49b6.com^
@@ -340,6 +343,7 @@
 ||8ti9p.bemobtrk.com^
 ||8weoaapw0hfvy6nz.pro^
 ||994ot5rkpch2.com^
+||99f8719c6d.com^
 ||99miners.com^
 ||9newstoday.net^
 ||9ovlf.bemobtrk.com^
@@ -939,6 +943,7 @@
 ||adv-id-data.startappservice.com^
 ||advideo.startappservice.com^
 ||advideo.uimserv.net^
+||adv.mezon.ru^
 ||advo-care.de^
 ||advstat.net^
 ||ad.wanfangdata.com.cn^
@@ -2178,6 +2183,7 @@
 ||cdn3.sponsorpay.com^
 ||cdn4.mxpnl.com^
 ||cdn4.sponsorpay.com^
+||cdn777.net^
 ||cdn-a.amazon-adsystem.com^
 ||cdn-adef.akamaized.net^
 ||cdn.adk2.co^
@@ -4347,6 +4353,7 @@
 ||ipmeta.io^
 ||ip.nuggad.net^
 ||ipominer.com^
+||ipqualityscore.com^
 ||iqdigitalmediamarketinggmbh.sc.omtrdc.net^
 ||iqzn-apac.adnxs.com^
 ||iqzn-emea.adnxs.com^
