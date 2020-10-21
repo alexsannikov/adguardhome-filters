@@ -101,6 +101,7 @@
 ||24m.nuggad.net^
 ||24siete.tienda-online.com^
 ||24x7adservice.com^
+||2569d02c22c.com^
 ||264g1.fasdfgsdf.com^
 ||26.winprizes926.fun^
 ||2915481222.gopeerclick.com^
@@ -224,9 +225,11 @@
 ||3668785.notifysrv.com^
 ||3668787.notifysrv.com^
 ||3670119.notifysrv.com^
+||3fa2ce62e75.com^
 ||3m.mediav.com^
 ||3w.nuggad.net^
 ||3zvw1.bemobtrk.com^
+||400.route.to.adtracker.network^
 ||4168233900.peerclicktrk.com^
 ||4168233901.peerclicktrk.com^
 ||41v0r.bemobtrk.com^
@@ -257,6 +260,7 @@
 ||4wmp.nuggad.net^
 ||500008040.collect.igodigital.com^
 ||500008246.collect.igodigital.com^
+||50439579cb5.com^
 ||544c27b3f0aae2.com^
 ||58coin.com^
 ||5a9yl.bemobtrk.com^
@@ -267,6 +271,7 @@
 ||6261019.collect.igodigital.com^
 ||6398530.recs.igodigital.com^
 ||6421357.collect.igodigital.com^
+||67002adde4.com^
 ||67s6gxv28kin.com^
 ||69s.city^
 ||6b714f6277c9faa.com^
@@ -321,6 +326,7 @@
 ||777-partner.com^
 ||777-partner.net^
 ||777partners.com^
+||7d1579f52d.com^
 ||7eer.net^
 ||8000plus.si^
 ||803mine.com^
@@ -673,7 +679,6 @@
 ||admeld.adnxs.com^
 ||adm.fwmrm.net^
 ||ad.mi.com^
-||admin.creciendoconelarcoiris.com^
 ||admixercreatives.blob.core.windows.net^
 ||admobile.com^
 ||ad.monetate.net^
@@ -683,7 +688,6 @@
 ||adnimation1-d.openx.net^
 ||adnimation2-d.openx.net^
 ||adnimation-d.openx.net^
-||adn.lrb.co.uk^
 ||adobecorp.sc.omtrdc.net^
 ||adobeflash31_install.ddns.info^
 ||adobe.tt.omtrdc.net^
@@ -957,7 +961,6 @@
 ||adxm.hasmobi.net^
 ||ad.xmovies8.tv^
 ||adx-tc.adform.net^
-||adz2you.com^
 ||ad.zfm.at^
 ||ae.adserver.yahoo.com^
 ||aemediatraffic.com^
@@ -965,6 +968,7 @@
 ||aeros01.tk^
 ||a.exdynsrv.com^
 ||a.exosrv.com^
+||af2b4b0e7280.com^
 ||af.beap.bc.yahoo.com^
 ||affen.at^
 ||affilate-img-affasi.s3.amazonaws.com^
@@ -2029,6 +2033,7 @@
 ||c3rh.net^
 ||c4.iwon.com^
 ||c4owk.controlapplink.com^
+||ca43588366c.com^
 ||ca.adserver.yahoo.com^
 ||cache.addthiscdn.com^
 ||cache.adviva.net^
@@ -2706,7 +2711,6 @@
 ||decko24.de^
 ||de.dhgate.com^
 ||dedica2.es^
-||def.dev-nano.com^
 ||de-gmtdmp.mookie1.com^
 ||dein-baushop.com^
 ||dein-croozer.online^
@@ -2973,7 +2977,6 @@
 ||ehkovmky.com^
 ||einfach-iota.de^
 ||einkaufende.com^
-||ei-ph.rdtcdn.com^
 ||eip-ntt.audio-ak.spotify.com.akahost.net^
 ||eip-onnet.audio-ak.spotify.com.akahost.net^
 ||eip-tata.audio-ak.spotify.com.akahost.net^
@@ -3116,7 +3119,6 @@
 ||eve-tech.com^
 ||evilfactory.analytics.nexonm.com^
 ||ev-ph.rdtcdn.com^
-||ev.rdtcdn.com^
 ||evt.tamoco.com^
 ||ewelt24.com^
 ||ewoufhvow.myshopify.com^
@@ -3914,6 +3916,7 @@
 ||i.imstks.com^
 ||iiy57tqi8rsn.com^
 ||ijintender.com^
+||ijjiii.is^
 ||ik54l.bemobtrk.com^
 ||ikarus-flugdienst.de^
 ||ilamparas.com^
@@ -4280,7 +4283,6 @@
 ||js.kau.li^
 ||jslog.krxd.net^
 ||js.matheranalytics.com^
-||js.mobileoffers-al-download.com^
 ||jsn.24smi.org^
 ||js.pmcontent.com^
 ||js-sec.indexww.com^
@@ -5955,6 +5957,7 @@
 ||primissima.it^
 ||printlive-app.de^
 ||print-nano.com^
+||prioritisemyhealth.com^
 ||prisacom.sc.omtrdc.net^
 ||privacy-test.liadm.com^
 ||private4.com^
@@ -7654,7 +7657,6 @@
 ||regional-anbieter.de^
 ||registercom.tt.omtrdc.net^
 ||registrocivilpenal.com^
-||registro.creciendoconelarcoiris.com^
 ||reharhowheck.info^
 ||reifenmax.net^
 ||reikicorfugreece.com^
@@ -7671,6 +7673,7 @@
 ||remax-longmont.com^
 ||remiroyal.ro^
 ||remoraimage.xlisting.jp^
+||remove-ads.xyz^
 ||rentcom.tt.omtrdc.net^
 ||repaningharbut.club^
 ||rephantedditont.pro^
@@ -7860,6 +7863,7 @@
 ||saleads.pro^
 ||salemwebnetworks-d.openx.net^
 ||salesforcecom.tt.omtrdc.net^
+||saletrybest.su^
 ||salewa-rucksack.de^
 ||salomonschuh.de^
 ||s.amazon-adsystem.com^
@@ -8504,7 +8508,6 @@
 ||sunnimiq.cf^
 ||supative-fetioner.icu^
 ||sup-cube.de^
-||superadmin.creciendoconelarcoiris.com^
 ||supercell.net^
 ||supergames.me^
 ||superlb.xyz^
