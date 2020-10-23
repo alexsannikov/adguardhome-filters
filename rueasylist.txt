@@ -1149,7 +1149,6 @@
 ||analytics.blueoxtech.com^
 ||analytics.bojandevic.com^
 ||analytics.boomstarter.ru^
-||analytics.brunch.co.kr^
 ||analytics.bryanbibat.net^
 ||analytics.bsgwireless.com^
 ||analytics.bytefabrik.de^
@@ -1810,6 +1809,7 @@
 ||berldk.nuggad.net^
 ||besclothes.com^
 ||besocial.online^
+||best2020-games-web1.com^
 ||bestanimegame.com^
 ||bestbuyselectro.com^
 ||bestcasinocharts.com^
@@ -2153,6 +2153,7 @@
 ||cdn.atlassbx.com^
 ||cdn.atwola.com^
 ||cdn.avazutracking.net^
+||cdn.betgorebysson.club^
 ||cdn.bidadx.com^
 ||cdn.bizible.com^
 ||cdn.boomtrain.com^
@@ -3125,6 +3126,7 @@
 ||ew-ph.rdtcdn.com^
 ||ew.rdtcdn.com^
 ||exchange.face2trade.com^
+||exe.io^
 ||exernala.com^
 ||exmuo.com^
 ||exp.360in.com^
@@ -4189,6 +4191,7 @@
 ||isaca.sc.omtrdc.net^
 ||isaca.tt.omtrdc.net^
 ||island-eagles-ruegen.de^
+||i.snssdk.com^
 ||isobar.adform.net^
 ||i.socdm.com^
 ||ispymsg.com^
@@ -6033,9 +6036,9 @@
 ||ptcdn.mbicash.nl^
 ||ptclassic.com^
 ||pt-gmtdmp.mookie1.com^
+||ptirgaux.com^
 ||ptmi.gitv.pandora.xiaomi.com^
 ||ptwebcams.com^
-||pubexchange.com^
 ||pubgalaxy-d.openx.net^
 ||pubguard.com^
 ||pubhelp.rakutenmarketing.com^
@@ -8250,6 +8253,7 @@
 ||smp.adviva.net^
 ||sms.central-messages.com^
 ||smushgame.com^
+||snammar-jumntal.com^
 ||snapsort-d.openx.net^
 ||sneakersadi2018.com^
 ||sneakersfansno.com^
@@ -8711,6 +8715,7 @@
 ||thumb-v1.xhcdn.com^
 ||thumb-v-cl.xhcdn.com^
 ||thunder.adnxs.com^
+||tic.filmstoon.cam^
 ||tictitle.de^
 ||tiendaregalos.shop^
 ||tierpension-fuerst.at^
@@ -9481,6 +9486,7 @@
 ||userheat.com^
 ||user.lucidmedia.com^
 ||usermatch.krxd.net^
+||user-shield.com^
 ||userstats.shopee.tw^
 ||usertesting.com^
 ||us-ezalter.cootekservice.com^
@@ -9889,6 +9895,7 @@
 ||wv101.jiocdn.us^
 ||wv109.jiocdn.us^
 ||wv111.jiocdn.us^
+||ww1.flashx.net^
 ||ww2.xn--30986-udb.biz^
 ||wwrwssale.com^
 ||wwtsg.xyz^
