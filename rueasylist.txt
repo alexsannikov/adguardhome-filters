@@ -101,7 +101,6 @@
 ||24m.nuggad.net^
 ||24siete.tienda-online.com^
 ||24x7adservice.com^
-||2569d02c22c.com^
 ||264g1.fasdfgsdf.com^
 ||26.winprizes926.fun^
 ||2915481222.gopeerclick.com^
@@ -225,7 +224,7 @@
 ||3668785.notifysrv.com^
 ||3668787.notifysrv.com^
 ||3670119.notifysrv.com^
-||3fa2ce62e75.com^
+||3isk.tv^
 ||3m.mediav.com^
 ||3w.nuggad.net^
 ||3zvw1.bemobtrk.com^
@@ -260,7 +259,6 @@
 ||4wmp.nuggad.net^
 ||500008040.collect.igodigital.com^
 ||500008246.collect.igodigital.com^
-||50439579cb5.com^
 ||544c27b3f0aae2.com^
 ||58coin.com^
 ||5a9yl.bemobtrk.com^
@@ -271,7 +269,6 @@
 ||6261019.collect.igodigital.com^
 ||6398530.recs.igodigital.com^
 ||6421357.collect.igodigital.com^
-||67002adde4.com^
 ||67s6gxv28kin.com^
 ||69s.city^
 ||6b714f6277c9faa.com^
@@ -326,7 +323,6 @@
 ||777-partner.com^
 ||777-partner.net^
 ||777partners.com^
-||7d1579f52d.com^
 ||7eer.net^
 ||8000plus.si^
 ||803mine.com^
@@ -968,7 +964,6 @@
 ||aeros01.tk^
 ||a.exdynsrv.com^
 ||a.exosrv.com^
-||af2b4b0e7280.com^
 ||af.beap.bc.yahoo.com^
 ||affen.at^
 ||affilate-img-affasi.s3.amazonaws.com^
@@ -1442,6 +1437,7 @@
 ||api-edge.myfreecams.com^
 ||api-ext.mediav.com^
 ||api-flow.flyme.cn^
+||api.gameads.io^
 ||api-game.meizu.com^
 ||apigate.centili.com^
 ||api-gateway.dditsadn.com^
@@ -2033,7 +2029,6 @@
 ||c3rh.net^
 ||c4.iwon.com^
 ||c4owk.controlapplink.com^
-||ca43588366c.com^
 ||ca.adserver.yahoo.com^
 ||cache.addthiscdn.com^
 ||cache.adviva.net^
@@ -2186,6 +2181,7 @@
 ||cdn.fds-ssl.api.xiaomi.com^
 ||cdn.ftd.agency^
 ||cdn.fuseplatform.net^
+||cdn.gameads.io^
 ||cdn.gigya.com^
 ||cdn-gl.imrworldwide.com^
 ||cdn.g.promosrv.com^
@@ -2915,6 +2911,7 @@
 ||e1151.e12.akamaiedge.net^
 ||e1.adserver.yahoo.com^
 ||e2578.p.akamaiedge.net^
+||e3edf10711.com^
 ||e5019.e2.akamaiedge.net^
 ||e5070.g.akamaiedge.net^
 ||e5413.g.akamaiedge.net^
@@ -3126,7 +3123,6 @@
 ||ew-ph.rdtcdn.com^
 ||ew.rdtcdn.com^
 ||exchange.face2trade.com^
-||exe.io^
 ||exernala.com^
 ||exmuo.com^
 ||exp.360in.com^
@@ -3918,7 +3914,6 @@
 ||i.imstks.com^
 ||iiy57tqi8rsn.com^
 ||ijintender.com^
-||ijjiii.is^
 ||ik54l.bemobtrk.com^
 ||ikarus-flugdienst.de^
 ||ilamparas.com^
@@ -4191,7 +4186,6 @@
 ||isaca.sc.omtrdc.net^
 ||isaca.tt.omtrdc.net^
 ||island-eagles-ruegen.de^
-||i.snssdk.com^
 ||isobar.adform.net^
 ||i.socdm.com^
 ||ispymsg.com^
@@ -5424,6 +5418,7 @@
 ||nfbio.dk^
 ||nfkd2ug8d9.com^
 ||nfornicole.com^
+||n.gameads.io^
 ||ngpipes.analytics.mbga.jp^
 ||n.grlurd.com^
 ||ngsm-log.nexon.com^
@@ -5465,6 +5460,7 @@
 ||noanoa-hannover.de^
 ||noblebart.de^
 ||nocroom.com^
+||node.gameads.io^
 ||nolanrobertcosmetics.com^
 ||nomorsg.com^
 ||nonkads.com^
@@ -8125,6 +8121,7 @@
 ||shaimsaijels.com^
 ||shakesmobi.com^
 ||shallwead.com^
+||shapez.gameads.io^
 ||shareably-d.openx.net^
 ||share-assets.mfcimg.com^
 ||sharebar.addthiscdn.com^
@@ -8769,6 +8766,7 @@
 ||tonspy.com^
 ||tontathisreprob.info^
 ||tool.acces-vod.com^
+||tooso.ai^
 ||top20.com^
 ||top80level.xyz^
 ||top-apotheke.com^
@@ -9429,6 +9427,7 @@
 ||unelekidan.com^
 ||unimining.net^
 ||unique-print.de^
+||unitdotto.club^
 ||universalsa.info^
 ||univision-d.openx.net^
 ||unosn.com^
