@@ -224,11 +224,10 @@
 ||3668785.notifysrv.com^
 ||3668787.notifysrv.com^
 ||3670119.notifysrv.com^
-||3isk.tv^
+||3c917200d3.com^
 ||3m.mediav.com^
 ||3w.nuggad.net^
 ||3zvw1.bemobtrk.com^
-||400.route.to.adtracker.network^
 ||4168233900.peerclicktrk.com^
 ||4168233901.peerclicktrk.com^
 ||41v0r.bemobtrk.com^
@@ -715,21 +714,17 @@
 ||ads24.tipps24-netzwerk.de^
 ||ads2.textra.me^
 ||ads2.uptobox.com^
-||ads3.kompasads.com^
 ||ads3.mthsense.com^
 ||ads3.textra.me^
 ||ads.429videos.com^
-||ads4.kompasads.com^
 ||ads4.textra.me^
 ||ads4xxx.com^
 ||ads5-asia-south1.truecaller.com^
 ||ads5-eu.truecaller.com^
 ||ads5.iphone.s3.amazonaws.com^
-||ads5.kompasads.com^
 ||ads5-noneu.truecaller.com^
 ||ads5-se1.truecaller.com^
 ||ads5.textra.me^
-||ads6.kompasads.com^
 ||ads6.textra.me^
 ||ads7.textra.me^
 ||ads8.textra.me^
@@ -889,7 +884,6 @@
 ||adtraffic.org^
 ||adulteritories.com^
 ||adultforce.com^
-||adultgames.fun^
 ||adultsense.info^
 ||adultsense.org^
 ||adultsonly.pro^
@@ -1437,7 +1431,6 @@
 ||api-edge.myfreecams.com^
 ||api-ext.mediav.com^
 ||api-flow.flyme.cn^
-||api.gameads.io^
 ||api-game.meizu.com^
 ||apigate.centili.com^
 ||api-gateway.dditsadn.com^
@@ -1805,7 +1798,6 @@
 ||berldk.nuggad.net^
 ||besclothes.com^
 ||besocial.online^
-||best2020-games-web1.com^
 ||bestanimegame.com^
 ||bestbuyselectro.com^
 ||bestcasinocharts.com^
@@ -2050,7 +2042,6 @@
 ||callhelpmetaroll.rocks^
 ||callkeeper.ru^
 ||callloop.com^
-||calltrk.com^
 ||callythebear.com^
 ||caltat.com^
 ||calvinthebear.com^
@@ -2149,7 +2140,6 @@
 ||cdn.atlassbx.com^
 ||cdn.atwola.com^
 ||cdn.avazutracking.net^
-||cdn.betgorebysson.club^
 ||cdn.bidadx.com^
 ||cdn.bizible.com^
 ||cdn.boomtrain.com^
@@ -2182,7 +2172,6 @@
 ||cdn.fds-ssl.api.xiaomi.com^
 ||cdn.ftd.agency^
 ||cdn.fuseplatform.net^
-||cdn.gameads.io^
 ||cdn.gigya.com^
 ||cdn-gl.imrworldwide.com^
 ||cdn.g.promosrv.com^
@@ -2912,7 +2901,6 @@
 ||e1151.e12.akamaiedge.net^
 ||e1.adserver.yahoo.com^
 ||e2578.p.akamaiedge.net^
-||e3edf10711.com^
 ||e5019.e2.akamaiedge.net^
 ||e5070.g.akamaiedge.net^
 ||e5413.g.akamaiedge.net^
@@ -3026,7 +3014,6 @@
 ||empirescooters.com^
 ||emyxshop.com^
 ||enewsletter.oc3web.com^
-||e.nexac.com^
 ||engagespot.co^
 ||engagesrvr.filefactory.com^
 ||engine.adsupply.com^
@@ -3130,13 +3117,11 @@
 ||expert-demmelmayr.at^
 ||expertsinmoving.com^
 ||expmine.pro^
-||expresvpn-private-analytics.net^
 ||ex.resourcecdns.com^
 ||exrno.com^
 ||exsifsi.ru^
 ||external.dmtracker.com^
 ||external.xx.fbcdn.net^
-||extra.eboundservices.com^
 ||extramovies.trade^
 ||extremepool.org^
 ||eye.swfchan.com^
@@ -3288,7 +3273,6 @@
 ||fms.ipinyou.com^
 ||fmybvcn9ewiqlmi.ru^
 ||fmztxzdrq.bid^
-||f.nexac.com^
 ||foerderverein-due.de^
 ||folmetor.com^
 ||folmy.de^
@@ -3745,7 +3729,6 @@
 ||heyue.xiaomi.com^
 ||heywire.com^
 ||hfive555.com^
-||hfm.checkm8.com^
 ||h-h-design.com^
 ||hibermona.xyz^
 ||hibhedbfbcbfgegjafa.ru^
@@ -5337,7 +5320,6 @@
 ||nastyfans.org^
 ||nationalbankofnewzea.tt.omtrdc.net^
 ||nationwide.sc.omtrdc.net^
-||native.tubecup.org^
 ||nativexxx.com^
 ||natm.hasmobi.net^
 ||natuerlich-leben-und-heilen.de^
@@ -5419,7 +5401,6 @@
 ||nfbio.dk^
 ||nfkd2ug8d9.com^
 ||nfornicole.com^
-||n.gameads.io^
 ||ngpipes.analytics.mbga.jp^
 ||n.grlurd.com^
 ||ngsm-log.nexon.com^
@@ -5461,7 +5442,6 @@
 ||noanoa-hannover.de^
 ||noblebart.de^
 ||nocroom.com^
-||node.gameads.io^
 ||nolanrobertcosmetics.com^
 ||nomorsg.com^
 ||nonkads.com^
@@ -5957,7 +5937,6 @@
 ||primissima.it^
 ||printlive-app.de^
 ||print-nano.com^
-||prioritisemyhealth.com^
 ||prisacom.sc.omtrdc.net^
 ||privacy-test.liadm.com^
 ||private4.com^
@@ -6003,7 +5982,6 @@
 ||promoblocks.ru^
 ||promocionesweb.com^
 ||promocionesytecnologias.com^
-||promotion.partnercash.de^
 ||promotions-paradise.org^
 ||promotools.biz^
 ||promotpkcc.com^
@@ -6027,13 +6005,11 @@
 ||ps-eu.amazon-adsystem.com^
 ||ps.eyeota.net^
 ||ps-jp.amazon-adsystem.com^
-||psozyhotho.pro^
 ||ps-us.amazon-adsystem.com^
 ||psychodiagnostik-duesseldorf.de^
 ||ptcdn.mbicash.nl^
 ||ptclassic.com^
 ||pt-gmtdmp.mookie1.com^
-||ptirgaux.com^
 ||ptmi.gitv.pandora.xiaomi.com^
 ||ptwebcams.com^
 ||pubgalaxy-d.openx.net^
@@ -6113,7 +6089,6 @@
 ||qdyfa.bemobtrk.com^
 ||qiroris.pw^
 ||qiye.xiaomi.com^
-||qlipso.checkm8.com^
 ||qlipsodigital.checkm8.com^
 ||q.myvisualiq.net^
 ||qoyohil.xyz^
@@ -7673,7 +7648,6 @@
 ||remax-longmont.com^
 ||remiroyal.ro^
 ||remoraimage.xlisting.jp^
-||remove-ads.xyz^
 ||rentcom.tt.omtrdc.net^
 ||repaningharbut.club^
 ||rephantedditont.pro^
@@ -7855,7 +7829,6 @@
 ||sabin.free.fr^
 ||safe.res.meizu.com^
 ||safe.ucweb.com^
-||sagedigital.checkm8.com^
 ||saintine.store^
 ||sajnarestaurant.com^
 ||sajxt.bemobtrk.com^
@@ -7863,7 +7836,6 @@
 ||saleads.pro^
 ||salemwebnetworks-d.openx.net^
 ||salesforcecom.tt.omtrdc.net^
-||saletrybest.su^
 ||salewa-rucksack.de^
 ||salomonschuh.de^
 ||s.amazon-adsystem.com^
@@ -8122,7 +8094,6 @@
 ||shaimsaijels.com^
 ||shakesmobi.com^
 ||shallwead.com^
-||shapez.gameads.io^
 ||shareably-d.openx.net^
 ||share-assets.mfcimg.com^
 ||sharebar.addthiscdn.com^
@@ -8251,7 +8222,6 @@
 ||smp.adviva.net^
 ||sms.central-messages.com^
 ||smushgame.com^
-||snammar-jumntal.com^
 ||snapsort-d.openx.net^
 ||sneakersadi2018.com^
 ||sneakersfansno.com^
@@ -8563,7 +8533,6 @@
 ||sync.users-api.com^
 ||syndication.dynsrvtbg.com^
 ||syndication.dynsrvwer.com^
-||syndication.optimizesrv.com^
 ||syndication.realsrv.com^
 ||syndication.twitter.com^
 ||syndicpop.com^
@@ -8678,6 +8647,7 @@
 ||thechannelcompany.d1.sc.omtrdc.net^
 ||thechive-d.openx.net^
 ||thecoin.pw^
+||thecounter.com^
 ||thedefinitiveweb.com^
 ||thedoctors.healthfindings.website^
 ||thehannashop.com^
@@ -8713,7 +8683,6 @@
 ||thumb-v1.xhcdn.com^
 ||thumb-v-cl.xhcdn.com^
 ||thunder.adnxs.com^
-||tic.filmstoon.cam^
 ||tictitle.de^
 ||tiendaregalos.shop^
 ||tierpension-fuerst.at^
@@ -8767,7 +8736,6 @@
 ||tonspy.com^
 ||tontathisreprob.info^
 ||tool.acces-vod.com^
-||tooso.ai^
 ||top20.com^
 ||top80level.xyz^
 ||top-apotheke.com^
@@ -9368,7 +9336,6 @@
 ||twosisterssalonandspa.com^
 ||twovillas.com^
 ||t.wowtrk.com^
-||txxx.ahcdn.com^
 ||typacodosof.info^
 ||typerock.com^
 ||tzkarati.com^
@@ -9428,7 +9395,6 @@
 ||unelekidan.com^
 ||unimining.net^
 ||unique-print.de^
-||unitdotto.club^
 ||universalsa.info^
 ||univision-d.openx.net^
 ||unosn.com^
@@ -9486,7 +9452,6 @@
 ||userheat.com^
 ||user.lucidmedia.com^
 ||usermatch.krxd.net^
-||user-shield.com^
 ||userstats.shopee.tw^
 ||usertesting.com^
 ||us-ezalter.cootekservice.com^
@@ -9895,7 +9860,6 @@
 ||wv101.jiocdn.us^
 ||wv109.jiocdn.us^
 ||wv111.jiocdn.us^
-||ww1.flashx.net^
 ||ww2.xn--30986-udb.biz^
 ||wwrwssale.com^
 ||wwtsg.xyz^

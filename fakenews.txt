@@ -407,6 +407,7 @@
 ||democraticreview.com^
 ||demonic.news^
 ||demonictimes.com^
+||denfriakarolinen.se^
 ||dennismichaellynch.com^
 ||denvercitywire.com^
 ||denverguardian.com^
@@ -787,6 +788,7 @@
 ||invasionusa.news^
 ||inventions.news^
 ||investmentwatchblog.com^
+||inzoomat.se^
 ||iowacitytoday.com^
 ||iowaregionalguide.com^
 ||irishufology.net^
@@ -1073,6 +1075,7 @@
 ||naturecoasttimes.com^
 ||naturopathy.news^
 ||naugatucktimes.com^
+||nbcnews.com.co^
 ||nbcnews.io^
 ||ncarkansasnews.com^
 ||ncbusinessdaily.com^
@@ -1301,6 +1304,7 @@
 ||nwwyomingnews.com^
 ||nybusinessdaily.com^
 ||nycgazette.com^
+||nyheternasverige.se^
 ||oaklandrecord.com^
 ||ocalastandard.com^
 ||occupydemocrats.com^
@@ -1724,6 +1728,7 @@
 ||space.news^
 ||spacetourism.news^
 ||spartanburgreporter.com^
+||speisa.com^
 ||splc.news^
 ||spokanecotimes.com^
 ||spokanestandard.com^
@@ -1748,6 +1753,7 @@
 ||stlwestnews.com^
 ||stneotscitizen.com^
 ||stopsmoking.news^
+||storkensnyheter.se^
 ||stormcloudsgathering.com^
 ||stpaulreporter.com^
 ||stpetestandard.com^
@@ -1861,6 +1867,7 @@
 ||theoccidentalobserver.net^
 ||thepoke.co.uk^
 ||thepoliticalinsider.com^
+||theportlygazelle.com^
 ||theracketreport.com^
 ||therealstrategy.com^
 ||therebel.media^
@@ -2005,9 +2012,11 @@
 ||veteranstoday.news^
 ||victorvalleytimes.com^
 ||vigilantcitizen.com^
+||vindoegat.se^
 ||viralactions.com^
 ||viralcocaine.com^
 ||viraldevil.com^
+||viralking.se^
 ||viralliberty.com^
 ||viralmugshot.com^
 ||viralpropaganda.com^
