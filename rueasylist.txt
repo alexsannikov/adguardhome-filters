@@ -4686,6 +4686,7 @@
 ||localmediabuying.com^
 ||local.tampabay.com^
 ||lochjol.com^
+||locked4.com^
 ||lockersamsungs8.r.xoxknct.com^
 ||lockersamsungs8.s.xoxknct.com^
 ||lockwoodsmarina.com^
@@ -10907,7 +10908,6 @@
 ||topmodareps.es^
 ||top.roixxx.com^
 ||topsearcher.com^
-||topswp.com^
 ||topwwnews.com^
 ||toresonetalet.pro^
 ||tormeno.com^
