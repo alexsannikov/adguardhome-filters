@@ -2664,6 +2664,7 @@
 ||d1rg2274px6zb.cloudfront.net^
 ||d1tqp15egmc1qo.cloudfront.net^
 ||d1wsidr7aabb18.cloudfront.net^
+||d21gpk1vhmjuf5.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d24ak3f2b.top^
 ||d28n7yywqog3r7.cloudfront.net^
@@ -3258,6 +3259,7 @@
 ||fedepolecolombia.com.co^
 ||feed.adrelayer.com^
 ||feedback.miui.com^
+||feedblitz.com^
 ||feed.bnz88.news^
 ||feeder.xxx^
 ||feed.r-tb.com^
