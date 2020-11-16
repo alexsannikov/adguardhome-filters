@@ -29,7 +29,6 @@
 ||100041137.collect.igodigital.com^
 ||100.1qingdao.com^
 ||100ass.com^
-||100fl.bemobtrcks.com^
 ||100pour.com^
 ||101010.pl^
 ||10148.engine.mobileapptracking.com^
@@ -303,7 +302,6 @@
 ||58coin.com^
 ||5a9yl.bemobtrk.com^
 ||5clickcashsoftware.com^
-||5d1e656859.com^
 ||5thfinger.com^
 ||6235746.collect.igodigital.com^
 ||6261019.collect.igodigital.com^
@@ -311,7 +309,6 @@
 ||6421357.collect.igodigital.com^
 ||67s6gxv28kin.com^
 ||6b714f6277c9faa.com^
-||6d9b3be751.com^
 ||6eez7ouig7gwguf6.pro^
 ||6h04j.bemobtrk.com^
 ||6lhw4.bemobtrk.com^
@@ -1860,7 +1857,6 @@
 ||bgy-meissen.de^
 ||bhseen.com^
 ||bhsure.com^
-||bhvwm.bemobtrcks.com^
 ||biartau.id^
 ||bibo.api.swiftkey.com^
 ||bidder.komoona.com^
@@ -2664,7 +2660,6 @@
 ||d1rg2274px6zb.cloudfront.net^
 ||d1tqp15egmc1qo.cloudfront.net^
 ||d1wsidr7aabb18.cloudfront.net^
-||d21gpk1vhmjuf5.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d24ak3f2b.top^
 ||d28n7yywqog3r7.cloudfront.net^
@@ -2958,6 +2953,7 @@
 ||e5070.g.akamaiedge.net^
 ||e5413.g.akamaiedge.net^
 ||e5460.g.akamaiedge.net^
+||e5c4d8d221.com^
 ||e5.click-here.pro^
 ||e6603.g.akamaiedge.net^
 ||e7081.g.akamaiedge.net^
@@ -3195,6 +3191,7 @@
 ||eztexting.com^
 ||f1.g.mi.com^
 ||f2pool.com^
+||f4674af89e.com^
 ||f4at8.bemobtrk.com^
 ||f4.market.xiaomi.com^
 ||f8.market.xiaomi.com^
@@ -3259,7 +3256,6 @@
 ||fedepolecolombia.com.co^
 ||feed.adrelayer.com^
 ||feedback.miui.com^
-||feedblitz.com^
 ||feed.bnz88.news^
 ||feeder.xxx^
 ||feed.r-tb.com^
@@ -5408,7 +5404,6 @@
 ||nagelpilzkiller.de^
 ||na.hasmobi.net^
 ||nahnoji.cz^
-||namel.net^
 ||nana10.checkm8.com^
 ||nana10digital.checkm8.com^
 ||nanashoe.com^
@@ -5752,7 +5747,6 @@
 ||ozancity.com^
 ||p01234.notif.club^
 ||p15.quest123.top^
-||p.1ts18.top^
 ||p2pmining.com^
 ||p2pool.in^
 ||p2pool.info^
@@ -6206,6 +6200,7 @@
 ||qdcdn.me^
 ||qdl8d.bemobtrk.com^
 ||qdyfa.bemobtrk.com^
+||qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com^
 ||qiroris.pw^
 ||qiye.xiaomi.com^
 ||qlipsodigital.checkm8.com^
@@ -9921,7 +9916,6 @@
 ||s1aeg.bemobtrk.com^
 ||s1.cdncontents.com^
 ||s1-eu.adform.net^
-||s.1ts18.top^
 ||s1xlk.bemobtrk.com^
 ||s2150.t.eloqua.com^
 ||s2.adform.net^
@@ -10476,6 +10470,7 @@
 ||ssxd.mediav.com^
 ||stabletrappeddevote.info^
 ||stack6.collect.igodigital.com^
+||stackvaults.com^
 ||st.adxxx.info^
 ||staging.ai.api.xiaomi.com^
 ||staging.fuseplatform.net^
@@ -10591,7 +10586,6 @@
 ||streamlyn-d.openx.net^
 ||streetdesign-motorradtechnik.de^
 ||strikeadcdn.s3.amazonaws.com^
-||stripst.com^
 ||studiocarlina.com^
 ||studioy.de^
 ||studybreakmedia-d.openx.net^
@@ -10688,6 +10682,7 @@
 ||sys.8ch.net^
 ||sys_andriod20_designer.dynamic-dns.net^
 ||system0_update04driver_roots.dynamic-dns.net^
+||systemgooglegooglegooglegooglegooglegoole.warzonedns.com^
 ||s.zimedia.com.tw^
 ||t02.ashemaletube.com^
 ||t1.a.market.xiaomi.com^
@@ -11969,6 +11964,7 @@
 ||woop.es^
 ||wordreference-d.openx.net^
 ||work5.ru^
+||workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com^
 ||workshoes.club^
 ||worldpush.co^
 ||worldsbestcams.com^
@@ -12158,7 +12154,6 @@
 ||zedo-d.openx.net^
 ||zeepmedia.com^
 ||zeitpunkte-film.de^
-||zenfield.pro^
 ||zentrappx.com^
 ||zeojd.com^
 ||zergnet-d.openx.net^
@@ -12205,4 +12200,5 @@
 ||zweiradservice-henkel.de^
 ||zwillingsfestival.de^
 ||zwyr157wwiu6eior.com^
+||zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com^
 ||zynga-d.openx.net^
