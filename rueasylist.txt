@@ -2953,7 +2953,6 @@
 ||e5070.g.akamaiedge.net^
 ||e5413.g.akamaiedge.net^
 ||e5460.g.akamaiedge.net^
-||e5c4d8d221.com^
 ||e5.click-here.pro^
 ||e6603.g.akamaiedge.net^
 ||e7081.g.akamaiedge.net^
@@ -3015,6 +3014,7 @@
 ||ehealthinsurance.tt.omtrdc.net^
 ||ehkovmky.com^
 ||einfach-iota.de^
+||e.infogram.com^
 ||einkaufende.com^
 ||eip-ntt.audio-ak.spotify.com.akahost.net^
 ||eip-onnet.audio-ak.spotify.com.akahost.net^
@@ -3191,7 +3191,6 @@
 ||eztexting.com^
 ||f1.g.mi.com^
 ||f2pool.com^
-||f4674af89e.com^
 ||f4at8.bemobtrk.com^
 ||f4.market.xiaomi.com^
 ||f8.market.xiaomi.com^
@@ -5716,6 +5715,7 @@
 ||orsc.iasds01.com^
 ||ortshk.tapas.net^
 ||os4m-d.openx.net^
+||osdsoft.com^
 ||osiamining.com^
 ||ostatic.espritgames.ru^
 ||os.tc^
@@ -10470,7 +10470,6 @@
 ||ssxd.mediav.com^
 ||stabletrappeddevote.info^
 ||stack6.collect.igodigital.com^
-||stackvaults.com^
 ||st.adxxx.info^
 ||staging.ai.api.xiaomi.com^
 ||staging.fuseplatform.net^
@@ -11013,6 +11012,8 @@
 ||track.dalenetwork.com^
 ||track.dankcash.com^
 ||track.dannixxx.com^
+||track.datatrics.com^
+||track*.datatrics.com^
 ||track.datescan.info^
 ||track.dblol.com^
 ||track.ddfadventures.com^
@@ -11906,7 +11907,6 @@
 ||whoinns.com^
 ||widget.cashmyvisit.com^
 ||widget.manychat.com^
-||widgets.asdpoi.com^
 ||widgets.binotel.com^
 ||widgets.comcontent.net^
 ||widget.searchschoolsnetwork.com^
