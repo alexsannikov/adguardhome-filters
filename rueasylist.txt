@@ -1402,6 +1402,7 @@
 ||annoncelegalepascher.fr^
 ||annuzine.com^
 ||anonnews.co^
+||anothinga.com^
 ||answers-d.openx.net^
 ||antifraud.empello.net^
 ||antifraud-sg.empello.net^
@@ -1608,6 +1609,7 @@
 ||as.com^
 ||as.dc.impact-ad.jp^
 ||asg.somecdn.bid^
+||asg.xz2aab.xyz^
 ||asia.adform.net^
 ||asiafriendfinder.com^
 ||asiangfsex.com^
@@ -2257,7 +2259,6 @@
 ||ce3e75d5.jpush.cn^
 ||ce9c00f41ae8cdd.com^
 ||cebenetwork.de^
-||cecadesayu.corazondelcielo.mx^
 ||cell.nr-data.net^
 ||cell-power-laser.de^
 ||cemeta-ucads.ucweb.com^
@@ -2660,6 +2661,7 @@
 ||d1rg2274px6zb.cloudfront.net^
 ||d1tqp15egmc1qo.cloudfront.net^
 ||d1wsidr7aabb18.cloudfront.net^
+||d227cncaprzd7y.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d24ak3f2b.top^
 ||d28n7yywqog3r7.cloudfront.net^
@@ -3014,7 +3016,6 @@
 ||ehealthinsurance.tt.omtrdc.net^
 ||ehkovmky.com^
 ||einfach-iota.de^
-||e.infogram.com^
 ||einkaufende.com^
 ||eip-ntt.audio-ak.spotify.com.akahost.net^
 ||eip-onnet.audio-ak.spotify.com.akahost.net^
@@ -4715,6 +4716,7 @@
 ||logp.hit-parade.com^
 ||log.popin.cc^
 ||logs.amap.com^
+||log.sdk.zadn.vn^
 ||logs.ereality.org^
 ||logservice-hamburg.de^
 ||logs.hotstar.com^
@@ -11568,6 +11570,7 @@
 ||upservices.de^
 ||ups.tt.omtrdc.net^
 ||uptocall.com^
+||uptopopunder.com^
 ||up.trkgenius.com^
 ||urbanairship.com^
 ||urbanmedia-d.openx.net^
