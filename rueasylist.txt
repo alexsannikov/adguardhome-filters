@@ -2259,6 +2259,7 @@
 ||ce3e75d5.jpush.cn^
 ||ce9c00f41ae8cdd.com^
 ||cebenetwork.de^
+||cecadesayu.corazondelcielo.mx^
 ||cell.nr-data.net^
 ||cell-power-laser.de^
 ||cemeta-ucads.ucweb.com^
@@ -3004,6 +3005,7 @@
 ||edwaybuy.com^
 ||efafgbdbdegadgggeci.ru^
 ||efancylife.com^
+||efe9838bf0.com^
 ||efully.info^
 ||egami-tv-d.openx.net^
 ||eglobalcentral.at^
@@ -5567,7 +5569,6 @@
 ||notice.central-messages.com^
 ||notice.game.xiaomi.com^
 ||notifications.tubecup.net^
-||notify-master.net^
 ||notify.support^
 ||notify.zhushou.sogou.com^
 ||notontherbabla.com^
@@ -5717,7 +5718,6 @@
 ||orsc.iasds01.com^
 ||ortshk.tapas.net^
 ||os4m-d.openx.net^
-||osdsoft.com^
 ||osiamining.com^
 ||ostatic.espritgames.ru^
 ||os.tc^
@@ -6202,7 +6202,6 @@
 ||qdcdn.me^
 ||qdl8d.bemobtrk.com^
 ||qdyfa.bemobtrk.com^
-||qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com^
 ||qiroris.pw^
 ||qiye.xiaomi.com^
 ||qlipsodigital.checkm8.com^
@@ -10557,6 +10556,7 @@
 ||stc.fx.fastcontentdelivery.com^
 ||stc.hollywood.to^
 ||s.tcimg.com^
+||stc.za.zaloapp.com^
 ||stefanbelling.de^
 ||stefanie-wesser.de^
 ||steroide-kaufen.com^
@@ -10683,7 +10683,6 @@
 ||sys.8ch.net^
 ||sys_andriod20_designer.dynamic-dns.net^
 ||system0_update04driver_roots.dynamic-dns.net^
-||systemgooglegooglegooglegooglegooglegoole.warzonedns.com^
 ||s.zimedia.com.tw^
 ||t02.ashemaletube.com^
 ||t1.a.market.xiaomi.com^
@@ -11647,7 +11646,6 @@
 ||v9bet88.com^
 ||vaci.iasds01.com^
 ||vaes.amazon-adsystem.com^
-||vaia06o630os.com^
 ||valb.atm.youku.com^
 ||valc.atm.youku.com^
 ||valf.atm.youku.com^
@@ -11967,7 +11965,6 @@
 ||woop.es^
 ||wordreference-d.openx.net^
 ||work5.ru^
-||workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com^
 ||workshoes.club^
 ||worldpush.co^
 ||worldsbestcams.com^
@@ -12203,5 +12200,4 @@
 ||zweiradservice-henkel.de^
 ||zwillingsfestival.de^
 ||zwyr157wwiu6eior.com^
-||zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com^
 ||zynga-d.openx.net^
