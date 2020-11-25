@@ -2317,6 +2317,7 @@
 ||chupapo.ru^
 ||cieh.mx^
 ||ci.iasds01.com^
+||cileni.seznam.cz^
 ||ci.liadm.com^
 ||ciliove.com^
 ||cinetecabrianze.it^
@@ -2615,6 +2616,7 @@
 ||cryptotab.net^
 ||csb.app^
 ||csc.adserver.yahoo.com^
+||c.seznam.cz^
 ||csmobiles.com^
 ||cs.nex8.net^
 ||cspix.media6degrees.com^
@@ -3884,6 +3886,7 @@
 ||href.li^
 ||hruner.com^
 ||h-sdk.online-metrix.net^
+||h.seznam.cz^
 ||h-signifyd.online-metrix.net^
 ||hsselite.com^
 ||hsw-d.openx.net^
@@ -4256,6 +4259,7 @@
 ||isabelhumpert.de^
 ||isaca.sc.omtrdc.net^
 ||isaca.tt.omtrdc.net^
+||i.seznam.cz^
 ||island-eagles-ruegen.de^
 ||isobar.adform.net^
 ||i.socdm.com^
@@ -5854,6 +5858,7 @@
 ||petra-elsner.de^
 ||petssupermart.com^
 ||pfa.levexis.com^
+||pfm-stat.online.sberbank.ru^
 ||pfotenschule-bremen.de^
 ||ph.adserver.yahoo.com^
 ||pharmacyfirstgmbh.com^
@@ -10253,6 +10258,7 @@
 ||shortest-miner.com^
 ||show-f.mediav.com^
 ||show-g.mediav.com^
+||showmeyouradsnow.com^
 ||show-m.mediav.com^
 ||show.m.mediav.com^
 ||show.re.taobao.com^
@@ -10467,6 +10473,7 @@
 ||ssp-3-9f58.trnox.com^
 ||ssp.rambler.ru^
 ||ssp.send.microadinc.com^
+||ssp.seznam.cz^
 ||sstats.deloitte.com^
 ||ssxd.mediav.com^
 ||stabletrappeddevote.info^
@@ -12041,7 +12048,6 @@
 ||xjj5k.bemobtrk.com^
 ||xl-1.de^
 ||xlog.byteoversea.com^
-||xlog.tiktokv.com^
 ||xlog-va.byteoversea.com^
 ||xminingpool.com^
 ||xml.adop.co^
