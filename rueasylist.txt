@@ -968,6 +968,7 @@
 ||advstat.net^
 ||ad.wanfangdata.com.cn^
 ||adw.d2c.ne.jp^
+||adwebone.com^
 ||adwin.startappservice.com^
 ||adwords.l.google.com^
 ||adx2.adform.net^
@@ -1458,7 +1459,6 @@
 ||api-flow.flyme.cn^
 ||api-game.meizu.com^
 ||apigate.centili.com^
-||api-gateway.dditsadn.com^
 ||api.gif.duapps.com^
 ||api.giphy.com^
 ||api.growingio.com^
@@ -1662,7 +1662,6 @@
 ||au79nt5wic4x.com^
 ||au.adserver.yahoo.com^
 ||auc.ca-conv.jp^
-||audible.sc.omtrdc.net^
 ||audible.tt.omtrdc.net^
 ||audienceline.com^
 ||audiencenetwork.facebook.com^
@@ -1948,7 +1947,6 @@
 ||b.monetate.net^
 ||bnmgr.adinjector.net^
 ||bnsjb1ab1e.com^
-||bnster.com^
 ||boarrabsinsand.pro^
 ||bockwindmuel.de^
 ||bod0m.bemobtrk.com^
@@ -2317,7 +2315,6 @@
 ||chupapo.ru^
 ||cieh.mx^
 ||ci.iasds01.com^
-||cileni.seznam.cz^
 ||ci.liadm.com^
 ||ciliove.com^
 ||cinetecabrianze.it^
@@ -2616,7 +2613,6 @@
 ||cryptotab.net^
 ||csb.app^
 ||csc.adserver.yahoo.com^
-||c.seznam.cz^
 ||csmobiles.com^
 ||cs.nex8.net^
 ||cspix.media6degrees.com^
@@ -3886,7 +3882,6 @@
 ||href.li^
 ||hruner.com^
 ||h-sdk.online-metrix.net^
-||h.seznam.cz^
 ||h-signifyd.online-metrix.net^
 ||hsselite.com^
 ||hsw-d.openx.net^
@@ -4259,7 +4254,6 @@
 ||isabelhumpert.de^
 ||isaca.sc.omtrdc.net^
 ||isaca.tt.omtrdc.net^
-||i.seznam.cz^
 ||island-eagles-ruegen.de^
 ||isobar.adform.net^
 ||i.socdm.com^
@@ -4363,7 +4357,6 @@
 ||js-sec.indexww.com^
 ||js-ssl.aaddcount.com^
 ||jstuck.ai-chat.net^
-||js.wpncdn.com^
 ||js.wpnjs.com^
 ||js.wpnsrv.com^
 ||j.traffichunt.com^
@@ -4918,6 +4911,7 @@
 ||madamsboutique.de^
 ||madbbs.org^
 ||madienergias.es^
+||madinad.com^
 ||mading-calipprox.com^
 ||madisonlogic.com^
 ||m.adnxs.com^
@@ -10473,7 +10467,6 @@
 ||ssp-3-9f58.trnox.com^
 ||ssp.rambler.ru^
 ||ssp.send.microadinc.com^
-||ssp.seznam.cz^
 ||sstats.deloitte.com^
 ||ssxd.mediav.com^
 ||stabletrappeddevote.info^
