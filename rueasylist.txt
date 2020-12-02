@@ -682,6 +682,7 @@
 ||ad.juliepost.com^
 ||ad.khan.co.kr^
 ||ad.kissanime.io^
+||ad.kissanime.nz^
 ||ad.kodansha.net^
 ||ad.kr.ldmnq.com^
 ||ad.ksyun.com^
@@ -1202,6 +1203,7 @@
 ||analytics.fastbase.com^
 ||analytics.feeder.co^
 ||analytics.ff.avast.sec.miui.com^
+||analytics.fkz.re^
 ||analytics.flurry-cdn.com^
 ||analytics.fortinet.com^
 ||analytics.fr^
@@ -1402,7 +1404,6 @@
 ||annoncelegalepascher.fr^
 ||annuzine.com^
 ||anonnews.co^
-||anothinga.com^
 ||answers-d.openx.net^
 ||antifraud.empello.net^
 ||antifraud-sg.empello.net^
@@ -1608,7 +1609,6 @@
 ||as.com^
 ||as.dc.impact-ad.jp^
 ||asg.somecdn.bid^
-||asg.xz2aab.xyz^
 ||asia.adform.net^
 ||asiafriendfinder.com^
 ||asiangfsex.com^
@@ -1639,7 +1639,6 @@
 ||a.stat.xiaomi.com^
 ||astraldirect.site^
 ||astronomytrek.com^
-||a.stun.kaptcha.com^
 ||asv-motorsport.de^
 ||atakku.at^
 ||atakoyescortbayan.com^
@@ -2096,6 +2095,7 @@
 ||cannabisgr.com^
 ||canonresourcecenter.com^
 ||caohavan.ezimar.com^
+||capacygre.top^
 ||capitalaktiv.de^
 ||capodannoinversilia.com^
 ||c.appier.net^
@@ -2659,7 +2659,6 @@
 ||d1rg2274px6zb.cloudfront.net^
 ||d1tqp15egmc1qo.cloudfront.net^
 ||d1wsidr7aabb18.cloudfront.net^
-||d227cncaprzd7y.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d24ak3f2b.top^
 ||d28n7yywqog3r7.cloudfront.net^
@@ -2677,6 +2676,7 @@
 ||d3ra9679oeq3gx.cloudfront.net^
 ||d4.click-here.pro^
 ||d7016uqa4s0lw.cloudfront.net^
+||dabiaozhi.com^
 ||dacash.streamplay.to^
 ||dafabet.advertserve.com^
 ||dailymetcon.it^
@@ -3002,7 +3002,6 @@
 ||edwaybuy.com^
 ||efafgbdbdegadgggeci.ru^
 ||efancylife.com^
-||efe9838bf0.com^
 ||efully.info^
 ||egami-tv-d.openx.net^
 ||eglobalcentral.at^
@@ -3324,8 +3323,19 @@
 ||floristik-casa-flora.de^
 ||floryday.com^
 ||fls-eu.amazon-adsystem.com^
+||fls-eu.amazon.es^
+||fls-eu.amazon.fr^
+||fls-eu.amazon.in^
+||fls-eu.amazon.it^
+||fls-eu.amazon.nl^
+||fls-eu.amazon.sa^
+||fls-eu.amazon.se^
 ||fls-fe.amazon-adsystem.com^
+||fls-fe.amazon.com.au^
+||fls-fe.amazon.sg^
 ||fls-na.amazon-adsystem.com^
+||fls-na.amazon.com.br^
+||fls-na.amazon.com.mx^
 ||fluct.fuseplatform.net^
 ||flusnlb.com^
 ||flyertown.ca^
@@ -5737,7 +5747,6 @@
 ||overstock.tt.omtrdc.net^
 ||overzoruaon.com^
 ||owliwant.com^
-||o.wowreality.info^
 ||o.wowtrk.com^
 ||owpawuk.ru^
 ||oxtop.ru^
@@ -6862,7 +6871,6 @@
 ||shortest-miner.com^
 ||show-f.mediav.com^
 ||show-g.mediav.com^
-||showmeyouradsnow.com^
 ||show-m.mediav.com^
 ||show.m.mediav.com^
 ||show.re.taobao.com^
@@ -7166,7 +7174,6 @@
 ||stc.fx.fastcontentdelivery.com^
 ||stc.hollywood.to^
 ||s.tcimg.com^
-||stc.za.zaloapp.com^
 ||stefanbelling.de^
 ||stefanie-wesser.de^
 ||steroide-kaufen.com^
@@ -7963,6 +7970,7 @@
 ||track.upblogsnews.com^
 ||track-us.adform.net^
 ||track.us.org^
+||track.vcdc.com^
 ||track.victoriadiprada.com^
 ||track.victoriamilan.com^
 ||track.victoriamilan.net^
@@ -8746,7 +8754,6 @@
 ||yun-static.soperson.com^
 ||yupiromo.ru^
 ||yurivideo.com^
-||yydtbpms8tf4.com^
 ||zadarma.com^
 ||za-gmtdmp.mookie1.com^
 ||zahmarzt.de^
