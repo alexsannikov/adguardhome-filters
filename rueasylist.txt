@@ -914,6 +914,7 @@
 ||adultsvideo.info^
 ||ad.unikat.at^
 ||adunit.chango.com^
+||ad.universcine.com^
 ||ad-us-west.ipredictive.com^
 ||adv.adflex.vn^
 ||advancedautorepairtips.me^
@@ -2659,6 +2660,7 @@
 ||classical-versace.com^
 ||claudiakleyh.de^
 ||claudia-scarpatetti.de^
+||clck.yandex.net^
 ||clean4app.xyz^
 ||cleanmydevice.r.xoxknct.com^
 ||cleanmydevice.s.xoxknct.com^
@@ -9711,6 +9713,7 @@
 ||vis.vi-serve.com^
 ||vitalfootball.uk.intellitxt.com^
 ||vitalis-pankratius.de^
+||vitals.vercel-analytics.com^
 ||vite-envogue.de^
 ||viumbe-d.openx.net^
 ||vivaispinelli.it^
