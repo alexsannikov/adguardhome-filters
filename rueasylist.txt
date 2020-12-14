@@ -1490,7 +1490,6 @@
 ||api.cxense.com^
 ||api.data.sentinel.mob.com^
 ||api.demandbase.com^
-||api.digitalbees.it^
 ||api-edge.myfreecams.com^
 ||api.exoclick.com^
 ||api-game.meizu.com^
@@ -2670,7 +2669,6 @@
 ||click.atdmt.com^
 ||click.central-messages.com^
 ||click.dl-now.app^
-||click.expmediadirect.com^
 ||clickfight.net^
 ||click.fout.jp^
 ||clickgem.com^
@@ -3072,10 +3070,8 @@
 ||d1wsidr7aabb18.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d24ak3f2b.top^
-||d261u4g5nqprix.cloudfront.net^
 ||d28n7yywqog3r7.cloudfront.net^
 ||d29xw9s9x32j3w.cloudfront.net^
-||d2fbkzyicji7c4.cloudfront.net^
 ||d2oj2jfp5qkm5dtc3gtiqjzaab.gcdn.anvato.net^
 ||d2rb60829qiz9y.cloudfront.net^
 ||d2x0118v5hofu3.cloudfront.net^
@@ -3298,10 +3294,8 @@
 ||disqus-d.openx.net^
 ||distractify-d.openx.net^
 ||distroscale-d.openx.net^
-||divascam.com^
 ||diyfood.us.intellitxt.com^
 ||djs-medizin.de^
-||djv99sxoqpv11.cloudfront.net^
 ||dk.adserver.yahoo.com^
 ||dk-gmtdmp.mookie1.com^
 ||dkr1.ssisurveys.com^
@@ -3379,7 +3373,6 @@
 ||dro4icho.ru^
 ||droomoo.com^
 ||drugscom.us.intellitxt.com^
-||ds88pc0kw6cvc.cloudfront.net^
 ||ds-api-public.addthis.com.edgekey.net^
 ||dsg.sc.omtrdc.net^
 ||d-sjc2.turn.com^
@@ -3651,6 +3644,7 @@
 ||estelle.us.intellitxt.com^
 ||estimote.com^
 ||estnewsupdate.info^
+||esty.com^
 ||etarynoneta.pro^
 ||eten-users.us.intellitxt.com^
 ||ethermine.org^
