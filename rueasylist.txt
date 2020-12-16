@@ -848,7 +848,6 @@
 ||ads.perfectaudience.com^
 ||ads.petspot-gmbh.com^
 ||ads.phonemates.com^
-||ads.phonepe.com^
 ||adsp.i2idata.com^
 ||ad.spreaker.com^
 ||ads.publick.apa.net^
@@ -3644,7 +3643,6 @@
 ||estelle.us.intellitxt.com^
 ||estimote.com^
 ||estnewsupdate.info^
-||esty.com^
 ||etarynoneta.pro^
 ||eten-users.us.intellitxt.com^
 ||ethermine.org^
@@ -3719,6 +3717,7 @@
 ||exapi-us-west.rubiconproject.com^
 ||exceljet-d.openx.net^
 ||excite.us.intellitxt.com^
+||excluzive.net^
 ||exernala.com^
 ||exmuo.com^
 ||exp.360in.com^
@@ -4320,7 +4319,6 @@
 ||h5.share2.wshareit.com^
 ||h5.share.wshareit.com^
 ||hackedgadgets.us.intellitxt.com^
-||hadsecs.com^
 ||hairboutique.us.intellitxt.com^
 ||hajo-gutmann.de^
 ||halaru.com^
@@ -4598,7 +4596,6 @@
 ||icapabloidsety.club^
 ||i-cdn.openx.com^
 ||iceban.su^
-||icedewear.site^
 ||icentric.us.intellitxt.com^
 ||iceshop-neuendettelsau.de^
 ||ichecknotifyfriends.info^
@@ -6556,7 +6553,6 @@
 ||ortshk.tapas.net^
 ||os4m-d.openx.net^
 ||osdir.us.intellitxt.com^
-||osdsoft.com^
 ||osiamining.com^
 ||ostatic.espritgames.ru^
 ||os.tc^
@@ -8698,7 +8694,6 @@
 ||thinkcomputers.us.intellitxt.com^
 ||thinkingonofthestage.de^
 ||thiscdn.com^
-||thofandew.com^
 ||thomas-saboonlineshop.com^
 ||thor-hammer.me^
 ||thor.rtk.io^
@@ -9357,7 +9352,6 @@
 ||trumpia.com^
 ||trustarc.mgr.consensu.org^
 ||trustednotice.news^
-||trust.titanhq.com^
 ||trust.zone^
 ||tr-v1.presage.io^
 ||tr-v1.prod.cloud.ogury.io^
