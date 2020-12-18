@@ -140,6 +140,7 @@
 ||26.winprizes926.fun^
 ||2915481222.gopeerclick.com^
 ||2915481222.peerclicktrk.com^
+||2c95e050909.com^
 ||2.cdn.echo.msk.ru^
 ||2d4c3870.info^
 ||2d4c3872.info^
@@ -3025,6 +3026,8 @@
 ||cts.w55c.net^
 ||ct.verticalhealth.net^
 ||ctv.us.intellitxt.com^
+||cu-cn-north00001.gala.convection.cn^
+||cu-cn-north00002.gala.convection.cn^
 ||cuev.in^
 ||cultassoc.info^
 ||cunda.d3.sc.omtrdc.net^
@@ -3061,6 +3064,7 @@
 ||c.zetadeo.com^
 ||cz-gmtdmp.mookie1.com^
 ||cz.static.etargetnet.com^
+||d13k7prax1yi04.cloudfront.net^
 ||d14qpp2he5atys.cloudfront.net^
 ||d1d5p7uxjr4j28.cloudfront.net^
 ||d1dagyb1ctngx1.cloudfront.net^
@@ -3076,6 +3080,7 @@
 ||d2x0118v5hofu3.cloudfront.net^
 ||d2yz0oamomyxzv.cloudfront.net^
 ||d33bhlp8xcppz2.cloudfront.net^
+||d36zfztxfflmqo.cloudfront.net^
 ||d38optp29wd03m.cloudfront.net^
 ||d3dw9e5ep9si6p.cloudfront.net^
 ||d3e5zkjv0mw5t1.cloudfront.net^
@@ -3085,6 +3090,7 @@
 ||d4.click-here.pro^
 ||d7016uqa4s0lw.cloudfront.net^
 ||d7.adsplay.xyz^
+||d84b95a7c3e.com^
 ||dabcc.us.intellitxt.com^
 ||dacash.streamplay.to^
 ||d.adroll.mgr.consensu.org^
@@ -3429,6 +3435,7 @@
 ||dzitech.net^
 ||dzlj06v4g249i.cloudfront.net^
 ||dz.mmstat.com^
+||e079cbbe23.com^
 ||e100.yt.srs.doubleverify.com^
 ||e101.yt.srs.doubleverify.com^
 ||e102.yt.srs.doubleverify.com^
@@ -3455,6 +3462,7 @@
 ||e5.click-here.pro^
 ||e6603.g.akamaiedge.net^
 ||e7081.g.akamaiedge.net^
+||e739acf90a.com^
 ||e8960.e2.akamaiedge.net^
 ||e9geolgzk6.com^
 ||eacash.streamplay.to^
@@ -4134,6 +4142,7 @@
 ||gesundeliebe.com^
 ||geta.selscoun.com^
 ||getcryptotab.com^
+||getshort.cf^
 ||get.slotocash.com^
 ||getstarted.infolinks.com^
 ||gfaf-banners.s3.amazonaws.com^
@@ -5112,6 +5121,7 @@
 ||judua3rtinpst0s.xyz^
 ||jugendfeuerwehr-glueckstadt.de^
 ||jugueteu.com^
+||juicyads.me^
 ||juicycash.net^
 ||juicyceleb.us.intellitxt.com^
 ||juicy-news.blogspot.us.intellitxt.com^
@@ -6076,7 +6086,6 @@
 ||moonbit.co.in^
 ||moondash.co.in^
 ||moonify.io^
-||mooo.com^
 ||m.optnx.com^
 ||mopub-rtb.adfonic.net^
 ||mopub-win-us-east.bkswin.com^
@@ -6906,6 +6915,7 @@
 ||postmedia.sc.omtrdc.net^
 ||potd.onlytease.com^
 ||potenz-kaufhaus.de^
+||poterrupte.co^
 ||powerflashlight2019.s.xoxknct.com^
 ||powermaster.s.xoxknct.com^
 ||powersaver.s.xoxknct.com^
@@ -8187,6 +8197,7 @@
 ||ssp2.adriver.ru^
 ||ssp-3-9f58.trnox.com^
 ||ssp.adriver.ru^
+||sspicy.ru^
 ||ssp.rambler.ru^
 ||ssp.send.microadinc.com^
 ||s-static.innovid.com^
@@ -8733,6 +8744,7 @@
 ||tls13.taboola.map.fastly.net^
 ||tm2.r-ad.ne.jp^
 ||tmcnet.us.intellitxt.com^
+||tm-offers.gamingadult.com^
 ||tmoki.com^
 ||t.mookie1.com^
 ||tm.r-ad.ne.jp^
@@ -9024,6 +9036,7 @@
 ||tracking-i2.adsafety.net^
 ||tracking.immobilienscout24.at^
 ||tracking.india.miui.com^
+||tracking.jiffyworld.com^
 ||tracking.linkconnector.com^
 ||tracking.linktogame.com^
 ||tracking.m6r.eu^
@@ -9372,6 +9385,7 @@
 ||t.trackedlink.net^
 ||t.tubepush.eu^
 ||tubeadnetwork.com^
+||tubecorporate.com^
 ||tube.paperstreetcash.com^
 ||tubepick.com^
 ||tunein-d.openx.net^
