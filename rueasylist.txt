@@ -3086,6 +3086,7 @@
 ||d3dw9e5ep9si6p.cloudfront.net^
 ||d3e5zkjv0mw5t1.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
+||d3kblkhdtjv0tf.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
 ||d3ra9679oeq3gx.cloudfront.net^
 ||d4.click-here.pro^
@@ -5422,6 +5423,7 @@
 ||lmadvertising.engine.adglare.net^
 ||lmcd.us.intellitxt.com^
 ||lm.serving-sys.com^
+||lnfo-can7651.com^
 ||load77.exelator.com^
 ||loader.adrelayer.com^
 ||loadercdn.com^
