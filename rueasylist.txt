@@ -454,6 +454,8 @@
 ||abc9.feed-xml.com^
 ||abcinfo.cc^
 ||abc.logly.co.jp^
+||abcnews.hb.omtrdc.net^
+||abcnews.tt.omtrdc.net^
 ||abcno.nuggad.net^
 ||abcotv.hb.omtrdc.net^
 ||abendbrotmainz.de^
@@ -972,7 +974,6 @@
 ||ad.yieldmanager.com^
 ||ad.zfm.at^
 ||ae.adserver.yahoo.com^
-||a.exdynsrv.com^
 ||a.exoclick.com^
 ||a.exosrv.com^
 ||affen.at^
@@ -1500,6 +1501,7 @@
 ||api.leanplum.com^
 ||api.livefyre.com^
 ||api.localytics.com^
+||api-location-prd.pelcro.com^
 ||api-lytics.macpaw.com^
 ||api.mb-click.jp^
 ||api-metrica.yandex.com^
@@ -2198,7 +2200,6 @@
 ||bvadimgs.scdn7.secure.raxcdn.com^
 ||bw.com^
 ||bwsru.com^
-||by2.uservoice.com^
 ||by.adriver.ru^
 ||by-clips.com^
 ||by-content.adriver.ru^
@@ -2357,6 +2358,7 @@
 ||cdn3.ghosthis.review^
 ||cdn3.gigya.com^
 ||cdn3.sponsorpay.com^
+||cdn4.buysellads.net^
 ||cdn4.mxpnl.com^
 ||cdn4.sponsorpay.com^
 ||cdn5.tribalfusion.com^
@@ -2442,7 +2444,6 @@
 ||cdn.ftd.agency^
 ||cdn.fuseplatform.net^
 ||cdn.geodns.tubemogul.com^
-||cdn.gigya.com^
 ||cdn-gl.imrworldwide.com^
 ||cdn.gumgum.com^
 ||cdn.hasmobi.net^
@@ -2467,7 +2468,6 @@
 ||cdn.logly.co.jp^
 ||cdn.lustseek.com^
 ||cdnma.bidvertiser.com^
-||cdn-magiclinks.trackonomics.net^
 ||cdn.m.ambientplatform.vn^
 ||cdn.media6degrees.com^
 ||cdnmm.bidvertiser.com^
@@ -2498,12 +2498,14 @@
 ||cdn.rlnads.net^
 ||cdn.rossoad.com^
 ||cdn.rqmob.com^
+||cdn-s2s.buysellads.net^
 ||cdn.sail-horizon.com^
 ||cdn.schemaapp.com^
 ||cdn.securefastoffers.com^
 ||cdn.shareitgames.com^
 ||cdn.simpli.fi^
 ||cdnsm.bidvertiser.com^
+||cdn.snigelweb.com^
 ||cdn.softonixs.club^
 ||cdn.speedshiftmedia.com^
 ||cdn.spotxcdn.com.edgekey.net^
@@ -2684,6 +2686,7 @@
 ||click.uodoo.com^
 ||clickvip.ru^
 ||client-pages.adnetwork.vn^
+||client.px-cloud.net^
 ||clients.adcolony.com^
 ||clients-alpha.adcolony.com^
 ||clients-api.adcolony.com^
@@ -3033,7 +3036,6 @@
 ||customer.heartinternet.co.uk^
 ||customer.iad-03.braze.com^
 ||customers.kameleoon.com^
-||custom-wrs.api.responsys.net^
 ||cuteelva.com^
 ||cuttingedgeng.com^
 ||cv-ph.rdtcdn.com^
@@ -4109,10 +4111,12 @@
 ||geobanner.alt.com^
 ||geobanner.sexfinder.com^
 ||geo.celtra.com^
+||geo-eu.snigelweb.com^
 ||geolocation.1trust.app^
 ||geol.startbundlingnow.com^
 ||geonorwayes.online^
 ||geo.startappservice.com^
+||geo-us.snigelweb.com^
 ||geo.ziffdavis.com^
 ||gerdegloff.de^
 ||germanolec.de^
@@ -4196,6 +4200,7 @@
 ||go.applovin.com^
 ||gobrashop.com^
 ||gocm.c.appier.net^
+||go.ezodn.com^
 ||goklics.ru^
 ||goldengoosebrand.com^
 ||golden-tiger.co.uk^
@@ -6541,6 +6546,7 @@
 ||ortshk.tapas.net^
 ||os4m-d.openx.net^
 ||osdir.us.intellitxt.com^
+||osdsoft.com^
 ||osiamining.com^
 ||ostatic.espritgames.ru^
 ||os.tc^
@@ -7133,6 +7139,7 @@
 ||q5tea.bemobtrk.com^
 ||qaamgo-d.openx.net^
 ||qa-gmtdmp.mookie1.com^
+||qatarairways.tt.omtrdc.net^
 ||qcb7o.bemobtrk.com^
 ||qdcdn.me^
 ||qdl8d.bemobtrk.com^
@@ -7638,6 +7645,7 @@
 ||scripts.speedshiftmedia.com^
 ||scripts.stage.kissmetrics.com^
 ||scripts.webcontentassessor.com^
+||scripttags.justuno.com^
 ||scund.com^
 ||sdcexecs.us.intellitxt.com^
 ||sdk.a4.tl^
@@ -7733,6 +7741,7 @@
 ||secure-proxy.imrworldwide.com^
 ||secure-sg.imrworldwide.com^
 ||securestatic.es^
+||secure-sts-prod.imrworldwide.com^
 ||secure-uat2.imrworldwide.com^
 ||secure-uk.imrworldwide.com^
 ||secure-us.imrworldwide.com^
@@ -8596,7 +8605,6 @@
 ||testdata.coremetrics.com^
 ||testdevices.appsflyer.com^
 ||testing.appnext.com^
-||testing.younetmedia.com^
 ||testyourluck32.club^
 ||texaspoker.datafilesfwxxmt26a8.com^
 ||tf.jucydate.com^
@@ -9471,6 +9479,7 @@
 ||unosn.com^
 ||unseenmms.com^
 ||untotlowith.info^
+||u.o0bc.com^
 ||uoldid.ru^
 ||uol-d.openx.net^
 ||u.openx.net^
@@ -9684,6 +9693,7 @@
 ||vis.vi-serve.com^
 ||vitalfootball.uk.intellitxt.com^
 ||vitalis-pankratius.de^
+||vitals.vercel-analytics.com^
 ||vite-envogue.de^
 ||viumbe-d.openx.net^
 ||vivaispinelli.it^
@@ -9875,7 +9885,6 @@
 ||widgets.lendingtree.com^
 ||widget.solarquotes.com.au^
 ||widgets.tcimg.com^
-||widget.uservoice.com^
 ||widget.vietnamnetad.vn^
 ||wiegeschenkt.de^
 ||wiemanlebensoll.at^
@@ -10095,7 +10104,6 @@
 ||yacurlik.com^
 ||yahoo-news.co^
 ||yahoo.nuggad.net^
-||yahoo.uservoice.com^
 ||yamechanic.com^
 ||yast.rutube.ru^
 ||ybcoin.com^
