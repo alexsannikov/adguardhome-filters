@@ -2,8 +2,6 @@
 ||01.adnxs.com^
 ||02ip.ru^
 ||0755.pics^
-||0le8u.bemobtrk.com^
-||0s0vn.bemobtrk.com^
 ||0xwxmj21r75kka.com^
 ||100002105.collect.igodigital.com^
 ||100002811.collect.igodigital.com^
@@ -106,9 +104,6 @@
 ||1d6520b765a.trfplndr.xyz^
 ||1e0y.xyz^
 ||1ex.trade^
-||1gbsx.bemobtrk.com^
-||1m836.bemobtrk.com^
-||1n64o.bemobtrk.com^
 ||1sadx.net^
 ||1stpool.com^
 ||1tizer.com^
@@ -118,7 +113,6 @@
 ||1x1rank.com^
 ||1xbit1.com^
 ||1xstavka.ru^
-||1z179.bemobtrk.com^
 ||2-01-2a40-0017.cdx.cdxcn.net^
 ||2016.appsflyer.com^
 ||20552817p.rfihub.com^
@@ -146,7 +140,6 @@
 ||2miners.com^
 ||2miners.ru^
 ||2mlh2fw7z62i.com^
-||2qc2m.bemobtrk.com^
 ||2qgsjjy89k.com^
 ||2snaps.us.intellitxt.com^
 ||2spyware.us.intellitxt.com^
@@ -262,11 +255,9 @@
 ||3m.mediav.com^
 ||3ppa.jp.cinarra.com^
 ||3w.nuggad.net^
-||3zvw1.bemobtrk.com^
 ||411mania.us.intellitxt.com^
 ||4168233900.peerclicktrk.com^
 ||4168233901.peerclicktrk.com^
-||41v0r.bemobtrk.com^
 ||42323.transubscribe.com^
 ||42tage.de^
 ||43yagowe3y.com^
@@ -277,25 +268,18 @@
 ||451312.s5.feed-xml.com^
 ||488319.s2.feed-xml.com^
 ||4984.engine.mobileapptracking.com^
-||49anm.bemobtrk.com^
 ||49oa3o49b6.com^
 ||4crot.com^
 ||4e43ac9c.info^
-||4iy2i.bemobtrk.com^
 ||4l7wg5kf3z.com^
-||4l9mr.bemobtrk.com^
-||4lv7d.bemobtrk.com^
-||4m1dy.bemobtrk.com^
 ||4mads.com^
 ||4.newstart.online^
 ||4thegame.uk.intellitxt.com^
 ||4us.pw^
-||4wlgm.bemobtrk.com^
 ||4wmp.nuggad.net^
 ||4w-wrestling.us.intellitxt.com^
 ||500008040.collect.igodigital.com^
 ||500008246.collect.igodigital.com^
-||5a9yl.bemobtrk.com^
 ||5clickcashsoftware.com^
 ||5starhiphop.us.intellitxt.com^
 ||5starsupport.us.intellitxt.com^
@@ -307,9 +291,6 @@
 ||68a6d200.contentabc.com^
 ||6b714f6277c9faa.com^
 ||6eez7ouig7gwguf6.pro^
-||6h04j.bemobtrk.com^
-||6lhw4.bemobtrk.com^
-||6ngyq.bemobtrk.com^
 ||6sercher.biz^
 ||6zi.notifications.website^
 ||7000714.collect.igodigital.com^
@@ -349,7 +330,6 @@
 ||7295446.collect.igodigital.com^
 ||7295970.collect.igodigital.com^
 ||7297803.collect.igodigital.com^
-||72u6w.bemobtrk.com^
 ||7305998.collect.igodigital.com^
 ||7309447.collect.igodigital.com^
 ||7328014.collect.igodigital.com^
@@ -365,20 +345,12 @@
 ||803mine.com^
 ||83nsdjqqo1cau183xz.com^
 ||8696.engine.mobileapptracking.com^
-||88mmt.bemobtrk.com^
 ||8a8cq8c8yyqjs2xr.pro^
-||8bo1k.bemobtrk.com^
-||8jeyy.bemobtrk.com^
-||8lh5f.bemobtrk.com^
-||8ti9p.bemobtrk.com^
 ||8weoaapw0hfvy6nz.pro^
 ||9864.engine.mobileapptracking.com^
 ||99miners.com^
 ||9down.us.intellitxt.com^
 ||9newstoday.net^
-||9ovlf.bemobtrk.com^
-||9uznl.bemobtrk.com^
-||9vuq3.bemobtrk.com^
 ||a1.adform.net^
 ||a1.adsplay.xyz^
 ||a1.seadform.net^
@@ -698,6 +670,7 @@
 ||ad.reachlocal.com^
 ||adre.hasmobi.net^
 ||adrem.hasmobi.net^
+||adres.internet.com^
 ||ad.retargeter.com^
 ||adrevenue.appsflyer.com^
 ||ad.rfp.fout.jp^
@@ -1501,7 +1474,6 @@
 ||api.leanplum.com^
 ||api.livefyre.com^
 ||api.localytics.com^
-||api-location-prd.pelcro.com^
 ||api-lytics.macpaw.com^
 ||api.mb-click.jp^
 ||api-metrica.yandex.com^
@@ -1791,7 +1763,6 @@
 ||aws-oregon-jrtr.rtr.innovid.com.akadns.net^
 ||aws-oregon-ohio-virginia.s.innovid.com.akadns.net^
 ||awsusor0-cdn.fds-ssl.api.xiaomi.com^
-||ax3bn.bemobtrk.com^
 ||axdget-sync.nuggad.net^
 ||axdsz.pro^
 ||axel-springer-d.openx.net^
@@ -1875,7 +1846,6 @@
 ||bcmonster.com^
 ||b-code.liadm.com^
 ||b-collector.liadm.com^
-||bd202457b.com^
 ||bdapi-id-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||b-dcr-production.liadm.com^
@@ -1953,7 +1923,6 @@
 ||bestpricesfashion.com^
 ||best-realgirls.com^
 ||bestresultmob1le.com^
-||bestssn.com^
 ||beststeroids.eu^
 ||betanews.us.intellitxt.com^
 ||betnetmed.advertserve.com^
@@ -2072,7 +2041,6 @@
 ||blumenstudio-m.at^
 ||blumpkintube.com^
 ||blvcx.com^
-||bm9mz.bemobtrk.com^
 ||b.measuread.com^
 ||b.mobigiftglobal.xyz^
 ||b.monetate.net^
@@ -2081,7 +2049,6 @@
 ||bnsjb1ab1e.com^
 ||boarrabsinsand.pro^
 ||bockwindmuel.de^
-||bod0m.bemobtrk.com^
 ||bodloft.com^
 ||bodloster.com^
 ||bodylounge-loehne.de^
@@ -2159,7 +2126,6 @@
 ||b-s.tercept.com^
 ||bs-wlb-sg.dvgtm.akadns.net^
 ||bs-wlb-uswest.dvgtm.akadns.net^
-||bt9wj.bemobtrk.com^
 ||btbusiness.d1.sc.omtrdc.net^
 ||btbusiness.tt.omtrdc.net^
 ||btcguild.com^
@@ -2358,7 +2324,6 @@
 ||cdn3.ghosthis.review^
 ||cdn3.gigya.com^
 ||cdn3.sponsorpay.com^
-||cdn4.buysellads.net^
 ||cdn4.mxpnl.com^
 ||cdn4.sponsorpay.com^
 ||cdn5.tribalfusion.com^
@@ -2498,7 +2463,6 @@
 ||cdn.rlnads.net^
 ||cdn.rossoad.com^
 ||cdn.rqmob.com^
-||cdn-s2s.buysellads.net^
 ||cdn.sail-horizon.com^
 ||cdn.schemaapp.com^
 ||cdn.securefastoffers.com^
@@ -2686,7 +2650,6 @@
 ||click.uodoo.com^
 ||clickvip.ru^
 ||client-pages.adnetwork.vn^
-||client.px-cloud.net^
 ||clients.adcolony.com^
 ||clients-alpha.adcolony.com^
 ||clients-api.adcolony.com^
@@ -2940,7 +2903,6 @@
 ||cp.onicon.ru^
 ||c.ptgncdn.com^
 ||c.pubguru.com^
-||cr29k.bemobtrk.com^
 ||cragoo.de^
 ||crain.d1.sc.omtrdc.net^
 ||crashdump.spotify.com^
@@ -3056,7 +3018,6 @@
 ||c.zetadeo.com^
 ||cz-gmtdmp.mookie1.com^
 ||cz.static.etargetnet.com^
-||d11enq2rymy0yl.cloudfront.net^
 ||d13k7prax1yi04.cloudfront.net^
 ||d14qpp2he5atys.cloudfront.net^
 ||d1d5p7uxjr4j28.cloudfront.net^
@@ -3302,6 +3263,7 @@
 ||dl.qcash.ws^
 ||dl.url.cn^
 ||dlvr.readserver.net^
+||dm1.dnpz123.com^
 ||dmdamedia.hu^
 ||d.monetate.net^
 ||d.mordi.xyz^
@@ -3465,7 +3427,6 @@
 ||easymcenter.com^
 ||easy-pdf.com^
 ||eatingwell.us.intellitxt.com^
-||eb948.bemobtrk.com^
 ||ebaumsworld.us.intellitxt.com^
 ||ebayit-dp.nuggad.net^
 ||ebayukb-d.openx.net^
@@ -3736,7 +3697,6 @@
 ||ezstat.ru^
 ||eztexting.com^
 ||eztracks.us.intellitxt.com^
-||f4at8.bemobtrk.com^
 ||f4.market.xiaomi.com^
 ||f8.market.xiaomi.com^
 ||fabeos-security.de^
@@ -3856,7 +3816,6 @@
 ||find-soulmates.com^
 ||find-your-chat.com^
 ||find-your-slut.com^
-||fip8b.bemobtrk.com^
 ||firebase.com^
 ||firingsquad.us.intellitxt.com^
 ||firmware.center^
@@ -3915,7 +3874,6 @@
 ||fota4hw.adsunflower.com^
 ||fotoportemonnaie.de^
 ||fotosocken.com^
-||fowuh.bemobtrk.com^
 ||fox-forden.ru^
 ||foxnews.hb.omtrdc.net^
 ||foxnews.tt.omtrdc.net^
@@ -4018,7 +3976,6 @@
 ||g2crowd.com^
 ||g2.gumgum.com^
 ||g.3gl.net^
-||g6b0x.bemobtrk.com^
 ||gabungyuk.wasaps.cc^
 ||gadgetplanetlimited.com^
 ||gadgets.fosfor.se.intellitxt.com^
@@ -4157,7 +4114,6 @@
 ||givestmentdr.club^
 ||gizmo.serving-sys.com^
 ||gizmo-s.serving-sys.com^
-||gj2iv.bemobtrk.com^
 ||gj.applog.ucdns.uc.cn^
 ||gj.gds.mmstat.com^
 ||gj.ldmnq.com^
@@ -4358,7 +4314,6 @@
 ||haus-reining.de^
 ||hauswelt24.de^
 ||haveuheard.us.intellitxt.com^
-||hb22d.bemobtrk.com^
 ||hb-analytics.amp.services^
 ||hbatterysaver2017.r.xoxknct.com^
 ||hbatterysaver2017.s.xoxknct.com^
@@ -4566,14 +4521,12 @@
 ||i4u.us.intellitxt.com^
 ||i62e2b4mfy.com^
 ||i6.liadm.com^
-||i937g.bemobtrk.com^
 ||ia4.notifications.website^
 ||iabtechlab.com^
 ||iacpromotion.s3.amazonaws.com^
 ||iact.atdmt.com^
 ||iad02-event.spotxchange.com^
 ||iad02-search.spotxchange.com^
-||iag37.bemobtrk.com^
 ||iamcdn.net^
 ||iamnotageek.us.intellitxt.com^
 ||iapclick.gowadogo.com^
@@ -4646,7 +4599,6 @@
 ||i.imstks.com^
 ||iiy57tqi8rsn.com^
 ||ijintender.com^
-||ik54l.bemobtrk.com^
 ||ikarus-flugdienst.de^
 ||i.kissmetrics.com^
 ||il1.adriver.ru^
@@ -5003,8 +4955,6 @@
 ||i.xiaomi.com^
 ||ixspublic.com^
 ||izar.iad-03.braze.com^
-||j1ny7.bemobtrk.com^
-||j35cg.bemobtrk.com^
 ||jacksonsun.us.intellitxt.com^
 ||jact.atdmt.com^
 ||jade853gmbh.tt.omtrdc.net^
@@ -5021,7 +4971,6 @@
 ||jcb.sc.omtrdc.net^
 ||jcb.tt.omtrdc.net^
 ||jcrew.tt.omtrdc.net^
-||jdk8m.bemobtrk.com^
 ||jeansame.store^
 ||j.eclick.vn^
 ||jellopads.com^
@@ -5135,7 +5084,6 @@
 ||k1.midasplayer.com^
 ||k1qa.midasplayer.com^
 ||k1xpatrickmohrmk5.com^
-||k3hpv.bemobtrk.com^
 ||k50-a.akamaihd.net^
 ||kaboose.us.intellitxt.com^
 ||kadam.ru^
@@ -5162,7 +5110,6 @@
 ||kauaihealthtraining.org^
 ||kaymopk.com^
 ||kbnetworkz.s3.amazonaws.com^
-||kbxj2.bemobtrk.com^
 ||kcolbda.com^
 ||kdlandingsplash.com^
 ||kdslots.com^
@@ -5180,8 +5127,6 @@
 ||keywordlink3.xlisting.jp^
 ||keywordlink.co.kr^
 ||keywords.adtlgc.com^
-||kfsd5.bemobtrk.com^
-||kgp4e.bemobtrk.com^
 ||kibana.appsflyer.com^
 ||kibanainfra.appsflyer.com^
 ||kibanariver.appsflyer.com^
@@ -5220,7 +5165,6 @@
 ||kloodo-media.com^
 ||klsattelschnallen.de^
 ||kl-westerntraining.de^
-||kmpqp.bemobtrk.com^
 ||knac.us.intellitxt.com^
 ||knl.mntzrlt.net^
 ||knowyourmobile.uk.intellitxt.com^
@@ -5267,7 +5211,6 @@
 ||kyson.ad.g.daum.net^
 ||kz-content.adriver.ru^
 ||k.zucks.net^
-||l610i.bemobtrk.com^
 ||la2.eclick.vn^
 ||la4lbg.uae2grp.ucweb.com^
 ||laaming.com^
@@ -5367,7 +5310,6 @@
 ||lianlianxian-test.shareitgames.com^
 ||lib.adnxs.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
-||libertystmedia.com^
 ||libs.coremetrics.com^
 ||lickbylick.com^
 ||liebehaus.de^
@@ -5413,7 +5355,6 @@
 ||ll.a.hulu.com^
 ||llamamegratis.es^
 ||lloydloom.com^
-||lm970.bemobtrk.com^
 ||lmadvertising.engine.adglare.net^
 ||lmcd.us.intellitxt.com^
 ||lm.serving-sys.com^
@@ -5945,6 +5886,7 @@
 ||minerhills.com^
 ||minermaniac.com^
 ||miner.nicehash.com^
+||miner.nimiq.com^
 ||minero.ru^
 ||minerpool.net^
 ||miner.rocks^
@@ -6124,6 +6066,7 @@
 ||msnbc.us.intellitxt.com^
 ||msn.serving-sys.com^
 ||msntest.serving-sys.com^
+||mssl.fwmrm.net^
 ||m-sso.openx.com^
 ||ms-usa.applovin.com^
 ||mtagmonetizationa.com^
@@ -6183,10 +6126,8 @@
 ||mytags.xyz^
 ||mytopgames.net^
 ||mywebclick.net^
-||mzfo2.bemobtrk.com^
 ||n24se.nuggad.net^
 ||n4g.us.intellitxt.com^
-||n7zru.bemobtrk.com^
 ||nabina.iad-03.braze.com^
 ||naftemporiki.nuggad.net^
 ||nagelpilzkiller.de^
@@ -6318,7 +6259,6 @@
 ||nikstein.at^
 ||nimbleswan.io^
 ||nimfa-ekb.ru^
-||nimiq.com^
 ||nimiq.terorie.com^
 ||ninaning.com^
 ||ninegag-d.openx.net^
@@ -6339,7 +6279,6 @@
 ||nkcache.brandreachsys.com^
 ||nl.adserver.yahoo.com^
 ||nlntrk.com^
-||nnplk.bemobtrk.com^
 ||noadblock.net^
 ||no.adserver.yahoo.com^
 ||noanoa-hannover.de^
@@ -6373,7 +6312,6 @@
 ||noweight.de^
 ||npcdn1.now.sh^
 ||npgco.blueconic.net^
-||nq6lh.bemobtrk.com^
 ||nrbgj.topgirlshere.com^
 ||nrcapi.ssl2.duapps.com^
 ||nrc.da.duapps.com^
@@ -6408,7 +6346,6 @@
 ||nz-gmtdmp.mookie1.com^
 ||nzz.d3.sc.omtrdc.net^
 ||o2.eyereturn.com^
-||o5w51.bemobtrk.com^
 ||oacw.de^
 ||oakpyxyea.com^
 ||oao-d.openx.net^
@@ -6446,11 +6383,9 @@
 ||offline-video-cdn.wshareit.com^
 ||ohgizmo.us.intellitxt.com^
 ||ohsex.pro^
-||ojc9f.bemobtrk.com^
 ||okmagazine.us.intellitxt.com^
 ||ok.uk.intellitxt.com^
 ||okvfijgdmqton.bid^
-||ol5iz.bemobtrk.com^
 ||olimp.bet^
 ||olxpl-d.openx.net^
 ||olx.pl.oferto.org^
@@ -6478,7 +6413,6 @@
 ||online-wohnzimmer.de^
 ||on.maxspeedcdn.com^
 ||onmobile.com^
-||onnw9.bemobtrk.com^
 ||onscroll-d.openx.net^
 ||onsite-tag-logs.apps.nielsen.com^
 ||onsittonsin.pro^
@@ -6573,7 +6507,6 @@
 ||outstream.tremorvideo.com^
 ||out-there-media.com^
 ||ouyayule.com^
-||ov5tb.bemobtrk.com^
 ||overclockersonline.us.intellitxt.com^
 ||overdomesticateperisperm.club^
 ||overstock.tt.omtrdc.net^
@@ -6591,7 +6524,6 @@
 ||p2pool.in^
 ||p2pool.info^
 ||p2pool.neocities.org^
-||p30t3.bemobtrk.com^
 ||p3.eyereturn.com^
 ||p51u9i.trafficmagnates.com^
 ||p.a4.tl^
@@ -6829,7 +6761,6 @@
 ||plde.bestshopping-voucher.com^
 ||pleasedontslaymy.download^
 ||pl-gmtdmp.mookie1.com^
-||plgxy.bemobtrk.com^
 ||p.liadm.com^
 ||plmm16.bestshopping-voucher.com^
 ||plmokn.pw^
@@ -6905,7 +6836,6 @@
 ||powersaver.s.xoxknct.com^
 ||powersol.de^
 ||pozvonim.com^
-||ppjkm.bemobtrk.com^
 ||pp.lp4.io^
 ||p.presage.io^
 ||pr1.rat.xxx^
@@ -7126,7 +7056,6 @@
 ||p.wowtrk.com^
 ||pw.wpu.sh^
 ||px.cdn.creative.medialytics.com^
-||pxd8w.bemobtrk.com^
 ||pxf-xender2.xenderbox.com^
 ||pxgcdn.com^
 ||px.gumgum.com^
@@ -7135,15 +7064,10 @@
 ||pxl.jivox.com^
 ||pyq6n.com^
 ||p.zetadeo.com^
-||q3ppl.bemobtrk.com^
-||q5tea.bemobtrk.com^
 ||qaamgo-d.openx.net^
 ||qa-gmtdmp.mookie1.com^
 ||qatarairways.tt.omtrdc.net^
-||qcb7o.bemobtrk.com^
 ||qdcdn.me^
-||qdl8d.bemobtrk.com^
-||qdyfa.bemobtrk.com^
 ||qiroris.pw^
 ||qj.us.intellitxt.com^
 ||qlipsodigital.checkm8.com^
@@ -7520,7 +7444,6 @@
 ||rvty.net^
 ||rwadx.fuseplatform.net^
 ||rx8club.us.intellitxt.com^
-||rxtun.bemobtrk.com^
 ||rydium.us.intellitxt.com^
 ||rzpellets.com^
 ||s0.2mdn.net^
@@ -7531,10 +7454,8 @@
 ||s1471.t.eloqua.com^
 ||s1481.t.eloqua.com^
 ||s1.adform.net^
-||s1aeg.bemobtrk.com^
 ||s1.cdncontents.com^
 ||s1-eu.adform.net^
-||s1xlk.bemobtrk.com^
 ||s2150.t.eloqua.com^
 ||s248.meetrics.net^
 ||s282.meetrics.net^
@@ -7560,7 +7481,6 @@
 ||sagan.iad-03.braze.com^
 ||s-a.innovid.com^
 ||saintine.store^
-||sajxt.bemobtrk.com^
 ||sakthikaa.com^
 ||saleads.pro^
 ||salemwebnetworks-d.openx.net^
@@ -7898,7 +7818,6 @@
 ||shinnego.com^
 ||shinobi.jp^
 ||shinyglamy.com^
-||shnv9.bemobtrk.com^
 ||shoesmegastore.com^
 ||shoesmonline.com^
 ||shoesvalley.cn^
@@ -8229,7 +8148,6 @@
 ||static.appcloudbox.net^
 ||static.aprod.scopely.io^
 ||static-bp.kameleoon.com^
-||static.cdn.responsys.net^
 ||staticcfstg.adsafeprotected.com^
 ||static.contentabc.com^
 ||static.eaglecdn.com^
@@ -8477,14 +8395,9 @@
 ||t1.g.mi.com^
 ||t2.a.market.xiaomi.com^
 ||t3.a.market.xiaomi.com^
-||t484x.bemobtrk.com^
 ||t4.a.market.xiaomi.com^
-||t4edw.bemobtrk.com^
 ||t5.a.market.xiaomi.com^
-||t5glo.bemobtrk.com^
-||t66ex.bemobtrk.com^
 ||t70aaa.trafficmagnates.com^
-||t9i0r.bemobtrk.com^
 ||tabakshop2000.de^
 ||tabforacause-d.openx.net^
 ||tableviewer.club^
@@ -8613,11 +8526,9 @@
 ||tg1.aniview.com^
 ||tgdaily.us.intellitxt.com^
 ||tg.dr.socdm.com^
-||tgkox.bemobtrk.com^
 ||t.gotporn.com^
 ||tg.socdm.com^
 ||tgwidget.com^
-||tgwvi.bemobtrk.com^
 ||th.adserver.yahoo.com^
 ||thathappened.us.intellitxt.com^
 ||thatrowrofired.info^
@@ -9255,7 +9166,6 @@
 ||track.wickedreports.com^
 ||track.wordzen.com^
 ||track.wt-eu02.net^
-||track.wzeid.bemobtrk.com^
 ||track.xapads.com^
 ||track.xmax.jp^
 ||track.xtrasize.com^
@@ -9354,7 +9264,6 @@
 ||ts.market.mi-img.com^
 ||ts-nataliacoxxx.com^
 ||tsrid.cxense.com^
-||tsv5l.bemobtrk.com^
 ||tsvansbachpiranhas.de^
 ||ts.visitstats.com^
 ||tsxclub.us.intellitxt.com^
@@ -9435,12 +9344,10 @@
 ||uf.noclef.com^
 ||uggcp.com^
 ||uhf.microsoft.com^
-||uhkfd.bemobtrk.com^
 ||uidbox.uimserv.net^
 ||uinames.com^
 ||u.in.meizu.com^
 ||uip.semasio.net^
-||uk2kg.bemobtrk.com^
 ||uk.adserver.yahoo.com^
 ||uk-ads.openx.net^
 ||ukkey3.space^
@@ -9693,7 +9600,6 @@
 ||vis.vi-serve.com^
 ||vitalfootball.uk.intellitxt.com^
 ||vitalis-pankratius.de^
-||vitals.vercel-analytics.com^
 ||vite-envogue.de^
 ||viumbe-d.openx.net^
 ||vivaispinelli.it^
@@ -9754,7 +9660,6 @@
 ||vz-cdn2.contentabc.com^
 ||vz-cdn.contentabc.com^
 ||vzonebd.vuclip.com^
-||w0i7c.bemobtrk.com^
 ||waagemann.de^
 ||waaws.tk^
 ||wagner-store.com^
@@ -9796,7 +9701,6 @@
 ||wctrk.com^
 ||wd.adcolony.com^
 ||wdpro-mkt-prod2-lb.campaign.adobe.com^
-||wdqeh.bemobtrk.com^
 ||weareheard.org^
 ||weatherus-d.openx.net^
 ||web0.track.appier.net^
@@ -9855,7 +9759,6 @@
 ||wellensteynjacket.com^
 ||wellness-dieband.de^
 ||weltenweiterwanderer.de^
-||wemql.bemobtrk.com^
 ||werkzeug-box.com^
 ||westads.simpli.fi^
 ||westbriton.uk.intellitxt.com^
@@ -9885,6 +9788,7 @@
 ||widgets.lendingtree.com^
 ||widget.solarquotes.com.au^
 ||widgets.tcimg.com^
+||widget.uservoice.com^
 ||widget.vietnamnetad.vn^
 ||wiegeschenkt.de^
 ||wiemanlebensoll.at^
@@ -10045,7 +9949,6 @@
 ||xentracking.com^
 ||xerox300.000webhostapp.com^
 ||x-exchanger.co.uk^
-||xfbkg.bemobtrk.com^
 ||xfgsdhgxg.myshopify.com^
 ||xgogi.com^
 ||xgoqw.sexxdate.net^
@@ -10053,7 +9956,6 @@
 ||x.innovid.com^
 ||x.instreamatic.com^
 ||xius.com^
-||xjj5k.bemobtrk.com^
 ||xl-1.de^
 ||xlog.byteoversea.com^
 ||xlog-va.byteoversea.com^
@@ -10083,7 +9985,6 @@
 ||xpool.ca^
 ||xpool.net^
 ||xrea.com^
-||xsa5x.bemobtrk.com^
 ||x.shopsavvy.com^
 ||xs.instreamatic.com^
 ||xtop.me^
@@ -10099,11 +10000,11 @@
 ||xxxcom.co^
 ||xxxmeet.net^
 ||xy7elite.com^
-||y46ju.bemobtrk.com^
 ||yaarlnk.com^
 ||yacurlik.com^
 ||yahoo-news.co^
 ||yahoo.nuggad.net^
+||yahoo.uservoice.com^
 ||yamechanic.com^
 ||yast.rutube.ru^
 ||ybcoin.com^
@@ -10115,7 +10016,6 @@
 ||yellowpost.de^
 ||yes8sg.com^
 ||yetishare.com^
-||yeuki.bemobtrk.com^
 ||yibacurd.com^
 ||yieldbird-d.openx.net^
 ||yieldlove-d.openx.net^
@@ -10163,11 +10063,9 @@
 ||zatznotfunny.us.intellitxt.com^
 ||zawmyohtut.com^
 ||zbbxa.adulttdates.com^
-||zbctn.bemobtrk.com^
 ||zdah79xu5ik7.com^
 ||zdbb.netshelter.net^
 ||zdnet.be.intellitxt.com^
-||zdpsk.bemobtrk.com^
 ||zdunex25.e398mod.com^
 ||zedo-d.openx.net^
 ||zeitpunkte-film.de^
@@ -10202,9 +10100,7 @@
 ||zonishop.com^
 ||zoopla-d.openx.net^
 ||zpool.ca^
-||zr4cq.bemobtrk.com^
 ||zr9.notifications.website^
-||zsjcl.bemobtrk.com^
 ||zsolo.bid^
 ||zubehor-haushaltsgerate.com^
 ||zug.us.intellitxt.com^
