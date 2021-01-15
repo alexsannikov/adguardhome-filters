@@ -1038,6 +1038,7 @@
 ||aktrack.pubmatic.com^
 ||albamariasanchez.es^
 ||albertsgruen.de^
+||alchemist.go2cloud.org^
 ||alchemyworldwide.tt.omtrdc.net^
 ||alchetron.com^
 ||alfklstore.com^
@@ -4724,6 +4725,7 @@
 ||info.static.startappservice.com^
 ||info.yahoo.com^
 ||ingersoll1892.com^
+||ingest.sentry.io^
 ||ingest.vungle.akadns.net^
 ||ingest.vungle.com^
 ||ing-gruenewald.de^
@@ -5426,6 +5428,7 @@
 ||log.uniconsent.mgr.consensu.org^
 ||log.user-clicks.com^
 ||log-va.tiktokv.com^
+||log.videocampaign.co^
 ||log.vietnamnetad.vn^
 ||logws1354.ati-host.net^
 ||log.xzcs3zlph.com^
