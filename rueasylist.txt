@@ -1038,7 +1038,6 @@
 ||aktrack.pubmatic.com^
 ||albamariasanchez.es^
 ||albertsgruen.de^
-||alchemist.go2cloud.org^
 ||alchemyworldwide.tt.omtrdc.net^
 ||alchetron.com^
 ||alfklstore.com^
@@ -2584,7 +2583,6 @@
 ||christinmarit.de^
 ||chrodoo-media.de^
 ||chronophotographie.science^
-||chtbl.com^
 ||chupapo.ru^
 ||ci.adsafeprotected.com^
 ||cieh.mx^
@@ -2624,6 +2622,7 @@
 ||click2ckick.icu^
 ||click2me.club^
 ||click6.expelates.com^
+||clickagy.com^
 ||clickaine.com^
 ||click.appnext.com^
 ||click.atdmt.com^
@@ -3023,12 +3022,10 @@
 ||c.zetadeo.com^
 ||cz-gmtdmp.mookie1.com^
 ||cz.static.etargetnet.com^
-||d10lumateci472.cloudfront.net^
 ||d13k7prax1yi04.cloudfront.net^
 ||d14qpp2he5atys.cloudfront.net^
 ||d1d5p7uxjr4j28.cloudfront.net^
 ||d1dagyb1ctngx1.cloudfront.net^
-||d1nmxiiewlx627.cloudfront.net^
 ||d1rg2274px6zb.cloudfront.net^
 ||d1tqp15egmc1qo.cloudfront.net^
 ||d1wsidr7aabb18.cloudfront.net^
@@ -3036,7 +3033,6 @@
 ||d24ak3f2b.top^
 ||d28n7yywqog3r7.cloudfront.net^
 ||d29xw9s9x32j3w.cloudfront.net^
-||d2ox6x0y9xhicd.cloudfront.net^
 ||d2rb60829qiz9y.cloudfront.net^
 ||d2x0118v5hofu3.cloudfront.net^
 ||d2yz0oamomyxzv.cloudfront.net^
@@ -3046,7 +3042,6 @@
 ||d3dw9e5ep9si6p.cloudfront.net^
 ||d3e5zkjv0mw5t1.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
-||d3mr7y154d2qg5.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
 ||d3ra9679oeq3gx.cloudfront.net^
 ||d4.click-here.pro^
@@ -3262,6 +3257,7 @@
 ||dk-gmtdmp.mookie1.com^
 ||dkr1.ssisurveys.com^
 ||dkyp75kj7ldlr.cloudfront.net^
+||dlaczegoomega3.natural.pl^
 ||dl.appnext.com^
 ||dlauten.bplaced.net^
 ||dl.files.wshareit.com^
@@ -4725,7 +4721,6 @@
 ||info.static.startappservice.com^
 ||info.yahoo.com^
 ||ingersoll1892.com^
-||ingest.sentry.io^
 ||ingest.vungle.akadns.net^
 ||ingest.vungle.com^
 ||ing-gruenewald.de^
@@ -5428,7 +5423,6 @@
 ||log.uniconsent.mgr.consensu.org^
 ||log.user-clicks.com^
 ||log-va.tiktokv.com^
-||log.videocampaign.co^
 ||log.vietnamnetad.vn^
 ||logws1354.ati-host.net^
 ||log.xzcs3zlph.com^
@@ -7856,6 +7850,7 @@
 ||showads.pubmatic.com^
 ||showads-sgc.pubmatic.com^
 ||showads-sg.pubmatic.com^
+||showheroes.com^
 ||shoxhome.com^
 ||shrink-service.it^
 ||sh-staging-cdn.younetmedia.com^
@@ -8277,7 +8272,6 @@
 ||strikeadcdn.s3.amazonaws.com^
 ||str.trafficmagnates.com^
 ||st.tubecorporate.com^
-||studentloan.host^
 ||studiocarlina.com^
 ||studio-t.teads.tv^
 ||studioy.de^
@@ -8797,7 +8791,6 @@
 ||track.bustykimberxxx.com^
 ||track.buyma.com^
 ||track.cableguysex.com^
-||track.cam4tracking.com^
 ||track.campaignmonitor.com^
 ||track.cassandracruz.com^
 ||track.catalinacruz.com^
@@ -10067,6 +10060,7 @@
 ||yun-static.soperson.com^
 ||yupiromo.ru^
 ||yurivideo.com^
+||yxhstwzjbu.info^
 ||zadarma.com^
 ||za-gmtdmp.mookie1.com^
 ||zahmarzt.de^
