@@ -636,6 +636,7 @@
 ||ad.linkstorms.com^
 ||adlinktech.com^
 ||adlink.wf^
+||ad-loupe.com^
 ||admanager.somoydigital.com^
 ||adman-test-php5.trafficmagnates.com^
 ||adman-test.trafficmagnates.com^
@@ -4275,6 +4276,7 @@
 ||gv1.xdrig.com^
 ||gwp.nuggad.net^
 ||gxb.mmstat.com^
+||gxbrowser.net^
 ||gxjsnjcwd.myshopify.com^
 ||gz.adriver.ru^
 ||h53n3o.trafficmagnates.com^
@@ -7758,6 +7760,7 @@
 ||sendpulse.com^
 ||seniorenheimuhr.de^
 ||sensoro.com^
+||sentry.io^
 ||seo.mediaz.vn^
 ||seprun.com^
 ||sepsale.com^
