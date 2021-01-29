@@ -809,6 +809,7 @@
 ||adshop.infolinks.com^
 ||adshowcase.verizonmedia.com^
 ||adshowroom.adcolony.com^
+||adshrink.it^
 ||ads.indiaresults.com^
 ||ads.intergi.com^
 ||ads.ironicdesign.com^
@@ -846,7 +847,6 @@
 ||ads.proboards.com^
 ||ads.publick.apa.net^
 ||ads.pubmatic.com^
-||adspyglass.com^
 ||ads.realsrv.com^
 ||ads.rss-services.com^
 ||adsrt.com^
@@ -1078,7 +1078,6 @@
 ||allwomenstalk.us.intellitxt.com^
 ||alma-chic.es^
 ||almosto.com^
-||alnera.eu^
 ||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||alpha-ace.loginfra.com^
@@ -2625,6 +2624,7 @@
 ||click.howdoesin.net^
 ||click.icptrack.com^
 ||click.infocenter.support^
+||clickiocdn.com^
 ||clickio.mgr.consensu.org^
 ||click.junmediadirect.com^
 ||click.linksynergy.com^
@@ -2686,6 +2686,7 @@
 ||cmp.faktor.mgr.consensu.org^
 ||cmp.geodns.tubemogul.com^
 ||cmp-lb-ap-southeast.tubemogul.com^
+||cmp.osano.com^
 ||cmp.teads.mgr.consensu.org^
 ||cmp.uniconsent.mgr.consensu.org^
 ||cmp.us.intellitxt.com^
@@ -3050,11 +3051,11 @@
 ||d3dw9e5ep9si6p.cloudfront.net^
 ||d3e5zkjv0mw5t1.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
-||d3ithbwcmjcxl7.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
 ||d3ra9679oeq3gx.cloudfront.net^
 ||d7016uqa4s0lw.cloudfront.net^
 ||d7.adsplay.xyz^
+||d7dza8s7j2am6.cloudfront.net^
 ||dabcc.us.intellitxt.com^
 ||dacash.streamplay.to^
 ||d.adroll.mgr.consensu.org^
@@ -4971,7 +4972,6 @@
 ||iridesce.shop^
 ||ir-in.amazon-adsystem.com^
 ||ir-it.amazon-adsystem.com^
-||irkerecue.com^
 ||ironsource-d.openx.net^
 ||ir-uk.amazon-adsystem.com^
 ||isabelhumpert.de^
@@ -6401,7 +6401,6 @@
 ||nivea.adform.net^
 ||nixnet.cz^
 ||nj.fo.startappservice.com^
-||njmaq.com^
 ||nj.origin.startappservice.com^
 ||nj.startappservice.com^
 ||njump.xmobistein.com^
@@ -6593,7 +6592,6 @@
 ||orfw.adsafeprotected.com^
 ||or-g2.gumgum.com^
 ||organize.central-messages.com^
-||org-dot-com.com^
 ||org.zaloapp.ads.zdn.vn^
 ||origin-ads.exdynsrv.com^
 ||origin-ads.exoclick.com^
