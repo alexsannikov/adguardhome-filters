@@ -1,4 +1,5 @@
 ||abs.twimg.com^
+||abtest-va-tiktok.byteoversea.com^
 ||ae0.bb01.ams2.tfbnw.net^
 ||ae0.bb01.atl1.tfbnw.net^
 ||ae0.bb01.bos2.tfbnw.net^
@@ -257,6 +258,9 @@
 ||connect.facebook.net.edgekey.net^
 ||crashlogs.whatsapp.net^
 ||d2rdfnizen5apl.cloudfront.net^
+||datememe.com^
+||dm.bytedance.com^
+||dm-maliva16.byteoversea.com^
 ||dnt.twimg.com^
 ||dualstack.pinterest.map.fastly.net^
 ||e10.whatsapp.net^
@@ -339,6 +343,7 @@
 ||g.whatsapp.net^
 ||hca.twimg.com^
 ||h-ct-m-fbx.fbsbx.com.online-metrix.net^
+||ibytedtos.com^
 ||image-proxy-origin.twimg.com^
 ||instagram.com^
 ||instagramstatic-a.akamaihd.net^
@@ -435,11 +440,15 @@
 ||mmi701.whatsapp.net^
 ||mmi731.whatsapp.net^
 ||mms.whatsapp.net^
+||mon.byteoversea.com^
 ||muscdn.com^
 ||musical.ly^
+||musically.ly^
 ||myspacecdn.com^
 ||myspace.com^
 ||o.twimg.com^
+||p16.hypstarcdn.com^
+||p16-tiktokcdn-com.akamaized.net^
 ||pbs.twimg.com^
 ||pinimg.com^
 ||pin.it^
@@ -470,6 +479,7 @@
 ||reddit-uploaded-video.s3-accelerate.amazonaws.com^
 ||r.twimg.com^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
+||sgali3.l.byteoversea.net^
 ||s.pinimg.com.edgekey.net^
 ||ssl2.twitter.com.edgekey.net^
 ||s-static.ak.facebook.com.edgekey.net^
@@ -483,14 +493,18 @@
 ||tiktokcdn.com^
 ||tiktokcdn-com.akamaized.net^
 ||tiktok.com^
+||tiktok.org^
 ||tiktokv.com^
 ||ton.twimg.com^
 ||tumblr.com^
 ||twimg0-0.akamaihd.net^
 ||twitter.com^
+||v16-tiktokcdn-com.akamaized.net^
+||verification-va.byteoversea.com^
 ||v.pinimg.com.edgekey.net^
 ||vpn.tfbnw.net^
 ||v.whatsapp.net^
 ||whatsapp.com^
 ||widgets.twimg.com^
 ||www-cdn.whatsapp.net^
+||xlog-va.byteoversea.com^

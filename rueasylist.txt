@@ -476,7 +476,6 @@
 ||abtest-sg.byteoversea.com^
 ||abtest-sg-tiktok.byteoversea.com^
 ||abtest-va.byteoversea.com^
-||abtest-va-tiktok.byteoversea.com^
 ||abtracker.us^
 ||abtrck.com^
 ||abum.com^
@@ -809,7 +808,6 @@
 ||adshop.infolinks.com^
 ||adshowcase.verizonmedia.com^
 ||adshowroom.adcolony.com^
-||adshrink.it^
 ||ads.indiaresults.com^
 ||ads.intergi.com^
 ||ads.ironicdesign.com^
@@ -2686,7 +2684,6 @@
 ||cmp.faktor.mgr.consensu.org^
 ||cmp.geodns.tubemogul.com^
 ||cmp-lb-ap-southeast.tubemogul.com^
-||cmp.osano.com^
 ||cmp.teads.mgr.consensu.org^
 ||cmp.uniconsent.mgr.consensu.org^
 ||cmp.us.intellitxt.com^
@@ -3720,8 +3717,17 @@
 ||ezstat.ru^
 ||eztexting.com^
 ||eztracks.us.intellitxt.com^
+||f1.market.mi-img.com^
+||f1.market.xiaomi.com^
+||f2.market.mi-img.com^
+||f2.market.xiaomi.com^
+||f3.market.mi-img.com^
+||f3.market.xiaomi.com^
 ||f4at8.bemobtrk.com^
+||f4.market.mi-img.com^
 ||f4.market.xiaomi.com^
+||f5.market.mi-img.com^
+||f5.market.xiaomi.com^
 ||fabeos-security.de^
 ||fabulouspanda.com^
 ||facebook-ads.mediaz.vn^
@@ -5574,7 +5580,6 @@
 ||lpm-francetv.nuggad.net^
 ||lpm-lagardere.nuggad.net^
 ||lpm-tf1.nuggad.net^
-||lptag.liveperson.net^
 ||lptracker.net.ru^
 ||lryboss.com^
 ||lse.uk.intellitxt.com^
@@ -9602,6 +9607,7 @@
 ||urperfit.com^
 ||us1.evadavdsp.pro^
 ||usaa.tt.omtrdc.net^
+||usablenet.com^
 ||us.adform.net^
 ||us.adserver.yahoo.com^
 ||us-ads.openx.net^
@@ -10147,7 +10153,6 @@
 ||xjj5k.bemobtrk.com^
 ||xl-1.de^
 ||xlog.byteoversea.com^
-||xlog-va.byteoversea.com^
 ||xml.ad-maven.com^
 ||xml.adop.co^
 ||xml.adventurefeeds.com^
