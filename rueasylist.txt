@@ -1514,7 +1514,6 @@
 ||api.speedshiftmedia.com^
 ||api.splunk.com^
 ||api.sponsorpay.com^
-||apissug.ucweb.com^
 ||api.startappservice.com^
 ||api.sunrise-sunset.org^
 ||api.theadex.com^
@@ -1523,7 +1522,6 @@
 ||api.tinypass.com^
 ||api.treasuredata.com^
 ||api.tw06.xlmc.sec.miui.com^
-||apiuccenter.ucweb.com^
 ||api.uparpu.com^
 ||api-us-east.zqtk.net^
 ||api.venyoo.ru^
@@ -1692,7 +1690,6 @@
 ||a.tribalfusion.com^
 ||atspace.de.intellitxt.com^
 ||attr.appsflyer.com^
-||attr.union.ucweb.com^
 ||att.sc.omtrdc.net^
 ||atugtinidhers.info^
 ||a.t.webtracker.jp^
@@ -2144,7 +2141,6 @@
 ||btos.pw^
 ||btr.domywife.com^
 ||btrkout.com^
-||bts-la.ucweb.com^
 ||bts.vpon.com^
 ||buallinfo.xyz^
 ||bubblemine.com^
@@ -2518,7 +2514,6 @@
 ||celebslam.us.intellitxt.com^
 ||celebuzz.us.intellitxt.com^
 ||cell-power-laser.de^
-||cemeta-ucads.ucweb.com^
 ||cening-setects.com^
 ||centralads.simpli.fi^
 ||centricabritishgas.d3.sc.omtrdc.net^
@@ -2688,7 +2683,6 @@
 ||cmp.uniconsent.mgr.consensu.org^
 ||cmp.us.intellitxt.com^
 ||cms.novaon.asia^
-||cms.ucweb.com^
 ||cn2.adserver.yahoo.com^
 ||cn.adriver.ru^
 ||cn.adserver.yahoo.com^
@@ -2930,7 +2924,6 @@
 ||creatives.cliphunter.com^
 ||creatives.inmotionhosting.com^
 ||creatives.pichunter.com^
-||creative-ucads.ucweb.com^
 ||creativey.online^
 ||creditagricole.tt.omtrdc.net^
 ||creditsansjustificatif.me^
@@ -2998,7 +2991,6 @@
 ||cuev.in^
 ||cultassoc.info^
 ||cunda.d3.sc.omtrdc.net^
-||c.union.ucweb.com^
 ||cupzwcxgx.com^
 ||currency.prebid.org^
 ||curriesunlimited.de^
@@ -3052,7 +3044,6 @@
 ||d3ra9679oeq3gx.cloudfront.net^
 ||d7016uqa4s0lw.cloudfront.net^
 ||d7.adsplay.xyz^
-||d7dza8s7j2am6.cloudfront.net^
 ||dabcc.us.intellitxt.com^
 ||dacash.streamplay.to^
 ||d.adroll.mgr.consensu.org^
@@ -3241,6 +3232,7 @@
 ||discountstoresl.club^
 ||discover.appnext.com^
 ||discoverecommerce.tt.omtrdc.net^
+||discovery.api.zaloapp.com^
 ||discovery-d.openx.net^
 ||discuss.appsflyer.com^
 ||discuss.newrelic.com^
@@ -3313,7 +3305,6 @@
 ||dov-e.com^
 ||dowjones-d.openx.net^
 ||down1.uc.cn^
-||down4.ucweb.com^
 ||downali.game.uc.cn^
 ||downherstorstitone.pro^
 ||download32.us.intellitxt.com^
@@ -3448,6 +3439,7 @@
 ||easyfileconvert.net^
 ||easyflirt.com^
 ||easyhash.pro^
+||easylist.club^
 ||easymcenter.com^
 ||easy-pdf.com^
 ||eatingwell.us.intellitxt.com^
@@ -3834,6 +3826,7 @@
 ||filmthreat.us.intellitxt.com^
 ||filmwad.us.intellitxt.com^
 ||filter.onwardclick.com^
+||filters.adtidy.org^
 ||fim.adnxs.com^
 ||finalgaming.co^
 ||fincastavancessetti.info^
@@ -4178,7 +4171,6 @@
 ||gj.track.uc.cn^
 ||gj.track.ucdns.uc.cn^
 ||gjvuxnfwsngmux.bid^
-||gjxz.ucweb.com^
 ||g.ladicdn.com^
 ||glaeser-kunst.de^
 ||glance.l.inmobicdn.net^
@@ -4646,7 +4638,6 @@
 ||idolbucks.com^
 ||idontlikeyouinthatway.us.intellitxt.com^
 ||idpix.media6degrees.com^
-||id-trending.ucweb.com^
 ||idx.liadm.com^
 ||ie.adserver.yahoo.com^
 ||iefjcoiefhv.myshopify.com^
@@ -4728,17 +4719,13 @@
 ||img.livejasmin.com^
 ||img.masoffer.net^
 ||imgmaze.pw^
-||img.mp.ucweb.com^
 ||img.nui.media^
-||img-peco.ucweb.com^
 ||imgportal.eclick.vn^
 ||imgproc1.livejasmin.com^
 ||img.promoddl.com^
 ||imgshare.info^
-||img-swarm.ucweb.com^
 ||imgtown.pw^
 ||img.tradedoubler.com^
-||img.ucweb.com^
 ||img.vietnamnetad.vn^
 ||imgview.pw^
 ||imgwallet.com^
@@ -4814,7 +4801,6 @@
 ||inquake.de.intellitxt.com^
 ||inquirer-interactive-d.openx.net^
 ||inrix.com^
-||insafe.ucweb.com^
 ||inscreen.widespace.com^
 ||insidemacgames.us.intellitxt.com^
 ||insightenterprises.tt.omtrdc.net^
@@ -4853,7 +4839,6 @@
 ||internetoptimizer.s.xoxknct.com^
 ||internetretailer.d2.sc.omtrdc.net^
 ||inthefuture.shop^
-||intlsucus.ucweb.com^
 ||intogossip.us.intellitxt.com^
 ||intomobile.us.intellitxt.com^
 ||intranet.amobee.com^
@@ -5332,7 +5317,6 @@
 ||l1.cdn.qnsr.com^
 ||l610i.bemobtrk.com^
 ||la2.eclick.vn^
-||la4lbg.uae2grp.ucweb.com^
 ||laaming.com^
 ||labaleine.gg^
 ||labferour.club^
@@ -5349,7 +5333,6 @@
 ||lalande.iad-03.braze.com^
 ||lamarsky.com^
 ||lambdafoobar.de^
-||landing.fakehub.com^
 ||landing.mediaz.vn^
 ||landingsplash.xyz^
 ||landscape24.de^
@@ -5388,7 +5371,6 @@
 ||lbnyj2.bidder.owneriq.net^
 ||lb.production-public.tubi.io^
 ||lbsjc.bidder.owneriq.net^
-||lbs.ucnews.ucweb.com^
 ||lb-us.vidora.com^
 ||lcidc.liadm.com^
 ||ldschurch.tt.omtrdc.net^
@@ -5535,8 +5517,6 @@
 ||logs.ereality.org^
 ||logs.juspay.in^
 ||log.spotify.com^
-||logssug-sf.ucweb.com^
-||logssug.ucweb.com^
 ||log.starseed.fr^
 ||log.tiktokv.com^
 ||log.toutiao50.com^
@@ -5743,7 +5723,6 @@
 ||mads.amazon-adsystem.com^
 ||m.adserver.yahoo.com^
 ||mad.uk.intellitxt.com^
-||ma.fakehub.com^
 ||mag.iad-03.braze.com^
 ||magliecalciocn.net^
 ||magnetic.com^
@@ -6258,7 +6237,6 @@
 ||nahnoji.cz^
 ||nanashoe.com^
 ||nan.netmng.com^
-||napi.ucweb.com^
 ||nascardigitalsap.d2.sc.omtrdc.net^
 ||nascardm-d.openx.net^
 ||nashira.iad-06.braze.com^
@@ -6277,7 +6255,6 @@
 ||natureworldnews.us.intellitxt.com^
 ||nautilus.d2.sc.omtrdc.net^
 ||nautilus.tt.omtrdc.net^
-||navicms.ucweb.com^
 ||navoria.de^
 ||nbajerseysales.pro^
 ||nbcnewyork.us.intellitxt.com^
@@ -6731,11 +6708,9 @@
 ||pcper.us.intellitxt.com^
 ||pcpro.uk.intellitxt.com^
 ||pc.thevideo.me^
-||pc.ucweb.com^
 ||pcwelt.de.intellitxt.com^
 ||pcworldcommunication.d2.sc.omtrdc.net^
 ||pcw.uk.intellitxt.com^
-||pdds-cdn.ucweb.com^
 ||p.de^
 ||pdn.adingo.jp^
 ||pdn.applovin.com^
@@ -6842,7 +6817,6 @@
 ||pixel-eu.rubiconproject.net.akadns.net^
 ||pixel.everesttech.net^
 ||pixel.indieclick.com^
-||pixel-insight.ucweb.com^
 ||pixeljs-ads.pubmatic.com^
 ||pixel.mathtag.com.edgekey.net^
 ||pixel.mtrcs.samba.tv^
@@ -6910,7 +6884,6 @@
 ||pl.spanel.gem.pl^
 ||pltamaxr.com^
 ||plugins.blueconic.net^
-||plugin.ucads.ucweb.com^
 ||plus.iwon.com^
 ||plustgl.info^
 ||pl-v2.presage.io^
@@ -7204,7 +7177,6 @@
 ||pxf-xender2.xenderbox.com^
 ||pxgcdn.com^
 ||px.gumgum.com^
-||px-intl.ucweb.com^
 ||pxl.bidvertiser.com^
 ||pxl.jivox.com^
 ||px.steelhousemedia.com^
@@ -7632,7 +7604,6 @@
 ||sact.atdmt.com^
 ||s.admaym.com^
 ||s.ad.smaato.net^
-||safe.ucweb.com^
 ||sagan.iad-03.braze.com^
 ||s-a.innovid.com^
 ||saintine.store^
@@ -7943,7 +7914,6 @@
 ||sgmedia.adspirit.net^
 ||sg.mmstat.com^
 ||s.go-mpulse.net^
-||sgpac.account.xiaomi.com^
 ||sgpixel.adsafeprotected.com^
 ||sgpmnk.com^
 ||sgsc.iasds01.com^
@@ -9508,13 +9478,11 @@
 ||ubh-d.openx.net^
 ||ubiqpool.io^
 ||ubm.tt.omtrdc.net^
-||ucads-cdn.ucweb.com^
 ||ucattr.vmate.in^
-||uccricket-napi.ucweb.com^
 ||ucip.uc.cn^
 ||ucrypto.net^
 ||uc.ucdns.uc.cn^
-||ucus.ucweb.com^
+||ucweb.com^
 ||udash.umengcloud.com^
 ||udc.yahoo.com^
 ||udn-usd-d.openx.net^
@@ -9573,7 +9541,6 @@
 ||uoldid.ru^
 ||uol-d.openx.net^
 ||u.openx.net^
-||up4-intl.ucweb.com^
 ||upc.d2.sc.omtrdc.net^
 ||up.cm.ksmobile.com^
 ||updateacces.org^
@@ -9607,7 +9574,6 @@
 ||urperfit.com^
 ||us1.evadavdsp.pro^
 ||usaa.tt.omtrdc.net^
-||usablenet.com^
 ||us.adform.net^
 ||us.adserver.yahoo.com^
 ||us-ads.openx.net^
@@ -9625,7 +9591,6 @@
 ||useast.bfmio.com^
 ||usedeverywhere-d.openx.net^
 ||userapps.truecaller.com^
-||user-center-pre.ucweb.com^
 ||userdata.andrcool.com^
 ||userheat.com^
 ||user.lucidmedia.com^
@@ -9644,8 +9609,6 @@
 ||uss3star.com^
 ||ustest.livejasmin.com^
 ||us-tracking.dyntrk.com^
-||us-ucdc-upaas.ucweb.com^
-||us-unpm-upaas.ucweb.com^
 ||us-u.openx.net^
 ||us-west-1.onemobile.yahoo.com^
 ||us-west-2.event.prod.bidr.io^
@@ -9753,6 +9716,7 @@
 ||videosalon.by^
 ||videos.fyi^
 ||video.startappservice.com^
+||video-stats.l.google.com^
 ||video.streaming.estream.to^
 ||videozr.com^
 ||vidmatic.fuseplatform.net^
@@ -9822,7 +9786,6 @@
 ||v-preprod.amazon-adsystem.com^
 ||vprmnwbskk.com^
 ||v.prod.w-x.co^
-||vps.ucweb.com^
 ||vptbn.com^
 ||vqumzz.myshopify.com^
 ||vq-us-east-1.amazon-adsystem.com^
@@ -10074,14 +10037,11 @@
 ||wotoba.de^
 ||woundreatand.pro^
 ||wowinterface.us.intellitxt.com^
-||wow-lion.ucweb.com^
 ||wowtrk.com^
 ||wow.uc.cn^
-||wow.ucweb.com^
 ||wp2.appnext.com^
 ||wp.appnext.com^
 ||wpcdn1.herokuapp.com^
-||wpk-auth.ucweb.com^
 ||wpni.tt.omtrdc.net^
 ||wpp.krxd.net^
 ||wpr.hot-mob.com^
