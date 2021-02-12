@@ -1,6 +1,7 @@
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
+||0d822cea4ffee.com^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
 ||10148.engine.mobileapptracking.com^
@@ -57,11 +58,15 @@
 ||247wallstreet.us.intellitxt.com^
 ||24m.nuggad.net^
 ||24wrestling.us.intellitxt.com^
+||28e220527a0b.com^
+||28fe3db510.com^
 ||2.cdn.echo.msk.ru^
 ||2d4c3870.info^
 ||2d4c3872.info^
 ||2snaps.us.intellitxt.com^
 ||2spyware.us.intellitxt.com^
+||30b83dd302.com^
+||315ed77de7.com^
 ||3188.engine.mobileapptracking.com^
 ||321j1157ftjd.tech^
 ||32d1d3b9c.se^
@@ -70,6 +75,7 @@
 ||3m.mediav.com^
 ||3ppa.jp.cinarra.com^
 ||3w.nuggad.net^
+||4068da5498.com^
 ||411mania.us.intellitxt.com^
 ||4984.engine.mobileapptracking.com^
 ||4e43ac9c.info^
@@ -77,11 +83,14 @@
 ||4wmp.nuggad.net^
 ||4w-wrestling.us.intellitxt.com^
 ||5726.bapi.adsafeprotected.com^
+||5c37a1d55aa9ab.com^
 ||5clickcashsoftware.com^
+||5e1fcb75b6d662d.com^
 ||5starhiphop.us.intellitxt.com^
 ||5starsupport.us.intellitxt.com^
 ||6063.bapi.adsafeprotected.com^
 ||67s6gxv28kin.com^
+||7078784c567.com^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
 ||79423.analytics.edgekey.net^
@@ -98,6 +107,7 @@
 ||a3pub.com^
 ||a4.adsplay.xyz^
 ||a5pub.com^
+||a624356910c.com^
 ||aaa.at4.info^
 ||aaa.dv0.info^
 ||aa.connextra.com^
@@ -168,6 +178,7 @@
 ||ad2.adnetwork.net^
 ||ad2.candy-network.com^
 ||ad2.cdns.turn.com^
+||ad2net.de^
 ||ad.360in.com^
 ||ad4.candy-network.com^
 ||ad.admitad.com^
@@ -196,6 +207,7 @@
 ||ad.caprofitx.com^
 ||adcloud-dp.nuggad.net^
 ||adcru.com^
+||addie.verticalnetwork.de^
 ||addkt-d.openx.net^
 ||ad-eu.p.otm-r.com^
 ||adfill.fuseplatform.net^
@@ -203,6 +215,7 @@
 ||adfreetv.ch^
 ||adg.d2c.ne.jp^
 ||adgen.socdm.com^
+||adhaus.de^
 ||ad-hoc-news.de.intellitxt.com^
 ||ad.hot-mob.com^
 ||ad.i2idata.com^
@@ -213,10 +226,12 @@
 ||adireto.fuseplatform.net^
 ||ad.linkstorms.com^
 ||ad.mediawayss.com^
+||admeira.ch^
 ||adm.fwmrm.net^
 ||admin.adsplay.xyz^
 ||admiral.mgr.consensu.org^
 ||ad.monetate.net^
+||admonkey.cc^
 ||admp-tc-bauer.adtlgc.com^
 ||admp-tc-mediahuis.adtlgc.com^
 ||admp-tc-sati.adtlgc.com^
@@ -233,6 +248,7 @@
 ||adop.fuseplatform.net^
 ||adopkorea-d.openx.net^
 ||a-dot-kinozal-tv.appspot.com^
+||adpark.de^
 ||ad.perfectaudience.com^
 ||adplexmedia.adk2.co^
 ||ad.polymorphicads.jp^
@@ -288,9 +304,11 @@
 ||ads.lanistaads.com^
 ||ads.lemmatechnologies.com^
 ||ads.lucidmedia.com^
+||ads-mall.com^
 ||ads.mediaforge.com^
 ||adsmetadata.startappservice.com^
 ||ads.netcommunities.com^
+||adsone.de^
 ||adspayformymortgage.win^
 ||adspayformy.site^
 ||ads.perfectaudience.com^
@@ -317,6 +335,7 @@
 ||adtigerpl.adspirit.net^
 ||adtrack1.midasplayer.com^
 ||adtrack.chartboosts.com^
+||ad-traffic.de^
 ||adtraffic.org^
 ||ad.turn.com^
 ||adunit.chango.com^
@@ -330,6 +349,7 @@
 ||adv.merlin.co.il^
 ||adwarereport.us.intellitxt.com^
 ||adw.d2c.ne.jp^
+||adwelt.com^
 ||adwin.startappservice.com^
 ||ad.wsod.com^
 ||adx2.adform.net^
@@ -343,8 +363,12 @@
 ||aexp.demdex.net^
 ||affilate-img-affasi.s3.amazonaws.com^
 ||affiliate.2mdn.net^
+||affiliate-premium-club.com^
 ||affiliates.bet-at-home.com^
 ||affiliationjs.s3.amazonaws.com^
+||affiliblatt.de^
+||affilicrawler.de^
+||affimax.de^
 ||aff.mclick.mobi^
 ||afimg.liveperson.com^
 ||aflt.market.yandex.ru^
@@ -543,6 +567,7 @@
 ||a.rmgserving.com^
 ||arthurmiddletoncapit.tt.omtrdc.net^
 ||artistdirect.us.intellitxt.com^
+||as997.de^
 ||asadventure.tt.omtrdc.net^
 ||ascendeum-d.openx.net^
 ||as.chango.com^
@@ -740,6 +765,7 @@
 ||blockshopper-d.openx.net^
 ||bloggernetwork-d.openx.net^
 ||b.logly.co.jp^
+||blogpay.eu^
 ||blucher.iad-03.braze.com^
 ||b.measuread.com^
 ||b.monetate.net^
@@ -802,11 +828,13 @@
 ||buzzhumor.us.intellitxt.com^
 ||by.essl.optimost.com^
 ||byutv.d1.sc.omtrdc.net^
+||bzsukdfbotd.com^
 ||c14.zedo.com^
 ||c1.adform.net^
 ||c1.atdmt.com^
 ||c1.zedo.com^
 ||c2.zedo.com^
+||c3477ddc09f.com^
 ||c3.zedo.com^
 ||c4d-cdn.adcolony.com^
 ||c4dm.adcolony.com^
@@ -875,6 +903,7 @@
 ||cc.iwon.com^
 ||c.company-target.com^
 ||ccs.livejasmin.com^
+||cd372fabc648.com^
 ||c.deployads.com^
 ||cd.ladsp.com^
 ||cdn11.contentabc.com^
@@ -1243,6 +1272,7 @@
 ||crtinf.livejasmin.com^
 ||crt.livejasmin.com^
 ||crunchmind-d.openx.net^
+||cs11.all-ti-cod.com^
 ||cs.adingo.jp^
 ||cs.atdmt.com^
 ||cs.emxdgt.com^
@@ -1310,6 +1340,7 @@
 ||data.coremetrics.com^
 ||data.de.coremetrics.com^
 ||data.mistat.rus.xiaomi.com^
+||data-slimspots.com^
 ||daviik.iad-03.braze.com^
 ||dbadk.nuggad.net^
 ||dbtechno.us.intellitxt.com^
@@ -1366,6 +1397,7 @@
 ||digitalhome.us.intellitxt.com^
 ||digitalmediaonline.us.intellitxt.com^
 ||digitalmediawire.us.intellitxt.com^
+||digitalresponse.de^
 ||digitalthrottle-d.openx.net^
 ||digitaltrends-d.openx.net^
 ||digitaltrends.us.intellitxt.com^
@@ -1430,6 +1462,7 @@
 ||driverguide.us.intellitxt.com^
 ||drizzydrake.us.intellitxt.com^
 ||dro4icho.ru^
+||drs24.com^
 ||drugscom.us.intellitxt.com^
 ||ds-api-public.addthis.com.edgekey.net^
 ||dsg.sc.omtrdc.net^
@@ -1497,6 +1530,7 @@
 ||ecanadanow.us.intellitxt.com^
 ||ec.atdmt.com^
 ||ecdn.firstimpression.io^
+||echtebesucher.de^
 ||ecm.adflex.vn^
 ||ecommercetimes.us.intellitxt.com^
 ||ecs.demdex.net^
@@ -1656,6 +1690,7 @@
 ||fatbackmedia.us.intellitxt.com^
 ||fatfreekitchen.us.intellitxt.com^
 ||fcanafta.tt.omtrdc.net^
+||fdeea04644.com^
 ||fe1-au.imrworldwide.com^
 ||fe2-au.imrworldwide.com^
 ||fe3-au.imrworldwide.com^
@@ -1688,6 +1723,7 @@
 ||findnsave.idahostatesman.com^
 ||firebase.com^
 ||firingsquad.us.intellitxt.com^
+||firstads.de^
 ||firstimpression-d.openx.net^
 ||firstshowing.us.intellitxt.com^
 ||fixya.us.intellitxt.com^
@@ -1753,6 +1789,7 @@
 ||funcel.mobi^
 ||fun.lbn.ru^
 ||funnel-assets.startappservice.com^
+||funtastic-ads.de^
 ||funtomic-d.openx.net^
 ||futurenet-d.openx.net^
 ||futurepublications.uk.intellitxt.com^
