@@ -11579,6 +11579,8 @@
 ||shadbase.com^
 ||shadbase.us^
 ||shadypi.com^
+||shagmag.com^
+||shagmag-media-2.s3.us-east-2.amazonaws.com^
 ||shahvani.com^
 ||shahvani.me^
 ||shahvatnakchat.chatovod.com^
@@ -14258,6 +14260,7 @@
 ||xvideos.blog.br^
 ||xvideos-cdn.com^
 ||xvideos.com^
+||xvideos.com.br^
 ||xvideoscom.me^
 ||xvideos.es^
 ||xvideos.eu.org^

@@ -336,6 +336,7 @@
 ||fbstatic-a.akamaihd.net^
 ||fbstatic.net^
 ||freebasics.com^
+||fundingchoicesmessages.google.com^
 ||g2.twimg.com^
 ||graph.whatsapp.net^
 ||g.twimg.com^

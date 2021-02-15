@@ -1305,6 +1305,7 @@
 ||d1.zedo.com^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d2.zedo.com^
+||d3q33rbmdkxzj.cloudfront.net^
 ||d3.zedo.com^
 ||d4.zedo.com^
 ||d5.zedo.com^
@@ -4031,6 +4032,7 @@
 ||track.friendsheart.com^
 ||tracking1.firstimpression.io^
 ||tracking.m6r.eu^
+||tracking.magnetmail.net^
 ||tracking.murdoog.com^
 ||tracking.publicidees.com^
 ||tracking.rus.miui.com^

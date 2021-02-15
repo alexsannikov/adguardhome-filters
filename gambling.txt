@@ -17,6 +17,7 @@
 ||21bet.com^
 ||21casino.com^
 ||21prive.com^
+||22bet.co.ke^
 ||22bet.com^
 ||22betpartners.com^
 ||24bettle.com^
@@ -151,6 +152,7 @@
 ||betgun.com^
 ||bethard.com^
 ||bet.hkjc.com^
+||betika.com^
 ||betin1.com^
 ||betin.com^
 ||betinternet.com^
@@ -184,6 +186,13 @@
 ||betpack.com^
 ||betpanther.com^
 ||betpassion.uno^
+||betpawa.com^
+||betpawa.com.gh^
+||betpawa.co.tz^
+||betpawa.co.zm^
+||betpawa.co.zw^
+||betpawa.ng^
+||betpawa.ug^
 ||betpci.com^
 ||betphoenix.ag^
 ||bet.pkr.com^
@@ -236,6 +245,7 @@
 ||betusa.ag^
 ||betus.com.pa^
 ||betvictor.com^
+||betway.co.ke^
 ||betway.com^
 ||betworks.com^
 ||betxchange.co.za^
@@ -813,6 +823,7 @@
 ||moneyplayscasino.com^
 ||montecarlocasino.com^
 ||morganbet.eu^
+||mozzartbet.co.ke^
 ||mozzartbet.com^
 ||mpcasino.com^
 ||mpi.gov.tr^
@@ -1046,6 +1057,8 @@
 ||sportlife.com.mk^
 ||sport.netbet.co.uk^
 ||sportodds.com^
+||sportpesa.com^
+||sportpesa.co.tz^
 ||sportsbet.com.au^
 ||sportsbet.co.za^
 ||sportsbet.io^
@@ -1070,6 +1083,7 @@
 ||sportstoto.com.my^
 ||sports.winner.com^
 ||sporttime.net^
+||sportybet.com^
 ||sportzbookz.com^
 ||spreadex.com^
 ||sssbet.com^
