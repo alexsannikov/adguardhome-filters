@@ -512,6 +512,7 @@
 ||api.zcoup.com^
 ||ap-northeast-1.event.prod.bidr.io^
 ||a.postrelease.com^
+||app.adjust.world^
 ||app.adywind.com^
 ||appanalytics.io^
 ||app.appsflyer.com^
@@ -1528,6 +1529,7 @@
 ||emaxhealth.us.intellitxt.com^
 ||emea-bidder.mathtag.com^
 ||emisja.contentstream.pl^
+||emsecure.net^
 ||emxhb.emxdgt.com^
 ||encyclocentral.us.intellitxt.com^
 ||encyclopediabritannica.blueconic.net^
