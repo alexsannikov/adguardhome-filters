@@ -88,6 +88,7 @@
 ||5starsupport.us.intellitxt.com^
 ||6063.bapi.adsafeprotected.com^
 ||67s6gxv28kin.com^
+||6ms.biz^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
 ||79423.analytics.edgekey.net^
@@ -1395,6 +1396,7 @@
 ||digit-life.uk.intellitxt.com^
 ||diply-d.openx.net^
 ||dircash-promost.com^
+||directhourshoulders-1.life^
 ||directtv.tt.omtrdc.net^
 ||di.rlcdn.com^
 ||discoverecommerce.tt.omtrdc.net^
@@ -3118,6 +3120,7 @@
 ||push.mgage.com^
 ||pushprofit.ru^
 ||p-v2.presage.io^
+||pvtag.yahoo.co.jp^
 ||pwinsider.us.intellitxt.com^
 ||px.gumgum.com^
 ||pxl.jivox.com^
@@ -4288,6 +4291,7 @@
 ||webfinance-d.openx.net^
 ||webfontsfree.org^
 ||webid.ad.daum.net^
+||web-jp.ad-v.jp^
 ||web.localytics.com^
 ||webmdcom.tt.omtrdc.net^
 ||webmd.demdex.net^
@@ -4401,6 +4405,7 @@
 ||x2.mookie1.com^
 ||xads.zedo.com^
 ||x.bidswitch.net^
+||xcmxsw.com^
 ||xenon.iad-03.braze.com^
 ||x-exchanger.co.uk^
 ||x.innovid.com^
