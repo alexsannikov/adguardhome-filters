@@ -88,7 +88,6 @@
 ||5starsupport.us.intellitxt.com^
 ||6063.bapi.adsafeprotected.com^
 ||67s6gxv28kin.com^
-||6ms.biz^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
 ||79423.analytics.edgekey.net^
@@ -215,6 +214,7 @@
 ||ad.i2idata.com^
 ||adimg.uimserv.net^
 ||adimpression.startappservice.com^
+||adincube.com^
 ||adinplay-d.openx.net^
 ||ad.ipredictive.com^
 ||adireto.fuseplatform.net^
@@ -645,6 +645,7 @@
 ||axel-springer-d.openx.net^
 ||aximsite.us.intellitxt.com^
 ||axp.zedo.com^
+||b174.s240.meetrics.net^
 ||b1sync.zemanta.com^
 ||b3.mookie1.com^
 ||b3-uk.mookie1.com^
@@ -1286,6 +1287,7 @@
 ||c.us1.dyntrk.com^
 ||customer.iad-03.braze.com^
 ||customers.kameleoon.com^
+||customers-lidl.kameleoon.com^
 ||cxad.cxense.com^
 ||cx.atdmt.com^
 ||cx.foresee.com^
@@ -1396,7 +1398,6 @@
 ||digit-life.uk.intellitxt.com^
 ||diply-d.openx.net^
 ||dircash-promost.com^
-||directhourshoulders-1.life^
 ||directtv.tt.omtrdc.net^
 ||di.rlcdn.com^
 ||discoverecommerce.tt.omtrdc.net^
@@ -3120,7 +3121,6 @@
 ||push.mgage.com^
 ||pushprofit.ru^
 ||p-v2.presage.io^
-||pvtag.yahoo.co.jp^
 ||pwinsider.us.intellitxt.com^
 ||px.gumgum.com^
 ||pxl.jivox.com^
@@ -3566,6 +3566,7 @@
 ||sltrib-d.openx.net^
 ||smartabouthealth.us.intellitxt.com^
 ||smartcarfinder.us.intellitxt.com^
+||smartclick.net^
 ||smartdevicecentral.us.intellitxt.com^
 ||smartermobi-d.openx.net^
 ||smartlify-d.openx.net^
@@ -4405,7 +4406,6 @@
 ||x2.mookie1.com^
 ||xads.zedo.com^
 ||x.bidswitch.net^
-||xcmxsw.com^
 ||xenon.iad-03.braze.com^
 ||x-exchanger.co.uk^
 ||x.innovid.com^
