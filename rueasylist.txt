@@ -2998,6 +2998,7 @@
 ||pn2.adserver.yahoo.com^
 ||p.nexac.com^
 ||pocketlint.uk.intellitxt.com^
+||point-of-entry.com^
 ||poki-d.openx.net^
 ||poldk.nuggad.net^
 ||politico-d.openx.net^
@@ -3172,6 +3173,7 @@
 ||rcm-na.amazon-adsystem.com^
 ||rc.rlcdn.com^
 ||rd.ambientplatform.vn^
+||rdstation.com.br^
 ||reachms.bfmio.com^
 ||reactads.cdn.adglare.net^
 ||reactads.engine.adglare.net^
@@ -4057,6 +4059,7 @@
 ||trk.kissmetrics.com^
 ||trk.mail.ru^
 ||trk.tidaltv.com^
+||tr.line.me^
 ||tr.masoffer.net^
 ||truevalue.d2.sc.omtrdc.net^
 ||trustarc.mgr.consensu.org^
