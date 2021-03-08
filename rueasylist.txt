@@ -638,6 +638,7 @@
 ||auc.ca-conv.jp^
 ||auction-load.unityads.unity3d.com^
 ||auction.unityads.unity3d.com^
+||audible.sc.omtrdc.net^
 ||audible.tt.omtrdc.net^
 ||audiencenetwork.facebook.com^
 ||audio.de.intellitxt.com^
@@ -663,6 +664,7 @@
 ||au-v2.presage.io^
 ||av1.xdrig.com^
 ||a-v2.presage.io^
+||av8.cm^
 ||a.vidora.com^
 ||aviraoperations.d3.sc.omtrdc.net^
 ||awardspace.de.intellitxt.com^
@@ -761,7 +763,9 @@
 ||bidstream.advertserve.com^
 ||bigbigforums.us.intellitxt.com^
 ||biksibo.ru^
+||bilanx.dcard.tw^
 ||bild.de.intellitxt.com^
+||bingdiantao.com^
 ||bink.uk.intellitxt.com^
 ||biosmagazine.uk.intellitxt.com^
 ||bip.presage.io^
@@ -1018,7 +1022,6 @@
 ||cdn.jivox.com^
 ||cdn.komoona.com^
 ||cdn.krxd.net^
-||cdn.ladicdn.com^
 ||cdn-lb.vungle.akadns.net^
 ||cdn-lb.vungle.com^
 ||cdn.logly.co.jp^
@@ -1734,6 +1737,7 @@
 ||femalefirst.uk.intellitxt.com^
 ||ferrago.uk.intellitxt.com^
 ||ff.connextra.com^
+||ffychb.com^
 ||fhmonline.us.intellitxt.com^
 ||fhm.uk.intellitxt.com^
 ||fh.under9.co^
@@ -1886,7 +1890,6 @@
 ||gj.mmstat.com^
 ||g.jp.miaozhen.com^
 ||gj.track.uc.cn^
-||g.ladicdn.com^
 ||glance.l.inmobicdn.net^
 ||global.adserver.yahoo.com^
 ||global.appnext.com^
@@ -2055,6 +2058,7 @@
 ||hw-cdn2.contentabc.com^
 ||hw-cdn.contentabc.com^
 ||h.zedo.com^
+||hzmiyou.cn^
 ||i16-tb.sgsnssdk.com.edgekey.net^
 ||i.360in.com^
 ||i.4see.mobi^
@@ -2784,6 +2788,7 @@
 ||nrc.ds.duapps.com^
 ||nrc.sd.duapps.com^
 ||ntcompatible.us.intellitxt.com^
+||ntpddq.com^
 ||nuggad.nuggad.net^
 ||nv.vi-serve.com^
 ||nw.ads.doko.jp^
@@ -4039,6 +4044,7 @@
 ||toyota.demdex.net^
 ||toysrus.tt.omtrdc.net^
 ||tps10216.doubleverify.com^
+||tps11005.doubleverify.com^
 ||tps11031.doubleverify.com^
 ||tps30.doubleverify.com^
 ||tps711.doubleverify.com^
@@ -4397,7 +4403,6 @@
 ||wiregirl.us.intellitxt.com^
 ||wirtualn-d.openx.net^
 ||withleather.us.intellitxt.com^
-||w.ladicdn.com^
 ||wl.aniview.com.edgekey.net^
 ||wlb1.ads.stickyadstv.com.akadns.net^
 ||wlb1.cdn.stickyadstv.com.akadns.net^
@@ -4456,6 +4461,10 @@
 ||xml.opera.com^
 ||xmlpitstop.us.intellitxt.com^
 ||xml.revenuehits.com^
+||xn--2qu92fhtx4ff.gold^
+||xn--2qu92fhtx4ff.video^
+||xn--mtsr39cnql.video^
+||xn--wxtr44c.video^
 ||xpl.theadex.com^
 ||x-us.appbaqend.com^
 ||yads.zedo.com^
