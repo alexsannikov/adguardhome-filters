@@ -660,7 +660,6 @@
 ||a.votpusk.ru^
 ||awardspace.de.intellitxt.com^
 ||away.us.intellitxt.com^
-||awecre.com^
 ||awmcenter.eu^
 ||aws-fr-sync.bidswitch.net^
 ||aws-oreg-cali-virg.ag.innovid.com.akadns.net^
@@ -3696,6 +3695,7 @@
 ||sr-weight.rlcdn.com^
 ||ss2.zedo.com^
 ||ss7.zedo.com^
+||s.search.naver.com^
 ||sshowads.pubmatic.com^
 ||ssl.clickbank.net^
 ||ssl.socdm.com^
@@ -4009,7 +4009,6 @@
 ||titsbro.pw^
 ||tizer.medikforum.ru^
 ||tizer.pohudetdoma.ru^
-||tka.tiki.vn^
 ||tls13.taboola.map.fastly.net^
 ||tls.ds.duapps.com^
 ||tm2.r-ad.ne.jp^
@@ -4483,7 +4482,6 @@
 ||yodleeinc.tt.omtrdc.net^
 ||yormedia-isr-gbp-d.openx.net^
 ||yoto-d.openx.net^
-||yotta.scrolller.com^
 ||yottos.com^
 ||yourtango.us.intellitxt.com^
 ||youtube-nocookie.com^
