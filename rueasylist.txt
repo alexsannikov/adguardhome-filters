@@ -1166,6 +1166,7 @@
 ||coed-d.openx.net^
 ||coedmagazine.us.intellitxt.com^
 ||co-gmtdmp.mookie1.com^
+||coincheck.com^
 ||coinimp.net^
 ||collect.iperceptions.com^
 ||collector-pxljub4etb.cl6.perimeterx.net^
@@ -1275,6 +1276,7 @@
 ||creative-p.undertone.com^
 ||creatives.cliphunter.com^
 ||creditagricole.tt.omtrdc.net^
+||crewita.co^
 ||cricket.mobileposse.com^
 ||cri.d1.sc.omtrdc.net^
 ||crid.bfmio.com^
@@ -1291,6 +1293,7 @@
 ||crtbb.livejasmin.com^
 ||crtinf.livejasmin.com^
 ||crt.livejasmin.com^
+||cruisteerses.co^
 ||crunchmind-d.openx.net^
 ||cs11.all-ti-cod.com^
 ||cs.adingo.jp^
@@ -1915,6 +1918,7 @@
 ||gossipcenter.us.intellitxt.com^
 ||gossiponthis.us.intellitxt.com^
 ||gossipteen.us.intellitxt.com^
+||go.techtarget.com^
 ||gottabemobile.us.intellitxt.com^
 ||gov.aniview.com^
 ||govpro.us.intellitxt.com^
@@ -2788,6 +2792,7 @@
 ||nrc.sd.duapps.com^
 ||ntcompatible.us.intellitxt.com^
 ||nuggad.nuggad.net^
+||nvidia.partners^
 ||nv.vi-serve.com^
 ||nw.ads.doko.jp^
 ||nyandcompany.com.ssl.sc.omtrdc.net^
@@ -2880,6 +2885,7 @@
 ||pandoramedia-mkt-prod1-t.campaign.adobe.com^
 ||partner.ads.placeiq.com^
 ||partner.knorex.com^
+||partners.optiontide.com^
 ||partnerstack.com^
 ||pasta.bl.duapps.com^
 ||pasta.da.duapps.com^
@@ -4429,6 +4435,7 @@
 ||worldnetdaily.us.intellitxt.com^
 ||worldssl.net^
 ||worldtravelguide.uk.intellitxt.com^
+||wouvista.com^
 ||wowinterface.us.intellitxt.com^
 ||wpcdn1.herokuapp.com^
 ||wpni.tt.omtrdc.net^
