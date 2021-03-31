@@ -1,8 +1,6 @@
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
-||0a6efd24b565c.com^
-||0c12b89c3738.com^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
 ||10148.engine.mobileapptracking.com^
@@ -35,7 +33,6 @@
 ||194192.engine.mobileapptracking.com^
 ||194792.engine.mobileapptracking.com^
 ||198935.engine.mobileapptracking.com^
-||1a7783db6c.com^
 ||1afcfcb2c.ninja^
 ||1biznes.net^
 ||1e0y.xyz^
@@ -56,11 +53,9 @@
 ||24m.nuggad.net^
 ||24wrestling.us.intellitxt.com^
 ||2664.tm.zedo.com^
-||2b3500784cd.com^
 ||2.cdn.echo.msk.ru^
 ||2d4c3870.info^
 ||2d4c3872.info^
-||2d86920f51.com^
 ||2snaps.us.intellitxt.com^
 ||2spyware.us.intellitxt.com^
 ||3165.tm.zedo.com^
@@ -68,14 +63,12 @@
 ||321j1157ftjd.tech^
 ||32d1d3b9c.se^
 ||33across-d.openx.net^
-||35d68b392b.com^
 ||360fenxi.mediav.com^
 ||3612.engine.mobileapptracking.com^
 ||3650.tm.zedo.com^
 ||3m.mediav.com^
 ||3ppa.jp.cinarra.com^
 ||3w.nuggad.net^
-||406a2cf98e7.com^
 ||411mania.us.intellitxt.com^
 ||480.zaloapp.ads.zdn.vn^
 ||4984.engine.mobileapptracking.com^
@@ -84,7 +77,6 @@
 ||4wmp.nuggad.net^
 ||4w-wrestling.us.intellitxt.com^
 ||5726.bapi.adsafeprotected.com^
-||5accb38d350.com^
 ||5clickcashsoftware.com^
 ||5starhiphop.us.intellitxt.com^
 ||5starsupport.us.intellitxt.com^
@@ -96,7 +88,6 @@
 ||8008.engine.mobileapptracking.com^
 ||83nsdjqqo1cau183xz.com^
 ||8696.engine.mobileapptracking.com^
-||8b18a31eb3.com^
 ||9864.engine.mobileapptracking.com^
 ||9down.us.intellitxt.com^
 ||9newstoday.net^
@@ -373,7 +364,6 @@
 ||aio.media^
 ||ai-personalization-prod-static.demandbase.com^
 ||ais.abacast.com^
-||ajansreklam.net^
 ||ajc.us.intellitxt.com^
 ||ajinomoto.d1.sc.omtrdc.net^
 ||ajnad.aljazeera.net^
@@ -507,7 +497,6 @@
 ||api.flocktory.com^
 ||api-flow.flyme.cn^
 ||api.flygame.io^
-||api.freewebfonts.org^
 ||api.gameanalytics.com^
 ||api-game.meizu.com^
 ||api.gif.duapps.com^
@@ -598,7 +587,6 @@
 ||ask-media-group-d.openx.net^
 ||askmen2.us.intellitxt.com^
 ||askmen.us.intellitxt.com^
-||a.speedostream.com^
 ||asqcondenast.nuggad.net^
 ||asqlesechos.nuggad.net^
 ||asqnext.nuggad.net^
@@ -672,7 +660,6 @@
 ||a.votpusk.ru^
 ||awardspace.de.intellitxt.com^
 ||away.us.intellitxt.com^
-||awecre.com^
 ||awmcenter.eu^
 ||aws-fr-sync.bidswitch.net^
 ||aws-oreg-cali-virg.ag.innovid.com.akadns.net^
@@ -698,11 +685,9 @@
 ||b.adnxs.com^
 ||b.ahs-online.net^
 ||balanced-clk.taptica.com^
-||baldiro.de^
 ||balleralert.us.intellitxt.com^
 ||bam.nr-data.net^
 ||bankofamerica.tt.omtrdc.net^
-||bannerexchange.com.au^
 ||banner-in.net^
 ||banners3.spacash.com^
 ||banner.volynnews.com^
@@ -1287,7 +1272,6 @@
 ||creative.mediaz.vn^
 ||creative-p.undertone.com^
 ||creatives.cliphunter.com^
-||creative.stripchat.com^
 ||creditagricole.tt.omtrdc.net^
 ||cricket.mobileposse.com^
 ||cri.d1.sc.omtrdc.net^
@@ -1521,7 +1505,6 @@
 ||dt00.net^
 ||dt07.net^
 ||dt.adsafeprotected.com^
-||dtprofit.com^
 ||d-track.send.microadinc.com^
 ||dts-5-split-vohnu.dts.innovid.com.akadns.net^
 ||dt.scanscout.com^
@@ -1549,7 +1532,6 @@
 ||e112.yt.srs.doubleverify.com^
 ||e1.cdn.qnsr.com^
 ||e1.emxdgt.com^
-||e1ff587aa50c.com^
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
@@ -1701,7 +1683,6 @@
 ||f4.market.xiaomi.com^
 ||f5.market.mi-img.com^
 ||f5.market.xiaomi.com^
-||f87b88d3649456.com^
 ||facebook-ads.mediaz.vn^
 ||facebookid.younetmedia.com^
 ||facebookofsex.com^
@@ -2067,7 +2048,6 @@
 ||hw-cdn2.adtng.com^
 ||hw-cdn2.contentabc.com^
 ||hw-cdn.contentabc.com^
-||hypoot.com^
 ||h.zedo.com^
 ||i16-tb.sgsnssdk.com.edgekey.net^
 ||i.360in.com^
@@ -2295,7 +2275,6 @@
 ||jqcdn01.herokuapp.com^
 ||jqcdn03.herokuapp.com^
 ||jqcdn2.herokuapp.com^
-||jqueryserve.org^
 ||jquery-uim.download^
 ||js.aaddcount.com^
 ||js.adflare.jp^
@@ -2361,6 +2340,7 @@
 ||kourier-tpat.eks-prod-1b.vungle.com^
 ||kourier-tpat.eks-prod-1c.vungle.com^
 ||kpopstarz.us.intellitxt.com^
+||krebsonsecurity.top^
 ||kr-gmtdmp.mookie1.com^
 ||krishnaw223.alphonso.tv^
 ||krone.nuggad.net^
@@ -2417,7 +2397,6 @@
 ||letsrun.us.intellitxt.com^
 ||lg.nanda.vn^
 ||lib.adnxs.com^
-||libedgolart.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
 ||libs.coremetrics.com^
 ||lifescript.us.intellitxt.com^
@@ -2588,7 +2567,6 @@
 ||mcclatchy-d.openx.net^
 ||mcdonaldscorporation.sc.omtrdc.net^
 ||mcdonaldscorporation.tt.omtrdc.net^
-||mcdstorage.com^
 ||mcs.eyereturn.com^
 ||media.adnetwork.vn^
 ||media.ambientplatform.vn^
@@ -3069,7 +3047,6 @@
 ||popoholic.us.intellitxt.com^
 ||poponthepop.us.intellitxt.com^
 ||popularmechanics.us.intellitxt.com^
-||poredii.com^
 ||porn-ad.org^
 ||porntalk.ru^
 ||portable-basketball.com^
@@ -3140,7 +3117,6 @@
 ||promotions-paradise.org^
 ||pro-networks.us.intellitxt.com^
 ||proof.mediaz.vn^
-||propbigo.com^
 ||propermedia-d.openx.net^
 ||proprofs-d.openx.net^
 ||prosto.cn.ua^
@@ -3291,7 +3267,6 @@
 ||retency.com^
 ||reunion.tt.omtrdc.net^
 ||reuters.demdex.net^
-||revjet.com^
 ||rhea.iad-03.braze.com^
 ||riafinancial.d2.sc.omtrdc.net^
 ||rickey.us.intellitxt.com^
@@ -3621,7 +3596,6 @@
 ||si.nuggad.net^
 ||sirius.iad-03.braze.com^
 ||site.flashx.cc^
-||sitegoto.com^
 ||sjc-249.sjc-rtb1.rfihub.com^
 ||sjedt.adsafeprotected.com^
 ||s.jsrdn.com^
@@ -3668,7 +3642,6 @@
 ||softonic.de.intellitxt.com^
 ||softpedia.uk.intellitxt.com^
 ||softpedia.us.intellitxt.com^
-||softspace.mobi^
 ||sohh.us.intellitxt.com^
 ||soma-assets.smaato.net^
 ||soma.smaato.net^
@@ -3862,7 +3835,6 @@
 ||sxcdn4.now.sh^
 ||sxcdn5.herokuapp.com^
 ||sxcdn6.now.sh^
-||sxuunews.pro^
 ||symantec.tt.omtrdc.net^
 ||symbian-freak.us.intellitxt.com^
 ||symbianone.us.intellitxt.com^
@@ -4058,7 +4030,6 @@
 ||tomshardware.us.intellitxt.com^
 ||tomsnetworking.us.intellitxt.com^
 ||toms.us.intellitxt.com^
-||tonsterandhantan.info^
 ||toofab.us.intellitxt.com^
 ||top777.ariom.ru^
 ||topdownloads.nl.intellitxt.com^
@@ -4128,7 +4099,6 @@
 ||trendmicrojp.d2.sc.omtrdc.net^
 ||trendmicro.tt.omtrdc.net^
 ||trend-trader.cc^
-||trfpump.com^
 ||tr-gmtdmp.mookie1.com^
 ||trial.api.huangye.miui.com^
 ||tribal.us.intellitxt.com^
@@ -4366,7 +4336,6 @@
 ||watchformytechstuff.com^
 ||waytogrow-d.openx.net^
 ||wazimo-d.openx.net^
-||wct.click^
 ||wd.adcolony.com^
 ||wdpro-mkt-prod2-lb.campaign.adobe.com^
 ||weareheard.org^
