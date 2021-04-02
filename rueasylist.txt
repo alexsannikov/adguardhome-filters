@@ -7,7 +7,9 @@
 ||102.112.207.net^
 ||10best.us.intellitxt.com^
 ||112.2o7.net^
+||119910.xyz^
 ||122.2o7.net^
+||145650.xyz^
 ||159126.engine.mobileapptracking.com^
 ||15.basebanner.com^
 ||15f3c01a.info^
@@ -84,6 +86,7 @@
 ||67s6gxv28kin.com^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
+||734137.xyz^
 ||79423.analytics.edgekey.net^
 ||8008.engine.mobileapptracking.com^
 ||83nsdjqqo1cau183xz.com^
@@ -154,6 +157,7 @@
 ||ac.mmstat.com^
 ||acnescarsx.info^
 ||acrdb.alphonso.tv^
+||acsbapp.com^
 ||action.media6degrees.com^
 ||actionscript.us.intellitxt.com^
 ||activewin.us.intellitxt.com^
@@ -229,6 +233,7 @@
 ||adnimation2-d.openx.net^
 ||adnimation-d.openx.net^
 ||adobecorp.sc.omtrdc.net^
+||adobedc.demdex.net^
 ||adobe.demdex.net^
 ||adobe.tt.omtrdc.net^
 ||adomega-d.openx.net^
@@ -1357,7 +1362,6 @@
 ||data.cmcore.com^
 ||data.coremetrics.com^
 ||data.de.coremetrics.com^
-||data.mistat.rus.xiaomi.com^
 ||daviik.iad-03.braze.com^
 ||dbadk.nuggad.net^
 ||dbtechno.us.intellitxt.com^
@@ -1891,6 +1895,7 @@
 ||gmtdmp.mookie1.com^
 ||go1.aniview.com^
 ||go2.mercy.ga^
+||go.acuityads.com^
 ||go.affec.tv^
 ||goal.us.intellitxt.com^
 ||go.ezodn.com^
@@ -2041,7 +2046,10 @@
 ||html.atm.youku.com^
 ||httpkafka.unityads.unity3d.com^
 ||huliq.us.intellitxt.com^
+||hulu.hb-api.omtrdc.net^
 ||hulu.hb.omtrdc.net^
+||hulu-ios.hb-api.omtrdc.net^
+||hulu-lr.hb-api.omtrdc.net^
 ||huntingtonbank.tt.omtrdc.net^
 ||hu.static.etargetnet.com^
 ||hv.adingo.jp^
@@ -2157,6 +2165,7 @@
 ||indus.iad-01.braze.com^
 ||inferna.iad-03.braze.com^
 ||infoevent.startappservice.com^
+||info.markmonitor.com^
 ||infopackets.us.intellitxt.com^
 ||infos-du-net.fr.intellitxt.com^
 ||info.startappservice.com^
@@ -2171,13 +2180,13 @@
 ||innity-d.openx.net^
 ||inquake.de.intellitxt.com^
 ||inquirer-interactive-d.openx.net^
-||inrix.com^
 ||inscreen.widespace.com^
 ||insidemacgames.us.intellitxt.com^
 ||insightenterprises.tt.omtrdc.net^
 ||insight.logly.co.jp^
 ||insight.mediaz.vn^
 ||insights.alphonso.tv^
+||insights.resonate.com^
 ||in-starlive-preroll.videoplaza.tv^
 ||in-starlive.videoplaza.tv^
 ||in-star.videoplaza.tv^
@@ -2249,6 +2258,7 @@
 ||jadserve.postrelease.com^
 ||jakeludington.us.intellitxt.com^
 ||jamecoelectronics.sc.omtrdc.net^
+||j.bg.adresult-sp.jp^
 ||jcb.sc.omtrdc.net^
 ||jcb.tt.omtrdc.net^
 ||jcrew.tt.omtrdc.net^
@@ -2317,6 +2327,7 @@
 ||keywordlink3.xlisting.jp^
 ||keywordlink.co.kr^
 ||keywords.adtlgc.com^
+||khdfmb.vip^
 ||kijiji-d.openx.net^
 ||killerstartups.us.intellitxt.com^
 ||kingofthehill.fox-fan.tv^
@@ -2340,7 +2351,6 @@
 ||kourier-tpat.eks-prod-1b.vungle.com^
 ||kourier-tpat.eks-prod-1c.vungle.com^
 ||kpopstarz.us.intellitxt.com^
-||krebsonsecurity.top^
 ||kr-gmtdmp.mookie1.com^
 ||krishnaw223.alphonso.tv^
 ||krone.nuggad.net^
@@ -2604,6 +2614,7 @@
 ||m.fb-account-page.realdumpspdf.com^
 ||m.funzone.by^
 ||mfx.mobilefuse.com^
+||mg0b68.vip^
 ||mi.adinterax.com^
 ||mibi.api.xiaomi.com^
 ||microad-d.openx.net^
@@ -2653,6 +2664,7 @@
 ||mooo.com^
 ||mopub-rtb.adfonic.net^
 ||mopub-win-us-east.bkswin.com^
+||more.blueconic.com^
 ||morningstar.us.intellitxt.com^
 ||motleyfool-d.openx.net^
 ||motortrend.us.intellitxt.com^
@@ -4077,7 +4089,6 @@
 ||tracking.m6r.eu^
 ||tracking.murdoog.com^
 ||tracking.publicidees.com^
-||tracking.rus.miui.com^
 ||tracking.validclick.com^
 ||tracking.vcommission.com^
 ||tracking.vietnamnetad.vn^
@@ -4156,6 +4167,7 @@
 ||uberm.bttn.io^
 ||ubh-d.openx.net^
 ||ubm.tt.omtrdc.net^
+||udata.elephantdata.net^
 ||udn-usd-d.openx.net^
 ||ud.tubemogul.com^
 ||uhf.microsoft.com^
