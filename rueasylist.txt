@@ -2400,6 +2400,7 @@
 ||kyson.ad.g.daum.net^
 ||k.zucks.net^
 ||l1.cdn.qnsr.com^
+||l1p.bhf57b394a.com^
 ||l1.zedo.com^
 ||l2.zedo.com^
 ||l3.zedo.com^
@@ -2525,6 +2526,7 @@
 ||lokalavisendk.nuggad.net^
 ||loneday.com^
 ||longhornblogs.us.intellitxt.com^
+||look.flowln.com^
 ||look-sport.org^
 ||look.udncoeln.com^
 ||looky.hyves.org^
@@ -4175,6 +4177,7 @@
 ||track.tkbo.com^
 ||tradearabia.advertserve.com^
 ||traffective-d.openx.net^
+||traffic-bam.link^
 ||traffick.jivox.com^
 ||traileraddict.us.intellitxt.com^
 ||tr.alphonso.tv^
