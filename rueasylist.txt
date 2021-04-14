@@ -2,6 +2,7 @@
 ||02ip.ru^
 ||0309fuweopermncvbnazdf.xyz^
 ||0551zgz.com^
+||06f7da3f1535.com^
 ||0755.pics^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
@@ -10,6 +11,7 @@
 ||10best.us.intellitxt.com^
 ||112.2o7.net^
 ||122.2o7.net^
+||123advertising.nl^
 ||159126.engine.mobileapptracking.com^
 ||15.basebanner.com^
 ||15f3c01a.info^
@@ -56,6 +58,8 @@
 ||24m.nuggad.net^
 ||24wrestling.us.intellitxt.com^
 ||2664.tm.zedo.com^
+||272487a244.com^
+||29950a9556a0.com^
 ||2.cdn.echo.msk.ru^
 ||2d4c3870.info^
 ||2d4c3872.info^
@@ -71,6 +75,7 @@
 ||33across-d.openx.net^
 ||3612.engine.mobileapptracking.com^
 ||3650.tm.zedo.com^
+||37a4ffab14b.com^
 ||3.chuanyi5.com^
 ||3m.mediav.com^
 ||3ppa.jp.cinarra.com^
@@ -100,6 +105,7 @@
 ||6612151.cn^
 ||6612152.cn^
 ||67s6gxv28kin.com^
+||70f2102bcdb4.com^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
 ||74vc.cn^
@@ -115,7 +121,9 @@
 ||a1.adform.net^
 ||a1.adsplay.xyz^
 ||a1.seadform.net^
+||a26e8205e7023.com^
 ||a3.adsplay.xyz^
+||a3cf25b2bb.com^
 ||a3pub.com^
 ||a4.adsplay.xyz^
 ||a5pub.com^
@@ -129,6 +137,7 @@
 ||aan.speedshiftmedia.com^
 ||aa.online-metrix.net^
 ||aaovn.info^
+||aappf.pt^
 ||a.applovin.com^
 ||aax.amazon-adsystem.com^
 ||aax-cpm.amazon-adsystem.com^
@@ -319,6 +328,7 @@
 ||adspayformy.site^
 ||ads.perfectaudience.com^
 ||adsp.i2idata.com^
+||ads.playground.xyz^
 ||ads.pubmatic.com^
 ||adsradios.adswizz.com^
 ||ads.rubiconproject.com^
@@ -363,6 +373,7 @@
 ||ae.adserver.yahoo.com^
 ||aeros01.tk^
 ||aexp.demdex.net^
+||af8b6ea633ad1c.com^
 ||affilate-img-affasi.s3.amazonaws.com^
 ||affiliate.2mdn.net^
 ||affiliates.bet-at-home.com^
@@ -417,6 +428,7 @@
 ||allwomenstalk.us.intellitxt.com^
 ||allxin.com^
 ||almosto.com^
+||alobby-x.eu^
 ||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||alpha-assets.adcolony.com^
@@ -593,12 +605,14 @@
 ||ascendeum-d.openx.net^
 ||as.chango.com^
 ||asco.d2.sc.omtrdc.net^
+||asenytuhlhwrwz.com^
 ||asia.adform.net^
 ||asian.streamate.com^
 ||asia.seadform.net^
 ||ask-d.openx.net^
 ||askfm.adspirit.de^
 ||askfm-usd-d.openx.net^
+||askinsoner.club^
 ||ask-media-group-d.openx.net^
 ||askmen2.us.intellitxt.com^
 ||askmen.us.intellitxt.com^
@@ -606,7 +620,9 @@
 ||asqlesechos.nuggad.net^
 ||asqnext.nuggad.net^
 ||asqrtl.nuggad.net^
+||assampant.club^
 ||as-sec.casalemedia.com.edgekey.net^
+||assemblyass.club^
 ||asset.pagefair.net^
 ||assets.alphonso.tv^
 ||assets.appboycdn.com^
@@ -618,7 +634,10 @@
 ||assets.quantcount.com^
 ||assets.rubiconproject.com^
 ||assets.vidora.com^
+||assiumyikg.club^
 ||associatedpress-d.openx.net^
+||astrouble.club^
+||asvatskaymj.club^
 ||as.y.atwola.com^
 ||at.atwola.com^
 ||a.teads.tv^
@@ -644,6 +663,7 @@
 ||aud.pubmatic.com^
 ||au-gmtdmp.mookie1.com^
 ||auiopt.unityads.unity3d.com^
+||aurtooks.com^
 ||a-usa.applovin.com^
 ||aussiemethod.biz^
 ||australianewzealandb.tt.omtrdc.net^
@@ -788,7 +808,6 @@
 ||boldwin-d.openx.net^
 ||bolt.us.intellitxt.com^
 ||bond.iad-03.braze.com^
-||bonus.allegro.to^
 ||boost.mobileposse.com^
 ||bootdaily.us.intellitxt.com^
 ||boredpanda-d.openx.net^
@@ -852,6 +871,7 @@
 ||c1.atdmt.com^
 ||c1.zedo.com^
 ||c2.zedo.com^
+||c341a7c9502.com^
 ||c3.zedo.com^
 ||c4d-cdn.adcolony.com^
 ||c4dm.adcolony.com^
@@ -1365,12 +1385,14 @@
 ||darkhorizons.us.intellitxt.com^
 ||darlamack.us.intellitxt.com^
 ||da.rus-atlas.ru^
+||das5ku9q.com^
 ||dash.applovin.com^
 ||datacapture.serving-sys.com^
 ||data.cmcore.com^
 ||data.coremetrics.com^
 ||data.de.coremetrics.com^
 ||daviik.iad-03.braze.com^
+||db2c4a82080.com^
 ||dbadk.nuggad.net^
 ||dbtechno.us.intellitxt.com^
 ||dc43.s290.meetrics.net^
@@ -1410,6 +1432,7 @@
 ||derstandard.nuggad.net^
 ||deseretdigitalmedia.tt.omtrdc.net^
 ||designtechnica.us.intellitxt.com^
+||despearingle.co^
 ||destructoid.us.intellitxt.com^
 ||detuns.com^
 ||device.4seeresults.com^
@@ -1554,6 +1577,7 @@
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
+||e746f6279559c.com^
 ||eacash.streamplay.to^
 ||eastads.simpli.fi^
 ||eastevents.simpli.fi^
@@ -1597,7 +1621,6 @@
 ||emaxhealth.us.intellitxt.com^
 ||emea-bidder.mathtag.com^
 ||emisja.contentstream.pl^
-||emonitoring.poczta-polska4.pl^
 ||emxhb.emxdgt.com^
 ||encyclocentral.us.intellitxt.com^
 ||encyclopediabritannica.blueconic.net^
@@ -1930,6 +1953,7 @@
 ||gm.demdex.net^
 ||gm.gds.mmstat.com^
 ||gm.mmstat.com^
+||gmpmuqniggyz.com^
 ||gmtdmp.mookie1.com^
 ||go1.aniview.com^
 ||go.affec.tv^
@@ -2526,6 +2550,8 @@
 ||linewebtoon-d.openx.net^
 ||link.info.livejasmin.com^
 ||linkto-ext-hp-com.ct.impactradius.com^
+||linkyqueen.ga^
+||linkz.net^
 ||linuxdevcenter.us.intellitxt.com^
 ||linuxforums.us.intellitxt.com^
 ||linuxjournal.us.intellitxt.com^
@@ -2863,6 +2889,7 @@
 ||natureworldnews.us.intellitxt.com^
 ||nautilus.d2.sc.omtrdc.net^
 ||nautilus.tt.omtrdc.net^
+||nawdwtocxqru.com^
 ||nbcnewyork.us.intellitxt.com^
 ||nbcots.demdex.net^
 ||nbcsports.us.intellitxt.com^
@@ -2873,6 +2900,7 @@
 ||nbcustr.netmng.com^
 ||nduop.com^
 ||neccorp.tt.omtrdc.net^
+||nefczemmdcqi.com^
 ||neoseeker.us.intellitxt.com^
 ||neowin.us.intellitxt.com^
 ||neptune.mobileposse.com^
@@ -3324,6 +3352,7 @@
 ||quinoa-personal-identify-prod.sense360eng.com.herokudns.com^
 ||quinstreet.us.intellitxt.com^
 ||quizlet-d.openx.net^
+||qyvpgddwqynp.com^
 ||qzdfc.com^
 ||r1-t.trackedlink.net^
 ||r1.zedo.com^
@@ -3486,6 +3515,7 @@
 ||ruscams.com^
 ||rusmedserv.com^
 ||rwadx.fuseplatform.net^
+||rwxzeoqfj.com^
 ||rx8club.us.intellitxt.com^
 ||rydium.us.intellitxt.com^
 ||s0.2mdn.net^
@@ -3553,7 +3583,6 @@
 ||scripts.kissmetrics.com^
 ||scripts.speedshiftmedia.com^
 ||scripts.webcontentassessor.com^
-||scripttags.justuno.com^
 ||sdcexecs.us.intellitxt.com^
 ||sd.iperceptions.com^
 ||sdk.adflex.vn^
@@ -3902,7 +3931,6 @@
 ||static.innovid.com^
 ||static.ladipage.net^
 ||static.livejasmin.com^
-||static.masoffer.net^
 ||static.mediav.com^
 ||static-mon.yandex.net^
 ||static.nanda.vn^
@@ -4279,7 +4307,6 @@
 ||trk.kissmetrics.com^
 ||trk.mail.ru^
 ||trk.tidaltv.com^
-||tr.masoffer.net^
 ||truevalue.d2.sc.omtrdc.net^
 ||trustarc.mgr.consensu.org^
 ||tr-v1.presage.io^
@@ -4487,6 +4514,7 @@
 ||vtrk.doubleverify.com^
 ||vuukle-d.openx.net^
 ||vw.netmng.com^
+||vzbbzzasjtn.com^
 ||vz-cdn2.adtng.com^
 ||vz-cdn2.contentabc.com^
 ||vz-cdn.contentabc.com^
@@ -4650,6 +4678,7 @@
 ||xn--i6qs37am6iwyqffc.com^
 ||xn--wcsy74a6d835f5lf.com^
 ||xpl.theadex.com^
+||xpywzbxjwbxafv.com^
 ||xyssp.com^
 ||yads.zedo.com^
 ||yahoo.nuggad.net^
