@@ -1,11 +1,14 @@
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
+||075c83915a3a.com^
+||0f99a73c79.com^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
 ||10148.engine.mobileapptracking.com^
 ||102.112.207.net^
 ||10best.us.intellitxt.com^
+||10f0c7b222.com^
 ||112.2o7.net^
 ||122.2o7.net^
 ||159126.engine.mobileapptracking.com^
@@ -36,6 +39,7 @@
 ||1afcfcb2c.ninja^
 ||1biznes.net^
 ||1e0y.xyz^
+||1fe47480acd.com^
 ||1sadx.net^
 ||1tizer.com^
 ||1und1internetag.d3.sc.omtrdc.net^
@@ -49,6 +53,7 @@
 ||22006.engine.mobileapptracking.com^
 ||240.zaloapp.ads.zdn.vn^
 ||247wallstreet.us.intellitxt.com^
+||24bd0ec60810.com^
 ||24m.nuggad.net^
 ||24wrestling.us.intellitxt.com^
 ||2664.tm.zedo.com^
@@ -80,6 +85,7 @@
 ||5starsupport.us.intellitxt.com^
 ||6063.bapi.adsafeprotected.com^
 ||67s6gxv28kin.com^
+||6e9420f6734.com^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
 ||79423.analytics.edgekey.net^
@@ -128,6 +134,7 @@
 ||abcnews.tt.omtrdc.net^
 ||abcno.nuggad.net^
 ||abcotv.hb.omtrdc.net^
+||a.bestcontentproject.top^
 ||able2know.us.intellitxt.com^
 ||abletomeet.com^
 ||abseckw.adtlgc.com^
@@ -405,6 +412,7 @@
 ||americaneagleoutfitt.tt.omtrdc.net^
 ||americanmedia.blueconic.net^
 ||americanmedia.us.intellitxt.com^
+||ameripermanento.website^
 ||ami-d.openx.net^
 ||aml.valuecommerce.com^
 ||a.monetate.net^
@@ -1857,6 +1865,7 @@
 ||geo.rlcdn.com^
 ||geo-us.snigelweb.com^
 ||geo.ziffdavis.com^
+||getrxhere.co^
 ||gfaf-banners.s3.amazonaws.com^
 ||ggimg.tapas.net^
 ||ggsoftware-d.openx.net^
@@ -3191,6 +3200,7 @@
 ||psp3d.us.intellitxt.com^
 ||pspcave.uk.intellitxt.com^
 ||pssvc.iqzone.com^
+||p.storage-ad.com^
 ||ps-us.amazon-adsystem.com^
 ||p.teads.tv^
 ||pt-gmtdmp.mookie1.com^
