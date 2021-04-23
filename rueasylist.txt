@@ -1,5 +1,6 @@
 ||00zasdf.pw^
 ||02ip.ru^
+||0376ddaf55.com^
 ||0755.pics^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
@@ -2020,6 +2021,7 @@
 ||hook.yieldbuild.com^
 ||hoopsworld.us.intellitxt.com^
 ||hoovers.us.intellitxt.com^
+||hop.clickbank.net^
 ||hornet-d.openx.net^
 ||horoscope.us.intellitxt.com^
 ||hostboard.us.intellitxt.com^
@@ -2759,6 +2761,7 @@
 ||ms-data-collection.prod.cloud.ogury.io^
 ||m.servedby-buysellads.com^
 ||msfn.us.intellitxt.com^
+||m.shanbara.jp^
 ||msmobiles.de.intellitxt.com^
 ||msnad.nuggad.net^
 ||msnbc.us.intellitxt.com^
@@ -2886,6 +2889,7 @@
 ||observe.aniview.com^
 ||oceanup.us.intellitxt.com^
 ||ocmdigitalmedia-d.openx.net^
+||octafx.com^
 ||octools.us.intellitxt.com^
 ||ocworkbench.us.intellitxt.com^
 ||oddbanner.bet-at-home.com^
@@ -3250,6 +3254,7 @@
 ||qaamgo-d.openx.net^
 ||qa-gmtdmp.mookie1.com^
 ||qatarairways.tt.omtrdc.net^
+||qbjnwjtbfrxceq.com^
 ||qj.us.intellitxt.com^
 ||q.myvisualiq.net^
 ||qualtrics.com^
@@ -3811,6 +3816,7 @@
 ||stampscom.tt.omtrdc.net^
 ||stands4-d.openx.net^
 ||starcasm.us.intellitxt.com^
+||starman.fathomdns.com^
 ||stat-analytics.mediavitrina.ru^
 ||statchecker.yandex.ru^
 ||stat.flygame.io^
@@ -4563,6 +4569,7 @@
 ||xmlpitstop.us.intellitxt.com^
 ||xml.revenuehits.com^
 ||xpl.theadex.com^
+||y96e1tnmr2.buzz^
 ||yads.zedo.com^
 ||yahoo.nuggad.net^
 ||yapx.ru^
