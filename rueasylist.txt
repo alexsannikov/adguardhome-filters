@@ -605,7 +605,6 @@
 ||assetscdn.jivox.com^
 ||assets.deployads.com^
 ||assets.kochava.com^
-||assets.netizen.co^
 ||assets.prod.leanplum.com^
 ||assets.quantcount.com^
 ||assets.rubiconproject.com^
@@ -735,7 +734,6 @@
 ||beseed.ru^
 ||besocial.online^
 ||bestbuy.demdex.net^
-||bestmoneysites.com^
 ||betanews.us.intellitxt.com^
 ||bet.demdex.net^
 ||betnetmed.advertserve.com^
@@ -1271,6 +1269,7 @@
 ||cpm.eclick.vn^
 ||cpmsolution.ru^
 ||cpmstar-d.openx.net^
+||cpm.wargaming.net^
 ||cpo.adflex.vn^
 ||cradver.livejasmin.com^
 ||crain.d1.sc.omtrdc.net^
@@ -1303,7 +1302,6 @@
 ||crtinf.livejasmin.com^
 ||crt.livejasmin.com^
 ||crunchmind-d.openx.net^
-||cs11.all-ti-cod.com^
 ||cs.adingo.jp^
 ||cs.atdmt.com^
 ||cs.emxdgt.com^
@@ -1916,7 +1914,6 @@
 ||globalapi.ad.xiaomi.com^
 ||global.appnext.com^
 ||global.event.prod.bidr.io^
-||global-surveys.co^
 ||globalteaser.ru^
 ||global-wildcard.insightexpressai.com.edgekey.net^
 ||global.ymtracking.com^
@@ -2900,7 +2897,6 @@
 ||nl.adserver.yahoo.com^
 ||no.adserver.yahoo.com^
 ||nodevice.uk.intellitxt.com^
-||nosaurpro.fun^
 ||npcdn1.now.sh^
 ||npgco.blueconic.net^
 ||npr.deliveryengine.adswizz.com^
@@ -4066,7 +4062,6 @@
 ||tags.soloway.ru^
 ||tags.w55c.net^
 ||tag.widespace.com^
-||tag.wknd.ai^
 ||takoomi-d.openx.net^
 ||taletela.us.intellitxt.com^
 ||tali.iad-03.braze.com^
@@ -4669,7 +4664,6 @@
 ||zalo-ads.mediaz.vn^
 ||zataz.fr.intellitxt.com^
 ||zatznotfunny.us.intellitxt.com^
-||za.zalo.me^
 ||zc.adswizz.com^
 ||z.cdn.trafficdok.com^
 ||z.cdn.trafficlide.com^
