@@ -1780,6 +1780,7 @@
 ||footymad.uk.intellitxt.com^
 ||forbes.us.intellitxt.com^
 ||ford.demdex.net^
+||forextuner.com^
 ||format.prod.cloud.ogury.io^
 ||fortunecity.us.intellitxt.com^
 ||forumcomm-d.openx.net^
