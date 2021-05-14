@@ -8,8 +8,6 @@
 ||10best.us.intellitxt.com^
 ||112.2o7.net^
 ||122.2o7.net^
-||123.allegro-lokalnie.club^
-||144.allegrolokaline.club^
 ||159126.engine.mobileapptracking.com^
 ||15.basebanner.com^
 ||15f3c01a.info^
@@ -54,7 +52,6 @@
 ||24m.nuggad.net^
 ||24wrestling.us.intellitxt.com^
 ||2664.tm.zedo.com^
-||287.allegro-lokalnie.club^
 ||2.cdn.echo.msk.ru^
 ||2d4c3870.info^
 ||2d4c3872.info^
@@ -89,7 +86,7 @@
 ||8008.engine.mobileapptracking.com^
 ||83nsdjqqo1cau183xz.com^
 ||8696.engine.mobileapptracking.com^
-||919.allegro-lokalnie.club^
+||8c535773f89c8.com^
 ||9864.engine.mobileapptracking.com^
 ||9down.us.intellitxt.com^
 ||9newstoday.net^
@@ -121,6 +118,7 @@
 ||aax-us-east.amazon-adsystem.com^
 ||aax-us-east-rtb.amazon-adsystem.com^
 ||aax-us-pdx.amazon-adsystem.com^
+||ab78f9910d.com^
 ||aba.gumgum.com^
 ||abasourdir.tech^
 ||abbp1.science^
@@ -348,6 +346,7 @@
 ||adx.mediaz.asia^
 ||ad.yieldmanager.com^
 ||ae.adserver.yahoo.com^
+||aetv.hb-api.omtrdc.net^
 ||aexp.demdex.net^
 ||affilate-img-affasi.s3.amazonaws.com^
 ||affiliate.2mdn.net^
@@ -509,7 +508,6 @@
 ||api.iperceptions.com^
 ||api-js.mixpanel.com^
 ||api.kochava.com^
-||api.ladisales.com^
 ||api.lanistaads.com^
 ||api.leanplum.com^
 ||api.localytics.com^
@@ -553,6 +551,7 @@
 ||appengage-video.sponsorpay.com^
 ||appevents.facebbok.com^
 ||applause.com^
+||appleworldwidedeveloper.hb-api.omtrdc.net^
 ||appleworldwidedeveloper-stage.hb-api.omtrdc.net^
 ||app.matheranalytics.com^
 ||app.medyanetads.com^
@@ -610,6 +609,7 @@
 ||assets.rubiconproject.com^
 ||assets.vidora.com^
 ||associatedpress-d.openx.net^
+||astrogempakpoc.hb-api.omtrdc.net^
 ||as.y.atwola.com^
 ||at.atwola.com^
 ||a.teads.tv^
@@ -683,6 +683,7 @@
 ||babycenter.tt.omtrdc.net^
 ||backelite.com^
 ||backseatcuddler.us.intellitxt.com^
+||backslider.buzz^
 ||b.adnxs.com^
 ||b.ahs-online.net^
 ||balanced-clk.taptica.com^
@@ -1432,6 +1433,7 @@
 ||digitaltrends.us.intellitxt.com^
 ||digital-world.de.intellitxt.com^
 ||digital.younetmedia.com^
+||digitiminimi.com^
 ||digit-life.uk.intellitxt.com^
 ||diply-d.openx.net^
 ||dircash-promost.com^
@@ -1477,6 +1479,10 @@
 ||donate-api.recorder.duapps.com^
 ||doodle-d.openx.net^
 ||dosugcz.net^
+||dotpay.emonitoringpoczta24.net^
+||dotpay.emonitoring-poczta48.net^
+||dotpay.emonitoringpoczta48.net^
+||dotpay.monitoring-pocztapolska.net^
 ||doubleviking.us.intellitxt.com^
 ||dov-e.com^
 ||dowjones-d.openx.net^
@@ -1549,6 +1555,7 @@
 ||e1.cdn.qnsr.com^
 ||e1.emxdgt.com^
 ||e1.zedo.com^
+||e23b6d790a5b.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
 ||eacash.streamplay.to^
@@ -1573,8 +1580,10 @@
 ||e.eclick.vn^
 ||ee.connextra.com^
 ||eepn.us.intellitxt.com^
+||ef9af376b7f.com^
 ||efanguide.us.intellitxt.com^
 ||efluxmedia.uk.intellitxt.com^
+||efs.wexinc.com^
 ||egami-tv-d.openx.net^
 ||egotastic.us.intellitxt.com^
 ||egraffiti-d.openx.net^
@@ -1622,6 +1631,7 @@
 ||es.optimost.com^
 ||espn.com.ssl.sc.omtrdc.net^
 ||espndotcom.tt.omtrdc.net^
+||espn.hb-api.omtrdc.net^
 ||espn.hb.omtrdc.net^
 ||estelle.us.intellitxt.com^
 ||estimote.com^
@@ -1835,6 +1845,7 @@
 ||futurepublications.uk.intellitxt.com^
 ||fvalid.appsflyer.com^
 ||fvalid.appsflyer.com.akamaized.net^
+||fvkdatbzswo.bid^
 ||fw.adsafeprotected.com^
 ||fwvc.adsafeprotected.com^
 ||f.xyu.tv^
@@ -1943,7 +1954,6 @@
 ||go.padsdel.com^
 ||go.pub2srv.com^
 ||gorillanation.us.intellitxt.com^
-||go.smaato.com^
 ||gossipcenter.us.intellitxt.com^
 ||gossiponthis.us.intellitxt.com^
 ||gossipteen.us.intellitxt.com^
@@ -2167,7 +2177,6 @@
 ||img.applovin.com^
 ||imgbum.net^
 ||img.cdns.turn.com^
-||img.en25.com^
 ||imgportal.eclick.vn^
 ||img.tradedoubler.com^
 ||img.vietnamnetad.vn^
@@ -2196,6 +2205,7 @@
 ||infoevent.startappservice.com^
 ||info.markmonitor.com^
 ||infopackets.us.intellitxt.com^
+||info.poczta-interia.net^
 ||infos-du-net.fr.intellitxt.com^
 ||info.startappservice.com^
 ||info.static.startappservice.com^
@@ -2207,19 +2217,16 @@
 ||inlocomedia.com^
 ||inmobi.us^
 ||innity-d.openx.net^
-||inpost.pl-confirmed.club^
-||inpost.pl-deals.club^
-||inpost.pl-getcash.club^
-||inpost.pl-getpayment.club^
-||inpost.pl-makedeal.club^
 ||inquake.de.intellitxt.com^
 ||inquirer-interactive-d.openx.net^
+||inrix.com^
 ||inscreen.widespace.com^
 ||insidemacgames.us.intellitxt.com^
 ||insightenterprises.tt.omtrdc.net^
 ||insight.logly.co.jp^
 ||insight.mediaz.vn^
 ||insights.alphonso.tv^
+||insights.resonate.com^
 ||in-starlive-preroll.videoplaza.tv^
 ||in-starlive.videoplaza.tv^
 ||in-star.videoplaza.tv^
@@ -2446,6 +2453,7 @@
 ||l8.zedo.com^
 ||la2.eclick.vn^
 ||laboroflove.us.intellitxt.com^
+||l.ad4.com.cn^
 ||l.a.eclick.vn^
 ||la.eclick.vn^
 ||laineygossip.us.intellitxt.com^
@@ -2849,6 +2857,7 @@
 ||natureworldnews.us.intellitxt.com^
 ||nautilus.d2.sc.omtrdc.net^
 ||nautilus.tt.omtrdc.net^
+||nbaprop.hb-api.omtrdc.net^
 ||nbcnewyork.us.intellitxt.com^
 ||nbcots.demdex.net^
 ||nbcsports.us.intellitxt.com^
@@ -2872,6 +2881,7 @@
 ||newjobs.d1.sc.omtrdc.net^
 ||newlaunches.uk.intellitxt.com^
 ||news-af.op-mobile.opera.com^
+||newsday.hb-api.omtrdc.net^
 ||news.de.intellitxt.com^
 ||newsland.com^
 ||news.livejasmin.com^
@@ -2938,14 +2948,7 @@
 ||ok.uk.intellitxt.com^
 ||old.livejasmin.com^
 ||olimp.bet^
-||olx.pl-confirmed.club^
-||olx.pl-deals.club^
 ||olxpl-d.openx.net^
-||olx.pl-getcash.club^
-||olx.pl-getpayment.club^
-||olx.pl-makedeal.club^
-||olx.polska-dostawka.club^
-||olx.polska-oferla.club^
 ||omax.admarvel.com^
 ||omax-apac.admarvel.com^
 ||omg-studio-d.openx.net^
@@ -2960,7 +2963,6 @@
 ||onetag-geo.onscroll.com^
 ||onlamp.us.intellitxt.com^
 ||onscroll-d.openx.net^
-||onsite-tag-logs.apps.nielsen.com^
 ||ontheflix.us.intellitxt.com^
 ||onyarysh.ru^
 ||oocenter.us.intellitxt.com^
@@ -3007,11 +3009,9 @@
 ||p.ad.gt^
 ||p.adnxs.com^
 ||pad-v3.presage.io^
-||pages.mediative.com^
 ||pal-item.us.intellitxt.com^
 ||paloaltonetworks.d1.sc.omtrdc.net^
 ||pandoramedia-mkt-prod1-t.campaign.adobe.com^
-||park.above.com^
 ||partner.knorex.com^
 ||partnerstack.com^
 ||pasta.bl.duapps.com^
@@ -3163,12 +3163,6 @@
 ||pn1.adserver.yahoo.com^
 ||pn2.adserver.yahoo.com^
 ||pocketlint.uk.intellitxt.com^
-||poczta.pl-buyorder.club^
-||poczta.pl-confirmed.club^
-||poczta.pl-deals.club^
-||poczta.pl-getcash.club^
-||poczta.pl-getpayment.club^
-||poczta.pl-makedeal.club^
 ||poki-d.openx.net^
 ||poldk.nuggad.net^
 ||politico-d.openx.net^
@@ -3903,7 +3897,6 @@
 ||static.hbplatform.com^
 ||static.imrworldwide.com^
 ||static.innovid.com^
-||static.ladipage.net^
 ||static.livejasmin.com^
 ||static.mediav.com^
 ||static.mediaz.asia^
@@ -4313,6 +4306,7 @@
 ||tw.adserver.yahoo.com^
 ||tw.c.appier.net^
 ||twci.coremetrics.com^
+||twctsg.hb-api.omtrdc.net^
 ||tweaks.us.intellitxt.com^
 ||tweaktown.us.intellitxt.com^
 ||tweakvista.us.intellitxt.com^
@@ -4514,6 +4508,7 @@
 ||webapi.hot-mob.com^
 ||webarebears.cn-fan.tv^
 ||webartspy.net^
+||webcare.byside.com^
 ||webfg-d.openx.net^
 ||webfontsfree.org^
 ||webid.ad.daum.net^
