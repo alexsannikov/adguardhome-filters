@@ -86,7 +86,6 @@
 ||8008.engine.mobileapptracking.com^
 ||83nsdjqqo1cau183xz.com^
 ||8696.engine.mobileapptracking.com^
-||8c535773f89c8.com^
 ||9864.engine.mobileapptracking.com^
 ||9down.us.intellitxt.com^
 ||9newstoday.net^
@@ -118,7 +117,6 @@
 ||aax-us-east.amazon-adsystem.com^
 ||aax-us-east-rtb.amazon-adsystem.com^
 ||aax-us-pdx.amazon-adsystem.com^
-||ab78f9910d.com^
 ||aba.gumgum.com^
 ||abasourdir.tech^
 ||abbp1.science^
@@ -627,6 +625,7 @@
 ||a.tvpage.com^
 ||a.t.webtracker.jp^
 ||au.adserver.yahoo.com^
+||auberginecorny.com^
 ||auc.ca-conv.jp^
 ||auction-load.unityads.unity3d.com^
 ||auction.unityads.unity3d.com^
@@ -683,7 +682,6 @@
 ||babycenter.tt.omtrdc.net^
 ||backelite.com^
 ||backseatcuddler.us.intellitxt.com^
-||backslider.buzz^
 ||b.adnxs.com^
 ||b.ahs-online.net^
 ||balanced-clk.taptica.com^
@@ -793,14 +791,17 @@
 ||b.penzainform.ru^
 ||bradpittnow.us.intellitxt.com^
 ||br.adserver.yahoo.com^
+||brainlesseither.com^
 ||brainyquote-d.openx.net^
 ||branch.com^
 ||brandigic-d.openx.net^
 ||brandings.kanobu.ru^
 ||bricksandstonesgossip.us.intellitxt.com^
+||briefcroakapprentice.com^
 ||brief.mediaz.vn^
 ||brightcom-d.openx.net^
 ||brighthub.us.intellitxt.com^
+||britishattemptingtrend.com^
 ||brnys.netmng.com^
 ||brothersoft.us.intellitxt.com^
 ||bs.adledge.com^
@@ -821,6 +822,7 @@
 ||btbusiness.tt.omtrdc.net^
 ||bts.vpon.com^
 ||bucket.rtk.io^
+||bugputrescentdeliberately.com^
 ||bugsnag.com^
 ||bukisa.us.intellitxt.com^
 ||bullseye.backbeatmedia.com^
@@ -1090,6 +1092,7 @@
 ||c.go-mpulse.net^
 ||c.gumgum.com^
 ||chainblock.science^
+||chalkedapplaudincident.com^
 ||challenge.360in.com^
 ||channel4.com.ssl.sc.omtrdc.net^
 ||channelinsider.us.intellitxt.com^
@@ -1433,7 +1436,6 @@
 ||digitaltrends.us.intellitxt.com^
 ||digital-world.de.intellitxt.com^
 ||digital.younetmedia.com^
-||digitiminimi.com^
 ||digit-life.uk.intellitxt.com^
 ||diply-d.openx.net^
 ||dircash-promost.com^
@@ -1555,7 +1557,6 @@
 ||e1.cdn.qnsr.com^
 ||e1.emxdgt.com^
 ||e1.zedo.com^
-||e23b6d790a5b.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
 ||eacash.streamplay.to^
@@ -1580,7 +1581,6 @@
 ||e.eclick.vn^
 ||ee.connextra.com^
 ||eepn.us.intellitxt.com^
-||ef9af376b7f.com^
 ||efanguide.us.intellitxt.com^
 ||efluxmedia.uk.intellitxt.com^
 ||efs.wexinc.com^
@@ -1603,6 +1603,7 @@
 ||emea-bidder.mathtag.com^
 ||emisja.contentstream.pl^
 ||emxhb.emxdgt.com^
+||encumberbloom.com^
 ||encyclocentral.us.intellitxt.com^
 ||encyclopediabritannica.blueconic.net^
 ||engine.adsupply.com^
@@ -1790,7 +1791,6 @@
 ||footymad.uk.intellitxt.com^
 ||forbes.us.intellitxt.com^
 ||ford.demdex.net^
-||forextuner.com^
 ||format.prod.cloud.ogury.io^
 ||fortunecity.us.intellitxt.com^
 ||forumcomm-d.openx.net^
@@ -1845,7 +1845,6 @@
 ||futurepublications.uk.intellitxt.com^
 ||fvalid.appsflyer.com^
 ||fvalid.appsflyer.com.akamaized.net^
-||fvkdatbzswo.bid^
 ||fw.adsafeprotected.com^
 ||fwvc.adsafeprotected.com^
 ||f.xyu.tv^
@@ -3545,6 +3544,7 @@
 ||scripts.kiosked.com^
 ||scripts.speedshiftmedia.com^
 ||scripts.webcontentassessor.com^
+||sdamgia.ru^
 ||sdcexecs.us.intellitxt.com^
 ||sd.iperceptions.com^
 ||sdk.adflex.vn^
@@ -4508,7 +4508,6 @@
 ||webapi.hot-mob.com^
 ||webarebears.cn-fan.tv^
 ||webartspy.net^
-||webcare.byside.com^
 ||webfg-d.openx.net^
 ||webfontsfree.org^
 ||webid.ad.daum.net^
