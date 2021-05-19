@@ -383,6 +383,7 @@
 ||akihabaranews.us.intellitxt.com^
 ||ak.quantcast.com^
 ||ak.sail-horizon.com^
+||aksecure.imrworldwide.com^
 ||aktrack.pubmatic.com^
 ||alchemyworldwide.tt.omtrdc.net^
 ||alflying.win^
@@ -1007,6 +1008,7 @@
 ||cdn.heapanalytics.com^
 ||cdn-highwinds.unityads.unity3d.com^
 ||cdn.hot-mob.com^
+||cdn.imrworldwide.com^
 ||cdn.innovid.com^
 ||cdn.intergi.com^
 ||cdn.intermarkets.net^
@@ -1177,7 +1179,6 @@
 ||co-gmtdmp.mookie1.com^
 ||coinimp.net^
 ||collect.iperceptions.com^
-||collector-pxljub4etb.cl6.perimeterx.net^
 ||collegefootballnews.us.intellitxt.com^
 ||comcast.demdex.net^
 ||comcast-d.openx.net^
@@ -1254,6 +1255,7 @@
 ||core2.adtlgc.com^
 ||cortex.vidora.com^
 ||corus.hb-api.omtrdc.net^
+||corus.hb.omtrdc.net^
 ||cotads.adscale.de^
 ||counselheal.us.intellitxt.com^
 ||countryweekly.us.intellitxt.com^
@@ -1275,6 +1277,7 @@
 ||cpmstar-d.openx.net^
 ||cpm.wargaming.net^
 ||cpo.adflex.vn^
+||crackle.hb.omtrdc.net^
 ||cradver.livejasmin.com^
 ||crain.d1.sc.omtrdc.net^
 ||crashstats-collector.opera.com^
@@ -1484,6 +1487,7 @@
 ||dotpay.emonitoringpoczta24.net^
 ||dotpay.emonitoring-poczta48.net^
 ||dotpay.emonitoringpoczta48.net^
+||dotpay.emonitoring-pocztex48.net^
 ||dotpay.monitoring-pocztapolska.net^
 ||doubleviking.us.intellitxt.com^
 ||dov-e.com^
@@ -1583,7 +1587,6 @@
 ||eepn.us.intellitxt.com^
 ||efanguide.us.intellitxt.com^
 ||efluxmedia.uk.intellitxt.com^
-||efs.wexinc.com^
 ||egami-tv-d.openx.net^
 ||egotastic.us.intellitxt.com^
 ||egraffiti-d.openx.net^
@@ -2218,14 +2221,12 @@
 ||innity-d.openx.net^
 ||inquake.de.intellitxt.com^
 ||inquirer-interactive-d.openx.net^
-||inrix.com^
 ||inscreen.widespace.com^
 ||insidemacgames.us.intellitxt.com^
 ||insightenterprises.tt.omtrdc.net^
 ||insight.logly.co.jp^
 ||insight.mediaz.vn^
 ||insights.alphonso.tv^
-||insights.resonate.com^
 ||in-starlive-preroll.videoplaza.tv^
 ||in-starlive.videoplaza.tv^
 ||in-star.videoplaza.tv^
@@ -2880,6 +2881,7 @@
 ||newjobs.d1.sc.omtrdc.net^
 ||newlaunches.uk.intellitxt.com^
 ||news-af.op-mobile.opera.com^
+||newscorpau.hb.omtrdc.net^
 ||newsday.hb-api.omtrdc.net^
 ||news.de.intellitxt.com^
 ||newsland.com^
@@ -2962,6 +2964,7 @@
 ||onetag-geo.onscroll.com^
 ||onlamp.us.intellitxt.com^
 ||onscroll-d.openx.net^
+||onsite-tag-logs.apps.nielsen.com^
 ||ontheflix.us.intellitxt.com^
 ||onyarysh.ru^
 ||oocenter.us.intellitxt.com^
@@ -3463,6 +3466,7 @@
 ||r.turn.com^
 ||rt-usa.applovin.com^
 ||rtve.d1.sc.omtrdc.net^
+||rtve.hb.omtrdc.net^
 ||rubicon.socdm.com^
 ||rublacklist.net^
 ||ruckusschroederraspberry.com^
@@ -4216,6 +4220,7 @@
 ||tps10216.doubleverify.com^
 ||tps11005.doubleverify.com^
 ||tps11031.doubleverify.com^
+||tps20519.doubleverify.com^
 ||tps30.doubleverify.com^
 ||tps711.doubleverify.com^
 ||tps.doubleverify.com^
@@ -4415,7 +4420,6 @@
 ||veritasim.d1.sc.omtrdc.net^
 ||veritastechnologiesl.tt.omtrdc.net^
 ||verizon.demdex.net^
-||verizontelecom.hb-api.omtrdc.net^
 ||verizontelecom.tt.omtrdc.net^
 ||verizonwireless.tt.omtrdc.net^
 ||verticalscope-d.openx.net^
@@ -4474,6 +4478,7 @@
 ||vpipi.com^
 ||vprmnwbskk.com^
 ||vrt.hb-api.omtrdc.net^
+||vrt.hb.omtrdc.net^
 ||vst.c.appier.net^
 ||vt.myvisualiq.net^
 ||vtrk.doubleverify.com^
