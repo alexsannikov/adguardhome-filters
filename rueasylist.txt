@@ -173,6 +173,7 @@
 ||ad.360in.com^
 ||ad3.apx.appier.net^
 ||ad4.candy-network.com^
+||ad9722d45726.com^
 ||ad.aboutwebservices.com^
 ||ad.admitad.com^
 ||ad.adnetwork.net^
@@ -465,7 +466,6 @@
 ||anylist.c.appier.net^
 ||anythinghollywood.us.intellitxt.com^
 ||an.z5x.net^
-||aoc.teleaudio.pl^
 ||aol-bidout-d.openx.net^
 ||aol.socdm.com^
 ||apacdigital-d.openx.net^
@@ -847,6 +847,7 @@
 ||c1.zedo.com^
 ||c2.zedo.com^
 ||c3.zedo.com^
+||c4a3ad3b50.com^
 ||c4d-cdn.adcolony.com^
 ||c4dm.adcolony.com^
 ||c4.iwon.com^
@@ -854,6 +855,7 @@
 ||c5.zedo.com^
 ||c6.zedo.com^
 ||c7.zedo.com^
+||c864eb6fcc8.com^
 ||c8.zedo.com^
 ||ca.adserver.yahoo.com^
 ||cache.addthiscdn.com^
@@ -1487,8 +1489,11 @@
 ||dotpay.emonitoringpoczta24.net^
 ||dotpay.emonitoring-poczta48.net^
 ||dotpay.emonitoringpoczta48.net^
+||dotpay.e-monitoring-pocztapolska.org^
 ||dotpay.emonitoring-pocztex48.net^
+||dotpay.e-poczta-polska.com^
 ||dotpay.monitoring-pocztapolska.net^
+||dotpay.monitoring-pocztapolska.org^
 ||doubleviking.us.intellitxt.com^
 ||dov-e.com^
 ||dowjones-d.openx.net^
@@ -1959,6 +1964,7 @@
 ||gossipcenter.us.intellitxt.com^
 ||gossiponthis.us.intellitxt.com^
 ||gossipteen.us.intellitxt.com^
+||go.trafficrouter.io^
 ||gottabemobile.us.intellitxt.com^
 ||gov.aniview.com^
 ||govpro.us.intellitxt.com^
@@ -2831,7 +2837,6 @@
 ||myfamilycominc.tt.omtrdc.net^
 ||myfavoritegames.us.intellitxt.com^
 ||my-gmtdmp.mookie1.com^
-||myhostisstillgood11.zapto.org^
 ||mymirror.biz^
 ||mynyx.men^
 ||myqualification.rambler.ru^
@@ -3268,6 +3273,7 @@
 ||ps-us.amazon-adsystem.com^
 ||p.teads.tv^
 ||pt-gmtdmp.mookie1.com^
+||ptowhafuzi.pro^
 ||p.typekit.net-v3.edgekey.net^
 ||pub.adflex.vn^
 ||pub.doubleverify.com^
@@ -3399,6 +3405,7 @@
 ||rest.iad-01.braze.com^
 ||rest.iad-03.braze.com^
 ||retailmenot-d.openx.net^
+||retamponniez.website^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
 ||reuters.demdex.net^
