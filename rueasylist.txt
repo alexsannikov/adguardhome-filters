@@ -386,6 +386,7 @@
 ||ak.sail-horizon.com^
 ||aksecure.imrworldwide.com^
 ||aktrack.pubmatic.com^
+||albacross.com^
 ||alchemyworldwide.tt.omtrdc.net^
 ||alflying.win^
 ||alienradar.ru^
@@ -1130,7 +1131,6 @@
 ||click.gowadogo.com^
 ||click.howdoesin.net^
 ||click.icptrack.com^
-||clickiocdn.com^
 ||clickio.mgr.consensu.org^
 ||click.maaxmarket.com^
 ||click.plista.com^
@@ -1448,6 +1448,8 @@
 ||di.rlcdn.com^
 ||discoverecommerce.tt.omtrdc.net^
 ||discovery-d.openx.net^
+||discoverydp.hb-api.omtrdc.net^
+||discovery.hb-api.omtrdc.net^
 ||dis.d1.sc.omtrdc.net^
 ||disney.demdex.net^
 ||disneyinternational.hb.omtrdc.net^
@@ -1592,6 +1594,7 @@
 ||eepn.us.intellitxt.com^
 ||efanguide.us.intellitxt.com^
 ||efluxmedia.uk.intellitxt.com^
+||efs.wexinc.com^
 ||egami-tv-d.openx.net^
 ||egotastic.us.intellitxt.com^
 ||egraffiti-d.openx.net^
@@ -1901,6 +1904,7 @@
 ||genialradio.com^
 ||genieeintl-d.openx.net^
 ||genmay.us.intellitxt.com^
+||geo.ads.audio.thisisdax.com^
 ||geo.atlassbx.com^
 ||geocdn.unityads.unity3d.com^
 ||geo.celtra.com^
@@ -1978,6 +1982,7 @@
 ||grid.bidswitch.net^
 ||grindr2-d.openx.net^
 ||group11.iperceptions.com^
+||group-ib.ru^
 ||grow.rtk.io^
 ||gsmarena.us.intellitxt.com^
 ||gtmedia.us.intellitxt.com^
@@ -2283,7 +2288,6 @@
 ||isaca.sc.omtrdc.net^
 ||isaca.tt.omtrdc.net^
 ||i.simpli.fi^
-||i.singular.net^
 ||i.socdm.com^
 ||i.solo.rde.ru^
 ||it.adserver.yahoo.com^
@@ -2970,7 +2974,6 @@
 ||onetag-geo.onscroll.com^
 ||onlamp.us.intellitxt.com^
 ||onscroll-d.openx.net^
-||onsite-tag-logs.apps.nielsen.com^
 ||ontheflix.us.intellitxt.com^
 ||onyarysh.ru^
 ||oocenter.us.intellitxt.com^
@@ -3330,6 +3333,7 @@
 ||r3.mail.ru^
 ||radioactive.deliveryengine.adswizz.com^
 ||radiocanada.hb-api.omtrdc.net^
+||radiocanada-stage.hb-api.omtrdc.net^
 ||rainmaker.production-public.tubi.io^
 ||ranker-d.openx.net^
 ||ranker.sc.omtrdc.net^
@@ -3428,6 +3432,7 @@
 ||roimedia.advertserve.com^
 ||rojakpot.us.intellitxt.com^
 ||ronetu.ru^
+||roomandboard.hb-api.omtrdc.net^
 ||roomguru.ru^
 ||r.openx.net^
 ||rosettastone.tt.omtrdc.net^
@@ -3564,7 +3569,6 @@
 ||sdk.ad.smaato.net^
 ||sdk.adsplay.xyz^
 ||sdk-android.ad.smaato.net^
-||sdk-api-v1.singular.net^
 ||sdk.appsflyer.com^
 ||sdk-as.complementics.com^
 ||sdk-assets.localytics.com^
@@ -4289,7 +4293,6 @@
 ||trustarc.mgr.consensu.org^
 ||tr-v1.presage.io^
 ||try.engine.adglare.net^
-||t.singular.net^
 ||tsrid.cxense.com^
 ||t.steelhousemedia.com^
 ||tsxclub.us.intellitxt.com^
@@ -4300,6 +4303,7 @@
 ||tunein-d.openx.net^
 ||tuno.nuggad.net^
 ||turnerapac.d1.sc.omtrdc.net^
+||turnerresearch1.hb-api.omtrdc.net^
 ||tutorialoutpost.us.intellitxt.com^
 ||tuyendung.mediaz.vn^
 ||tv2dk.nuggad.net^
@@ -4539,6 +4543,7 @@
 ||webwereld.nl.intellitxt.com^
 ||week.news^
 ||weightlossforall.us.intellitxt.com^
+||wenxuemi6.com^
 ||westads.simpli.fi^
 ||westbriton.uk.intellitxt.com^
 ||westernunion.tt.omtrdc.net^
