@@ -46,6 +46,7 @@
 ||20766699p.rfihub.com^
 ||20779813p.rfihub.com^
 ||21104.engine.mobileapptracking.com^
+||21e4d2f6cae8ec.com^
 ||22006.engine.mobileapptracking.com^
 ||240.zaloapp.ads.zdn.vn^
 ||247wallstreet.us.intellitxt.com^
@@ -70,10 +71,12 @@
 ||411mania.us.intellitxt.com^
 ||480.zaloapp.ads.zdn.vn^
 ||4984.engine.mobileapptracking.com^
+||4becef1fe953.com^
 ||4e43ac9c.info^
 ||4thegame.uk.intellitxt.com^
 ||4wmp.nuggad.net^
 ||4w-wrestling.us.intellitxt.com^
+||55e593878c2d47.com^
 ||5726.bapi.adsafeprotected.com^
 ||5clickcashsoftware.com^
 ||5starhiphop.us.intellitxt.com^
@@ -86,6 +89,7 @@
 ||8008.engine.mobileapptracking.com^
 ||83nsdjqqo1cau183xz.com^
 ||8696.engine.mobileapptracking.com^
+||8a8b5511efbcc.com^
 ||9864.engine.mobileapptracking.com^
 ||9down.us.intellitxt.com^
 ||9newstoday.net^
@@ -95,6 +99,7 @@
 ||a3pub.com^
 ||a4.adsplay.xyz^
 ||a5pub.com^
+||a8569070d88.com^
 ||aaa.at4.info^
 ||aaa.dv0.info^
 ||aa.connextra.com^
@@ -173,7 +178,6 @@
 ||ad.360in.com^
 ||ad3.apx.appier.net^
 ||ad4.candy-network.com^
-||ad9722d45726.com^
 ||ad.aboutwebservices.com^
 ||ad.admitad.com^
 ||ad.adnetwork.net^
@@ -386,7 +390,6 @@
 ||ak.sail-horizon.com^
 ||aksecure.imrworldwide.com^
 ||aktrack.pubmatic.com^
-||albacross.com^
 ||alchemyworldwide.tt.omtrdc.net^
 ||alflying.win^
 ||alienradar.ru^
@@ -674,6 +677,7 @@
 ||axp.zedo.com^
 ||b174.s240.meetrics.net^
 ||b1sync.zemanta.com^
+||b23588fa72b90.com^
 ||b3.mookie1.com^
 ||b3-uk.mookie1.com^
 ||b5media.us.intellitxt.com^
@@ -848,15 +852,15 @@
 ||c1.zedo.com^
 ||c2.zedo.com^
 ||c3.zedo.com^
-||c4a3ad3b50.com^
+||c4553e72604f.com^
 ||c4d-cdn.adcolony.com^
 ||c4dm.adcolony.com^
 ||c4.iwon.com^
 ||c4.zedo.com^
 ||c5.zedo.com^
 ||c6.zedo.com^
+||c709040c91.com^
 ||c7.zedo.com^
-||c864eb6fcc8.com^
 ||c8.zedo.com^
 ||ca.adserver.yahoo.com^
 ||cache.addthiscdn.com^
@@ -1036,6 +1040,7 @@
 ||cdn.petametrics.com^
 ||cdnpixel.simpli.fi^
 ||cdn.p-n.io^
+||cdn.relaido.jp^
 ||cdn.retailrocket.ru^
 ||cdn.rlcdn.com^
 ||cdn.rossoad.com^
@@ -1570,6 +1575,7 @@
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
+||e33ad94c801.com^
 ||eacash.streamplay.to^
 ||eastads.simpli.fi^
 ||eastevents.simpli.fi^
@@ -1904,7 +1910,6 @@
 ||genialradio.com^
 ||genieeintl-d.openx.net^
 ||genmay.us.intellitxt.com^
-||geo.ads.audio.thisisdax.com^
 ||geo.atlassbx.com^
 ||geocdn.unityads.unity3d.com^
 ||geo.celtra.com^
@@ -1974,6 +1979,7 @@
 ||govpro.us.intellitxt.com^
 ||gr.adserver.yahoo.com^
 ||granite-cubed-d.openx.net^
+||granticaffodily.club^
 ||graph.facebook.com^
 ||graph.instagram.com^
 ||graph.m-freeway.com^
@@ -1982,7 +1988,6 @@
 ||grid.bidswitch.net^
 ||grindr2-d.openx.net^
 ||group11.iperceptions.com^
-||group-ib.ru^
 ||grow.rtk.io^
 ||gsmarena.us.intellitxt.com^
 ||gtmedia.us.intellitxt.com^
@@ -2035,13 +2040,14 @@
 ||hexus.uk.intellitxt.com^
 ||hey.lt^
 ||h-fidelity.online-metrix.net^
-||hf.soulplp.com^
 ||hilltopads.com^
+||himselveseg.club^
 ||hiphopdx.us.intellitxt.com^
 ||hiphopgalaxy.fr.intellitxt.com^
 ||hiphoplead.us.intellitxt.com^
 ||hiphoprx.us.intellitxt.com^
 ||hiram.iad-03.braze.com^
+||hislationaler.club^
 ||hit37.chart.dk^
 ||hit39.chart.dk^
 ||hitcounter.ru^
@@ -2211,6 +2217,7 @@
 ||imreportcard.us.intellitxt.com^
 ||in.adserver.yahoo.com^
 ||inapps.appsflyer.com^
+||incommandary.club^
 ||independentdigital.d3.sc.omtrdc.net^
 ||india-forums.us.intellitxt.com^
 ||indium.openx.net^
@@ -2479,6 +2486,7 @@
 ||latimes-d.openx.net^
 ||latinoreview.us.intellitxt.com^
 ||latinpost.us.intellitxt.com^
+||lattemptweh.club^
 ||launch.adserver.yahoo.com^
 ||launches.appsflyer.com^
 ||lax1.adnxs.com^
@@ -3276,7 +3284,6 @@
 ||ps-us.amazon-adsystem.com^
 ||p.teads.tv^
 ||pt-gmtdmp.mookie1.com^
-||ptowhafuzi.pro^
 ||p.typekit.net-v3.edgekey.net^
 ||pub.adflex.vn^
 ||pub.doubleverify.com^
@@ -3409,7 +3416,6 @@
 ||rest.iad-01.braze.com^
 ||rest.iad-03.braze.com^
 ||retailmenot-d.openx.net^
-||retamponniez.website^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
 ||reuters.demdex.net^
@@ -3532,6 +3538,7 @@
 ||saxp.zedo.com^
 ||saymedia-d.openx.net^
 ||sb6.scorecardresearch.com.edgekey.net^
+||sbbe.group-ib.ru^
 ||sb.freeskreen.com^
 ||sb.monetate.net^
 ||sbnationbidder-d.openx.net^
@@ -4274,6 +4281,7 @@
 ||traffick.jivox.com^
 ||traileraddict.us.intellitxt.com^
 ||tr.alphonso.tv^
+||transardugde.club^
 ||trck.at^
 ||trc.taboolasyndication.com^
 ||trekweb.us.intellitxt.com^
