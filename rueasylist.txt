@@ -964,6 +964,7 @@
 ||cdn.bidadx.com^
 ||cdn.bidvertiser.com^
 ||cdn.blueconic.net^
+||cdn-b.notsy.io^
 ||cdn.boomtrain.com^
 ||cdn.broadstreetads.com^
 ||cdn.caprofitx.com^
@@ -1027,6 +1028,7 @@
 ||cdn.mxpnl.com^
 ||cdn.nanda.vn^
 ||cdn.nearbyad.com^
+||cdn.notsy.io^
 ||cdn.oas-c17.adnxs.com^
 ||cdn.optimizely.com.edgekey.net^
 ||cdn.otherlevels.com^
@@ -2649,8 +2651,6 @@
 ||makeushot.us.intellitxt.com^
 ||malohit.ru^
 ||mamamia.au.intellitxt.com^
-||manga18.club^
-||manga18.us^
 ||manifest.53.localytics.com^
 ||manifest.localytics.com^
 ||mansueto-d.openx.net^
@@ -2921,6 +2921,7 @@
 ||nl.adserver.yahoo.com^
 ||no.adserver.yahoo.com^
 ||nodevice.uk.intellitxt.com^
+||notix.io^
 ||npcdn1.now.sh^
 ||npgco.blueconic.net^
 ||npr.deliveryengine.adswizz.com^
