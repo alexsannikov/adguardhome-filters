@@ -13,13 +13,18 @@
 ||15f3c01a.info^
 ||15f3c01c.info^
 ||167126.engine.mobileapptracking.com^
+||167154.engine.mobileapptracking.com^
 ||1681.engine.mobileapptracking.com^
 ||16948.engine.mobileapptracking.com^
+||17058.engine.mobileapptracking.com^
 ||175038.engine.mobileapptracking.com^
+||176232.engine.mobileapptracking.com^
 ||1782.engine.mobileapptracking.com^
+||178852.engine.mobileapptracking.com^
 ||17908.engine.mobileapptracking.com^
 ||17a898b9.info^
 ||17a898bb.info^
+||180642.engine.mobileapptracking.com^
 ||183704.engine.mobileapptracking.com^
 ||183804.engine.mobileapptracking.com^
 ||185492.engine.mobileapptracking.com^
@@ -27,12 +32,18 @@
 ||186232.engine.mobileapptracking.com^
 ||189358.engine.mobileapptracking.com^
 ||189850.engine.mobileapptracking.com^
+||189904.engine.mobileapptracking.com^
 ||189983.engine.mobileapptracking.com^
 ||190107.engine.mobileapptracking.com^
 ||190829.engine.mobileapptracking.com^
+||192569.engine.mobileapptracking.com^
+||192834.engine.mobileapptracking.com^
 ||194192.engine.mobileapptracking.com^
 ||194792.engine.mobileapptracking.com^
+||194985.engine.mobileapptracking.com^
+||19588.engine.mobileapptracking.com^
 ||198935.engine.mobileapptracking.com^
+||199107.engine.mobileapptracking.com^
 ||1afcfcb2c.ninja^
 ||1biznes.net^
 ||1e0y.xyz^
@@ -61,8 +72,6 @@
 ||3211.tm.zedo.com^
 ||321j1157ftjd.tech^
 ||32d1d3b9c.se^
-||3332899.com^
-||3336637.com^
 ||33across-d.openx.net^
 ||3612.engine.mobileapptracking.com^
 ||3650.tm.zedo.com^
@@ -76,6 +85,7 @@
 ||4thegame.uk.intellitxt.com^
 ||4wmp.nuggad.net^
 ||4w-wrestling.us.intellitxt.com^
+||5094.engine.mobileapptracking.com^
 ||5726.bapi.adsafeprotected.com^
 ||5clickcashsoftware.com^
 ||5starhiphop.us.intellitxt.com^
@@ -87,6 +97,7 @@
 ||79423.analytics.edgekey.net^
 ||8008.engine.mobileapptracking.com^
 ||83nsdjqqo1cau183xz.com^
+||8604.engine.mobileapptracking.com^
 ||8696.engine.mobileapptracking.com^
 ||9864.engine.mobileapptracking.com^
 ||9down.us.intellitxt.com^
@@ -204,6 +215,7 @@
 ||adcru.com^
 ||addkt-d.openx.net^
 ||ad-eu.p.otm-r.com^
+||adf.acrosspf.com^
 ||adfill.fuseplatform.net^
 ||ad.fout.jp^
 ||adg.d2c.ne.jp^
@@ -921,6 +933,7 @@
 ||ccisea-d.openx.net^
 ||cc.iwon.com^
 ||c.clicktale.net^
+||c.cloudwp.io^
 ||c.company-target.com^
 ||c.cpl1.ru^
 ||ccs.livejasmin.com^
@@ -971,7 +984,6 @@
 ||cdn.bidadx.com^
 ||cdn.bidvertiser.com^
 ||cdn.blueconic.net^
-||cdn-b.notsy.io^
 ||cdn.boomtrain.com^
 ||cdn.broadstreetads.com^
 ||cdn.caprofitx.com^
@@ -1032,7 +1044,6 @@
 ||cdn.mxpnl.com^
 ||cdn.nanda.vn^
 ||cdn.nearbyad.com^
-||cdn.notsy.io^
 ||cdn.oas-c17.adnxs.com^
 ||cdn.optimizely.com.edgekey.net^
 ||cdn.otherlevels.com^
@@ -1144,7 +1155,6 @@
 ||click.startappservice.com^
 ||clicktrack.pubmatic.com^
 ||clickvip.ru^
-||click.zoom.us^
 ||client-pages.adnetwork.vn^
 ||clientstorage.cxense.com^
 ||clk.atdmt.com^
@@ -2224,6 +2234,7 @@
 ||innity-d.openx.net^
 ||inquake.de.intellitxt.com^
 ||inquirer-interactive-d.openx.net^
+||inrix.com^
 ||inscreen.widespace.com^
 ||insidemacgames.us.intellitxt.com^
 ||insightenterprises.tt.omtrdc.net^
@@ -2498,6 +2509,7 @@
 ||lib.adnxs.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
 ||libs.coremetrics.com^
+||licensing.bitmovin.com^
 ||lifescript.us.intellitxt.com^
 ||lightad.co.kr^
 ||linewebtoon-d.openx.net^
@@ -2760,6 +2772,7 @@
 ||mooo.com^
 ||mopub-rtb.adfonic.net^
 ||mopub-win-us-east.bkswin.com^
+||more.blueconic.com^
 ||morningstar.us.intellitxt.com^
 ||motleyfool-d.openx.net^
 ||motortrend.us.intellitxt.com^
@@ -2852,6 +2865,7 @@
 ||net.kg^
 ||nettno.nuggad.net^
 ||network.advertise.com^
+||network.bethematchclinical.org^
 ||networkn-d.openx.net^
 ||newcarnet.uk.intellitxt.com^
 ||newjobs.d1.sc.omtrdc.net^
@@ -2885,7 +2899,6 @@
 ||nl.adserver.yahoo.com^
 ||no.adserver.yahoo.com^
 ||nodevice.uk.intellitxt.com^
-||notix.io^
 ||npcdn1.now.sh^
 ||npgco.blueconic.net^
 ||n.radikal.ru^
@@ -2930,7 +2943,6 @@
 ||omax.admarvel.com^
 ||omax-apac.admarvel.com^
 ||omg-studio-d.openx.net^
-||omniappz.com^
 ||om.nuggad.net^
 ||omo.adsplay.xyz^
 ||oms.nuggad.net^
@@ -2943,7 +2955,6 @@
 ||online-forex.hut1.ru^
 ||onrt.stsdk.vivo.com.cn^
 ||onscroll-d.openx.net^
-||onsite-tag-logs.apps.nielsen.com^
 ||ontheflix.us.intellitxt.com^
 ||onyarysh.ru^
 ||oocenter.us.intellitxt.com^
@@ -3488,7 +3499,6 @@
 ||sb6.scorecardresearch.com.edgekey.net^
 ||sbbe.group-ib.ru^
 ||sb.freeskreen.com^
-||s.bigbolz.com^
 ||sb.monetate.net^
 ||sbnationbidder-d.openx.net^
 ||sb.scorecardresearch.com.edgekey.net^
@@ -3652,6 +3662,7 @@
 ||service.videoplaza.tv^
 ||servingit.co^
 ||setupad-d.openx.net^
+||sf3-ttcdn-tos.pstatp.com^
 ||sfg-d.openx.net^
 ||s-files.innovid.com^
 ||s.free-torrent.org^
@@ -3887,6 +3898,7 @@
 ||stats-5-split-vohnu.s.innovid.com.akadns.net^
 ||stats.appsflyer.com^
 ||stats.clicktracks.com^
+||stats.cloudwp.io^
 ||statse.webtrendslive.com^
 ||stats.lineageos.org^
 ||stats.mediaforge.com^
@@ -4341,6 +4353,7 @@
 ||us.y.atwola.com^
 ||ut.serving-system.com^
 ||ut-static.serving-system.com^
+||uuidksinc.net^
 ||uznatpochemu.ru^
 ||vabid.prod.sift.co^
 ||vafw.adsafeprotected.com^
@@ -4425,7 +4438,6 @@
 ||vst.c.appier.net^
 ||vt.myvisualiq.net^
 ||vtrk.doubleverify.com^
-||vuukle.com^
 ||vuukle-d.openx.net^
 ||vw.netmng.com^
 ||vz-cdn2.adtng.com^
@@ -4564,7 +4576,6 @@
 ||x2.mookie1.com^
 ||xads.zedo.com^
 ||x.bidswitch.net^
-||x.clearbitjs.com^
 ||xenon.iad-03.braze.com^
 ||x-exchanger.co.uk^
 ||x.innovid.com^
@@ -4583,7 +4594,6 @@
 ||yapx.ru^
 ||yeeeah.us.intellitxt.com^
 ||yepdigital.adk2x.com^
-||yeyemo4.com^
 ||yieldbird-d.openx.net^
 ||yieldlove-d.openx.net^
 ||yildun.iad-03.braze.com^
