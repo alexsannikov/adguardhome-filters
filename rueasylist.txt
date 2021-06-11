@@ -913,6 +913,7 @@
 ||c.atdmt.com^
 ||cavemancircus.us.intellitxt.com^
 ||cbmetrics.clickbank.com^
+||cbmiocw.com^
 ||cbronline.uk.intellitxt.com^
 ||cbsdigitalmedia.hb-api.omtrdc.net^
 ||cbsi.demdex.net^
@@ -1922,6 +1923,7 @@
 ||ggimg.tapas.net^
 ||ggsoftware-d.openx.net^
 ||ghacks.de.intellitxt.com^
+||ghosthis.review^
 ||gift-connect-d.openx.net^
 ||gigamon.sc.omtrdc.net^
 ||gigamon.tt.omtrdc.net^
