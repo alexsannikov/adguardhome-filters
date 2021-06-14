@@ -75,6 +75,7 @@
 ||33across-d.openx.net^
 ||3612.engine.mobileapptracking.com^
 ||3650.tm.zedo.com^
+||3d287090587.com^
 ||3m.mediav.com^
 ||3ppa.jp.cinarra.com^
 ||3w.nuggad.net^
@@ -86,6 +87,7 @@
 ||4wmp.nuggad.net^
 ||4w-wrestling.us.intellitxt.com^
 ||5094.engine.mobileapptracking.com^
+||5654c2679f.com^
 ||5726.bapi.adsafeprotected.com^
 ||5clickcashsoftware.com^
 ||5starhiphop.us.intellitxt.com^
@@ -870,6 +872,7 @@
 ||c4dm.adcolony.com^
 ||c4.iwon.com^
 ||c4.zedo.com^
+||c5943a5d7085.com^
 ||c5.zedo.com^
 ||c6.zedo.com^
 ||c7.zedo.com^
@@ -1180,6 +1183,7 @@
 ||cms.novaon.asia^
 ||cn2.adserver.yahoo.com^
 ||cn.adserver.yahoo.com^
+||cnb.cnews.ru^
 ||cnet.us.intellitxt.com^
 ||cn-gmtdmp.mookie1.com^
 ||cn-sc.scorecardresearch.com.edgekey.net^
@@ -1748,6 +1752,7 @@
 ||fatfreekitchen.us.intellitxt.com^
 ||fbc.wcfbc.net^
 ||fcanafta.tt.omtrdc.net^
+||fd5a6008c9.com^
 ||fe1-au.imrworldwide.com^
 ||fe2-au.imrworldwide.com^
 ||fe3-au.imrworldwide.com^
@@ -2257,6 +2262,7 @@
 ||intogossip.us.intellitxt.com^
 ||intomobile.us.intellitxt.com^
 ||in.treasuredata.com^
+||intrev.co^
 ||investing-channel-d.openx.net^
 ||investingchannel.us.intellitxt.com^
 ||investopedia.us.intellitxt.com^
@@ -2818,6 +2824,7 @@
 ||mxcdn2.now.sh^
 ||mxd.livejasmin.com^
 ||mxu.livejasmin.com^
+||myaarzoo.com^
 ||myander.do.am^
 ||mydailymoment.us.intellitxt.com^
 ||mydigitallife.us.intellitxt.com^
@@ -2956,6 +2963,7 @@
 ||onlamp.us.intellitxt.com^
 ||online-forex.hut1.ru^
 ||onrt.stsdk.vivo.com.cn^
+||onsafelink.com^
 ||onscroll-d.openx.net^
 ||ontheflix.us.intellitxt.com^
 ||onyarysh.ru^
@@ -4010,6 +4018,7 @@
 ||tagr-gcp-lb1-use1.mookie1.com^
 ||tagr-gcp-odr-use1.mookie1.com^
 ||tagr-gcp-xs2-use1.mookie1.com^
+||tags2.adshell.net^
 ||tags.bluekai.com.edgekey.net^
 ||tags-cdn.deployads.com^
 ||tags.crwdcntrl.net^
