@@ -75,7 +75,6 @@
 ||33across-d.openx.net^
 ||3612.engine.mobileapptracking.com^
 ||3650.tm.zedo.com^
-||3d287090587.com^
 ||3m.mediav.com^
 ||3ppa.jp.cinarra.com^
 ||3w.nuggad.net^
@@ -87,7 +86,6 @@
 ||4wmp.nuggad.net^
 ||4w-wrestling.us.intellitxt.com^
 ||5094.engine.mobileapptracking.com^
-||5654c2679f.com^
 ||5726.bapi.adsafeprotected.com^
 ||5clickcashsoftware.com^
 ||5starhiphop.us.intellitxt.com^
@@ -217,7 +215,6 @@
 ||adcru.com^
 ||addkt-d.openx.net^
 ||ad-eu.p.otm-r.com^
-||adf.acrosspf.com^
 ||adfill.fuseplatform.net^
 ||ad.fout.jp^
 ||adg.d2c.ne.jp^
@@ -872,7 +869,6 @@
 ||c4dm.adcolony.com^
 ||c4.iwon.com^
 ||c4.zedo.com^
-||c5943a5d7085.com^
 ||c5.zedo.com^
 ||c6.zedo.com^
 ||c7.zedo.com^
@@ -916,7 +912,6 @@
 ||c.atdmt.com^
 ||cavemancircus.us.intellitxt.com^
 ||cbmetrics.clickbank.com^
-||cbmiocw.com^
 ||cbronline.uk.intellitxt.com^
 ||cbsdigitalmedia.hb-api.omtrdc.net^
 ||cbsi.demdex.net^
@@ -937,7 +932,6 @@
 ||ccisea-d.openx.net^
 ||cc.iwon.com^
 ||c.clicktale.net^
-||c.cloudwp.io^
 ||c.company-target.com^
 ||c.cpl1.ru^
 ||ccs.livejasmin.com^
@@ -1752,7 +1746,6 @@
 ||fatfreekitchen.us.intellitxt.com^
 ||fbc.wcfbc.net^
 ||fcanafta.tt.omtrdc.net^
-||fd5a6008c9.com^
 ||fe1-au.imrworldwide.com^
 ||fe2-au.imrworldwide.com^
 ||fe3-au.imrworldwide.com^
@@ -1928,7 +1921,6 @@
 ||ggimg.tapas.net^
 ||ggsoftware-d.openx.net^
 ||ghacks.de.intellitxt.com^
-||ghosthis.review^
 ||gift-connect-d.openx.net^
 ||gigamon.sc.omtrdc.net^
 ||gigamon.tt.omtrdc.net^
@@ -2262,7 +2254,6 @@
 ||intogossip.us.intellitxt.com^
 ||intomobile.us.intellitxt.com^
 ||in.treasuredata.com^
-||intrev.co^
 ||investing-channel-d.openx.net^
 ||investingchannel.us.intellitxt.com^
 ||investopedia.us.intellitxt.com^
@@ -2517,7 +2508,6 @@
 ||lib.adnxs.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
 ||libs.coremetrics.com^
-||licensing.bitmovin.com^
 ||lifescript.us.intellitxt.com^
 ||lightad.co.kr^
 ||linewebtoon-d.openx.net^
@@ -2824,7 +2814,6 @@
 ||mxcdn2.now.sh^
 ||mxd.livejasmin.com^
 ||mxu.livejasmin.com^
-||myaarzoo.com^
 ||myander.do.am^
 ||mydailymoment.us.intellitxt.com^
 ||mydigitallife.us.intellitxt.com^
@@ -2963,7 +2952,6 @@
 ||onlamp.us.intellitxt.com^
 ||online-forex.hut1.ru^
 ||onrt.stsdk.vivo.com.cn^
-||onsafelink.com^
 ||onscroll-d.openx.net^
 ||ontheflix.us.intellitxt.com^
 ||onyarysh.ru^
@@ -3672,7 +3660,6 @@
 ||service.videoplaza.tv^
 ||servingit.co^
 ||setupad-d.openx.net^
-||sf3-ttcdn-tos.pstatp.com^
 ||sfg-d.openx.net^
 ||s-files.innovid.com^
 ||s.free-torrent.org^
@@ -3908,7 +3895,6 @@
 ||stats-5-split-vohnu.s.innovid.com.akadns.net^
 ||stats.appsflyer.com^
 ||stats.clicktracks.com^
-||stats.cloudwp.io^
 ||statse.webtrendslive.com^
 ||stats.lineageos.org^
 ||stats.mediaforge.com^
@@ -4018,7 +4004,6 @@
 ||tagr-gcp-lb1-use1.mookie1.com^
 ||tagr-gcp-odr-use1.mookie1.com^
 ||tagr-gcp-xs2-use1.mookie1.com^
-||tags2.adshell.net^
 ||tags.bluekai.com.edgekey.net^
 ||tags-cdn.deployads.com^
 ||tags.crwdcntrl.net^
@@ -4364,7 +4349,6 @@
 ||us.y.atwola.com^
 ||ut.serving-system.com^
 ||ut-static.serving-system.com^
-||uuidksinc.net^
 ||uznatpochemu.ru^
 ||vabid.prod.sift.co^
 ||vafw.adsafeprotected.com^
