@@ -1,11 +1,18 @@
 # Do NOT block
 #
+@@||*^$client=127.0.0.1
 @@||ssl.p.jwpcdn.com^$important
 @@||4shared.com^$important
 @@||fonts.gstatic.com^$important
 @@||olg.ca^$important
 @@||track.4px.com^$important
 @@||ad.admitad.com^$important
+@@||mobile.facebook.com^$important
+@@||graph.facebook.com
+@@||edge-chat.facebook.com^$important
+@@||star.c10r.facebook.com
+@@||web.facebook.com
+@@||zoom.us^$important
 ||imgaz.staticbg.com^$important
 !
 # Skype Ads
@@ -49,7 +56,6 @@
 # Extra sources
 #
 ||phub.net.cable.rogers.com^$important
-||star.c10r.facebook.com^$important
 !
 # RegExp
 #
