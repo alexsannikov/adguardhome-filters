@@ -6,15 +6,14 @@
 @@||fonts.gstatic.com^$important
 @@||olg.ca^$important
 @@||track.4px.com^$important
-@@||ad.admitad.com^$important
+#@@||ad.admitad.com^$important
 @@||mobile.facebook.com^$important
 @@||graph.facebook.com
 @@||edge-chat.facebook.com^$important
 @@||star.c10r.facebook.com
 @@||web.facebook.com
 @@||zoom.us^$important
-||imgaz.staticbg.com^$important
-!
+#
 # Skype Ads
 #
 ||apps.skype.com^
@@ -56,6 +55,7 @@
 # Extra sources
 #
 ||phub.net.cable.rogers.com^$important
+||imgaz.staticbg.com^$important
 !
 # RegExp
 #
