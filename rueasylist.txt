@@ -1914,6 +1914,7 @@
 ||gift-connect-d.openx.net^
 ||gigamon.sc.omtrdc.net^
 ||gigamon.tt.omtrdc.net^
+||gig-games.net^
 ||gigwise.us.intellitxt.com^
 ||girlsaskguys.us.intellitxt.com^
 ||givememyremote.us.intellitxt.com^
