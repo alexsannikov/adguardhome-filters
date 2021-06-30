@@ -346,12 +346,14 @@
 ||h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||ibytedtos.com^
 ||image-proxy-origin.twimg.com^
+||instagr.am^
 ||instagram.com^
 ||instagramstatic-a.akamaihd.net^
 ||instagramstatic-a.akamaihd.net.edgesuite.net^
 ||internet.org^
 ||i.pinimg.com.edgekey.net^
 ||i.reddituploads.com^
+||joinclubhouse.com^
 ||jp.twimg.com^
 ||licdn.com^
 ||linkedin.com^
