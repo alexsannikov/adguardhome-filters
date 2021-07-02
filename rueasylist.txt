@@ -230,6 +230,7 @@
 ||ad.jp.ap.valuecommerce.com^
 ||ad-jp.apx.appier.net^
 ||ad.kixer.com^
+||a.dlads.cn^
 ||ad.linkstorms.com^
 ||admediator.unityads.unity3d.com^
 ||ad.mediawayss.com^
@@ -410,7 +411,6 @@
 ||allwomenstalk.us.intellitxt.com^
 ||almosto.com^
 ||alogsus.umeng.com^
-||alogus.umeng.com^
 ||alpha-assets.adcolony.com^
 ||amadeus.d2.sc.omtrdc.net^
 ||am.appserver-ap.com^
@@ -2906,6 +2906,7 @@
 ||nfl.demdex.net^
 ||nfl.hb.omtrdc.net^
 ||nginx-auction-prd-gcp.adsx.unityads.unity3d.com^
+||nh-cdn.sgp1.cdn.digitaloceanspaces.com^
 ||nhkonline.hb.omtrdc.net^
 ||nightdate.ru^
 ||nihoncar.us.intellitxt.com^
@@ -3157,6 +3158,7 @@
 ||play.video2.stream.vidzi.tv^
 ||play.vidzi.tv^
 ||playwire-d.openx.net^
+||pl.bitcoinbillionarie.t500track29.com^
 ||plde.bestshopping-voucher.com^
 ||pleasedontslaymy.download^
 ||pl-gmtdmp.mookie1.com^
