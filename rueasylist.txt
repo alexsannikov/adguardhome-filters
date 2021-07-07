@@ -454,7 +454,6 @@
 ||analytics.eclick.vn^
 ||analytics.localytics.com^
 ||analytics.nanda.vn^
-||analytics-sdk.yle.fi^
 ||analytics.social.unity.com^
 ||analytics.yinzcam.com^
 ||andpop.us.intellitxt.com^
@@ -563,6 +562,7 @@
 ||a.postrelease.com^
 ||app.adywind.com^
 ||appanalytics.io^
+||app-analytics-v2.snapchat.com^
 ||app.appsflyer.com^
 ||appbrain.com^
 ||appcdn.tvpage.com^
@@ -1919,7 +1919,6 @@
 ||geo-us.snigelweb.com^
 ||geo.ziffdavis.com^
 ||get.bestoffer2021.info^
-||getsupernova.com^
 ||gfaf-banners.s3.amazonaws.com^
 ||ggimg.tapas.net^
 ||ggsoftware-d.openx.net^
@@ -2857,7 +2856,6 @@
 ||nfl.demdex.net^
 ||nfl.hb.omtrdc.net^
 ||nginx-auction-prd-gcp.adsx.unityads.unity3d.com^
-||nh-cdn.sgp1.cdn.digitaloceanspaces.com^
 ||nhkonline.hb.omtrdc.net^
 ||nightdate.ru^
 ||nihoncar.us.intellitxt.com^
@@ -2925,7 +2923,6 @@
 ||oneadvertising-d.openx.net^
 ||one-india-d.openx.net^
 ||onetag-geo.onscroll.com^
-||one.toumppk.cn^
 ||onlamp.us.intellitxt.com^
 ||onscroll-d.openx.net^
 ||onsite-tag-logs.apps.nielsen.com^
@@ -3479,6 +3476,7 @@
 ||sbnationbidder-d.openx.net^
 ||sbsaustralia.hb.omtrdc.net^
 ||sb.scorecardresearch.com.edgekey.net^
+||scalemonk.com^
 ||scanwith.us.intellitxt.com^
 ||s.c.appier.net^
 ||scdn.cxense.com^
