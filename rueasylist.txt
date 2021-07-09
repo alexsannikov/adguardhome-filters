@@ -53,6 +53,8 @@
 ||24m.nuggad.net^
 ||24wrestling.us.intellitxt.com^
 ||2664.tm.zedo.com^
+||293aca873d.com^
+||2a23ccfa8e5.com^
 ||2.cdn.echo.msk.ru^
 ||2d4c3870.info^
 ||2d4c3872.info^
@@ -67,6 +69,7 @@
 ||33across-d.openx.net^
 ||3612.engine.mobileapptracking.com^
 ||3650.tm.zedo.com^
+||3a20371bfb.com^
 ||3m.mediav.com^
 ||3ppa.jp.cinarra.com^
 ||3w.nuggad.net^
@@ -105,6 +108,7 @@
 ||8.mono4.biz^
 ||9.2mono.biz^
 ||9864.engine.mobileapptracking.com^
+||996883f7e5b69.com^
 ||9down.us.intellitxt.com^
 ||9.mono4.biz^
 ||9newstoday.net^
@@ -115,6 +119,7 @@
 ||a3pub.com^
 ||a4.adsplay.xyz^
 ||a5pub.com^
+||a64602ff8b.com^
 ||aaa.at4.info^
 ||aaa.dv0.info^
 ||aa.connextra.com^
@@ -725,6 +730,7 @@
 ||bbg.d1.sc.omtrdc.net^
 ||bbg.sc.omtrdc.net^
 ||bbvacolombia.sc.omtrdc.net^
+||bc1b735fd9.com^
 ||bc.ad.daum.net^
 ||bcli.flash-xxx.com^
 ||bcm-d.openx.net^
@@ -867,6 +873,7 @@
 ||bwlkup.alphonso.tv^
 ||by.essl.optimost.com^
 ||byutv.d1.sc.omtrdc.net^
+||c07c9219c77.com^
 ||c14.zedo.com^
 ||c1.adform.net^
 ||c1.atdmt.com^
@@ -883,6 +890,7 @@
 ||c6.zedo.com^
 ||c7.zedo.com^
 ||c8.zedo.com^
+||c9ddfabc84fd43.com^
 ||ca.adserver.yahoo.com^
 ||cache.addthiscdn.com^
 ||cache.adviva.net^
@@ -1047,6 +1055,7 @@
 ||cdn.mxpnl.com^
 ||cdn.nanda.vn^
 ||cdn.nearbyad.com^
+||cdnny.com^
 ||cdn.oas-c17.adnxs.com^
 ||cdn.optimizely.com.edgekey.net^
 ||cdn.otherlevels.com^
@@ -1112,6 +1121,7 @@
 ||ceres.iad-03.braze.com^
 ||ce.wielkanagroda.com^
 ||ce.wielkaniespodzianka.pl^
+||cf02dac18de9.com^
 ||c.go-mpulse.net^
 ||c.gumgum.com^
 ||chalkedapplaudincident.com^
@@ -1584,6 +1594,7 @@
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
+||ea3247160d34.com^
 ||eacash.streamplay.to^
 ||eastads.simpli.fi^
 ||eastevents.simpli.fi^
@@ -1646,6 +1657,7 @@
 ||epsilon.6sense.com^
 ||equibase-company-d.openx.net^
 ||eragi.ru^
+||ere.wew.92kkdy.cc^
 ||erp2.novaon.asia^
 ||erp.novaon.asia^
 ||error.demdex.net^
@@ -1727,6 +1739,7 @@
 ||eztracks.us.intellitxt.com^
 ||f1.market.mi-img.com^
 ||f1.market.xiaomi.com^
+||f2a63aed53.com^
 ||f2.market.mi-img.com^
 ||f2.market.xiaomi.com^
 ||f3.market.mi-img.com^
@@ -2832,6 +2845,7 @@
 ||net.kg^
 ||nettno.nuggad.net^
 ||network.advertise.com^
+||network.aufeminin.com^
 ||networkn-d.openx.net^
 ||neustar.biz^
 ||newcarnet.uk.intellitxt.com^
@@ -2907,6 +2921,7 @@
 ||offer.mediaz.vn^
 ||offer.sponsorpay.com^
 ||officer.us.intellitxt.com^
+||ofyouope.club^
 ||ohgizmo.us.intellitxt.com^
 ||okmagazine.us.intellitxt.com^
 ||ok.uk.intellitxt.com^
@@ -3634,6 +3649,7 @@
 ||servingit.co^
 ||serving.xxxwebtraffic.com^
 ||setupad-d.openx.net^
+||sextadate.net^
 ||sfg-d.openx.net^
 ||s-files.innovid.com^
 ||s.free-torrent.org^
@@ -3720,6 +3736,7 @@
 ||snssdk1233.onelink.me^
 ||s.ntv.io^
 ||so.2mdn.net^
+||soadvr.com^
 ||soccergaming.us.intellitxt.com^
 ||socialanxietysupport.us.intellitxt.com^
 ||socialitelife.us.intellitxt.com^
@@ -4006,6 +4023,7 @@
 ||tbohiphop.us.intellitxt.com^
 ||tbslatinamerica.hb.omtrdc.net^
 ||tc.fileplaneta.com^
+||tckjttdn.top^
 ||tcmagazine.uk.intellitxt.com^
 ||tc.tradetracker.net^
 ||tdameritrade.demdex.net^
