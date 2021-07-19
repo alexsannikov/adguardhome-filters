@@ -1977,7 +1977,6 @@
 ||hashtaglabs-d.openx.net^
 ||haso.pubmatic.com^
 ||hassaleh.iad-03.braze.com^
-||havasedge.com^
 ||haveuheard.us.intellitxt.com^
 ||hb.adingo.jp^
 ||hb.adscale.de^
