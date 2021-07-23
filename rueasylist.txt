@@ -144,6 +144,7 @@
 ||abbp2.pw^
 ||abbp2.website^
 ||abc.hb.omtrdc.net^
+||abc.hearst.co.uk^
 ||abc.logly.co.jp^
 ||abcnews.hb-api.omtrdc.net^
 ||abcnews.hb.omtrdc.net^
@@ -177,7 +178,9 @@
 ||acrdb.alphonso.tv^
 ||action.media6degrees.com^
 ||actionscript.us.intellitxt.com^
+||activetracker.activehotels.com^
 ||activewin.us.intellitxt.com^
+||activities.niagara.comedycentral.com^
 ||activity.serving-sys.com^
 ||actualite-de-stars.fr.intellitxt.com^
 ||ad01.advertise.com^
@@ -374,7 +377,9 @@
 ||aexp.demdex.net^
 ||affilate-img-affasi.s3.amazonaws.com^
 ||affiliate.2mdn.net^
+||affiliate.iamplify.com^
 ||affiliates.bet-at-home.com^
+||affiliates.purevpn.com^
 ||affiliationjs.s3.amazonaws.com^
 ||aff.mclick.mobi^
 ||afimg.liveperson.com^
