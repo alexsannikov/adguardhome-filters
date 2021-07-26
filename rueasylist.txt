@@ -1666,6 +1666,7 @@
 ||events3alt.adcolony.com^
 ||events-api.otherlevels.com^
 ||events.appsflyer.com^
+||events.data.microsoft.com^
 ||events.kiosked.com^
 ||event.spotxchange.com^
 ||events.simpli.fi^
