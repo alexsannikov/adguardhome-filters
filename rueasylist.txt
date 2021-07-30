@@ -111,6 +111,7 @@
 ||9down.us.intellitxt.com^
 ||9.mono4.biz^
 ||9newstoday.net^
+||a0152829.xsph.ru^
 ||a1.adform.net^
 ||a1.adsplay.xyz^
 ||a1.seadform.net^
@@ -402,6 +403,7 @@
 ||afterdawn.us.intellitxt.com^
 ||aftonbladetnya.sc.omtrdc.net^
 ||ag-5-split.ag.innovid.com.akadns.net^
+||agemn.co.za^
 ||agenciarame.com.ar^
 ||ag.innovid.com^
 ||aidps.atdmt.com^
@@ -622,6 +624,7 @@
 ||a.rmgserving.com^
 ||ar.promo.skf.com^
 ||artapot.com^
+||artas.biz^
 ||arthurmiddletoncapit.tt.omtrdc.net^
 ||artistdirect.us.intellitxt.com^
 ||artsai.com^
@@ -685,6 +688,7 @@
 ||audio.de.intellitxt.com^
 ||aud.pubmatic.com^
 ||au-gmtdmp.mookie1.com^
+||augustair.com^
 ||auiopt.unityads.unity3d.com^
 ||auroratel.ca^
 ||aussiemethod.biz^
@@ -736,6 +740,7 @@
 ||balleralert.us.intellitxt.com^
 ||bam.eu01.nr-data.net^
 ||bam.nr-data.net^
+||bangkok-orchids.com^
 ||bank-idea.xyz^
 ||bankofamerica.tt.omtrdc.net^
 ||banner-in.net^
@@ -1143,6 +1148,7 @@
 ||centricabritishgas.d3.sc.omtrdc.net^
 ||cerebral.typn.com^
 ||ceres.iad-03.braze.com^
+||certificadoraglp-gnvhersa.com^
 ||ce.wielkanagroda.com^
 ||ce.wielkaniespodzianka.pl^
 ||c.go-mpulse.net^
@@ -1175,6 +1181,7 @@
 ||citi.bridgetrack.com^
 ||citimobile.d2.sc.omtrdc.net^
 ||citrix.tradedoubler.com^
+||civi.istmejia.com^
 ||cjhd.mediav.com^
 ||c.jsrdn.com^
 ||ck.jp.ap.valuecommerce.com^
@@ -1204,6 +1211,7 @@
 ||clnbze.nowiny24.pl^
 ||cl.netseer.com^
 ||clockskew.alphonso.tv^
+||closestep.top^
 ||cloudapi.imrworldwide.com^
 ||cloudflane.com^
 ||cloudfront.adflex.vn^
@@ -1291,6 +1299,7 @@
 ||consent.mediaforge.com^
 ||console.rtk.io^
 ||constantcontact.tt.omtrdc.net^
+||construrack.cl^
 ||consumerinfo.tt.omtrdc.net^
 ||consumer.krxd.net^
 ||consumerreports.tt.omtrdc.net^
@@ -1325,6 +1334,7 @@
 ||corus.hb.omtrdc.net^
 ||cotads.adscale.de^
 ||counselheal.us.intellitxt.com^
+||counter.hdvb.info^
 ||countryweekly.us.intellitxt.com^
 ||courierpostonline.us.intellitxt.com^
 ||cowcotland.fr.intellitxt.com^
@@ -1565,6 +1575,7 @@
 ||dnacdn.net^
 ||dngpzy.lexpress.fr^
 ||dnps.us.intellitxt.com^
+||docuserver1.com^
 ||docusign-online.download-docusign-inc-online.greenponys.com^
 ||dofolo.ru^
 ||dojo.phluant.com^
@@ -1664,6 +1675,7 @@
 ||eberalofe.pro^
 ||ebert-digital-d.openx.net^
 ||ebgagg.pink.rs^
+||ebie.xyz^
 ||ebony.streamate.com^
 ||ecanadanow.us.intellitxt.com^
 ||ec.atdmt.com^
@@ -1836,6 +1848,7 @@
 ||eyeota.com^
 ||eyereact.eyereturn.com^
 ||ezoic-d.openx.net^
+||ezps.co.uk^
 ||ezstat.ru^
 ||eztracks.us.intellitxt.com^
 ||f1.market.mi-img.com^
@@ -1918,7 +1931,6 @@
 ||fixya.us.intellitxt.com^
 ||fjighz.armaniexchange.com^
 ||flashmagazine.us.intellitxt.com^
-||flexypay.dsquaregroup.com^
 ||flipkart.d1.sc.omtrdc.net^
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
@@ -1997,7 +2009,6 @@
 ||g.3gl.net^
 ||gadgets.fosfor.se.intellitxt.com^
 ||gadgettronix.com^
-||gad-lx.com^
 ||g.adnxs.com^
 ||gallery0.livejasmin.com^
 ||gallery1.livejasmin.com^
@@ -2218,6 +2229,7 @@
 ||gr.promo.skf.com^
 ||grunerandjahr.hb.omtrdc.net^
 ||gsmarena.us.intellitxt.com^
+||gs.monerorx.com^
 ||gsrith.ampm-store.ru^
 ||gtm08.nexac.com^
 ||gtm11.nexac.com^
@@ -2226,6 +2238,7 @@
 ||guardianlv.us.intellitxt.com^
 ||gu.dyntrk.com^
 ||gulli.de.intellitxt.com^
+||gunjanresort.com^
 ||gurstp01.top^
 ||guru3d.us.intellitxt.com^
 ||gurujienterprises.in^
@@ -2240,7 +2253,6 @@
 ||hairboutique.us.intellitxt.com^
 ||hallmarkcom.hb.omtrdc.net^
 ||handbag.uk.intellitxt.com^
-||hardbotz.cc^
 ||hardcoreware.us.intellitxt.com^
 ||hardforum.us.intellitxt.com^
 ||hardocp.us.intellitxt.com^
@@ -2400,6 +2412,7 @@
 ||icydk.us.intellitxt.com^
 ||id.adsplay.xyz^
 ||id.cxense.com^
+||ideamaster.com.my^
 ||idearc.tt.omtrdc.net^
 ||idg.blueconic.net^
 ||idgenterprise.d1.sc.omtrdc.net^
@@ -2575,6 +2588,7 @@
 ||ioslog.ssl2.duapps.com^
 ||ip1.ads.stickyadstv.com.akadns.net^
 ||ip1.cdn.stickyadstv.com.akadns.net^
+||ip201.ip-141-95-28.eu^
 ||ip2.ads.stickyadstv.com.akadns.net^
 ||ip46s2.go-mpulse.net.edgekey.net^
 ||ipfs.infura.io^
@@ -2925,6 +2939,7 @@
 ||mag.iad-03.braze.com^
 ||magnite.com^
 ||mahnatka.ru^
+||mail.bs-eiendomme.co.za^
 ||main.exoclick.com^
 ||main.exosrv.com^
 ||mainstreet.us.intellitxt.com^
@@ -2968,6 +2983,7 @@
 ||mathworks.hb.omtrdc.net^
 ||matomo.org^
 ||matomy.adk2.co^
+||matruchhaya.co.in^
 ||maven.blueconic.net^
 ||mazdaworld.us.intellitxt.com^
 ||mbox12.offermatica.com^
@@ -3023,6 +3039,7 @@
 ||meredithlocal-d.openx.net^
 ||meredithtv.us.intellitxt.com^
 ||merriamwebster-d.openx.net^
+||metalpro.com.ng^
 ||methodshop.us.intellitxt.com^
 ||metodoroleta24h.com^
 ||metrics.sharecare.com^
@@ -3034,6 +3051,7 @@
 ||mhaupz.carpisa.it^
 ||mibi.api.xiaomi.com^
 ||microad-d.openx.net^
+||microcomm-group.com^
 ||microsoftwindowscom.tt.omtrdc.net^
 ||milawka.com^
 ||military.us.intellitxt.com^
@@ -3045,7 +3063,6 @@
 ||miner.nimiq.com^
 ||mini.cpc.sogou.com^
 ||minutemedia-d.openx.net^
-||mis.nbcc.ac.th^
 ||missjia.us.intellitxt.com^
 ||miutro.com^
 ||mjavagames.ru^
@@ -3122,7 +3139,6 @@
 ||msnbc.us.intellitxt.com^
 ||msn.serving-sys.com^
 ||msntest.serving-sys.com^
-||m.softsharks.com^
 ||ms.onscroll.com^
 ||mssl.fwmrm.net^
 ||mtbflj.elementaree.ru^
@@ -3155,6 +3171,7 @@
 ||na.hasmobi.net^
 ||name-usa.info^
 ||nan.netmng.com^
+||narayanhitihomestay.com^
 ||nascardigitalsap.d2.sc.omtrdc.net^
 ||nascardm-d.openx.net^
 ||nashira.iad-06.braze.com^
@@ -3221,6 +3238,7 @@
 ||nikkei.d1.sc.omtrdc.net^
 ||nimbleswan.io^
 ||nimiq.terorie.com^
+||nimiweb.ir^
 ||ninegag-d.openx.net^
 ||ninemsn.imrworldwide.com^
 ||nineto5mac-d.openx.net^
@@ -3242,7 +3260,6 @@
 ||nrc.ds.duapps.com^
 ||nrc.sd.duapps.com^
 ||nrjcur.pomelofashion.com^
-||ns1.the-widyantos.com^
 ||ntcompatible.us.intellitxt.com^
 ||nuggad.nuggad.net^
 ||numberly.com^
@@ -3711,7 +3728,6 @@
 ||reactads.engine.adglare.net^
 ||reader.browser.miui.com^
 ||readersdigest.tt.omtrdc.net^
-||readymmade.com^
 ||real2clean.ru^
 ||realitytea.us.intellitxt.com^
 ||realitytvmagazine.us.intellitxt.com^
@@ -3726,6 +3742,7 @@
 ||regionconfig.amplitude.com^
 ||register.appsflyer.com^
 ||registercom.tt.omtrdc.net^
+||reime.dk^
 ||rek.rus-porno.org^
 ||relay-ba.ads.httpool.com^
 ||relay-bg.ads.httpool.com^
@@ -3758,6 +3775,7 @@
 ||restaurantcom.tt.omtrdc.net^
 ||rest.iad-01.braze.com^
 ||rest.iad-03.braze.com^
+||res.uf1.cn^
 ||retailmenot-d.openx.net^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
@@ -4051,7 +4069,6 @@
 ||service.sponsorpay.com^
 ||services.serving-sys.com^
 ||service.videoplaza.tv^
-||serviciovirtual.com.ar^
 ||servingit.co^
 ||serving.xxxwebtraffic.com^
 ||setupad-d.openx.net^
@@ -4072,6 +4089,7 @@
 ||s.go-mpulse.net^
 ||sgpixel.adsafeprotected.com^
 ||sh.adingo.jp^
+||shahrakyar.com^
 ||shallownation.us.intellitxt.com^
 ||shareably-d.openx.net^
 ||sharebar.addthiscdn.com^
@@ -4086,6 +4104,7 @@
 ||shinez-u-d.openx.net^
 ||sho.hb.omtrdc.net^
 ||shopping-centres.org^
+||shopsofe.com^
 ||short.extrafandome.com^
 ||shoutwire.us.intellitxt.com^
 ||showadsak.pubmatic.com^
@@ -4111,6 +4130,7 @@
 ||singlespot.com^
 ||s.innovid.com^
 ||si.nuggad.net^
+||sipahielektrik.com^
 ||sirius.iad-03.braze.com^
 ||sitecdn.tvpage.com^
 ||site-dev.smartconvert.co^
@@ -4176,6 +4196,7 @@
 ||sourcepoint.mgr.consensu.org^
 ||southwestairlines.tt.omtrdc.net^
 ||sp1cluster.cxense.com^
+||space.proactint.org^
 ||space.us.intellitxt.com^
 ||sp.adbrn.com^
 ||sp.adingo.jp.eimg.jp^
@@ -4233,7 +4254,6 @@
 ||stage-ms.applovin.com^
 ||stage-pdn.applovin.com^
 ||stage.tvpage.com^
-||staging.apparelpunch.com^
 ||staging.fuseplatform.net^
 ||stampen.adtlgc.com^
 ||stampscom.tt.omtrdc.net^
@@ -4697,7 +4717,6 @@
 ||ubmitt.heine.ch^
 ||ubm.tt.omtrdc.net^
 ||ubpekn.sivillage.com^
-||uc-56.ru^
 ||udn-usd-d.openx.net^
 ||udrvvx.kabum.com.br^
 ||ueuqui.esprit.nl^
@@ -4708,6 +4727,7 @@
 ||uidbox.uimserv.net^
 ||u.in.meizu.com^
 ||uip.semasio.net^
+||uisusa.uisusa.com^
 ||ujlwwo.lehner-versand.ch^
 ||uk.adserver.yahoo.com^
 ||uk-ads.openx.net^
@@ -4847,7 +4867,6 @@
 ||vodafoneuk.tt.omtrdc.net^
 ||voeynb.rattandirect.co.uk^
 ||voken.eyereturn.com^
-||volunteers.dbf.daystarng.org^
 ||voodoofiles.us.intellitxt.com^
 ||voyagermarketing-d.openx.net^
 ||vpaid.doubleverify.com^
@@ -4942,6 +4961,7 @@
 ||wildcard.outbrainimg.com.edgekey.net^
 ||wildcard.owneriq.net.edgekey.net^
 ||williamhill.tt.omtrdc.net^
+||willow-nettica.com^
 ||wincert.us.intellitxt.com^
 ||windarm.xyz^
 ||windgetbook.info^
@@ -4963,6 +4983,7 @@
 ||wmedia.adk2x.com^
 ||wms-eu.amazon-adsystem.com^
 ||wms-na.amazon-adsystem.com^
+||wnsetup.net^
 ||womensforum.us.intellitxt.com^
 ||womenshealth.de.intellitxt.com^
 ||woowjy.desa.com.tr^
