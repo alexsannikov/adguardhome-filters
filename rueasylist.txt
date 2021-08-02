@@ -92,6 +92,7 @@
 ||6.6solo.biz^
 ||6.7mono.biz^
 ||67s6gxv28kin.com^
+||6a9102689db8e.com^
 ||6.mono4.biz^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
@@ -388,7 +389,9 @@
 ||affiliate.2mdn.net^
 ||affiliate.iamplify.com^
 ||affiliates.bet-at-home.com^
+||affiliatesmedia.sbobet.com^
 ||affiliates.purevpn.com^
+||affiliation.fotovista.com^
 ||affiliationjs.s3.amazonaws.com^
 ||aff.mclick.mobi^
 ||afimg.liveperson.com^
@@ -632,6 +635,7 @@
 ||ascendeum-d.openx.net^
 ||as.chango.com^
 ||asco.d2.sc.omtrdc.net^
+||ashingcontro.top^
 ||asia.adform.net^
 ||asian.streamate.com^
 ||asia.seadform.net^
@@ -662,9 +666,11 @@
 ||at.atwola.com^
 ||a.teads.tv^
 ||a.teads.tv.edgekey.net^
+||atictrementint.club^
 ||a.tiles.mapbox.com^
 ||atlascopco.hb.omtrdc.net^
 ||atlas.iad-03.braze.com^
+||atomisons.xyz^
 ||atracking-auto.appflood.com^
 ||atrd.netmng.com^
 ||atresmedia.hb.omtrdc.net^
@@ -714,6 +720,7 @@
 ||awardspace.de.intellitxt.com^
 ||away.us.intellitxt.com^
 ||awmcenter.eu^
+||awprt.com^
 ||aws-fr-sync.bidswitch.net^
 ||aws-oreg-cali-virg.ag.innovid.com.akadns.net^
 ||aws-oregon-california-virginia.dts.innovid.com.akadns.net^
@@ -1755,12 +1762,14 @@
 ||eofwfj.ria.com^
 ||eontarionow.us.intellitxt.com^
 ||epn.adledge.com^
+||epnt.ebay.com^
 ||epoch-times-d.openx.net^
 ||epowernetworktrackerimages.s3.amazonaws.com^
 ||epsilon.6sense.com^
 ||eqlpgv.marupiarahotel.com.br^
 ||equibase-company-d.openx.net^
 ||eragi.ru^
+||eredexpendin.com^
 ||erolasa.ac.ug^
 ||erolbasa.ac.ug^
 ||erp2.novaon.asia^
@@ -2089,6 +2098,7 @@
 ||gm.mmstat.com^
 ||gmtdmp.mookie1.com^
 ||gmxcdm.vestel.com.tr^
+||gnorityari.club^
 ||gnqgnn.bbongbra.co.kr^
 ||go1.aniview.com^
 ||go2.wolterskluwer.ca^
@@ -2288,6 +2298,7 @@
 ||hellobro.cf^
 ||hellomagazine.uk.intellitxt.com^
 ||help.mysearch.com^
+||heregenessco.club^
 ||hexus.uk.intellitxt.com^
 ||hey.lt^
 ||hgoz.12v.si^
@@ -3198,6 +3209,7 @@
 ||nbcustr.netmng.com^
 ||ncoqsj.dr.com.tr^
 ||ncxxek.donedeal.ie^
+||ndnraniprwd.com^
 ||ndqdxm.thehyundai.com^
 ||neaaom.ytn.co.kr^
 ||neccorp.tt.omtrdc.net^
@@ -3351,6 +3363,7 @@
 ||other.chartboosts.com^
 ||otivzt10.top^
 ||ot.teads.tv^
+||oulipiste.xyz^
 ||ouplog.umeng.com^
 ||outbrain-d.openx.net^
 ||outils.f5biz.com^
@@ -3414,6 +3427,7 @@
 ||pearno.com^
 ||pebblepost.com^
 ||pelmorex-d.openx.net^
+||pendaccomot.club^
 ||pennwellco.tt.omtrdc.net^
 ||penton.us.intellitxt.com^
 ||pepsico.demdex.net^
@@ -3423,6 +3437,7 @@
 ||perf.teads.tv.edgekey.net^
 ||permissioninteractiv.tt.omtrdc.net^
 ||p.estream.to^
+||petachiefund.club^
 ||petfooddirect.d1.sc.omtrdc.net^
 ||pfa.levexis.com^
 ||pfdqxv.bibloo.ro^
@@ -3818,6 +3833,7 @@
 ||rqhtgf.pierrecardin.com.tr^
 ||rs2.adledge.com^
 ||rs.adledge.com^
+||rsalcdp.com^
 ||rscdn.cxense.com^
 ||rsdisp.ru^
 ||rs.gwallet.com^
@@ -3895,6 +3911,7 @@
 ||saspreview.com^
 ||savemanny.us.intellitxt.com^
 ||saxp.zedo.com^
+||sayessedb.club^
 ||saymedia-d.openx.net^
 ||sb6.scorecardresearch.com.edgekey.net^
 ||sbbe.group-ib.ru^
@@ -4071,6 +4088,7 @@
 ||service.videoplaza.tv^
 ||servingit.co^
 ||serving.xxxwebtraffic.com^
+||serwrities.club^
 ||setupad-d.openx.net^
 ||seyfwl.styl.pl^
 ||sfg-d.openx.net^
@@ -4445,6 +4463,7 @@
 ||tali.iad-03.braze.com^
 ||talkfusion.com^
 ||talkingpointsmemo-d.openx.net^
+||tantrumall.club^
 ||t.appsflyer.com^
 ||targeting.api.drift.com^
 ||target.my.com^
@@ -4649,6 +4668,7 @@
 ||tr.alphonso.tv^
 ||trck.at^
 ||trc.taboolasyndication.com^
+||treammicr.club^
 ||trekweb.us.intellitxt.com^
 ||trendmicrojp.d2.sc.omtrdc.net^
 ||trendmicro.tt.omtrdc.net^
