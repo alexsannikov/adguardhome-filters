@@ -432,6 +432,7 @@
 ||analytics.ccgateway.net^
 ||analytics.localytics.com^
 ||analytics.nanda.vn^
+||analytics.oneplus.cn^
 ||analytics.social.unity.com^
 ||analytics.yinzcam.com^
 ||andpop.us.intellitxt.com^
@@ -1347,6 +1348,7 @@
 ||d9.zedo.com^
 ||dabcc.us.intellitxt.com^
 ||dacash.streamplay.to^
+||dadata.ru^
 ||d.adgear.com^
 ||d.adroll.mgr.consensu.org^
 ||d.adsplay.xyz^
@@ -1893,6 +1895,7 @@
 ||ggimg.tapas.net^
 ||ggsoftware-d.openx.net^
 ||ghacks.de.intellitxt.com^
+||giantsavings-a.akamaihd.net^
 ||gift-connect-d.openx.net^
 ||gigamon.sc.omtrdc.net^
 ||gigamon.tt.omtrdc.net^
@@ -2057,6 +2060,7 @@
 ||hostingcloud.science^
 ||hotapi.sgsnssdk.com.edgekey.net^
 ||hothardware.us.intellitxt.com^
+||hotlinking.dosmil.imap.cc^
 ||hotmommagossip.us.intellitxt.com^
 ||hotonlinenews.us.intellitxt.com^
 ||hotpot.360in.com^
@@ -2165,6 +2169,7 @@
 ||img.adplan-ds.com^
 ||img.applovin.com^
 ||imgbum.net^
+||imgpop.googlecode.com^
 ||img.tradedoubler.com^
 ||img.vietnamnetad.vn^
 ||imnotobsessed.us.intellitxt.com^
@@ -2187,6 +2192,7 @@
 ||inapps.appsflyer.com^
 ||independentdigital.d3.sc.omtrdc.net^
 ||india-forums.us.intellitxt.com^
+||indieclick.3janecdn.com^
 ||indium.openx.net^
 ||indus.iad-01.braze.com^
 ||inferna.iad-03.braze.com^
@@ -2623,6 +2629,7 @@
 ||mediafire-d.openx.net^
 ||media.m.ambientplatform.vn^
 ||mediamond.nuggad.net^
+||media.onlineteachers.co.in^
 ||media.org.adtimaserver.vn^
 ||media.scanscout.com^
 ||medias.cloud.ogury.io^
@@ -2630,6 +2637,7 @@
 ||mediation.adnxs.com^
 ||medicinenet.us.intellitxt.com^
 ||medindia.us.intellitxt.com^
+||medrx.telstra.com.au^
 ||meetgoodgirls.com^
 ||mega1app.yeah1publishing.com^
 ||megoads.eu^
@@ -2646,6 +2654,7 @@
 ||metropcs.mobileposse.com^
 ||metro.uk.intellitxt.com^
 ||m.fb-account-page.realdumpspdf.com^
+||mfeed.newzfind.com^
 ||mfx.mobilefuse.com^
 ||mi.adinterax.com^
 ||mibi.api.xiaomi.com^
@@ -2737,6 +2746,8 @@
 ||mssl.fwmrm.net^
 ||mtag.yieldoptimizer.com^
 ||mt-data.ru^
+||mto.mediatakeout.com^
+||mt.sellingrealestatemalta.com^
 ||mtv3.hb-api.omtrdc.net^
 ||mtv3.hb.omtrdc.net^
 ||mtv.hb.omtrdc.net^
@@ -3328,6 +3339,7 @@
 ||resources.infolinks.com^
 ||resources.kiosked.com^
 ||responsys.com^
+||rest-app.net^
 ||restaurantcom.tt.omtrdc.net^
 ||rest.iad-01.braze.com^
 ||rest.iad-03.braze.com^
@@ -4542,6 +4554,7 @@
 ||xml.opera.com^
 ||xmlpitstop.us.intellitxt.com^
 ||xml.revenuehits.com^
+||xp.apple.com^
 ||xpl.theadex.com^
 ||xx.c.appier.net^
 ||xxx-tracker.com^
