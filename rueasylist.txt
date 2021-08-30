@@ -1200,6 +1200,7 @@
 ||collect.iperceptions.com^
 ||collector.tealeaf.ibmcloud.com^
 ||collegefootballnews.us.intellitxt.com^
+||coll.v00yvd.xyz^
 ||comcastcom.hb.omtrdc.net^
 ||comcast.demdex.net^
 ||comcast-d.openx.net^
@@ -1563,6 +1564,7 @@
 ||durationmedia-d.openx.net^
 ||dw.lp.eu.emobi-sys.com^
 ||dx.steelhousemedia.com^
+||dynatrace.com^
 ||dync.c.appier.net^
 ||dz.mmstat.com^
 ||e100.yt.srs.doubleverify.com^
@@ -2752,6 +2754,7 @@
 ||mopub-rtb.adfonic.net^
 ||mopub-win-us-east.bkswin.com^
 ||morningstar.us.intellitxt.com^
+||moshahda.online^
 ||motleyfool-d.openx.net^
 ||motortrend.us.intellitxt.com^
 ||moviehole.us.intellitxt.com^
@@ -3660,6 +3663,7 @@
 ||services.serving-sys.com^
 ||service.videoplaza.tv^
 ||servingit.co^
+||setupad.com^
 ||setupad-d.openx.net^
 ||sfg-d.openx.net^
 ||s-files.innovid.com^
