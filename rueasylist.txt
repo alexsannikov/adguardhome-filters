@@ -4048,6 +4048,7 @@
 ||tracker.adotmob.com^
 ||tracker.my.com^
 ||trackerodss.eu^
+||tracker.plerdy.com^
 ||tracking1.firstimpression.io^
 ||tracking.feedmob.com^
 ||tracking.m6r.eu^
