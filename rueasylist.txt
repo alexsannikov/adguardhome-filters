@@ -1964,6 +1964,7 @@
 ||gottabemobile.us.intellitxt.com^
 ||gov.aniview.com^
 ||govpro.us.intellitxt.com^
+||gp.trcked.me^
 ||gr.adserver.yahoo.com^
 ||granite-cubed-d.openx.net^
 ||graph.facebook.com^
