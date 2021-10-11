@@ -1270,8 +1270,10 @@
 ||crcdn09.adnxs.com^
 ||crcom.livejasmin.com^
 ||creative-assets.quantcount.com^
+||creative.bshrdr.com^
 ||creative.cc-dt.com^
 ||creative.mng-ads.com^
+||creative.mshago.com^
 ||creative-p.undertone.com^
 ||creatives.cliphunter.com^
 ||creatives.smaato.com^
@@ -1923,6 +1925,7 @@
 ||gossipcenter.us.intellitxt.com^
 ||gossiponthis.us.intellitxt.com^
 ||gossipteen.us.intellitxt.com^
+||go.tmrjmp.com^
 ||go.trafficrouter.io^
 ||gottabemobile.us.intellitxt.com^
 ||gov.aniview.com^
@@ -2322,6 +2325,7 @@
 ||jutiagroup.us.intellitxt.com^
 ||k8s-mock-server-2.hb-api.omtrdc.net^
 ||kaboose.us.intellitxt.com^
+||kaishist.top^
 ||kaspersky.d3.sc.omtrdc.net^
 ||kasterborous.us.intellitxt.com^
 ||kbnetworkz.s3.amazonaws.com^
@@ -3095,6 +3099,7 @@
 ||priv-policy.imrworldwide.com^
 ||prizegiveaway.org^
 ||prizemachine.games.iwon.com^
+||prjslxhtx005.top^
 ||prod-a.applovin.com^
 ||prod-bid.applovin.com^
 ||prod.fraud.adjoe.zone^
@@ -3147,6 +3152,7 @@
 ||pubnative-d.openx.net^
 ||pub.pgssl.com^
 ||pubwise-d.openx.net^
+||pulse360.com^
 ||pulsepoint.com^
 ||punchjump.us.intellitxt.com^
 ||pu.plugrush.com^
@@ -3549,6 +3555,7 @@
 ||shawtelevision.hb.omtrdc.net^
 ||sh-cdn.younetmedia.com^
 ||shebudgets.us.intellitxt.com^
+||shefficera.club^
 ||sheknows.us.intellitxt.com^
 ||shell.tt.omtrdc.net^
 ||shinez-u-d.openx.net^
@@ -3657,6 +3664,7 @@
 ||speednetwork14.adk2x.com^
 ||speednetwork6.adk2x.com^
 ||speedtv.us.intellitxt.com^
+||sphdigital.com^
 ||spica.iad-03.braze.com^
 ||spiceworks-d.openx.net^
 ||spikemedia-d.openx.net^
@@ -3988,6 +3996,7 @@
 ||th-gmtdmp.mookie1.com^
 ||thind.unityads.unity3d.com^
 ||thinkcomputers.us.intellitxt.com^
+||thirgoad.top^
 ||thor.rtk.io^
 ||thoughtsmedia.us.intellitxt.com^
 ||threadwatch.us.intellitxt.com^
@@ -4157,6 +4166,7 @@
 ||uk-ads.openx.net^
 ||ukreggae.ru^
 ||ukrmedia.center^
+||ulppreciat.club^
 ||ultimate-guitar-d.openx.net^
 ||um2.eqads.com^
 ||um3.eqads.com^
