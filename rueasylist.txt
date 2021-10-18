@@ -1,6 +1,7 @@
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
+||08d7882dfc.94bc29639b.com^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
 ||10148.engine.mobileapptracking.com^
@@ -72,6 +73,7 @@
 ||411mania.us.intellitxt.com^
 ||480.zaloapp.ads.zdn.vn^
 ||4984.engine.mobileapptracking.com^
+||4d3ab3ed3a.25a2143174.com^
 ||4e43ac9c.info^
 ||4thegame.uk.intellitxt.com^
 ||4wmp.nuggad.net^
@@ -91,6 +93,7 @@
 ||919.allegro-lokalnie.club^
 ||9864.engine.mobileapptracking.com^
 ||9down.us.intellitxt.com^
+||9e49ddb45f.48d58df525.com^
 ||9newstoday.net^
 ||a0a18dc255.1772c9ffd2.com^
 ||a1.adform.net^
@@ -668,6 +671,7 @@
 ||axp.zedo.com^
 ||b3.mookie1.com^
 ||b3-uk.mookie1.com^
+||b4f91231ab.ea38b1fdc5.com^
 ||b5media.us.intellitxt.com^
 ||b666.penzainform.ru^
 ||b.6sc.co^
@@ -726,6 +730,7 @@
 ||belgikanst.iad-03.braze.com^
 ||beliefnet.us.intellitxt.com^
 ||bellmedia.hb.omtrdc.net^
+||belonnanotservice.ga^
 ||be-ms.teads.tv^
 ||bentleysystems.hb.omtrdc.net^
 ||berldk.nuggad.net^
@@ -1389,6 +1394,7 @@
 ||de.ioam.de^
 ||delawareonline.us.intellitxt.com^
 ||delconewsnetwork.us.intellitxt.com^
+||delivery.contextads.live^
 ||delivery.kabbmedia.com^
 ||delivery.porn.com^
 ||delivery.steelhousemedia.com^
@@ -2068,6 +2074,7 @@
 ||hulu.hb.omtrdc.net^
 ||hulu-ios.hb-api.omtrdc.net^
 ||hulu-lr.hb-api.omtrdc.net^
+||hunchbacktransformation.com^
 ||huntingtonbank.tt.omtrdc.net^
 ||hu.static.etargetnet.com^
 ||hv.adingo.jp^
@@ -2404,6 +2411,7 @@
 ||lbsjc.bidder.owneriq.net^
 ||ldschurch.tt.omtrdc.net^
 ||lds.hb.omtrdc.net^
+||ldt1duixoe.com^
 ||leaddyno-client-images.s3.amazonaws.com^
 ||lead.soperson.com^
 ||lee.blueconic.net^
@@ -2930,6 +2938,7 @@
 ||partner.knorex.com^
 ||partnerstack.com^
 ||patch-d.openx.net^
+||paychat.fuse-cloud.com^
 ||pb.adriver.ru^
 ||pb.ladsp.com^
 ||pc2.yumenetworks.com^
@@ -3999,6 +4008,7 @@
 ||thecelebritycafe.us.intellitxt.com^
 ||thechannelcompany.d1.sc.omtrdc.net^
 ||thedrive-d.openx.net^
+||theeburs.com^
 ||the-eighth-d.openx.net^
 ||theeldergeek.us.intellitxt.com^
 ||thefinalfantasy.us.intellitxt.com^
@@ -4330,6 +4340,7 @@
 ||viumbe-d.openx.net^
 ||vivaki.demdex.net^
 ||vkcdnservice.appspot.com^
+||vmmvqbqgqueh.com^
 ||vmware.hb.omtrdc.net^
 ||vn.alexajstrack.com^
 ||vn-gmtdmp.mookie1.com^
