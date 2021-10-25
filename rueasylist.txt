@@ -4477,7 +4477,6 @@
 ||yabs.yandex.ru^
 ||yads.zedo.com^
 ||yahoo.nuggad.net^
-||yapx.ru^
 ||yeeeah.us.intellitxt.com^
 ||yepdigital.adk2x.com^
 ||yieldbird-d.openx.net^
