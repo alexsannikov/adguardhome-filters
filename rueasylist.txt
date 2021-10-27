@@ -68,7 +68,6 @@
 ||3ppa.jp.cinarra.com^
 ||3w.nuggad.net^
 ||411mania.us.intellitxt.com^
-||441d65438d.b1f72fc1be.com^
 ||480.zaloapp.ads.zdn.vn^
 ||4984.engine.mobileapptracking.com^
 ||4e43ac9c.info^
@@ -80,7 +79,6 @@
 ||5starhiphop.us.intellitxt.com^
 ||5starsupport.us.intellitxt.com^
 ||6063.bapi.adsafeprotected.com^
-||648668b914.ea1a7e5216.com^
 ||67s6gxv28kin.com^
 ||71i.nuggad.net^
 ||7336.engine.mobileapptracking.com^
@@ -98,6 +96,7 @@
 ||a3pub.com^
 ||a4.adsplay.xyz^
 ||a5pub.com^
+||aa446af0ed.75bb9a4031.com^
 ||aaa.at4.info^
 ||aaa.dv0.info^
 ||aa.connextra.com^
@@ -151,6 +150,7 @@
 ||accuweather.us.intellitxt.com^
 ||acdn.adnxs.com^
 ||aceshowbiz.us.intellitxt.com^
+||achedgodroad.com^
 ||aclasscelebs.us.intellitxt.com^
 ||aclu.tt.omtrdc.net^
 ||ac.mmstat.com^
@@ -383,7 +383,6 @@
 ||akacdn.doubleverify.com.edgekey.net^
 ||akamai.mathtag.com^
 ||akamai.vungle-cdn.vungle.com^
-||akcrdstmn.xyz^
 ||akihabaranews.us.intellitxt.com^
 ||ak.quantcast.com^
 ||ak.sail-horizon.com^
@@ -695,6 +694,7 @@
 ||bb.connextra.com^
 ||bbg.d1.sc.omtrdc.net^
 ||bbg.sc.omtrdc.net^
+||bbk5921.yncjsc.cn^
 ||bbvacolombia.sc.omtrdc.net^
 ||bc.ad.daum.net^
 ||bcli.flash-xxx.com^
@@ -709,7 +709,6 @@
 ||beacon-ash-prod.krxd.net^
 ||beacon.deepintent.com^
 ||beacon.krxd.net^
-||beacon.lynx.cognitivlabs.com^
 ||beacon-nf.rubiconproject.com^
 ||beacon-nf.rubiconproject.net.akadns.net^
 ||beacon.scorecardresearch.com.edgekey.net^
@@ -757,6 +756,7 @@
 ||birigum.iad-03.braze.com^
 ||bit-tech.uk.intellitxt.com^
 ||bittenandbound.us.intellitxt.com^
+||bizfo.co.uk^
 ||bizjournals-d.openx.net^
 ||bizjournals.hb.omtrdc.net^
 ||bk.r-ad.ne.jp^
@@ -1084,6 +1084,7 @@
 ||challenge.360in.com^
 ||channel4.com.ssl.sc.omtrdc.net^
 ||channelinsider.us.intellitxt.com^
+||charmour.club^
 ||chartercommunicationsoperatingllc.hb-api.omtrdc.net^
 ||charter.demdex.net^
 ||chaturbatevau.com^
@@ -1537,6 +1538,7 @@
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
+||e981646c2a.d131c7173a.com^
 ||eacash.streamplay.to^
 ||east.05tz2e9.com^
 ||eastads.simpli.fi^
@@ -1581,6 +1583,7 @@
 ||emea-bidder.mathtag.com^
 ||emisja.contentstream.pl^
 ||emxhb.emxdgt.com^
+||enceouwill.club^
 ||encumberbloom.com^
 ||encyclocentral.us.intellitxt.com^
 ||encyclopediabritannica.blueconic.net^
@@ -1894,6 +1897,7 @@
 ||g.jp.miaozhen.com^
 ||gj.track.uc.cn^
 ||glance.l.inmobicdn.net^
+||glargoun.uk^
 ||global.adserver.yahoo.com^
 ||globalapi.ad.xiaomi.com^
 ||global.appnext.com^
@@ -2230,7 +2234,6 @@
 ||ip1.ads.stickyadstv.com.akadns.net^
 ||ip1.cdn.stickyadstv.com.akadns.net^
 ||ip2.ads.stickyadstv.com.akadns.net^
-||ip-adress.com^
 ||ipfs.infura.io^
 ||ipgrabber.ru^
 ||ipgraber.ru^
@@ -2302,6 +2305,7 @@
 ||js.adflare.jp^
 ||js.adscale.de^
 ||js.appboycdn.com^
+||js.brstke.top^
 ||jscdn.appier.net^
 ||js.chin-adnetwork.com^
 ||jsc.marketgid.com^
@@ -2846,7 +2850,6 @@
 ||ok.uk.intellitxt.com^
 ||old.livejasmin.com^
 ||olimp.bet^
-||olivcytyspixd.xyz^
 ||olx.olxkonstosx.club^
 ||olx.pl-buyorder.club^
 ||olx.pl-confirmed.club^
@@ -3806,7 +3809,6 @@
 ||stockgroup.us.intellitxt.com^
 ||stone2.authcaptcha.com^
 ||storage.kameleoon.eu^
-||store-stc.zdn.vn^
 ||storknet.us.intellitxt.com^
 ||stra.hasmobi.net^
 ||stream.adtimaserver.vn^
@@ -3987,6 +3989,7 @@
 ||thecelebritycafe.us.intellitxt.com^
 ||thechannelcompany.d1.sc.omtrdc.net^
 ||thedrive-d.openx.net^
+||theeburs.com^
 ||the-eighth-d.openx.net^
 ||theeldergeek.us.intellitxt.com^
 ||thefinalfantasy.us.intellitxt.com^
@@ -4029,6 +4032,7 @@
 ||timesinternet-d.openx.net^
 ||tim.hb-api.omtrdc.net^
 ||tim.hb.omtrdc.net^
+||tiotocomp.club^
 ||tirerack.tt.omtrdc.net^
 ||titsbro.net^
 ||titsbro.org^
