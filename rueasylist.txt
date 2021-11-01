@@ -92,7 +92,7 @@
 ||a3pub.com^
 ||a4.adsplay.xyz^
 ||a5pub.com^
-||aa446af0ed.75bb9a4031.com^
+||a8cc179007.efe0df50ac.com^
 ||aaa.at4.info^
 ||aaa.dv0.info^
 ||aa.connextra.com^
@@ -146,7 +146,6 @@
 ||accuweather.us.intellitxt.com^
 ||acdn.adnxs.com^
 ||aceshowbiz.us.intellitxt.com^
-||achedgodroad.com^
 ||aclasscelebs.us.intellitxt.com^
 ||aclu.tt.omtrdc.net^
 ||ac.mmstat.com^
@@ -331,7 +330,9 @@
 ||advancedmn.us.intellitxt.com^
 ||advancelocal.blueconic.net^
 ||advertisers.adasiaholdings.com^
+||advertising-api-eu.amazon.com^
 ||advertising.roku.com^
+||advertising.twitter.com^
 ||advideo.uimserv.net^
 ||adwarereport.us.intellitxt.com^
 ||adw.d2c.ne.jp^
@@ -425,6 +426,7 @@
 ||analytics.ad.g.daum.net^
 ||analytics.amplitude.com^
 ||analytics.ccgateway.net^
+||analyticsengine.s3.amazonaws.com^
 ||analytics.localytics.com^
 ||analytics.nanda.vn^
 ||analytics.oneplus.cn^
@@ -535,6 +537,7 @@
 ||appdynamics.com^
 ||appengage-video.sponsorpay.com^
 ||appevents.facebbok.com^
+||app.getsentry.com^
 ||applause.com^
 ||appleworldwidedeveloper.hb-api.omtrdc.net^
 ||appleworldwidedeveloper-stage.hb-api.omtrdc.net^
@@ -692,7 +695,6 @@
 ||bb.connextra.com^
 ||bbg.d1.sc.omtrdc.net^
 ||bbg.sc.omtrdc.net^
-||bbk5921.yncjsc.cn^
 ||bbvacolombia.sc.omtrdc.net^
 ||bc.ad.daum.net^
 ||bcli.flash-xxx.com^
@@ -754,7 +756,6 @@
 ||birigum.iad-03.braze.com^
 ||bit-tech.uk.intellitxt.com^
 ||bittenandbound.us.intellitxt.com^
-||bizfo.co.uk^
 ||bizjournals-d.openx.net^
 ||bizjournals.hb.omtrdc.net^
 ||bk.r-ad.ne.jp^
@@ -846,7 +847,6 @@
 ||c2.zedo.com^
 ||c3.gostats.vn^
 ||c3.zedo.com^
-||c4b2dbf3a0.040e9e6099.com^
 ||c4d-cdn.adcolony.com^
 ||c4dm.adcolony.com^
 ||c4.iwon.com^
@@ -1084,7 +1084,6 @@
 ||challenge.360in.com^
 ||channel4.com.ssl.sc.omtrdc.net^
 ||channelinsider.us.intellitxt.com^
-||charmour.club^
 ||chartercommunicationsoperatingllc.hb-api.omtrdc.net^
 ||charter.demdex.net^
 ||chaturbatevau.com^
@@ -1338,6 +1337,7 @@
 ||d1.hb.omtrdc.net^
 ||d1.zedo.com^
 ||d241ujsiy3yht0.cloudfront.net^
+||d28a863f16.a6dbb52634.com^
 ||d2.zedo.com^
 ||d3.zedo.com^
 ||d4.zedo.com^
@@ -1490,6 +1490,7 @@
 ||dra.amazon-adsystem.com^
 ||drdobbs.us.intellitxt.com^
 ||dreamsearch.or.kr^
+||d.reddit.com^
 ||drevil.to^
 ||dr.hb.omtrdc.net^
 ||driverguide.us.intellitxt.com^
@@ -1538,7 +1539,7 @@
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
-||e981646c2a.d131c7173a.com^
+||e4c8e13238.bad8b2e252.com^
 ||eacash.streamplay.to^
 ||east.05tz2e9.com^
 ||eastads.simpli.fi^
@@ -1583,7 +1584,6 @@
 ||emea-bidder.mathtag.com^
 ||emisja.contentstream.pl^
 ||emxhb.emxdgt.com^
-||enceouwill.club^
 ||encumberbloom.com^
 ||encyclocentral.us.intellitxt.com^
 ||encyclopediabritannica.blueconic.net^
@@ -1900,7 +1900,6 @@
 ||g.jp.miaozhen.com^
 ||gj.track.uc.cn^
 ||glance.l.inmobicdn.net^
-||glargoun.uk^
 ||global.adserver.yahoo.com^
 ||globalapi.ad.xiaomi.com^
 ||global.appnext.com^
@@ -2301,7 +2300,6 @@
 ||js.adflare.jp^
 ||js.adscale.de^
 ||js.appboycdn.com^
-||js.brstke.top^
 ||jscdn.appier.net^
 ||js.chin-adnetwork.com^
 ||jsc.marketgid.com^
@@ -2623,6 +2621,7 @@
 ||metro.uk.intellitxt.com^
 ||mg.marketgid.com^
 ||mibi.api.xiaomi.com^
+||micpn.com^
 ||microad-d.openx.net^
 ||microsoftwindowscom.tt.omtrdc.net^
 ||milawka.com^
@@ -3918,6 +3917,7 @@
 ||td.demdex.net^
 ||teachingaids-d.openx.net^
 ||teamtalk.uk.intellitxt.com^
+||tearbelt.com^
 ||tecchannel.de.intellitxt.com^
 ||techeblog.us.intellitxt.com^
 ||tech-faq.us.intellitxt.com^
@@ -3969,7 +3969,6 @@
 ||thecelebritycafe.us.intellitxt.com^
 ||thechannelcompany.d1.sc.omtrdc.net^
 ||thedrive-d.openx.net^
-||theeburs.com^
 ||the-eighth-d.openx.net^
 ||theeldergeek.us.intellitxt.com^
 ||thefinalfantasy.us.intellitxt.com^
@@ -4013,7 +4012,6 @@
 ||timesinternet-d.openx.net^
 ||tim.hb-api.omtrdc.net^
 ||tim.hb.omtrdc.net^
-||tiotocomp.club^
 ||tirerack.tt.omtrdc.net^
 ||titsbro.net^
 ||titsbro.org^
@@ -4378,6 +4376,7 @@
 ||whoateallthepies.uk.intellitxt.com^
 ||widget.crowdignite.com^
 ||widget.engageya.com^
+||widgets.pinterest.com^
 ||widgets.tcimg.com^
 ||wifi.adsplay.xyz^
 ||wifi-api1.adsplay.xyz^
