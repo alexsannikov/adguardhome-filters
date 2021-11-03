@@ -1,6 +1,7 @@
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
+||07d0087b14.9f3a91e76f.com^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
 ||10148.engine.mobileapptracking.com^
@@ -92,7 +93,6 @@
 ||a3pub.com^
 ||a4.adsplay.xyz^
 ||a5pub.com^
-||a8cc179007.efe0df50ac.com^
 ||aaa.at4.info^
 ||aaa.dv0.info^
 ||aa.connextra.com^
@@ -1337,7 +1337,6 @@
 ||d1.hb.omtrdc.net^
 ||d1.zedo.com^
 ||d241ujsiy3yht0.cloudfront.net^
-||d28a863f16.a6dbb52634.com^
 ||d2.zedo.com^
 ||d3.zedo.com^
 ||d4.zedo.com^
@@ -1539,7 +1538,6 @@
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
 ||e2.zedo.com^
-||e4c8e13238.bad8b2e252.com^
 ||eacash.streamplay.to^
 ||east.05tz2e9.com^
 ||eastads.simpli.fi^
@@ -1687,7 +1685,6 @@
 ||ezoic-d.openx.net^
 ||ezstat.ru^
 ||eztracks.us.intellitxt.com^
-||f00961160c.25391ebf69.com^
 ||f1.market.mi-img.com^
 ||f1.market.xiaomi.com^
 ||f2.market.mi-img.com^
@@ -2425,7 +2422,6 @@
 ||linuxforums.us.intellitxt.com^
 ||linuxjournal.us.intellitxt.com^
 ||lisads.d2c.ne.jp^
-||listen.audiohook.com^
 ||live-cams-0.livejasmin.com^
 ||live-cams-1.livejasmin.com^
 ||live-cams-2.livejasmin.com^
@@ -2471,6 +2467,7 @@
 ||look-sport.org^
 ||look.udncoeln.com^
 ||looky.hyves.org^
+||los.2hisnd.com^
 ||lottery.flygame.io^
 ||loveanime.live^
 ||lovetk-d.openx.net^
@@ -2621,7 +2618,6 @@
 ||metro.uk.intellitxt.com^
 ||mg.marketgid.com^
 ||mibi.api.xiaomi.com^
-||micpn.com^
 ||microad-d.openx.net^
 ||microsoftwindowscom.tt.omtrdc.net^
 ||milawka.com^
@@ -3669,6 +3665,7 @@
 ||speednetwork14.adk2x.com^
 ||speednetwork6.adk2x.com^
 ||speedtv.us.intellitxt.com^
+||spgo.io^
 ||spica.iad-03.braze.com^
 ||spiceworks-d.openx.net^
 ||spikemedia-d.openx.net^
@@ -3917,7 +3914,6 @@
 ||td.demdex.net^
 ||teachingaids-d.openx.net^
 ||teamtalk.uk.intellitxt.com^
-||tearbelt.com^
 ||tecchannel.de.intellitxt.com^
 ||techeblog.us.intellitxt.com^
 ||tech-faq.us.intellitxt.com^
@@ -4030,6 +4026,7 @@
 ||t.myvisualiq.net^
 ||tmz.us.intellitxt.com^
 ||tn.alphonso.tv^
+||t.nvidpn.com^
 ||tnyzin.ru^
 ||todayshow.us.intellitxt.com^
 ||todich.ru^
@@ -4060,6 +4057,8 @@
 ||townsquaremedia-d.openx.net^
 ||toyota.demdex.net^
 ||toysrus.tt.omtrdc.net^
+||t.prpbns.com^
+||t.prpbnt.com^
 ||tps-wlb-uswest.dvgtm.akadns.net^
 ||tp.videohub.tv^
 ||tq.adventurefeeds.com^
