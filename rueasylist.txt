@@ -2,6 +2,7 @@
 ||02ip.ru^
 ||0755.pics^
 ||07d0087b14.9f3a91e76f.com^
+||0fccf56c02.d14b19b49f.com^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
 ||10148.engine.mobileapptracking.com^
@@ -1594,6 +1595,7 @@
 ||dynatrace.com^
 ||dync.c.appier.net^
 ||dz.mmstat.com^
+||e00a17117b.a5ee094155.com^
 ||e1.cdn.qnsr.com^
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
@@ -4103,7 +4105,6 @@
 ||tags.mediaforge.com^
 ||tags.onscroll.com^
 ||tags.otherlevels.com^
-||tags.soloway.ru^
 ||tags.w55c.net^
 ||tag.widespace.com^
 ||tag.yieldoptimizer.com^
