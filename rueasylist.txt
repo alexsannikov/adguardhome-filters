@@ -1,8 +1,6 @@
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
-||07d0087b14.9f3a91e76f.com^
-||0fccf56c02.d14b19b49f.com^
 ||0xwxmj21r75kka.com^
 ||100pour.com^
 ||10148.engine.mobileapptracking.com^
@@ -612,6 +610,7 @@
 ||associatedpress-d.openx.net^
 ||astrogempakpoc.hb-api.omtrdc.net^
 ||as.y.atwola.com^
+||atatus.com^
 ||at.atwola.com^
 ||a.teads.tv^
 ||a.teads.tv.edgekey.net^
@@ -1595,7 +1594,6 @@
 ||dynatrace.com^
 ||dync.c.appier.net^
 ||dz.mmstat.com^
-||e00a17117b.a5ee094155.com^
 ||e1.cdn.qnsr.com^
 ||e1.zedo.com^
 ||e2.cdn.qnsr.com^
@@ -2569,7 +2567,6 @@
 ||look-sport.org^
 ||look.udncoeln.com^
 ||looky.hyves.org^
-||los.2hisnd.com^
 ||lottery.flygame.io^
 ||loveanime.live^
 ||lovetk-d.openx.net^
@@ -2812,6 +2809,7 @@
 ||mp.teads.tv^
 ||m.quantcount.com^
 ||mraid.prod.cloud.ogury.io^
+||mrqls.to^
 ||ms-ads.prod.cloud.ogury.io^
 ||ms.applovin.com^
 ||mscom.demdex.net^
@@ -3308,6 +3306,7 @@
 ||production-patner.net.daraz.com^
 ||productpartnersllc.tt.omtrdc.net^
 ||product-reviews.uk.intellitxt.com^
+||productsup.com^
 ||prof.estat.com^
 ||profile-api-prod-elb.53.localytics.com^
 ||profile.localytics.com^
@@ -3620,7 +3619,6 @@
 ||scripts.demandbase.com^
 ||scripts.speedshiftmedia.com^
 ||scripts.webcontentassessor.com^
-||scws.xyz^
 ||sdamgia.ru^
 ||sdcexecs.us.intellitxt.com^
 ||sd.iperceptions.com^
@@ -3881,7 +3879,6 @@
 ||speednetwork14.adk2x.com^
 ||speednetwork6.adk2x.com^
 ||speedtv.us.intellitxt.com^
-||spgo.io^
 ||spica.iad-03.braze.com^
 ||spiceworks-d.openx.net^
 ||spikemedia-d.openx.net^
@@ -4245,7 +4242,6 @@
 ||t.myvisualiq.net^
 ||tmz.us.intellitxt.com^
 ||tn.alphonso.tv^
-||t.nvidpn.com^
 ||tnyzin.ru^
 ||todayshow.us.intellitxt.com^
 ||todich.ru^
@@ -4278,8 +4274,6 @@
 ||toy-boy-paris.net.daraz.com^
 ||toyota.demdex.net^
 ||toysrus.tt.omtrdc.net^
-||t.prpbns.com^
-||t.prpbnt.com^
 ||tps-wlb-uswest.dvgtm.akadns.net^
 ||tp.videohub.tv^
 ||tq.adventurefeeds.com^
