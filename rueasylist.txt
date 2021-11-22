@@ -69,7 +69,6 @@
 ||123-gstagemes.net.daraz.com^
 ||123-gsvcmes.net.daraz.com^
 ||123pagocgi.net.daraz.com^
-||123pago.docs.net.daraz.com^
 ||123pagoemail.net.daraz.com^
 ||123pagofeb.net.daraz.com^
 ||123pago.fet.net.daraz.com^
@@ -79,6 +78,7 @@
 ||123pago.test1.net.daraz.com^
 ||123papplicationgo.net.daraz.com^
 ||123porigingo.net.daraz.com^
+||123seks.net.daraz.com^
 ||1-242.net.daraz.com^
 ||159126.engine.mobileapptracking.com^
 ||15.basebanner.com^
@@ -143,7 +143,6 @@
 ||20738914p.rfihub.com^
 ||20766699p.rfihub.com^
 ||22006.engine.mobileapptracking.com^
-||240.zaloapp.ads.zdn.vn^
 ||247wallstreet.us.intellitxt.com^
 ||24m.nuggad.net^
 ||24wrestling.us.intellitxt.com^
@@ -161,7 +160,6 @@
 ||3w.nuggad.net^
 ||411mania.us.intellitxt.com^
 ||43210zy.net.daraz.com^
-||480.zaloapp.ads.zdn.vn^
 ||4984.engine.mobileapptracking.com^
 ||4-csr41.net.daraz.com^
 ||4e43ac9c.info^
@@ -256,6 +254,7 @@
 ||acnescarsx.info^
 ||action.media6degrees.com^
 ||actionscript.us.intellitxt.com^
+||activeing.net.daraz.com^
 ||active-partner.net.daraz.com^
 ||active-r-is-1-2.net.daraz.com^
 ||activewin.us.intellitxt.com^
@@ -337,6 +336,7 @@
 ||admp-tc-sati.adtlgc.com^
 ||adm.www.net.daraz.com^
 ||ad.netcommunities.com^
+||adnet.vn^
 ||adnetwork.adasiaholdings.com^
 ||adn.fusionads.net^
 ||adobecorp.hb-api.omtrdc.net^
@@ -509,6 +509,8 @@
 ||alluplift.com^
 ||allwomenstalk.us.intellitxt.com^
 ||almosto.com^
+||alpha.net.daraz.com^
+||alphans2.twtelecom.net.daraz.com^
 ||amadeus.d2.sc.omtrdc.net^
 ||amazoncustomerservice.d2.sc.omtrdc.net^
 ||amazonwebservices.d2.sc.omtrdc.net^
@@ -567,6 +569,7 @@
 ||aol.socdm.com^
 ||apaccs-utils-rtr.net.daraz.com^
 ||apac-freshmaza.net.daraz.com^
+||apache.lib-ht-1.net.daraz.com^
 ||apachelib-ht-2.net.daraz.com^
 ||apacheops.net.daraz.com^
 ||ap.adups.com^
@@ -660,6 +663,7 @@
 ||apppartner.net.daraz.com^
 ||app.push-ad.com^
 ||appscout.us.intellitxt.com^
+||apps-marketing.net.daraz.com^
 ||apps.pubmatic.com^
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
@@ -705,6 +709,7 @@
 ||assets.applovin.com^
 ||assetscdn.jivox.com^
 ||assets.deployads.com^
+||assets-d.ns.emailvision.net.daraz.com^
 ||assets.kochava.com^
 ||assets.prod.leanplum.com^
 ||assets.quantcount.com^
@@ -866,6 +871,7 @@
 ||betnetmed.advertserve.com^
 ||beyondhollywood.us.intellitxt.com^
 ||bg.static.etargetnet.com^
+||bgu-sso.net.daraz.com^
 ||bidder.rtk.io^
 ||biddr.brealtime.com^
 ||biddr-cloud.brealtime.com^
@@ -893,6 +899,7 @@
 ||bizjournals.hb.omtrdc.net^
 ||bk.r-ad.ne.jp^
 ||bkrntr.netmng.com^
+||b.kubectl.ns.emailvision.net.daraz.com^
 ||black-ghettos.info^
 ||blackhole.chango.com^
 ||blacksportsonline.us.intellitxt.com^
@@ -912,6 +919,7 @@
 ||b.ns.emailvision.ebs.net.daraz.com^
 ||b.ns.emailvision.net.daraz.com^
 ||b.ns.login.emailvision.net.daraz.com^
+||b.ns.proxy-emailvision.net.daraz.com^
 ||boldride.us.intellitxt.com^
 ||bolt.us.intellitxt.com^
 ||bond.iad-03.braze.com^
@@ -1094,6 +1102,7 @@
 ||cdn.apvdr.com^
 ||cdn.as.amanad.adtdp.com^
 ||cdn-as.jivox.com^
+||cdnasset.dantri.com.vn^
 ||cdn.atlassbx.com^
 ||cdn.atwola.com^
 ||cdn.augur.io^
@@ -1207,9 +1216,11 @@
 ||centricabritishgas.d3.sc.omtrdc.net^
 ||cerebral.typn.com^
 ||ceres.iad-03.braze.com^
+||cert-c.ns.emailvision.net.daraz.com^
 ||certify.alexametrics.com^
 ||certify-amp.alexametrics.com^
 ||certify-js.alexametrics.com^
+||certr-ln-1.net.daraz.com^
 ||ce.wielkanagroda.com^
 ||ce.wielkaniespodzianka.pl^
 ||c.go-mpulse.net^
@@ -1266,6 +1277,7 @@
 ||clicktrack.pubmatic.com^
 ||clickvip.ru^
 ||clickz.lonelycheatingwives.com^
+||click.zoom.us^
 ||client-pages.adnetwork.vn^
 ||client.r-ht-1.net.daraz.com^
 ||clientstorage.cxense.com^
@@ -1306,6 +1318,7 @@
 ||c.ns.documentationemailvision.net.daraz.com^
 ||c.ns.eclientvision.net.daraz.com^
 ||c.ns.eoriginvision.net.daraz.com^
+||c.ns.gitvision.net.daraz.com^
 ||cnt.fout.jp^
 ||cnv.event.prod.bidr.io^
 ||cnzz.mmstat.com^
@@ -1454,7 +1467,6 @@
 ||csr11.net.daraz.com^
 ||csr12.kube.net.daraz.com^
 ||csr31.v2.net.daraz.com^
-||csr41.docs.net.daraz.com^
 ||csr41.northamerica.net.daraz.com^
 ||cs.r-ad.ne.jp^
 ||c.steelhousemedia.com^
@@ -1472,6 +1484,7 @@
 ||customer.iad-03.braze.com^
 ||c.votrube.ru^
 ||cvs-car10.net.daraz.com^
+||cvs-marketing.net.daraz.com^
 ||cws-cctv.conviva.com^
 ||cws-eu.conviva.com^
 ||cws-hulu.conviva.com^
@@ -1552,11 +1565,15 @@
 ||deseretdigitalmedia.tt.omtrdc.net^
 ||designtechnica.us.intellitxt.com^
 ||destructoid.us.intellitxt.com^
+||devcar10.net.daraz.com^
 ||developing.net.daraz.com^
 ||developmentcar21.net.daraz.com^
 ||development-www.applications.net.daraz.com^
 ||device.4seeresults.com^
 ||dev.leanplum.com^
+||devops-marketing.net.daraz.com^
+||devops.net.daraz.com^
+||devops.print-mo.net.daraz.com^
 ||devshed.us.intellitxt.com^
 ||dev-track.adthrive.com^
 ||d.gatewayns.emailvision.net.daraz.com^
@@ -1626,8 +1643,10 @@
 ||d.ns.region-emailvision.net.daraz.com^
 ||docsapiing.net.daraz.com^
 ||docscsr21.net.daraz.com^
+||docs.net.daraz.com^
 ||documentation-ns2.cl.bellsouth.net.daraz.com^
 ||documents-ns2.twtelecom.net.daraz.com^
+||documents-r-ht-2.net.daraz.com^
 ||dofolo.ru^
 ||dogfood-www.net.daraz.com^
 ||doubleviking.us.intellitxt.com^
@@ -1648,6 +1667,7 @@
 ||drizzydrake.us.intellitxt.com^
 ||dro4icho.ru^
 ||drugscom.us.intellitxt.com^
+||drzlivinging.net.daraz.com^
 ||ds-api-public.addthis.com.edgekey.net^
 ||dsg.sc.omtrdc.net^
 ||ds-ll.serving-sys.com^
@@ -1782,6 +1802,7 @@
 ||eu-pn4.adserver.yahoo.com^
 ||euronewsgroup.hb.omtrdc.net^
 ||europeing.net.daraz.com^
+||europe.r-es-1.net.daraz.com^
 ||europewestc.ns.emailvision.net.daraz.com^
 ||eus.rubiconproject.com^
 ||eus.rubiconproject.com.edgekey.net^
@@ -2039,6 +2060,7 @@
 ||gigamon.tt.omtrdc.net^
 ||gigwise.us.intellitxt.com^
 ||girlsaskguys.us.intellitxt.com^
+||gistmarketing.net.daraz.com^
 ||githubns2.cl.bellsouth.net.daraz.com^
 ||gitlab.spring.net.daraz.com^
 ||givememyremote.us.intellitxt.com^
@@ -2162,6 +2184,7 @@
 ||hiphoplead.us.intellitxt.com^
 ||hiphoprx.us.intellitxt.com^
 ||hiram.iad-03.braze.com^
+||historylib-ln-1.net.daraz.com^
 ||hit37.chart.dk^
 ||hit39.chart.dk^
 ||hitcounter.ru^
@@ -2236,6 +2259,7 @@
 ||iad02-event.spotxchange.com^
 ||iad02-search.spotxchange.com^
 ||i.adingo.jp^
+||iad.lib-ln-1.net.daraz.com^
 ||iamnotageek.us.intellitxt.com^
 ||iapp-cp.nuggad.net^
 ||ib.adnxs.com^
@@ -2353,6 +2377,7 @@
 ||intel.net.daraz.com^
 ||intensedigital.adk2x.com^
 ||intermix.us.intellitxt.com^
+||internals-marketing.net.daraz.com^
 ||internetautoguide.us.intellitxt.com^
 ||internetretailer.d2.sc.omtrdc.net^
 ||intimshop.ru^
@@ -2368,7 +2393,6 @@
 ||ioslog.ssl2.duapps.com^
 ||iosmdm.12345proxy.net.daraz.com^
 ||iotapi.adups.com^
-||iot.thalesgroup.com^
 ||ip1.ads.stickyadstv.com.akadns.net^
 ||ip1.cdn.stickyadstv.com.akadns.net^
 ||ip2.ads.stickyadstv.com.akadns.net^
@@ -2416,6 +2440,7 @@
 ||jcb.tt.omtrdc.net^
 ||jcrew.tt.omtrdc.net^
 ||jgl.microad.net^
+||jilhub.net.daraz.com^
 ||jita.rtk.io^
 ||jkontherun.us.intellitxt.com^
 ||j.microad.net^
@@ -2474,6 +2499,7 @@
 ||k8s-mock-server-2.hb-api.omtrdc.net^
 ||k8s-prd0tl.net.daraz.com^
 ||k8s-prd.r-ht-1.net.daraz.com^
+||k8s-prodmarketing.net.daraz.com^
 ||kaboose.us.intellitxt.com^
 ||kaspersky.d3.sc.omtrdc.net^
 ||kasterborous.us.intellitxt.com^
@@ -2502,6 +2528,7 @@
 ||kpopstarz.us.intellitxt.com^
 ||krone.nuggad.net^
 ||kube.csr12.net.daraz.com^
+||kube-csr31.net.daraz.com^
 ||kubectl-nfreya.net.daraz.com^
 ||kubernetesprint-mo.net.daraz.com^
 ||kubernetesr-oa-2.net.daraz.com^
@@ -2548,9 +2575,11 @@
 ||l.hrzn-nxt.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
 ||lib-ht-1.developer.net.daraz.com^
+||lib-ht-2.dev.net.daraz.com^
 ||lib-ln-2.net.daraz.com^
 ||lib-oa-1.history.net.daraz.com^
 ||lib-oa-1.net.daraz.com^
+||lib-oa-1.redirector.net.daraz.com^
 ||lib-oa-2.net.daraz.com^
 ||libs.coremetrics.com^
 ||lifescript.us.intellitxt.com^
@@ -2663,6 +2692,7 @@
 ||mad.uk.intellitxt.com^
 ||mag.iad-03.braze.com^
 ||mahnatka.ru^
+||mail-beta-interaction.net.daraz.com^
 ||main.exoclick.com^
 ||main.exosrv.com^
 ||mainstreet.us.intellitxt.com^
@@ -2689,6 +2719,7 @@
 ||marketing-cvs.net.daraz.com^
 ||marketingdevelopment.net.daraz.com^
 ||marketing-external.net.daraz.com^
+||marketing.external.net.daraz.com^
 ||marketingfile.net.daraz.com^
 ||marketingglobal.net.daraz.com^
 ||marketingmirror.net.daraz.com^
@@ -2697,12 +2728,17 @@
 ||marketingnfreya.net.daraz.com^
 ||marketing-nginx.net.daraz.com^
 ||marketing-ns2.twtelecom.net.daraz.com^
+||marketingold.net.daraz.com^
 ||marketingopen.net.daraz.com^
+||marketing-ops.net.daraz.com^
 ||marketingpre-xspace.net.daraz.com^
 ||marketing.rakuten.com^
 ||marketing-r-es-1.net.daraz.com^
+||marketing-seller.net.daraz.com^
 ||marketing.seller-shop.net.daraz.com^
 ||marketing-shop.net.daraz.com^
+||marketing-socialx.net.daraz.com^
+||marketingtraining.net.daraz.com^
 ||marketing.trial.net.daraz.com^
 ||marketing.web.net.daraz.com^
 ||markitdigital.com^
@@ -2774,6 +2810,9 @@
 ||metlife.hb.omtrdc.net^
 ||metodoroleta24h.com^
 ||metrics.net.daraz.com^
+||metrics.omniture.com^
+||metrics-r-ht-1.net.daraz.com^
+||metrics.sharecare.com^
 ||metropcs.mobileposse.com^
 ||metro.uk.intellitxt.com^
 ||mg.marketgid.com^
@@ -2807,6 +2846,7 @@
 ||mobileclient123-games.net.daraz.com^
 ||mobilecomputermag.uk.intellitxt.com^
 ||mobile.controller.duokanbox.com^
+||mobilemarketing.net.daraz.com^
 ||mobile.mng-ads.com^
 ||mobile-static.adsafeprotected.com^
 ||mobiletechreview.us.intellitxt.com^
@@ -2885,6 +2925,7 @@
 ||myfamilycominc.tt.omtrdc.net^
 ||myfavoritegames.us.intellitxt.com^
 ||my-gmtdmp.mookie1.com^
+||mymangaonline.net.daraz.com^
 ||mymirror.biz^
 ||mynyx.men^
 ||myqualification.rambler.ru^
@@ -2937,12 +2978,9 @@
 ||neowin.us.intellitxt.com^
 ||neptune.mobileposse.com^
 ||netappinc.tt.omtrdc.net^
-||netbotz.net.daraz.com^
 ||net-csr31.net.daraz.com^
 ||neteco.fr.intellitxt.com^
-||netherlands-12345proxy.net.daraz.com^
 ||net.kg^
-||netns2.twtelecom.net.daraz.com^
 ||nettno.nuggad.net^
 ||network.advertise.com^
 ||neustar.biz^
@@ -2967,10 +3005,8 @@
 ||nfl.demdex.net^
 ||nfl.hb-api.omtrdc.net^
 ||nfl.hb.omtrdc.net^
-||nfreya.1.net.daraz.com^
 ||nginx10yo-models.net.daraz.com^
 ||nginx-auction-prd-gcp.adsx.unityads.unity3d.com^
-||nginx-marketing.net.daraz.com^
 ||nginx.r-dw-1.net.daraz.com^
 ||nhentai.net.daraz.com^
 ||nhkonline.hb.omtrdc.net^
@@ -2999,6 +3035,7 @@
 ||nrc.ds.duapps.com^
 ||nrc.sd.duapps.com^
 ||ns1.firewall-twtelecom.net.daraz.com^
+||ns1.twtelecom.net.daraz.com^
 ||ns1.twtelecom.vpn.net.daraz.com^
 ||ns1.viviotech.net.daraz.com^
 ||ns2.apac-twtelecom.net.daraz.com^
@@ -3012,6 +3049,7 @@
 ||ns2.viviotech.hwcdn.net.daraz.com^
 ||ns2.viviotech.net.daraz.com^
 ||ns3.cl.bellsouth.net.daraz.com^
+||ns3.edgecl.bellsouth.net.daraz.com^
 ||ns3.k8s-cl.bellsouth.net.daraz.com^
 ||ns3.vpn-cl.bellsouth.net.daraz.com^
 ||ns.labemailvision.net.daraz.com^
@@ -3043,7 +3081,6 @@
 ||ohgizmo.us.intellitxt.com^
 ||okmagazine.us.intellitxt.com^
 ||ok.uk.intellitxt.com^
-||old.lib-ht-1.net.daraz.com^
 ||old.livejasmin.com^
 ||olimp.bet^
 ||omax.admarvel.com^
@@ -3056,16 +3093,14 @@
 ||onesignal.com^
 ||onetag-geo.onscroll.com^
 ||onlamp.us.intellitxt.com^
-||onsite-tag-logs.apps.nielsen.com^
 ||ontheflix.us.intellitxt.com^
 ||onyarysh.ru^
 ||oocenter.us.intellitxt.com^
 ||openbid.pubmatic.com^
 ||opentable.tt.omtrdc.net^
-||ops-allseason.azure-freya.net.daraz.com^
-||ops-b.ns.emailvision.net.daraz.com^
 ||ops-cdn.undertone.com^
 ||op.searchteria.co.jp^
+||ops.r-dw-1.net.daraz.com^
 ||optad360.mgr.consensu.org^
 ||optimizedby.brealtime.com^
 ||optimized-by.rubiconproject.com^
@@ -3076,18 +3111,14 @@
 ||oreck.tt.omtrdc.net^
 ||orfw.adsafeprotected.com^
 ||or-g2.gumgum.com^
-||orgcar31.net.daraz.com^
-||org.zaloapp.ads.zdn.vn^
 ||origin-evt.undertone.com^
 ||or-lb.gumgum.com^
 ||orodi.ru^
 ||orpixel.adsafeprotected.com^
-||ort.net.daraz.com^
 ||osdir.us.intellitxt.com^
 ||ostg.us.intellitxt.com^
 ||ot.teads.tv^
 ||outils.f5biz.com^
-||outlook-10tl.net.daraz.com^
 ||outofsightmedia.us.intellitxt.com^
 ||out.popads.net^
 ||overclockersonline.us.intellitxt.com^
@@ -3105,15 +3136,8 @@
 ||pandoramedia-mkt-prod1-t.campaign.adobe.com^
 ||panel-lib-ht-1.net.daraz.com^
 ||paramountnetwork.hb.omtrdc.net^
-||partneracc.net.daraz.com^
-||partner-alpha.net.daraz.com^
-||partnereuropewest.net.daraz.com^
 ||partner.knorex.com^
-||partnerlib-oa-2.net.daraz.com^
-||partner-payseller.net.daraz.com^
 ||partnerstack.com^
-||partner-tst.net.daraz.com^
-||passr-is-1-2.net.daraz.com^
 ||pasta.da.duapps.com^
 ||pasta.dc.duapps.com^
 ||pasta.ds.duapps.com^
@@ -3123,8 +3147,6 @@
 ||pasta.pw.duapps.com^
 ||pasta.sd.duapps.com^
 ||pasta.whosthat.duapps.com^
-||patner-netherlands.net.daraz.com^
-||patnerpoland.net.daraz.com^
 ||pay-d.ns.emailvision.net.daraz.com^
 ||pay.net.daraz.com^
 ||payr-is-1-2.net.daraz.com^
@@ -3290,6 +3312,7 @@
 ||prd1.personalization.centech.glulive.com^
 ||prd1.revid.centech.glulive.com^
 ||prd1.session.centech.glulive.com^
+||pre-alicert-admin.net.daraz.com^
 ||prebid.adnxs.com^
 ||prebid.ad.smaato.net^
 ||prebid.adsparc.com^
@@ -3304,12 +3327,8 @@
 ||premierfarnell.tt.omtrdc.net^
 ||premiumlink.7tools.eu^
 ||premiumsrv.aniview.com^
-||pre.net.daraz.com^
-||pre-pull-drzlive.net.daraz.com^
 ||presence-pc.fr.intellitxt.com^
 ||prettyboring.us.intellitxt.com^
-||pre-webimmarketing.net.daraz.com^
-||pre-workstationing.net.daraz.com^
 ||p.rfihub.com^
 ||pr-gmtdmp.mookie1.com^
 ||pridesource.advertserve.com^
@@ -3317,9 +3336,9 @@
 ||prime.rambler.ru^
 ||primetimeenablement.hb.omtrdc.net^
 ||primetimesolutions.tt.omtrdc.net^
+||print-mo.documents.net.daraz.com^
 ||prisacom.sc.omtrdc.net^
 ||priusonline.us.intellitxt.com^
-||privateing.net.daraz.com^
 ||priv-policy.imrworldwide.com^
 ||prizegiveaway.org^
 ||prizemachine.games.iwon.com^
@@ -3327,11 +3346,8 @@
 ||prod-bid.applovin.com^
 ||prod.fraud.adjoe.zone^
 ||prod-ms.applovin.com^
-||prod.net.daraz.com^
 ||prod.search.deployads.com^
 ||product.adingo.jp.eimg.jp^
-||production10tl.net.daraz.com^
-||production-patner.net.daraz.com^
 ||productpartnersllc.tt.omtrdc.net^
 ||product-reviews.uk.intellitxt.com^
 ||prof.estat.com^
@@ -3355,7 +3371,6 @@
 ||proxy.alphonso.tv^
 ||proxy-nfreya.net.daraz.com^
 ||proxy.r-is-1-2.net.daraz.com^
-||proxywlan-switch.net.daraz.com^
 ||ps3news.us.intellitxt.com^
 ||ps-eu.amazon-adsystem.com^
 ||ps.eyeota.net^
@@ -3393,6 +3408,7 @@
 ||pythagore.demdex.net^
 ||qa-gmtdmp.mookie1.com^
 ||qatarairways.tt.omtrdc.net^
+||qbrick.hb.omtrdc.net^
 ||qinqiaotrade.com^
 ||qj.us.intellitxt.com^
 ||qualtrics.com^
@@ -3411,7 +3427,6 @@
 ||r3.mail.ru^
 ||radiocanada.hb-api.omtrdc.net^
 ||radiocanada.hb.omtrdc.net^
-||rail.net.daraz.com^
 ||ranker.sc.omtrdc.net^
 ||rankmytattoos.us.intellitxt.com^
 ||rantsports.us.intellitxt.com^
@@ -3419,6 +3434,7 @@
 ||rastaban.iad-03.braze.com^
 ||ratari.ru^
 ||rate.opinionlab.com^
+||rating.net.daraz.com^
 ||raven.aprod.scopely.io^
 ||rawstory.us.intellitxt.com^
 ||rbk.netmng.com^
@@ -3445,9 +3461,8 @@
 ||rebill.me^
 ||recs.engageya.com^
 ||redhat.sc.omtrdc.net^
-||redir12345proxy.net.daraz.com^
+||regionc.ns.emailvision.net.daraz.com^
 ||regionconfig.amplitude.com^
-||region.net.daraz.com^
 ||registercom.tt.omtrdc.net^
 ||rek.rus-porno.org^
 ||relay-ba.ads.httpool.com^
@@ -3470,7 +3485,6 @@
 ||req.startappservice.com^
 ||req.tidaltv.com^
 ||res1.applovin.com^
-||r-es-1.net.daraz.com^
 ||reseaux-telecoms.fr.intellitxt.com^
 ||res.levexis.com^
 ||resolver.msg.global.xiaomi.net^
@@ -3646,7 +3660,6 @@
 ||search.spotxchange.com^
 ||sears.demdex.net^
 ||searsholdings.tt.omtrdc.net^
-||season.authorization.net.daraz.com^
 ||seb.d1.sc.omtrdc.net^
 ||seccdn-gl.imrworldwide.com^
 ||sec-cdn.static.xiaomi.net^
@@ -3708,6 +3721,7 @@
 ||server00m.net.daraz.com^
 ||server1.affiz.net^
 ||server2.discountclick.com^
+||server2.qa2.globalredirector.gwsweb.net.daraz.com^
 ||server.adformdsp.net^
 ||server-au.imrworldwide.com^
 ||server-br.imrworldwide.com^
@@ -3806,6 +3820,7 @@
 ||smblock.s3.amazonaws.com^
 ||smetrics.linkshare.com^
 ||smetrics.omniture.com^
+||smetrics.sharecare.com^
 ||smi2.ru^
 ||s.moatpixel.com^
 ||s.ntv.io^
@@ -3975,7 +3990,6 @@
 ||stv.hb.omtrdc.net^
 ||styleblazer.us.intellitxt.com^
 ||subpixel.4players.de^
-||summer.apidocs.net.daraz.com^
 ||sundaysky-sync-us.teads.tv^
 ||sunnimiq5.cf^
 ||sunnimiq.cf^
@@ -3984,14 +3998,14 @@
 ||supernature-forum.de.intellitxt.com^
 ||superpcexpert.ru^
 ||supersonic.com^
-||supportc.ns.emailvision.net.daraz.com^
+||support-marketing.net.daraz.com^
 ||supportnet.de.intellitxt.com^
+||support-r-ht-1.net.daraz.com^
 ||sur.auto43.srv43.ru^
 ||surebaby.us.intellitxt.com^
 ||surveymonkey.com^
 ||surveymonkeycom.tt.omtrdc.net^
 ||surveysforgifts.org^
-||svc-ns2.viviotech.net.daraz.com^
 ||svd2.adtlgc.com^
 ||svd.adtlgc.com^
 ||s-video.innovid.com^
@@ -4065,12 +4079,10 @@
 ||tags.w55c.net^
 ||tag.widespace.com^
 ||tag.yieldoptimizer.com^
-||taigete.net.daraz.com^
 ||taletela.us.intellitxt.com^
 ||tali.iad-03.braze.com^
 ||talkfusion.com^
 ||talpaholdingnv.hb.omtrdc.net^
-||tamilrasigan.net.daraz.com^
 ||tanyen.ezimar.com^
 ||targeting.api.drift.com^
 ||target.my.com^
@@ -4085,7 +4097,6 @@
 ||tdameritrade.demdex.net^
 ||tdameritrade.tt.omtrdc.net^
 ||td.demdex.net^
-||teammarketing.net.daraz.com^
 ||teamtalk.uk.intellitxt.com^
 ||tecchannel.de.intellitxt.com^
 ||techeblog.us.intellitxt.com^
@@ -4118,10 +4129,8 @@
 ||telus.hb.omtrdc.net^
 ||tenantattackedoctober.com^
 ||tenmagazines.us.intellitxt.com^
-||test-12345proxy.net.daraz.com^
 ||testapp.adhood.com^
 ||testdata.coremetrics.com^
-||tester-12345proxy.net.daraz.com^
 ||t.fileplaneta.com^
 ||tf.nexac.com^
 ||tg1.aniview.com^
@@ -4185,11 +4194,13 @@
 ||tls.ds.duapps.com^
 ||tm2.r-ad.ne.jp^
 ||tmcnet.us.intellitxt.com^
+||tmobilehome.hb-api.omtrdc.net^
 ||t.mookie1.com^
 ||tm.r-ad.ne.jp^
 ||tmscdn.coremetrics.com^
 ||tmserver-2.net^
 ||tms-st.cdn.ngenix.net^
+||tmvplay.net.daraz.com^
 ||t.myvisualiq.net^
 ||tmz.us.intellitxt.com^
 ||tn.alphonso.tv^
@@ -4197,7 +4208,7 @@
 ||todayshow.us.intellitxt.com^
 ||todich.ru^
 ||token.rubiconproject.com^
-||tomcat-12345proxy.net.daraz.com^
+||tomcat.net.daraz.com^
 ||tomorrowperegrinemortician.info^
 ||tomsforumz.us.intellitxt.com^
 ||tomshardware.fr.intellitxt.com^
@@ -4206,7 +4217,6 @@
 ||tomsnetworking.us.intellitxt.com^
 ||toms.us.intellitxt.com^
 ||toofab.us.intellitxt.com^
-||toonjoa.net.daraz.com^
 ||top777.ariom.ru^
 ||topdownloads.nl.intellitxt.com^
 ||topnews.us.intellitxt.com^
@@ -4215,14 +4225,11 @@
 ||topspeed.us.intellitxt.com^
 ||toptechreviews.us.intellitxt.com^
 ||toptenreviews.us.intellitxt.com^
-||topup.net.daraz.com^
 ||torontostar.demdex.net^
 ||torquenews.us.intellitxt.com^
 ||torrent-anime.ru^
 ||tothecenter.us.intellitxt.com^
 ||toutapp.com^
-||tower.net.daraz.com^
-||toy-boy-paris.net.daraz.com^
 ||toyota.demdex.net^
 ||toysrus.tt.omtrdc.net^
 ||tps-wlb-uswest.dvgtm.akadns.net^
@@ -4262,7 +4269,6 @@
 ||traileraddict.us.intellitxt.com^
 ||train.123-games.net.daraz.com^
 ||training0yo-models.net.daraz.com^
-||traininging.net.daraz.com^
 ||tr.alphonso.tv^
 ||trck.at^
 ||trc.taboolasyndication.com^
@@ -4272,8 +4278,8 @@
 ||trend-trader.cc^
 ||tr-gmtdmp.mookie1.com^
 ||trial.api.huangye.miui.com^
-||trialtl.net.daraz.com^
 ||tribal.us.intellitxt.com^
+||tricker.vn^
 ||trinity-cdn.thetimmedia.site^
 ||trinity-player.thetimmedia.site^
 ||triumphrat.us.intellitxt.com^
@@ -4290,11 +4296,15 @@
 ||t.teads.tv.edgekey.net^
 ||ttinet.com^
 ||t.trackedlink.net^
+||tuiiu.com^
 ||tuno.nuggad.net^
 ||tur1-astrologie.net.daraz.com^
+||turbopk.net.daraz.com^
 ||turnerapac.d1.sc.omtrdc.net^
+||turnerclassicmovies.hb-api.omtrdc.net^
 ||turnerclassicmovies.hb.omtrdc.net^
 ||turnerinternational.hb.omtrdc.net^
+||turnerresearch1.hb-api.omtrdc.net^
 ||turnersidigital.hb.omtrdc.net^
 ||tutorialoutpost.us.intellitxt.com^
 ||tuyendung.mediaz.vn^
@@ -4317,7 +4327,6 @@
 ||tw.adserver.yahoo.com^
 ||tw.c.appier.net^
 ||twci.coremetrics.com^
-||twctsg.hb-api.omtrdc.net^
 ||tweaks.us.intellitxt.com^
 ||tweaktown.us.intellitxt.com^
 ||tweakvista.us.intellitxt.com^
@@ -4345,6 +4354,7 @@
 ||umid.orion.meizu.com^
 ||um.simpli.fi^
 ||unathleticmag.us.intellitxt.com^
+||u.net.daraz.com^
 ||unified.adsafeprotected.com^
 ||unifiedbidding.ad.smaato.net^
 ||universal.iperceptions.com^
@@ -4363,8 +4373,6 @@
 ||update.tas.yieldmo.com^
 ||update.wo.gumgum.com^
 ||upi.us.intellitxt.com^
-||upload.123-games.net.daraz.com^
-||uploadsns2.viviotech.net.daraz.com^
 ||ups.ksmobile.net^
 ||ups.tt.omtrdc.net^
 ||urban.adspirit.de^
@@ -4396,6 +4404,7 @@
 ||ut-static.serving-system.com^
 ||uznatpochemu.ru^
 ||v12groupinc.com^
+||v1sts.me^
 ||v3ing.net.daraz.com^
 ||v3-www.applications.net.daraz.com^
 ||vabid.prod.sift.co^
@@ -4421,12 +4430,12 @@
 ||veritastechnologiesl.tt.omtrdc.net^
 ||verizon.demdex.net^
 ||verizonmedia.com^
-||verizontelecom.hb-api.omtrdc.net^
 ||verizontelecom.hb.omtrdc.net^
 ||verizontelecom.tt.omtrdc.net^
 ||verizonwireless.tt.omtrdc.net^
 ||vet-us-east-1.track.smaato.net^
 ||v.fwmrm.net^
+||vh1.hb.omtrdc.net^
 ||vht.tradedoubler.com^
 ||viaarena.us.intellitxt.com^
 ||vibe.us.intellitxt.com^
@@ -4450,7 +4459,6 @@
 ||video.streaming.estream.to^
 ||video.videos.vidto.me^
 ||videozr.com^
-||vidgoinc.hb.omtrdc.net^
 ||vidnet.us.intellitxt.com^
 ||vietravel.ezimar.com^
 ||view.atdmt.com^
@@ -4484,7 +4492,6 @@
 ||vz-cdn2.adtng.com^
 ||vz-cdn2.contentabc.com^
 ||vz-cdn.contentabc.com^
-||w3-123-games.net.daraz.com^
 ||wahacondrax.iad-03.braze.com^
 ||w.ahalogy.com^
 ||wallpaper.cdn.pandora.xiaomi.com^
@@ -4504,7 +4511,6 @@
 ||web0.track.appier.net^
 ||web4.realtracker.com^
 ||webanalytics.localytics.com^
-||webapp0tl.net.daraz.com^
 ||webarebears.cn-fan.tv^
 ||webartspy.net^
 ||webfontsfree.org^
@@ -4534,7 +4540,6 @@
 ||whatthetech.us.intellitxt.com^
 ||whistleout.s3.amazonaws.com^
 ||whoateallthepies.uk.intellitxt.com^
-||w-htgb-a.net.daraz.com^
 ||widget.crowdignite.com^
 ||widget.engageya.com^
 ||widgets.pinterest.com^
@@ -4602,9 +4607,7 @@
 ||wv.inner-active.mobi^
 ||ww2.xn--30986-udb.biz^
 ||wwtdd.us.intellitxt.com^
-||wwwberndpulchmedotcom.applications.net.daraz.com^
 ||www-googletagmanager.l.google.com^
-||www-ids.applications.net.daraz.com^
 ||w.yieldmo.com^
 ||x01.aidata.io^
 ||x17online.us.intellitxt.com^
