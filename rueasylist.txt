@@ -336,7 +336,6 @@
 ||admp-tc-sati.adtlgc.com^
 ||adm.www.net.daraz.com^
 ||ad.netcommunities.com^
-||adnet.vn^
 ||adnetwork.adasiaholdings.com^
 ||adn.fusionads.net^
 ||adobecorp.hb-api.omtrdc.net^
@@ -1102,7 +1101,6 @@
 ||cdn.apvdr.com^
 ||cdn.as.amanad.adtdp.com^
 ||cdn-as.jivox.com^
-||cdnasset.dantri.com.vn^
 ||cdn.atlassbx.com^
 ||cdn.atwola.com^
 ||cdn.augur.io^
@@ -1988,6 +1986,7 @@
 ||freya.admin.net.daraz.com^
 ||freya.mail.net.daraz.com^
 ||fr-gmtdmp.mookie1.com^
+||friendly-community.tk^
 ||friendtest.us.intellitxt.com^
 ||froggytest.fr.intellitxt.com^
 ||front-logs.voodoo-ads.io^
@@ -2866,6 +2865,7 @@
 ||moneysyst.biz^
 ||monitorsdk.appsflyer.com^
 ||monkeyminer.net^
+||monopoly-drain.ga^
 ||monstersandcritics.uk.intellitxt.com^
 ||moodpresence.com^
 ||mooo.com^
@@ -3013,7 +3013,6 @@
 ||nightdate.ru^
 ||nihoncar.us.intellitxt.com^
 ||nikkei.d1.sc.omtrdc.net^
-||nimbleswan.io^
 ||ninemsn.imrworldwide.com^
 ||ninjadude.us.intellitxt.com^
 ||nissan.d3.sc.omtrdc.net^
@@ -4279,7 +4278,6 @@
 ||tr-gmtdmp.mookie1.com^
 ||trial.api.huangye.miui.com^
 ||tribal.us.intellitxt.com^
-||tricker.vn^
 ||trinity-cdn.thetimmedia.site^
 ||trinity-player.thetimmedia.site^
 ||triumphrat.us.intellitxt.com^
@@ -4294,9 +4292,7 @@
 ||tsxclub.us.intellitxt.com^
 ||t.teads.tv^
 ||t.teads.tv.edgekey.net^
-||ttinet.com^
 ||t.trackedlink.net^
-||tuiiu.com^
 ||tuno.nuggad.net^
 ||tur1-astrologie.net.daraz.com^
 ||turbopk.net.daraz.com^
@@ -4404,7 +4400,6 @@
 ||ut-static.serving-system.com^
 ||uznatpochemu.ru^
 ||v12groupinc.com^
-||v1sts.me^
 ||v3ing.net.daraz.com^
 ||v3-www.applications.net.daraz.com^
 ||vabid.prod.sift.co^
