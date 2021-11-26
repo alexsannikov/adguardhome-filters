@@ -1988,6 +1988,7 @@
 ||fr-gmtdmp.mookie1.com^
 ||friendly-community.tk^
 ||friendtest.us.intellitxt.com^
+||froala.com^
 ||froggytest.fr.intellitxt.com^
 ||front-logs.voodoo-ads.io^
 ||frtn.socdm.com^
@@ -2170,6 +2171,7 @@
 ||hearst.blueconic.net^
 ||hearst.gscontxt.net^
 ||heartbeats.omtrdc.net^
+||hearthatdistant.top^
 ||helium.us.intellitxt.com^
 ||hellomagazine.uk.intellitxt.com^
 ||hellywood.ru^
@@ -3082,6 +3084,7 @@
 ||ok.uk.intellitxt.com^
 ||old.livejasmin.com^
 ||olimp.bet^
+||olive.ergeapp.com^
 ||omax.admarvel.com^
 ||omax-apac.admarvel.com^
 ||om.nuggad.net^
@@ -3126,6 +3129,7 @@
 ||owneriq.com^
 ||owpawuk.ru^
 ||ow.pubmatic.com^
+||p1.58tg.com^
 ||p1cluster.cxense.com^
 ||pac12.hb-api.omtrdc.net^
 ||pac12.hb.omtrdc.net^
