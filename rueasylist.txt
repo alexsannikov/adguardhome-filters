@@ -1266,7 +1266,6 @@
 ||click.gowadogo.com^
 ||click.howdoesin.net^
 ||click.icptrack.com^
-||clickiocdn.com^
 ||clickio.mgr.consensu.org^
 ||click.maaxmarket.com^
 ||click.plista.com^
