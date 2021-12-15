@@ -473,7 +473,6 @@
 ||apis.murdoog.com^
 ||api.speedshiftmedia.com^
 ||api.sponsorpay.com^
-||api.statsig.com^
 ||api.theadex.com^
 ||api.tiles.mapbox.com^
 ||api.tvpage.com^
@@ -759,7 +758,6 @@
 ||businessknowhow.us.intellitxt.com^
 ||businesspundit.us.intellitxt.com^
 ||bustedcoverage.us.intellitxt.com^
-||buyon.it^
 ||buzzfoto.us.intellitxt.com^
 ||buzzhumor.us.intellitxt.com^
 ||by.essl.optimost.com^
@@ -824,6 +822,7 @@
 ||cc.hb.omtrdc.net^
 ||cc.iwon.com^
 ||c.clicktale.net^
+||ccma.hb-api.omtrdc.net^
 ||ccma.hb.omtrdc.net^
 ||c.company-target.com^
 ||ccs.livejasmin.com^
@@ -993,7 +992,6 @@
 ||chelseafc.hb.omtrdc.net^
 ||chevelles.us.intellitxt.com^
 ||ch-gmtdmp.mookie1.com^
-||chickenkiller.com^
 ||chicory.co^
 ||chip.de.intellitxt.com^
 ||christianscience.tt.omtrdc.net^
@@ -1591,9 +1589,6 @@
 ||firstshowing.us.intellitxt.com^
 ||fixya.us.intellitxt.com^
 ||flashmagazine.us.intellitxt.com^
-||f-log-editor.grammarly.io^
-||f-log-mobile.grammarly.io^
-||f-log-mobile-ios.grammarly.io^
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
 ||fls-na.amazon-adsystem.com^
@@ -1749,6 +1744,7 @@
 ||googleadapis.l.google.com^
 ||google-analytics.bi.owox.com^
 ||go.padsdel.com^
+||go-pardot.adcolony.com^
 ||go.pub2srv.com^
 ||go.pubmatic.com^
 ||gorillanation.us.intellitxt.com^
@@ -1979,6 +1975,7 @@
 ||india-forums.us.intellitxt.com^
 ||indium.openx.net^
 ||infoevent.startappservice.com^
+||info.hnavi.co.jp^
 ||infopackets.us.intellitxt.com^
 ||infos-du-net.fr.intellitxt.com^
 ||info.startappservice.com^
@@ -2377,6 +2374,7 @@
 ||mlb.hb-api.omtrdc.net^
 ||mlb.hb.omtrdc.net^
 ||mmafighting.us.intellitxt.com^
+||mmm.hb.omtrdc.net^
 ||moat.bfmio.com^
 ||mob.adnxs.com^
 ||mob.adzmobi.com^
@@ -2406,6 +2404,7 @@
 ||mooo.com^
 ||mopub-rtb.adfonic.net^
 ||mopub-win-us-east.bkswin.com^
+||more.blueconic.com^
 ||morningstar.us.intellitxt.com^
 ||motortrend.us.intellitxt.com^
 ||moviehole.us.intellitxt.com^
@@ -2465,6 +2464,7 @@
 ||naftemporiki.nuggad.net^
 ||na.hasmobi.net^
 ||nan.netmng.com^
+||nascardigitalsap.hb.omtrdc.net^
 ||nasioc.us.intellitxt.com^
 ||nationalbankofnewzea.tt.omtrdc.net^
 ||nationalenquirer.us.intellitxt.com^
@@ -2592,7 +2592,6 @@
 ||orodi.ru^
 ||orpixel.adsafeprotected.com^
 ||osdir.us.intellitxt.com^
-||osimg.nbcuni.com^
 ||ostg.us.intellitxt.com^
 ||ot.teads.tv^
 ||outils.f5biz.com^
@@ -2603,10 +2602,14 @@
 ||owneriq.com^
 ||owpawuk.ru^
 ||ow.pubmatic.com^
+||oxsports.hb.omtrdc.net^
 ||p1cluster.cxense.com^
+||pac12.hb-api.omtrdc.net^
+||pac12.hb.omtrdc.net^
 ||p.adnxs.com^
 ||pal-item.us.intellitxt.com^
 ||pandoramedia-mkt-prod1-t.campaign.adobe.com^
+||paramountnetwork.hb.omtrdc.net^
 ||partner.knorex.com^
 ||partnerstack.com^
 ||pb.adriver.ru^
@@ -2757,6 +2760,7 @@
 ||postchronicle.us.intellitxt.com^
 ||post.iperceptions.com^
 ||postmedia.demdex.net^
+||postmedia.hb.omtrdc.net^
 ||ppjs.alphonso.tv^
 ||pp.lp4.io^
 ||pp.ua^
@@ -2864,6 +2868,7 @@
 ||r3.mail.ru^
 ||radiocanada.hb-api.omtrdc.net^
 ||radiocanada.hb.omtrdc.net^
+||radiocanada-stage.hb-api.omtrdc.net^
 ||rankmytattoos.us.intellitxt.com^
 ||rantsports.us.intellitxt.com^
 ||rasmussenreports.us.intellitxt.com^
@@ -2894,6 +2899,7 @@
 ||realitytvmagazine.us.intellitxt.com^
 ||rebill.me^
 ||recs.engageya.com^
+||redbullmediahouse.hb.omtrdc.net^
 ||regionconfig.amplitude.com^
 ||registercom.tt.omtrdc.net^
 ||rek.rus-porno.org^
@@ -2942,6 +2948,7 @@
 ||roimedia.advertserve.com^
 ||rojakpot.us.intellitxt.com^
 ||ronetu.ru^
+||roomandboard.hb-api.omtrdc.net^
 ||roomandboard.hb.omtrdc.net^
 ||roomguru.ru^
 ||r.openx.net^
@@ -3246,6 +3253,7 @@
 ||smartdevicecentral.us.intellitxt.com^
 ||smarttag.rubiconproject.com^
 ||smblock.s3.amazonaws.com^
+||smetrics.linkshare.com^
 ||smetrics.omniture.com^
 ||smi2.ru^
 ||s.moatpixel.com^
@@ -3716,6 +3724,7 @@
 ||turnerclassicmovies.hb-api.omtrdc.net^
 ||turnerclassicmovies.hb.omtrdc.net^
 ||turnerinternational.hb.omtrdc.net^
+||turnerresearch1.hb-api.omtrdc.net^
 ||tutorialoutpost.us.intellitxt.com^
 ||tuyendung.mediaz.vn^
 ||tv2dk.nuggad.net^
@@ -3737,6 +3746,7 @@
 ||tw.c.appier.net^
 ||twci.coremetrics.com^
 ||twctsg.hb-api.omtrdc.net^
+||twctsg.hb.omtrdc.net^
 ||tweaks.us.intellitxt.com^
 ||tweaktown.us.intellitxt.com^
 ||tweakvista.us.intellitxt.com^
@@ -3815,6 +3825,7 @@
 ||vabid.prod.sift.co^
 ||vafw.adsafeprotected.com^
 ||va-g2.gumgum.com^
+||vailresorts.hb.omtrdc.net^
 ||va-lb.gumgum.com^
 ||vanguard.demdex.net^
 ||va.origin.startappservice.com^
@@ -4034,7 +4045,6 @@
 ||yodleeinc.tt.omtrdc.net^
 ||yottos.com^
 ||yourtango.us.intellitxt.com^
-||youtube-nocookie.com^
 ||youyou.ezimar.com^
 ||yt.mmstat.com^
 ||yun.rili.cn^
