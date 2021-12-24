@@ -1589,6 +1589,7 @@
 ||filmthreat.us.intellitxt.com^
 ||filmwad.us.intellitxt.com^
 ||filter.onwardclick.com^
+||fimg-resp.seznam.cz^
 ||fincastavancessetti.info^
 ||findnsave.idahostatesman.com^
 ||firebase.com^
@@ -2634,6 +2635,7 @@
 ||pandoramedia-mkt-prod1-t.campaign.adobe.com^
 ||paramountnetwork.hb.omtrdc.net^
 ||partner.knorex.com^
+||partner.linkfire.com^
 ||partnerstack.com^
 ||pb.adriver.ru^
 ||pb.adsparc.net^
