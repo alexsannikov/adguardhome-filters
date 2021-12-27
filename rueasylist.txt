@@ -3750,7 +3750,6 @@
 ||turnerinternational.hb.omtrdc.net^
 ||turnerresearch1.hb-api.omtrdc.net^
 ||turnerresearch1.hb.omtrdc.net^
-||turtlecoin.herominers.com^
 ||tutorialoutpost.us.intellitxt.com^
 ||tuyendung.mediaz.vn^
 ||tv2dk.nuggad.net^
