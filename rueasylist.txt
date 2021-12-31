@@ -421,6 +421,7 @@
 ||aol.socdm.com^
 ||ap.adups.com^
 ||apc.socdm.com^
+||api16-access-gcp.pangle.io^
 ||api16-access-sg.pangle.io^
 ||api2.amplitude.com^
 ||api2.restartad.com^
@@ -1025,7 +1026,6 @@
 ||clicktrack.pubmatic.com^
 ||clickvip.ru^
 ||clickz.lonelycheatingwives.com^
-||click.zoom.us^
 ||client-pages.adnetwork.vn^
 ||clientstorage.cxense.com^
 ||clk.atdmt.com^
@@ -1745,6 +1745,7 @@
 ||go.mediaz.vn^
 ||go.mmstat.com^
 ||go.mobisla.com^
+||go.nielsen.com^
 ||gonintendo.us.intellitxt.com^
 ||gonzogrape.gumgum.com^
 ||go.oclaserver.com^
@@ -1752,6 +1753,7 @@
 ||googleadapis.l.google.com^
 ||google-analytics.bi.owox.com^
 ||go.padsdel.com^
+||go-pardot.adcolony.com^
 ||go.pub2srv.com^
 ||go.pubmatic.com^
 ||gorillanation.us.intellitxt.com^
@@ -1789,6 +1791,7 @@
 ||hairboutique.us.intellitxt.com^
 ||hallmarkcom.hb.omtrdc.net^
 ||handbag.uk.intellitxt.com^
+||haravan.com^
 ||hardcoreware.us.intellitxt.com^
 ||hardforum.us.intellitxt.com^
 ||hardocp.us.intellitxt.com^
@@ -2380,7 +2383,6 @@
 ||mjp-analytics.ximad.com^
 ||mktg.tvpage.com^
 ||mlb.hb-api.omtrdc.net^
-||mlb.hb.omtrdc.net^
 ||mmafighting.us.intellitxt.com^
 ||moat.bfmio.com^
 ||mob.adnxs.com^
@@ -2388,7 +2390,6 @@
 ||mobile9.us.intellitxt.com^
 ||mobile.adsafeprotected.com^
 ||mobileburn.us.intellitxt.com^
-||mobileclient.autumn.net.daraz.com^
 ||mobilecomputermag.uk.intellitxt.com^
 ||mobile.controller.duokanbox.com^
 ||mobile.mng-ads.com^
@@ -2626,8 +2627,6 @@
 ||owpawuk.ru^
 ||ow.pubmatic.com^
 ||p1cluster.cxense.com^
-||pac12.hb-api.omtrdc.net^
-||pac12.hb.omtrdc.net^
 ||p.adnxs.com^
 ||pal-item.us.intellitxt.com^
 ||pandoramedia-mkt-prod1-t.campaign.adobe.com^
@@ -3046,6 +3045,7 @@
 ||san-www.adobetag.com.edgekey.net^
 ||saspreview.com^
 ||savemanny.us.intellitxt.com^
+||saxobank.hb.omtrdc.net^
 ||sb6.scorecardresearch.com.edgekey.net^
 ||sbbe.group-ib.ru^
 ||sb.freeskreen.com^
@@ -3276,6 +3276,7 @@
 ||smarttag.rubiconproject.com^
 ||smblock.s3.amazonaws.com^
 ||smetrics.linkshare.com^
+||smetrics.omniture.com^
 ||smi2.ru^
 ||s.moatpixel.com^
 ||s.ntv.io^
@@ -3363,7 +3364,6 @@
 ||staging.fuseplatform.net^
 ||stampen.adtlgc.com^
 ||stampscom.tt.omtrdc.net^
-||stanfordhealthcare.hb.omtrdc.net^
 ||starcasm.us.intellitxt.com^
 ||stat-analytics.mediavitrina.ru^
 ||statchecker.yandex.ru^
@@ -3633,6 +3633,8 @@
 ||tls13.taboola.map.fastly.net^
 ||tm2.r-ad.ne.jp^
 ||tmcnet.us.intellitxt.com^
+||tmobilehome.hb-api.omtrdc.net^
+||tmobilehome-stage.hb-api.omtrdc.net^
 ||t.mookie1.com^
 ||tm.r-ad.ne.jp^
 ||tmscdn.coremetrics.com^
@@ -3715,7 +3717,6 @@
 ||track.mclick.mobi^
 ||track.pubmatic.com^
 ||track.seadform.net^
-||track.tkbo.com^
 ||tradearabia.advertserve.com^
 ||traffick.jivox.com^
 ||traileraddict.us.intellitxt.com^
@@ -3744,6 +3745,7 @@
 ||t.trackedlink.net^
 ||tuno.nuggad.net^
 ||turnerapac.hb.omtrdc.net^
+||turnerclassicmovies.hb-api.omtrdc.net^
 ||turnerclassicmovies.hb.omtrdc.net^
 ||turnerinternational.hb.omtrdc.net^
 ||turnerresearch1.hb-api.omtrdc.net^
@@ -3942,6 +3944,7 @@
 ||wasp-182b.com^
 ||wat.ad.daum.net^
 ||watchformytechstuff.com^
+||waterscorporation.hb.omtrdc.net^
 ||wd.adcolony.com^
 ||wdpro-mkt-prod2-lb.campaign.adobe.com^
 ||weareheard.org^
@@ -4064,7 +4067,6 @@
 ||yeeeah.us.intellitxt.com^
 ||yepdigital.adk2x.com^
 ||yieldbird-d.openx.net^
-||yleisradio.hb-api.omtrdc.net^
 ||yleisradio.hb.omtrdc.net^
 ||ym.adnxs.com^
 ||yoda.cybereps.com^
