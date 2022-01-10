@@ -928,7 +928,6 @@
 ||cdn.flashtalking.com.edgekey.net^
 ||cdn.fuseplatform.net^
 ||cdn-gl.imrworldwide.com^
-||cdn.gotraffic.net^
 ||cdn.gumgum.com^
 ||cdn.hbplatform.com^
 ||cdn-highwinds.unityads.unity3d.com^
