@@ -917,6 +917,7 @@
 ||cdn.exelator.com^
 ||cdn.fastclick.net^
 ||cdn.fds-ssl.api.xiaomi.com^
+||cdn.fedsy.xyz^
 ||cdn.firstimpression.io^
 ||cdn.fivecdm.com^
 ||cdn.flashtalking.com.edgekey.net^
@@ -1263,7 +1264,10 @@
 ||d1.hb.omtrdc.net^
 ||d1jwpcr0q4pcq0.cloudfront.net^
 ||d1oxlq5h9kq8q5.cloudfront.net^
+||d2405b0jymm2dk.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
+||d24afgsm39csxt.cloudfront.net^
+||d2jn12r3o7an7z.cloudfront.net^
 ||d2tnx644ijgq6i.cloudfront.net^
 ||d37ju0xanoz6gh.cloudfront.net^
 ||d3mjsomixevyw7.cloudfront.net^
@@ -1279,6 +1283,7 @@
 ||dailymotion.demdex.net^
 ||dailystab.us.intellitxt.com^
 ||dailytech.us.intellitxt.com^
+||dalj98ktasppa.cloudfront.net^
 ||damnimcute.us.intellitxt.com^
 ||danasdirt.us.intellitxt.com^
 ||daniweb.us.intellitxt.com^
@@ -4140,6 +4145,7 @@
 ||x2.mookie1.com^
 ||x2.vindicosuite.com^
 ||x.bidswitch.net^
+||xd3r.javgg.eu^
 ||x-exchanger.co.uk^
 ||x.innovid.com^
 ||xml.ad-maven.com^
