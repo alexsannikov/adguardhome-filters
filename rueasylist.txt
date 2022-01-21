@@ -210,7 +210,6 @@
 ||adm.fwmrm.net^
 ||admin.adsplay.xyz^
 ||admin.appnext.com^
-||admiral.mgr.consensu.org^
 ||ad.monetate.net^
 ||admp-tc-sati.adtlgc.com^
 ||ad.netcommunities.com^
@@ -450,7 +449,6 @@
 ||api.browser.intl.miui.com^
 ||api.c.avazunativeads.com^
 ||api.company-target.com^
-||api.conversant.mgr.consensu.org^
 ||api.cupid.ptqy.gitv.tv^
 ||api.cxense.com^
 ||api.demandbase.com^
@@ -616,7 +614,6 @@
 ||autospies.us.intellitxt.com^
 ||autoworldnews.us.intellitxt.com^
 ||av1.xdrig.com^
-||aviasales.ru^
 ||a.vidora.com^
 ||awardspace.de.intellitxt.com^
 ||away.us.intellitxt.com^
@@ -904,7 +901,6 @@
 ||cdn-cf.postitial.com^
 ||cdn.clicktale.net^
 ||cdn.cloudcoins.co^
-||cdn.conversant.mgr.consensu.org^
 ||cdn-creatives-highwinds-prd.unityads.unity3d.com^
 ||cdn.crwdcntrl.net^
 ||cdn.cxense.com^
@@ -1069,8 +1065,6 @@
 ||cm.adgrx.com^
 ||cm.everesttech.net^
 ||cmp.optad360.io^
-||cmp.teads.mgr.consensu.org^
-||cmp.uniconsent.mgr.consensu.org^
 ||cmp.us.intellitxt.com^
 ||cms-xch-chicago.33across.com^
 ||cn2.adserver.yahoo.com^
@@ -1149,8 +1143,6 @@
 ||config.unityads.unity3d.com^
 ||connect.newzia.jp^
 ||connecttv.pelmorex.com^
-||consentcdn.cookiebot.com-v1.edgekey.net^
-||consentmanager.mgr.consensu.org^
 ||consent.mediaforge.com^
 ||console.brightmountainmedia.com^
 ||console.rtk.io^
@@ -1172,7 +1164,6 @@
 ||conv.fout.jp^
 ||convnjmp.basebanner.com^
 ||cookie.brealtime.com^
-||cookies.onetrust.mgr.consensu.org^
 ||cookie-sync-service-prod.steelhousemedia.com^
 ||cooksrecipes.us.intellitxt.com^
 ||cooltechzone.us.intellitxt.com^
@@ -1272,7 +1263,6 @@
 ||dabcc.us.intellitxt.com^
 ||dacash.streamplay.to^
 ||dadata.ru^
-||d.adroll.mgr.consensu.org^
 ||d.adsplay.xyz^
 ||dafabet.advertserve.com^
 ||dailycaller.us.intellitxt.com^
@@ -2669,7 +2659,6 @@
 ||opentable.tt.omtrdc.net^
 ||ops-cdn.undertone.com^
 ||op.searchteria.co.jp^
-||optad360.mgr.consensu.org^
 ||optimizedby.brealtime.com^
 ||optimized-by.rubiconproject.com^
 ||optimize.serving-system.com^
@@ -2999,6 +2988,7 @@
 ||relay-mk.ads.httpool.com^
 ||relay-rs.ads.httpool.com^
 ||remain.chartboosts.com^
+||remind.me^
 ||remiroyal.ro^
 ||remoraimage.xlisting.jp^
 ||renhertfo.com^
@@ -3282,7 +3272,6 @@
 ||sharebar.addthiscdn.com^
 ||sharecast.uk.intellitxt.com^
 ||sharethis.com^
-||sharethis.mgr.consensu.org^
 ||sharethrough.adnxs.com^
 ||shawtelevision.hb.omtrdc.net^
 ||shebudgets.us.intellitxt.com^
@@ -3373,7 +3362,6 @@
 ||so.rlcdn.com^
 ||sortow.ru^
 ||soundpublishing.blueconic.net^
-||sourcepoint.mgr.consensu.org^
 ||southwestairlines.tt.omtrdc.net^
 ||sp1cluster.cxense.com^
 ||space.us.intellitxt.com^
@@ -3801,7 +3789,6 @@
 ||trk.mail.ru^
 ||trk.tidaltv.com^
 ||troweprice.hb.omtrdc.net^
-||trustarc.mgr.consensu.org^
 ||trvdp.com^
 ||try.engine.adglare.net^
 ||tsrid.cxense.com^
