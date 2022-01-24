@@ -131,11 +131,13 @@
 ||betcc.com^
 ||betcityru.com^
 ||betclic.com^
+||betclic.pl^
 ||betclock.com^
 ||betcoin.ag^
 ||betcostarica.ag^
 ||bet.co.za^
 ||betcris.com^
+||betcris.pl^
 ||betcruise.com^
 ||bet-csgo.com^
 ||betdaq.com^
@@ -148,7 +150,10 @@
 ||betezy.com.au^
 ||betfair.com^
 ||betfair.com.au^
+||betfan.pl^
 ||betfinal.com^
+||betfirstcasino.be^
+||betfirst.dhnet.be^
 ||betfirst-en.dhnet.be^
 ||betflag.com^
 ||betflash.co.za^
@@ -231,6 +236,7 @@
 ||betser.com^
 ||betshop.com^
 ||betsking11.com^
+||bets.net^
 ||betsocial.net^
 ||betsonic.com^
 ||betspawn.com^
@@ -291,6 +297,7 @@
 ||bookmaker.com.au^
 ||bookmaker.eu^
 ||botbcasino.com^
+||bounty.gg^
 ||bovada.lv^
 ||boylesports.com^
 ||britsbingo.co.uk^
@@ -387,9 +394,11 @@
 ||crownbet.com.au^
 ||crsportsbet.ag^
 ||crsportsbetting.com^
+||cs.deals^
 ||csgo777.com^
 ||csgoace.com^
 ||csgoaimpot.com^
+||csgoatse.com^
 ||csgobigbets.com^
 ||csgobig.com^
 ||csgobird.com^
@@ -412,8 +421,11 @@
 ||csgo-dream.com^
 ||csgoearth.com^
 ||csgo-easy.com^
+||csgoempire.com^
 ||csgoezknife.com^
 ||csgofakebet.com^
+||csgofast123.com^
+||csgofast.com^
 ||csgofunpot.com^
 ||csgo-gambler.com^
 ||csgo-games.net^
@@ -422,11 +434,14 @@
 ||csgohunt.com^
 ||csgojackpot.com^
 ||csgo-jackpots.com^
+||csgojoker.com^
 ||csgolden.eu^
 ||csgoldpot.com^
 ||csgoleap.com^
+||csgolive.com^
 ||csgolotto.net^
 ||csgolounge.com^
+||csgoluck.com^
 ||csgolucky.com^
 ||csgoluckywheel.com^
 ||csgoparty.com^
@@ -442,6 +457,7 @@
 ||csgoreaper.com^
 ||csgoresort.com^
 ||csgorich.com^
+||csgoroll.com^
 ||csgo-saloon.com^
 ||csgoshuffle.com^
 ||csgoskinlottery.com^
@@ -458,6 +474,7 @@
 ||cspotluck.com^
 ||cupcakebingo.com^
 ||cupcakebingo.co.uk^
+||daddyskins.com^
 ||dadobet.com^
 ||dafabet.com^
 ||daftarbetplace88.com^
@@ -496,17 +513,20 @@
 ||dreamjackpot.com^
 ||dreamvegas.com^
 ||dreamz.com^
+||duelbits.com^
 ||duelz.com^
 ||dunder.com^
 ||dutapoker.co^
 ||dynabet.com.au^
 ||easytowager.com^
 ||ebetusa.com^
+||ebetx.pl^
 ||eccobet.com^
 ||ed3688.com^
 ||eestiloto.ee^
 ||efbet.com^
 ||efirbet.com^
+||efortuna.pl^
 ||egamingbets.com^
 ||ehorse.com^
 ||elitebetkenya.com^
@@ -525,11 +545,13 @@
 ||e-stave.com^
 ||etipos.sk^
 ||etopaz.az^
+||etoto.pl^
 ||euro24sports.com^
 ||eurobet.bg^
 ||europe-bet.com^
 ||euroslots.com^
 ||evobet.com^
+||ewinner.pl^
 ||exbeteu.com^
 ||exebet.com^
 ||expekt.com^
@@ -562,6 +584,7 @@
 ||freakyvegas.com^
 ||fruitycasa.com^
 ||fsport.net^
+||fuksiarz.pl^
 ||fullbetter.com^
 ||fun88.co.uk^
 ||fun-bet.com^
@@ -572,6 +595,7 @@
 ||galaxysports.com^
 ||gamblecsgo.com^
 ||gambling.com^
+||gamdom.com^
 ||gamebookers.com^
 ||gamerjackpot.com^
 ||gametime88.com^
@@ -583,6 +607,8 @@
 ||geoff-banks.com^
 ||getabet.com^
 ||getlucky.com^
+||gg146.bet^
+||gg.bet^
 ||giocoreale.com^
 ||glimmercasino.com^
 ||globalwagering.ws^
@@ -618,6 +644,7 @@
 ||hawaiicasino.com^
 ||healthlottery.co.uk^
 ||heavenbet.com^
+||hellcase.com^
 ||hellocasino.com^
 ||heritagesports.eu^
 ||herobet.com.br^
@@ -639,11 +666,13 @@
 ||hrwager.ag^
 ||hughesbet.com^
 ||hunkybingo.com^
+||hypedrop.com^
 ||hypercasino.com^
 ||iasbet.com^
 ||ibcbetberry.com^
 ||ibet789.com^
 ||ibetcasino.com^
+||iforbet.pl^
 ||ifortuna.cz^
 ||igame.com^
 ||igame.se^
@@ -704,6 +733,7 @@
 ||kassu.com^
 ||katiesbingo.com^
 ||keyarena.gg^
+||key-drop.com^
 ||kingkong999.net^
 ||kingneptunescasino.com^
 ||kingneptunescasino.eu^
@@ -759,6 +789,7 @@
 ||loonybingo.com^
 ||loonybingo.co.uk^
 ||looselines.com^
+||loot.bet^
 ||lopocasport.com^
 ||loquaxbingo.co.uk^
 ||lotenal.gob.mx^
@@ -817,6 +848,7 @@
 ||lutrija.hr^
 ||lutrija.rs^
 ||luxbet.com^
+||lvbet.pl^
 ||m8bet.net^
 ||m8poker.com^
 ||macaubet.com^
@@ -921,6 +953,7 @@
 ||nlb.lk^
 ||nlotto.co.kr^
 ||noaccountcasino.com^
+||noblebet.pl^
 ||nopeampi.com^
 ||nordicbet.com^
 ||norgesautomaten.com^
@@ -1018,6 +1051,7 @@
 ||propawin.com^
 ||punchbets.com^
 ||purepoker.eu^
+||pzbuk.pl^
 ||qqtogel88.com^
 ||queenvegas.com^
 ||racebets.com^
@@ -1039,10 +1073,12 @@
 ||ridika.com^
 ||rikstoto.no^
 ||rivalo.com^
+||rivalry.com^
 ||rizk.com^
 ||roadbet.com^
 ||rog303.com^
 ||rolla.com^
+||rollbit.com^
 ||royalcspot.com^
 ||royalpanda.com^
 ||royalslots.com^
@@ -1104,6 +1140,7 @@
 ||smashsportsbetting.com^
 ||snabbare.com^
 ||socalsportbook.com^
+||society.gg^
 ||softbet.eu^
 ||speedybet.com^
 ||spela.com^
@@ -1142,6 +1179,7 @@
 ||sportsbook-uk.com^
 ||sportsbookusa.com^
 ||sports.br.betboo.com^
+||sports.caliente.mx^
 ||sports-gambling.com^
 ||sportsinteraction.com^
 ||sports.partypoker.com^
@@ -1155,6 +1193,7 @@
 ||sportzbookz.com^
 ||spreadex.com^
 ||sssbet.com^
+||stake.com^
 ||stakers.com^
 ||stakes.com^
 ||stanjames.com^
@@ -1164,12 +1203,14 @@
 ||storspelare.com^
 ||storspiller.com^
 ||strikewin.com^
+||sts.pl^
 ||sunbets.co.uk^
 ||suomikasino.com^
 ||supabets.com.gh^
 ||super88.club^
 ||super8casino.com^
 ||superbet.com^
+||superbet.pl^
 ||superbook.ag^
 ||superlenny.com^
 ||supersoccer.co.uk^
@@ -1201,6 +1242,7 @@
 ||thegreek.com^
 ||thelotter.com^
 ||thrills.com^
+||thunderpick.com^
 ||tipbet.com^
 ||tipico.com^
 ||tipos.sk^
@@ -1229,7 +1271,9 @@
 ||totobet24.com^
 ||totobet.com^
 ||toto.bg^
+||totolotek.pl^
 ||toxicjackpot.com^
+||trafonline.pl^
 ||triobet.com^
 ||ttr.casino^
 ||turbico.com^
@@ -1260,6 +1304,7 @@
 ||vinnarum.com^
 ||vipsports.eu^
 ||vitalbet.com^
+||vloot.io^
 ||voltbet.com^
 ||voodoodreams.com^
 ||vulcun.com^
@@ -1294,6 +1339,7 @@
 ||worldsportsbetting.co.za^
 ||worldstar.co.ug^
 ||worldwidegamble.com^
+||wtfskins.com^
 ||wunderino.com^
 ||wwin.ba^
 ||wwin.com^
