@@ -2366,6 +2366,7 @@
 ||mediamond.nuggad.net^
 ||media.org.adtimaserver.vn^
 ||medias.cloud.ogury.io^
+||mediascope.net^
 ||mediaset.hb-api.omtrdc.net^
 ||mediaset.hb.omtrdc.net^
 ||mediation.adnxs.com^
@@ -2381,6 +2382,12 @@
 ||methodshop.us.intellitxt.com^
 ||metlife.hb.omtrdc.net^
 ||metodoroleta24h.com^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics.data.hicloud.com^
 ||metropcs.mobileposse.com^
 ||metro.uk.intellitxt.com^
 ||mg.marketgid.com^
