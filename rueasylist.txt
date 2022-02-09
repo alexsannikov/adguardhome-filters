@@ -177,6 +177,7 @@
 ||ad.caprofitx.adtdp.com^
 ||ad.caprofitx.com^
 ||adcloud-dp.nuggad.net^
+||adcr.naver.com^
 ||adcru.com^
 ||ad-eu.p.otm-r.com^
 ||adfill.fuseplatform.net^
@@ -349,6 +350,7 @@
 ||alchemyworldwide.tt.omtrdc.net^
 ||alienradar.ru^
 ||a.ligatus.de^
+||ali.ski^
 ||alist.unitedblades.co.jp^
 ||alive.us.intellitxt.com^
 ||allcarselectric.us.intellitxt.com^
@@ -554,6 +556,7 @@
 ||a.thefreedictionary.com^
 ||a.tiles.mapbox.com^
 ||atlascopco.hb.omtrdc.net^
+||atmasroofy.com^
 ||atracking-auto.appflood.com^
 ||atrd.netmng.com^
 ||atresmedia.hb-api.omtrdc.net^
@@ -1147,6 +1150,7 @@
 ||cooper.logs.roku.com^
 ||coordinator-production-28516768.us-east-1.elb.amazonaws.com^
 ||c.oracleinfinity.io.edgekey.net^
+||coralogix.com^
 ||core2.adtlgc.com^
 ||cortex.vidora.com^
 ||corus.hb-api.omtrdc.net^
@@ -1736,6 +1740,7 @@
 ||global.ymtracking.com^
 ||gm.demdex.net^
 ||gm.gds.mmstat.com^
+||gmivideo-stag.in.duokanbox.com^
 ||gm.mmstat.com^
 ||gmtdmp.mookie1.com^
 ||go1.aniview.com^
@@ -2039,7 +2044,6 @@
 ||ip.nuggad.net^
 ||ips-img.iperceptions.com^
 ||ips-invite.iperceptions.com^
-||ip-tracker.org^
 ||ipw.metadsp.co.uk^
 ||iqzn-useast.adnxs.com^
 ||isaca.tt.omtrdc.net^
@@ -2596,19 +2600,7 @@
 ||ok.uk.intellitxt.com^
 ||old.livejasmin.com^
 ||olimp.bet^
-||olx.pl-delivery.oferta-pay.net^
-||olx.pl.delivery.oferta-pay.net^
 ||olx.pl-dostawa.life^
-||olx.pl-payment.oferta-pay.net^
-||olx.pl.pay.oferta-pay.net^
-||olx.pl-poland.oferta-pay.net^
-||olx.pl.safe.oferta-pay.net^
-||olx.pl-safety.oferta-pay.net^
-||olx.pl.safety.oferta-pay.net^
-||olx.pl-security.oferta-pay.net^
-||olx.pl.security.oferta-pay.net^
-||olx.pl.tracking.oferta-pay.net^
-||olx.pl.track.oferta-pay.net^
 ||omax.admarvel.com^
 ||om.nuggad.net^
 ||omo.adsplay.xyz^
@@ -2778,7 +2770,6 @@
 ||p.liadm.com^
 ||plmm16.bestshopping-voucher.com^
 ||plmokn.pw^
-||pl.olx.oferta-pay.net^
 ||plrm.bestshopping-voucher.com^
 ||pl.spanel.gem.pl^
 ||plugins.blueconic.net^
@@ -2834,6 +2825,7 @@
 ||premium-videos.telly.com^
 ||presence-pc.fr.intellitxt.com^
 ||prettyboring.us.intellitxt.com^
+||preview.in.intl.video.xiaomi.com^
 ||p.rfihub.com^
 ||pr-gmtdmp.mookie1.com^
 ||pridesource.advertserve.com^
@@ -2847,6 +2839,7 @@
 ||prizemachine.games.iwon.com^
 ||prod-a.applovin.com^
 ||prod-bid.applovin.com^
+||prod.fireworktv.com^
 ||prod.fraud.adjoe.zone^
 ||prod-ms.applovin.com^
 ||product.adingo.jp.eimg.jp^
@@ -2903,7 +2896,6 @@
 ||px.steelhousemedia.com^
 ||pythagore.demdex.net^
 ||qatarairways.tt.omtrdc.net^
-||qinqiaotrade.com^
 ||qualtrics.com^
 ||quantcast.mgr.consensu.org^
 ||query1.petametrics.com^
@@ -3042,6 +3034,7 @@
 ||ru.nrjprice.com^
 ||ruscams.com^
 ||rusmedserv.com^
+||ru.video.intl.xiaomi.com^
 ||rwww.samsungotn.net^
 ||rw.yieldmo.com^
 ||rx8club.us.intellitxt.com^
@@ -3433,7 +3426,6 @@
 ||stats-5-split-vohnu.s.innovid.com.akadns.net^
 ||stats.clicktracks.com^
 ||statse.webtrendslive.com^
-||stats.lineageos.org^
 ||stats.mediaforge.com^
 ||stats.xiaomi.com^
 ||statusklic.info^
@@ -3908,6 +3900,7 @@
 ||video-assets.mathtag.com^
 ||videocodezone.us.intellitxt.com^
 ||videoigr.net^
+||video.in.intl.xiaomi.com^
 ||videojug.uk.intellitxt.com^
 ||videomore.ru^
 ||videonow.ru^
