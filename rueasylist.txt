@@ -1313,6 +1313,7 @@
 ||directtv.tt.omtrdc.net^
 ||directvapplications.hb.omtrdc.net^
 ||directv.hb.omtrdc.net^
+||direct.yandex.ru^
 ||di.rlcdn.com^
 ||discoverecommerce.tt.omtrdc.net^
 ||discoverydp.hb-api.omtrdc.net^
@@ -1449,7 +1450,6 @@
 ||emaxhealth.us.intellitxt.com^
 ||embed.secondstreetapp.com^
 ||emea-bidder.mathtag.com^
-||emisja.contentstream.pl^
 ||encumberbloom.com^
 ||encyclocentral.us.intellitxt.com^
 ||encyclopediabritannica.blueconic.net^
@@ -2386,6 +2386,7 @@
 ||methodshop.us.intellitxt.com^
 ||metlife.hb.omtrdc.net^
 ||metodoroleta24h.com^
+||metrica.yandex.com^
 ||metrics1.data.hicloud.com^
 ||metrics2.data.hicloud.com^
 ||metrics3.data.hicloud.com^
@@ -3538,6 +3539,7 @@
 ||tags.mediaforge.com^
 ||tags.onscroll.com^
 ||tags.otherlevels.com^
+||tags.remixd.com^
 ||tags.w55c.net^
 ||tag.yieldoptimizer.com^
 ||taletela.us.intellitxt.com^
@@ -3978,6 +3980,7 @@
 ||webuser.uk.intellitxt.com^
 ||webview.unityads.unity3d.com^
 ||webwereld.nl.intellitxt.com^
+||wedata.net^
 ||week.news^
 ||weightlossforall.us.intellitxt.com^
 ||westads.simpli.fi^
@@ -4035,6 +4038,7 @@
 ||wms-na.amazon-adsystem.com^
 ||womensforum.us.intellitxt.com^
 ||womenshealth.de.intellitxt.com^
+||wordstat.yandex.ru^
 ||worldnetdaily.us.intellitxt.com^
 ||worldtravelguide.uk.intellitxt.com^
 ||wowinterface.us.intellitxt.com^
