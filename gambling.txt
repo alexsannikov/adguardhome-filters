@@ -90,6 +90,7 @@
 ||bandarklik4d.net^
 ||barbadoscasino.com^
 ||b-bets.com^
+||bc.game^
 ||beatthebook.eu^
 ||belmont.ag^
 ||bepe88.website^
@@ -308,6 +309,8 @@
 ||buckandbutler.com^
 ||bulldog777.com^
 ||bulletbets.com^
+||bustabit.com^
+||bustadice.com^
 ||butterflybingo.com^
 ||bwin.com^
 ||cafecasino.lv^
@@ -510,6 +513,7 @@
 ||docbet.com^
 ||doribet.com^
 ||doxxbet.com^
+||dream11.com^
 ||dreamjackpot.com^
 ||dreamvegas.com^
 ||dreamz.com^
@@ -543,6 +547,7 @@
 ||esportsbetting.com^
 ||esportscasino.com^
 ||e-stave.com^
+||etherdice.io^
 ||etipos.sk^
 ||etopaz.az^
 ||etoto.pl^
