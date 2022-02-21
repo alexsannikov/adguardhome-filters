@@ -49,6 +49,7 @@
 ||3ppa.jp.cinarra.com^
 ||411mania.us.intellitxt.com^
 ||4e43ac9c.info^
+||4px.ru^
 ||4thegame.uk.intellitxt.com^
 ||4w-wrestling.us.intellitxt.com^
 ||5726.bapi.adsafeprotected.com^
@@ -1116,6 +1117,7 @@
 ||config.otherlevels.com^
 ||config.sdk.scopely.io^
 ||config.unityads.unity3d.com^
+||connect.facebook.com^
 ||connect.newzia.jp^
 ||connecttv.pelmorex.com^
 ||consent.mediaforge.com^
@@ -1993,6 +1995,7 @@
 ||infoevent.startappservice.com^
 ||info.hnavi.co.jp^
 ||infopackets.us.intellitxt.com^
+||info.price.nadavi.ru^
 ||infos-du-net.fr.intellitxt.com^
 ||info.startappservice.com^
 ||info.static.startappservice.com^
@@ -2028,6 +2031,7 @@
 ||ip1.ads.stickyadstv.com.akadns.net^
 ||ip1.cdn.stickyadstv.com.akadns.net^
 ||ip2.ads.stickyadstv.com.akadns.net^
+||ipc-ext.s3.yandex.net^
 ||ipfs.infura.io^
 ||ipgrabber.ru^
 ||ipgraber.ru^
@@ -2447,6 +2451,7 @@
 ||mp.teads.tv^
 ||m.quantcount.com^
 ||mraid.prod.cloud.ogury.io^
+||ms4.applovin.com^
 ||ms-ads.prod.cloud.ogury.io^
 ||ms.applovin.com^
 ||mscom.demdex.net^
@@ -2682,7 +2687,6 @@
 ||philly.demdex.net^
 ||phi.novaon.asia^
 ||phonearena.us.intellitxt.com^
-||phonecallapi.micloud.xiaomi.net^
 ||photobucket.adnxs.com^
 ||php-mag.de.intellitxt.com^
 ||php-magnet.de.intellitxt.com^
@@ -2732,6 +2736,7 @@
 ||plalg0.yourfreeshoppingvoucher.com^
 ||plantronics.hb.omtrdc.net^
 ||platinumcode.net^
+||plausible.io^
 ||play.adsparc.com^
 ||play.aniview.com^
 ||play.appiq.mobi^
@@ -3259,6 +3264,7 @@
 ||singlespot.com^
 ||s.innovid.com^
 ||sitecdn.tvpage.com^
+||sitecheck.opera.com^
 ||site.flashx.cc^
 ||sjc-249.sjc-rtb1.rfihub.com^
 ||s.jsrdn.com^
@@ -3340,6 +3346,7 @@
 ||ssl.socdm.com^
 ||ssl.webtracker.jp^
 ||sso.internetat.tv^
+||ssp.adriver.ru^
 ||ssp.rambler.ru^
 ||ssp.send.microadinc.com^
 ||s-static.innovid.com^
@@ -3400,6 +3407,7 @@
 ||static-ssl.mediav.com^
 ||static-tagr.gd1.mookie1.com^
 ||static.wi-fi.ru^
+||static.yandex.net^
 ||static.yieldmo.com^
 ||stat.livejournal.com^
 ||stats1.clicktracks.com^
@@ -3475,6 +3483,7 @@
 ||sync.aniview.com^
 ||sync-apsg.tidaltv.com.akadns.net^
 ||sync.bfmio.com^
+||sync.bumlam.com^
 ||sync.dmp.fout.jp^
 ||sync-dsp.ad-m.asia^
 ||sync.extend.tv^
@@ -4060,8 +4069,10 @@
 ||xpl.theadex.com^
 ||xx.c.appier.net^
 ||yabs.yandex.ru^
+||yastatic.yandex.net^
 ||yeeeah.us.intellitxt.com^
 ||yepdigital.adk2x.com^
+||yhb.p.otm-r.com^
 ||yieldbird-d.openx.net^
 ||yleisradio.hb-api.omtrdc.net^
 ||yleisradio.hb.omtrdc.net^
@@ -4071,6 +4082,7 @@
 ||yottos.com^
 ||yourtango.us.intellitxt.com^
 ||youyou.ezimar.com^
+||ysa-static.passport.yandex.ru^
 ||yt.mmstat.com^
 ||yun.rili.cn^
 ||yun-static.soperson.com^
