@@ -966,6 +966,7 @@
 ||ce.wielkanagroda.com^
 ||ce.wielkaniespodzianka.pl^
 ||c.f5mtrack.com^
+||cf-native.karte.io^
 ||c.go-mpulse.net^
 ||c.gumgum.com^
 ||chalkedapplaudincident.com^
@@ -1792,7 +1793,6 @@
 ||hbsdk-event.log.smaato.net^
 ||hb.undertone.com^
 ||hb.vntsm.com^
-||h.cackle.me^
 ||hd.mmstat.com^
 ||hdvapp.com^
 ||hdvbox.com^
@@ -1884,7 +1884,6 @@
 ||ibanners.empoweredcomms.com.au^
 ||ib.mookie1.com^
 ||ib.sin1.geoadnxs.com^
-||i.cackle.me^
 ||icentric.us.intellitxt.com^
 ||ichef.us.intellitxt.com^
 ||icm.kochava.com^
@@ -2032,7 +2031,6 @@
 ||jadserve.postrelease.com^
 ||jakeludington.us.intellitxt.com^
 ||j.bg.adresult-sp.jp^
-||j.cackle.me^
 ||jcb.tt.omtrdc.net^
 ||jcrew.tt.omtrdc.net^
 ||jgl.microad.net^
@@ -2945,8 +2943,6 @@
 ||rs.mail.ru^
 ||rss2.vietnamnetad.vn^
 ||rs.static.etargetnet.com^
-||rt4.cackle.me^
-||rt5.cackle.me^
 ||rt.applovin.com^
 ||rtb0.doubleverify.com^
 ||rtb2.doubleverify.com^
@@ -3347,6 +3343,7 @@
 ||static.gfx.streamate.com^
 ||static.hbplatform.com^
 ||static.innovid.com^
+||static.karte.io^
 ||static.marketolog.mts.ru^
 ||static.mediav.com^
 ||static.mediaz.asia^
@@ -3589,6 +3586,7 @@
 ||titsbro.org^
 ||titsbro.pw^
 ||tizer.medikforum.ru^
+||t.karte.io^
 ||tkr.yieldmo.com^
 ||tls13.taboola.map.fastly.net^
 ||tm2.r-ad.ne.jp^
@@ -3660,6 +3658,7 @@
 ||tracking.vcommission.com^
 ||tracking.vietnamnetad.vn^
 ||tracking.wisepops.com^
+||track.leadhit.io^
 ||track.mclick.mobi^
 ||track.pubmatic.com^
 ||track.seadform.net^
