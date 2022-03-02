@@ -355,6 +355,7 @@
 ||allwomenstalk.us.intellitxt.com^
 ||almosto.com^
 ||amazonwebservicesinc.tt.omtrdc.net^
+||amc.yandex.ru^
 ||amdzone.us.intellitxt.com^
 ||americanairlines.demdex.net^
 ||americaneagleoutfitt.tt.omtrdc.net^
@@ -397,7 +398,6 @@
 ||answers.us.intellitxt.com^
 ||antimusic.us.intellitxt.com^
 ||antyweb.push-ad.com^
-||anura.io^
 ||anycast.adnxs.com^
 ||anylist.c.appier.net^
 ||anythinghollywood.us.intellitxt.com^
@@ -497,6 +497,7 @@
 ||app.medyanetads.com^
 ||app.mts.by^
 ||app.push-ad.com^
+||appradar.com^
 ||apps.car21.net.daraz.com^
 ||appscout.us.intellitxt.com^
 ||apps.pubmatic.com^
@@ -847,6 +848,7 @@
 ||cdn-akamai.mookie1.com^
 ||cdn.ambientplatform.vn^
 ||cdn.amplitude.com^
+||cdn.ampproject.org^
 ||cdn.appnext.com^
 ||cdn.apvdr.com^
 ||cdn.as.amanad.adtdp.com^
@@ -863,6 +865,7 @@
 ||cdn-cf.postitial.com^
 ||cdn.clicktale.net^
 ||cdn.cloudcoins.co^
+||cdn.cookielaw.org^
 ||cdn-creatives-highwinds-prd.unityads.unity3d.com^
 ||cdn.crwdcntrl.net^
 ||cdn.cxense.com^
@@ -966,7 +969,6 @@
 ||ce.wielkanagroda.com^
 ||ce.wielkaniespodzianka.pl^
 ||c.f5mtrack.com^
-||cf-native.karte.io^
 ||c.go-mpulse.net^
 ||c.gumgum.com^
 ||chalkedapplaudincident.com^
@@ -1018,6 +1020,7 @@
 ||cluster3.adultadworld.com^
 ||cluster.adultadworld.com^
 ||cluster.adworldmedia.com^
+||cluster.awmdelivery.com^
 ||cm2.adform.net^
 ||cm3.adform.net^
 ||cm.adform.net^
@@ -1135,7 +1138,9 @@
 ||cotads.adscale.de^
 ||counselheal.us.intellitxt.com^
 ||counter.marketgid.com^
+||counter.yandex.ru^
 ||countryweekly.us.intellitxt.com^
+||count.yandex.ru^
 ||courierpostonline.us.intellitxt.com^
 ||cowcotland.fr.intellitxt.com^
 ||coxtv.us.intellitxt.com^
@@ -1285,6 +1290,7 @@
 ||directvapplications.hb.omtrdc.net^
 ||directv.hb.omtrdc.net^
 ||direct.yandex.ru^
+||direkt.yandex.ru^
 ||di.rlcdn.com^
 ||discoverecommerce.tt.omtrdc.net^
 ||discoverydp.hb-api.omtrdc.net^
@@ -1336,7 +1342,6 @@
 ||driverguide.us.intellitxt.com^
 ||dro4icho.ru^
 ||drugscom.us.intellitxt.com^
-||dr.yandex.net^
 ||ds-api-public.addthis.com.edgekey.net^
 ||ds-ll.serving-sys.com^
 ||d.socdm.com^
@@ -1954,6 +1959,7 @@
 ||imp.startappservice.com^
 ||imp.xmax.jp^
 ||imreportcard.us.intellitxt.com^
+||i.mxplayer.j2inter.com^
 ||in.adserver.yahoo.com^
 ||india-forums.us.intellitxt.com^
 ||indium.openx.net^
@@ -1996,7 +2002,6 @@
 ||ip1.ads.stickyadstv.com.akadns.net^
 ||ip1.cdn.stickyadstv.com.akadns.net^
 ||ip2.ads.stickyadstv.com.akadns.net^
-||ipc-ext.s3.yandex.net^
 ||ipfs.infura.io^
 ||ipgrabber.ru^
 ||ipgraber.ru^
@@ -2299,6 +2304,8 @@
 ||mbox9.offermatica.com^
 ||mboxedge17.tt.omtrdc.net^
 ||mboxedge28.tt.omtrdc.net^
+||mc.admetrika.net^
+||mc.admetrika.ru^
 ||mcafee12.tt.omtrdc.net^
 ||mcc.intl.inf.miui.com^
 ||mcd-mkt-prod31-lb.campaign.adobe.com^
@@ -2336,13 +2343,13 @@
 ||meredithtv.us.intellitxt.com^
 ||methodshop.us.intellitxt.com^
 ||metodoroleta24h.com^
-||metrica.yandex.com^
 ||metrics1.data.hicloud.com^
 ||metrics2.data.hicloud.com^
 ||metrics3.data.hicloud.com^
 ||metrics4.data.hicloud.com^
 ||metrics5.data.hicloud.com^
 ||metrics.data.hicloud.com^
+||metrika.yandex.ru^
 ||metropcs.mobileposse.com^
 ||metro.uk.intellitxt.com^
 ||mg.marketgid.com^
@@ -3343,11 +3350,9 @@
 ||static.gfx.streamate.com^
 ||static.hbplatform.com^
 ||static.innovid.com^
-||static.karte.io^
 ||static.marketolog.mts.ru^
 ||static.mediav.com^
 ||static.mediaz.asia^
-||static-mon.yandex.net^
 ||static.nanda.vn^
 ||static.plista.com^
 ||static.plugrush.com^
@@ -3359,7 +3364,6 @@
 ||static-ssl.mediav.com^
 ||static-tagr.gd1.mookie1.com^
 ||static.wi-fi.ru^
-||static.yandex.net^
 ||static.yieldmo.com^
 ||stat.livejournal.com^
 ||stats1.clicktracks.com^
@@ -3396,7 +3400,6 @@
 ||stv.hb.omtrdc.net^
 ||styleblazer.us.intellitxt.com^
 ||subpixel.4players.de^
-||sub.superxxxfree.com^
 ||subway2016.tt.omtrdc.net^
 ||sundaysky-sync-us.teads.tv^
 ||sunnimiq3.cf^
@@ -3587,7 +3590,6 @@
 ||titsbro.org^
 ||titsbro.pw^
 ||tizer.medikforum.ru^
-||t.karte.io^
 ||tkr.yieldmo.com^
 ||tls13.taboola.map.fastly.net^
 ||tm2.r-ad.ne.jp^
@@ -3659,7 +3661,6 @@
 ||tracking.vcommission.com^
 ||tracking.vietnamnetad.vn^
 ||tracking.wisepops.com^
-||track.leadhit.io^
 ||track.mclick.mobi^
 ||track.pubmatic.com^
 ||track.seadform.net^
@@ -3908,6 +3909,7 @@
 ||webanalytics.localytics.com^
 ||webarebears.cn-fan.tv^
 ||webartspy.net^
+||web.facebook.com^
 ||webfontsfree.org^
 ||webid.ad.daum.net^
 ||web-jp.ad-v.jp^
@@ -4019,7 +4021,15 @@
 ||xpl.theadex.com^
 ||xx.c.appier.net^
 ||yabs.yandex.ru^
-||yastatic.yandex.net^
+||yandex.com^
+||yandex.net^
+||yastaric.com^
+||yastatic.com^
+||yastatic.net^
+||yastatic.ru^
+||yastatik.com^
+||yastatik.net^
+||yastatik.ru^
 ||yeeeah.us.intellitxt.com^
 ||yepdigital.adk2x.com^
 ||yhb.p.otm-r.com^
