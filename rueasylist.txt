@@ -500,6 +500,7 @@
 ||appradar.com^
 ||apps.car21.net.daraz.com^
 ||appscout.us.intellitxt.com^
+||app.shoptarget.com.br^
 ||apps.pubmatic.com^
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
@@ -1517,15 +1518,10 @@
 ||ezstat.ru^
 ||eztracks.us.intellitxt.com^
 ||f1.market.mi-img.com^
-||f1.market.xiaomi.com^
 ||f2.market.mi-img.com^
 ||f2.market.xiaomi.com^
 ||f3.market.mi-img.com^
 ||f3.market.xiaomi.com^
-||f4.market.mi-img.com^
-||f4.market.xiaomi.com^
-||f5.market.mi-img.com^
-||f5.market.xiaomi.com^
 ||facebookofsex.com^
 ||facebooktbtoolbar.ourtoolbar.com^
 ||facemap.foldlife.net^
@@ -1865,6 +1861,7 @@
 ||hst.tradedoubler.com^
 ||hstus.tradedoubler.com^
 ||htlb.casalemedia.com.edgekey.net^
+||http-check-headers.yandex.ru^
 ||httpkafka.unityads.unity3d.com^
 ||huliq.us.intellitxt.com^
 ||hulu.hb-api.omtrdc.net^
@@ -3441,6 +3438,7 @@
 ||sync.bfmio.com^
 ||sync.bumlam.com^
 ||sync.dmp.fout.jp^
+||sync.dmp.otm-r.com^
 ||sync-dsp.ad-m.asia^
 ||sync.extend.tv^
 ||sync.fout.jp^
@@ -3761,6 +3759,7 @@
 ||upi.us.intellitxt.com^
 ||ups.ksmobile.net^
 ||ups.tt.omtrdc.net^
+||uptime-info.yandex.ru^
 ||urban.adspirit.de^
 ||url8807.global.passport.xiaomi.com^
 ||url-partners.g2afse.com^
