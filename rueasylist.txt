@@ -1172,6 +1172,7 @@
 ||czerwo.ru^
 ||cz-gmtdmp.mookie1.com^
 ||d179kwmlpc4o47.cloudfront.net^
+||d1.hb.omtrdc.net^
 ||d1jwpcr0q4pcq0.cloudfront.net^
 ||d1oxlq5h9kq8q5.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
@@ -1363,7 +1364,6 @@
 ||eepn.us.intellitxt.com^
 ||efanguide.us.intellitxt.com^
 ||efluxmedia.uk.intellitxt.com^
-||efs.wexinc.com^
 ||egotastic.us.intellitxt.com^
 ||eharmony.tt.omtrdc.net^
 ||eharmony.us.intellitxt.com^
@@ -1533,6 +1533,7 @@
 ||flyingmag.us.intellitxt.com^
 ||fm.ipinyou.com^
 ||f.monetate.net^
+||footlocker.hb-api.omtrdc.net^
 ||footymad.uk.intellitxt.com^
 ||forbes.us.intellitxt.com^
 ||ford.demdex.net^
@@ -2319,7 +2320,6 @@
 ||m.optnx.com^
 ||mopub-rtb.adfonic.net^
 ||mopub-win-us-east.bkswin.com^
-||more.blueconic.com^
 ||morningstar.us.intellitxt.com^
 ||motortrend.us.intellitxt.com^
 ||moviehole.us.intellitxt.com^
@@ -2347,6 +2347,7 @@
 ||msntest.serving-sys.com^
 ||ms.onscroll.com^
 ||mssl.fwmrm.net^
+||ms-trackingapi.phenompeople.com^
 ||mt-data.ru^
 ||mtv0.hb-api.omtrdc.net^
 ||mtv3.hb-api.omtrdc.net^
@@ -2950,6 +2951,7 @@
 ||san.push.io.edgekey.net^
 ||san-www.adobetag.com.edgekey.net^
 ||saspreview.com^
+||saxobank.hb.omtrdc.net^
 ||sb6.scorecardresearch.com.edgekey.net^
 ||sba.yandex.net^
 ||sbbe.group-ib.ru^
@@ -3534,6 +3536,7 @@
 ||tkr.yieldmo.com^
 ||tls13.taboola.map.fastly.net^
 ||tm2.r-ad.ne.jp^
+||tmobilehome.hb-api.omtrdc.net^
 ||t.mookie1.com^
 ||tm.r-ad.ne.jp^
 ||tmscdn.coremetrics.com^
@@ -3620,11 +3623,9 @@
 ||t.teads.tv^
 ||t.teads.tv.edgekey.net^
 ||t.trackedlink.net^
-||tumiholdings.hb.omtrdc.net^
 ||turnerclassicmovies.hb-api.omtrdc.net^
 ||turnerclassicmovies.hb.omtrdc.net^
 ||turnerinternational.hb.omtrdc.net^
-||turnerresearch1.hb-api.omtrdc.net^
 ||tutorialoutpost.us.intellitxt.com^
 ||tuyendung.mediaz.vn^
 ||tv2.hb-api.omtrdc.net^
@@ -3647,6 +3648,7 @@
 ||tw.c.appier.net^
 ||twci.coremetrics.com^
 ||twctsg.hb-api.omtrdc.net^
+||twctsg.hb.omtrdc.net^
 ||tweaks.us.intellitxt.com^
 ||tweaktown.us.intellitxt.com^
 ||tweakvista.us.intellitxt.com^
@@ -3767,6 +3769,7 @@
 ||video.streaming.estream.to^
 ||video.videos.vidto.me^
 ||videozr.com^
+||vidgoinc.hb.omtrdc.net^
 ||vidilife.crwdcntrl.net^
 ||vidnet.us.intellitxt.com^
 ||view.atdmt.com^
@@ -3778,6 +3781,7 @@
 ||vitalfootball.uk.intellitxt.com^
 ||vivaki.demdex.net^
 ||vkcdnservice.appspot.com^
+||vmware.hb.omtrdc.net^
 ||vn.alexajstrack.com^
 ||vn-gmtdmp.mookie1.com^
 ||vnunet.uk.intellitxt.com^
@@ -3815,7 +3819,6 @@
 ||webanalytics.localytics.com^
 ||webarebears.cn-fan.tv^
 ||webartspy.net^
-||web.facebook.com^
 ||webfontsfree.org^
 ||webid.ad.daum.net^
 ||web-jp.ad-v.jp^
