@@ -485,7 +485,6 @@
 ||app.push-ad.com^
 ||appradar.com^
 ||appscout.us.intellitxt.com^
-||app.shoptarget.com.br^
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
 ||appvast.adsafeprotected.com^
@@ -828,6 +827,7 @@
 ||cdn.caprofitx.com^
 ||cdn-cbc-v3.conductrics.com^
 ||cdn-cf.postitial.com^
+||cdn.clerk.io^
 ||cdn.clicktale.net^
 ||cdn.cloudcoins.co^
 ||cdn.cookielaw.org^
@@ -984,7 +984,6 @@
 ||cluster3.adultadworld.com^
 ||cluster.adultadworld.com^
 ||cluster.adworldmedia.com^
-||cluster.awmdelivery.com^
 ||cm2.adform.net^
 ||cm3.adform.net^
 ||cm.adform.net^
@@ -1880,7 +1879,6 @@
 ||imp.startappservice.com^
 ||imp.xmax.jp^
 ||imreportcard.us.intellitxt.com^
-||i.mxplayer.j2inter.com^
 ||in.adserver.yahoo.com^
 ||india-forums.us.intellitxt.com^
 ||indium.openx.net^
@@ -2347,7 +2345,6 @@
 ||msntest.serving-sys.com^
 ||ms.onscroll.com^
 ||mssl.fwmrm.net^
-||ms-trackingapi.phenompeople.com^
 ||mt-data.ru^
 ||mtv0.hb-api.omtrdc.net^
 ||mtv3.hb-api.omtrdc.net^
