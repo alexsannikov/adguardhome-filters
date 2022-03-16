@@ -156,6 +156,7 @@
 ||adbars.net^
 ||adbcache.brandreachsys.com^
 ||adbert.com.tw^
+||ad.bilgin.pro^
 ||adbrain.com^
 ||ad.broadstreetads.com^
 ||adbroo.com^
@@ -650,6 +651,7 @@
 ||bet.hb.omtrdc.net^
 ||beyondhollywood.us.intellitxt.com^
 ||b.frida.vse42.ru^
+||bhqikxjpunn.xyz^
 ||bidder.rtk.io^
 ||biddr.brealtime.com^
 ||biddr-cloud.brealtime.com^
@@ -660,6 +662,7 @@
 ||bigdata.adfuture.cn^
 ||bigdata.adsunflower.com^
 ||bigdata.advmob.cn^
+||biisonalmflevqg.top^
 ||biksibo.ru^
 ||bild.de.intellitxt.com^
 ||bink.uk.intellitxt.com^
@@ -1079,6 +1082,7 @@
 ||coop.crwdcntrl.net^
 ||c.oracleinfinity.io.edgekey.net^
 ||core2.adtlgc.com^
+||cortegefutwa.casa^
 ||cortex.vidora.com^
 ||corus.hb-api.omtrdc.net^
 ||corus.hb.omtrdc.net^
@@ -1363,6 +1367,7 @@
 ||eepn.us.intellitxt.com^
 ||efanguide.us.intellitxt.com^
 ||efluxmedia.uk.intellitxt.com^
+||efs.wexinc.com^
 ||egotastic.us.intellitxt.com^
 ||eharmony.tt.omtrdc.net^
 ||eharmony.us.intellitxt.com^
@@ -1390,6 +1395,7 @@
 ||environmentalgraffiti.uk.intellitxt.com^
 ||eontarionow.us.intellitxt.com^
 ||epiroc.hb.omtrdc.net^
+||epnclick.ru^
 ||epowernetworktrackerimages.s3.amazonaws.com^
 ||epsilon.6sense.com^
 ||eragi.ru^
@@ -1527,7 +1533,6 @@
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
 ||fls-na.amazon-adsystem.com^
-||fls-na.amazon.com^
 ||flv.sales.cbs.com^
 ||flyingmag.us.intellitxt.com^
 ||fm.ipinyou.com^
@@ -1885,7 +1890,7 @@
 ||infoevent.startappservice.com^
 ||info.evidon.com^
 ||info.hnavi.co.jp^
-||info.macromill.com^
+||info.kochava.com^
 ||infopackets.us.intellitxt.com^
 ||infos-du-net.fr.intellitxt.com^
 ||info.startappservice.com^
@@ -1902,7 +1907,6 @@
 ||insightenterprises.tt.omtrdc.net^
 ||insight.mediaz.vn^
 ||insights.alphonso.tv^
-||insights.resonate.com^
 ||intactoffers.club^
 ||intensedigital.adk2x.com^
 ||intermix.us.intellitxt.com^
@@ -2025,6 +2029,7 @@
 ||keywordlink3.xlisting.jp^
 ||keywordlink.co.kr^
 ||keywords.adtlgc.com^
+||khdokfxtwniknb.top^
 ||killerstartups.us.intellitxt.com^
 ||kingofthehill.fox-fan.tv^
 ||kinopokaz.org^
@@ -2181,6 +2186,7 @@
 ||mads.amazon-adsystem.com^
 ||mad.uk.intellitxt.com^
 ||mahnatka.ru^
+||maikuque.net^
 ||main.exoclick.com^
 ||main.exosrv.com^
 ||main.rampidads.com^
@@ -2369,6 +2375,7 @@
 ||myqualification.rambler.ru^
 ||mystore.bttn.io^
 ||mytvsuperlimited.hb.omtrdc.net^
+||nadlocvhalirshs.top^
 ||na.hasmobi.net^
 ||nan.netmng.com^
 ||nascardigitalsap.hb.omtrdc.net^
@@ -2376,7 +2383,6 @@
 ||nationalbankofnewzea.tt.omtrdc.net^
 ||nationalenquirer.us.intellitxt.com^
 ||nationalgeographic.hb-api.omtrdc.net^
-||nationalinstruments.hb.omtrdc.net^
 ||nationalledger.us.intellitxt.com^
 ||native-set-tags.otherlevels.com^
 ||nativo.com^
@@ -2447,7 +2453,6 @@
 ||novopepengagementprod.hb.omtrdc.net^
 ||npcdn1.now.sh^
 ||npgco.blueconic.net^
-||n.radikal.ru^
 ||ntcompatible.us.intellitxt.com^
 ||numberly.com^
 ||nv.vi-serve.com^
@@ -2734,7 +2739,6 @@
 ||p.teads.tv^
 ||pt-gmtdmp.mookie1.com^
 ||p.tvpixel.com^
-||p.typekit.net-v3.edgekey.net^
 ||public.adgger.jp^
 ||publisher.adsparc.com^
 ||publisher-config.unityads.unity3d.com^
@@ -2758,6 +2762,7 @@
 ||px.steelhousemedia.com^
 ||pythagore.demdex.net^
 ||qatarairways.tt.omtrdc.net^
+||qifoukatcb.top^
 ||qualtrics.com^
 ||quantcast.mgr.consensu.org^
 ||query1.petametrics.com^
@@ -2939,6 +2944,7 @@
 ||s8t.teads.tv^
 ||sact.atdmt.com^
 ||s.ad.smaato.net^
+||safethings.avira.com^
 ||s-a.innovid.com^
 ||salesforce.com^
 ||salesforcecom.tt.omtrdc.net^
@@ -2948,13 +2954,12 @@
 ||san.push.io.edgekey.net^
 ||san-www.adobetag.com.edgekey.net^
 ||saspreview.com^
-||saxobank.hb.omtrdc.net^
 ||sb6.scorecardresearch.com.edgekey.net^
 ||sba.yandex.net^
 ||sbbe.group-ib.ru^
 ||sb.freeskreen.com^
+||sbjroitpuqgti.xyz^
 ||sb.monetate.net^
-||sbsaustralia.hb.omtrdc.net^
 ||sb.scorecardresearch.com.edgekey.net^
 ||sc5.omniture.com^
 ||scandit.com^
@@ -3093,6 +3098,7 @@
 ||servingit.co^
 ||s-files.innovid.com^
 ||s.free-torrent.org^
+||sfstgoxjupjjoyb.com^
 ||sg.adserver.yahoo.com^
 ||sgbid.prod.sift.co^
 ||sg.c.appier.net^
@@ -3255,6 +3261,7 @@
 ||stage.tvpage.com^
 ||staging.fuseplatform.net^
 ||stampscom.tt.omtrdc.net^
+||stanfordhealthcare.hb.omtrdc.net^
 ||starcasm.us.intellitxt.com^
 ||start.digitaltext.rtl.de^
 ||stat-analytics.mediavitrina.ru^
@@ -3533,7 +3540,6 @@
 ||tkr.yieldmo.com^
 ||tls13.taboola.map.fastly.net^
 ||tm2.r-ad.ne.jp^
-||tmobilehome.hb-api.omtrdc.net^
 ||t.mookie1.com^
 ||tm.r-ad.ne.jp^
 ||tmscdn.coremetrics.com^
@@ -3620,9 +3626,12 @@
 ||t.teads.tv^
 ||t.teads.tv.edgekey.net^
 ||t.trackedlink.net^
+||turnerapac.hb.omtrdc.net^
 ||turnerclassicmovies.hb-api.omtrdc.net^
 ||turnerclassicmovies.hb.omtrdc.net^
 ||turnerinternational.hb.omtrdc.net^
+||turnerresearch1.hb-api.omtrdc.net^
+||turnerresearch1.hb.omtrdc.net^
 ||tutorialoutpost.us.intellitxt.com^
 ||tuyendung.mediaz.vn^
 ||tv2.hb-api.omtrdc.net^
@@ -3666,9 +3675,9 @@
 ||uip.semasio.net^
 ||uk.adserver.yahoo.com^
 ||uk-ads.openx.net^
-||ukarmyrecruiting.hb.omtrdc.net^
 ||ukreggae.ru^
 ||ukrmedia.center^
+||uktvltd.hb.omtrdc.net^
 ||um2.eqads.com^
 ||um3.eqads.com^
 ||umid.orion.meizu.com^
@@ -3723,6 +3732,7 @@
 ||vabid.prod.sift.co^
 ||vafw.adsafeprotected.com^
 ||va-g2.gumgum.com^
+||vailresorts.hb.omtrdc.net^
 ||va-lb.gumgum.com^
 ||vanguard.demdex.net^
 ||va.origin.startappservice.com^
@@ -3748,9 +3758,11 @@
 ||verizonwireless.tt.omtrdc.net^
 ||vet-us-east-1.track.smaato.net^
 ||v.fwmrm.net^
+||vh1.hb.omtrdc.net^
 ||vht.tradedoubler.com^
 ||viaarena.us.intellitxt.com^
 ||vibe.us.intellitxt.com^
+||vice.hb.omtrdc.net^
 ||videa.123mopie.com^
 ||video.adsparc.com^
 ||video-ads.rubiconproject.com^
@@ -3778,7 +3790,6 @@
 ||vitalfootball.uk.intellitxt.com^
 ||vivaki.demdex.net^
 ||vkcdnservice.appspot.com^
-||vmware.hb.omtrdc.net^
 ||vn.alexajstrack.com^
 ||vn-gmtdmp.mookie1.com^
 ||vnunet.uk.intellitxt.com^
@@ -3789,6 +3800,7 @@
 ||vpipi.com^
 ||vp.rambler.ru^
 ||vprmnwbskk.com^
+||vpyigbyjony.top^
 ||vrt.hb-api.omtrdc.net^
 ||vrt.hb.omtrdc.net^
 ||vst.c.appier.net^
