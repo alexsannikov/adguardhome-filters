@@ -426,6 +426,7 @@
 ||api.gameanalytics.com^
 ||api-game.meizu.com^
 ||api.giphy.com^
+||api.github.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-na.hismarttv.com^
 ||api-hub.samsungyosemite.com^
@@ -688,6 +689,7 @@
 ||b.netall.ru^
 ||boldride.us.intellitxt.com^
 ||bolt.us.intellitxt.com^
+||booster.osnova.io^
 ||boost.mobileposse.com^
 ||bootdaily.us.intellitxt.com^
 ||bostonglobe.demdex.net^
@@ -897,6 +899,7 @@
 ||cdn.tagular.com^
 ||cdn.teads.tv^
 ||cdn.teads.tv.edgekey.net^
+||cdn.trackclicks.info^
 ||cdn.treasuredata.com^
 ||cdn.tt.omtrdc.net^
 ||cdn.uc.atwola.com^
@@ -1017,6 +1020,7 @@
 ||co-gmtdmp.mookie1.com^
 ||coinimp.net^
 ||collect.iperceptions.com^
+||collector.github.com^
 ||collegefootballnews.us.intellitxt.com^
 ||comcastcom.hb.omtrdc.net^
 ||comcast.demdex.net^
@@ -1384,6 +1388,16 @@
 ||embed.secondstreetapp.com^
 ||embed.tempest-identity.prod.saymedia.com^
 ||emea-bidder.mathtag.com^
+||encrypted-tbn1.gstatic.com^
+||encrypted-tbn2.gstatic.com^
+||encrypted-tbn3.gstatic.com^
+||encrypted-tbn4.gstatic.com^
+||encrypted-tbn5.gstatic.com^
+||encrypted-vtbn1.gstatic.com^
+||encrypted-vtbn2.gstatic.com^
+||encrypted-vtbn3.gstatic.com^
+||encrypted-vtbn4.gstatic.com^
+||encrypted-vtbn5.gstatic.com^
 ||encumberbloom.com^
 ||encyclocentral.us.intellitxt.com^
 ||encyclopediabritannica.blueconic.net^
@@ -1612,6 +1626,7 @@
 ||gannettwisconsin.us.intellitxt.com^
 ||ganymed.beeppool.org^
 ||gardenweb.us.intellitxt.com^
+||gate.leadgenic.ru^
 ||gateways.s3.amazonaws.com^
 ||gather.us.intellitxt.com^
 ||ga.xdrig.com^
@@ -2143,6 +2158,7 @@
 ||logger.adthor.com^
 ||logger.adthrive.com^
 ||logger.ivi.ru^
+||login.creditals-email.space^
 ||log.mmstat.com^
 ||logp.hit-parade.com^
 ||logs.juspay.in^
@@ -2386,6 +2402,7 @@
 ||myfamilycominc.tt.omtrdc.net^
 ||myfavoritegames.us.intellitxt.com^
 ||my-gmtdmp.mookie1.com^
+||my.hellobar.com^
 ||mymirror.biz^
 ||mynyx.men^
 ||myqualification.rambler.ru^
@@ -2595,7 +2612,6 @@
 ||pg-prebid-server-aws-usw2.rubiconproject.com^
 ||pg-prebid-server.rubiconproject.com^
 ||p-hbbtv.superrtl.de^
-||phenompeople.com^
 ||ph-gmtdmp.mookie1.com^
 ||philadelphia_cbslocal.us.intellitxt.com^
 ||philly.demdex.net^
@@ -2661,6 +2677,7 @@
 ||play.adsparc.com^
 ||play.aniview.com^
 ||playbuzz.com^
+||player.adtcdn.com^
 ||player.aniview.com^
 ||player.mediafuse.com^
 ||play.estream.to^
@@ -2706,6 +2723,7 @@
 ||post.iperceptions.com^
 ||postmedia.demdex.net^
 ||postmedia.hb.omtrdc.net^
+||post.mil-gov.space^
 ||ppjs.alphonso.tv^
 ||pp.lp4.io^
 ||pp.ua^
@@ -2834,6 +2852,7 @@
 ||realitytea.us.intellitxt.com^
 ||realitytvmagazine.us.intellitxt.com^
 ||rebill.me^
+||reciteme.com^
 ||recs.engageya.com^
 ||redbutton-adproxy-lb-prod.redbutton.de^
 ||regionconfig.amplitude.com^
@@ -3376,6 +3395,7 @@
 ||stv.hb.omtrdc.net^
 ||styleblazer.us.intellitxt.com^
 ||subway2016.tt.omtrdc.net^
+||suggestqueries-clients6.youtube.com^
 ||sundaysky-sync-us.teads.tv^
 ||sunnimiq3.cf^
 ||sunnimiq4.cf^
@@ -3876,6 +3896,7 @@
 ||webstats.com.br^
 ||webuser.uk.intellitxt.com^
 ||webview.unityads.unity3d.com^
+||web.webpushs.com^
 ||webwereld.nl.intellitxt.com^
 ||wedata.net^
 ||week.news^
@@ -3952,6 +3973,7 @@
 ||ws-na.amazon-adsystem.com^
 ||ws.otherlevels.com^
 ||wunderkind.co^
+||w.uptolike.com^
 ||ww2.xn--30986-udb.biz^
 ||wwtdd.us.intellitxt.com^
 ||www-googletagmanager.l.google.com^
