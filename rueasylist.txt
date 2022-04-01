@@ -386,6 +386,7 @@
 ||adx.mediaz.asia^
 ||ae.adserver.yahoo.com^
 ||aem.hb.omtrdc.net^
+||ae.mmstat.com^
 ||aeros01.tk^
 ||aetv.tt.omtrdc.net^
 ||a.exoclick.com^
@@ -423,6 +424,7 @@
 ||alchemyworldwide.tt.omtrdc.net^
 ||alienradar.ru^
 ||a.ligatus.de^
+||aligtr084.mmstat.com^
 ||ali.ski^
 ||alist.unitedblades.co.jp^
 ||alive.us.intellitxt.com^
@@ -1095,6 +1097,7 @@
 ||cnt.fout.jp^
 ||cnv.event.prod.bidr.io^
 ||cnzz.mmstat.com^
+||cnzz.yifenghuyu.com^
 ||coads.akipress.org^
 ||code2.adtlgc.com^
 ||code3.adtlgc.com^
@@ -1536,6 +1539,7 @@
 ||events.engageya.com^
 ||events.kiosked.com^
 ||event.spotxchange.com^
+||events-service.coinbase.com^
 ||events.simpli.fi^
 ||events.startappservice.com^
 ||events.steelhousemedia.com^
@@ -2960,6 +2964,7 @@
 ||responsys.com^
 ||rest-app.net^
 ||restaurantcom.tt.omtrdc.net^
+||retcode-us-west-1.arms.aliyuncs.com^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
 ||rich.otherlevels.com^
@@ -3383,6 +3388,7 @@
 ||stage-pdn.applovin.com^
 ||stage.tvpage.com^
 ||staging.fuseplatform.net^
+||st.aliexpress.ru^
 ||stampscom.tt.omtrdc.net^
 ||starcasm.us.intellitxt.com^
 ||start.digitaltext.rtl.de^
