@@ -3388,7 +3388,6 @@
 ||stage-pdn.applovin.com^
 ||stage.tvpage.com^
 ||staging.fuseplatform.net^
-||st.aliexpress.ru^
 ||stampscom.tt.omtrdc.net^
 ||starcasm.us.intellitxt.com^
 ||start.digitaltext.rtl.de^
