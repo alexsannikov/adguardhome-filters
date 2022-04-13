@@ -533,7 +533,6 @@
 ||api.redshell.io^
 ||api.repo.api.net.zooplus.de^
 ||api.repo.region.2.net.zooplus.de^
-||api.reproio.com^
 ||api.rlcdn.com^
 ||api.rnet.plus^
 ||api.safegraph.com^
@@ -724,7 +723,6 @@
 ||b.netall.ru^
 ||bo.goadservices.com^
 ||bombora.com^
-||bongdadem.net^
 ||booster.osnova.io^
 ||boot.pbstck.com^
 ||bos.ads0.nexage.com^
@@ -921,10 +919,8 @@
 ||clk.atdmt.com^
 ||clk.gammadsp.com^
 ||clk.solocpm.com^
-||cllctr.roistat.com^
 ||cloudapi.imrworldwide.com^
 ||cloudflane.com^
-||cloud.roistat.com^
 ||cloud.support.api.net.zooplus.de^
 ||clusava.fra-01.braze.eu^
 ||cm2.adform.net^
@@ -947,7 +943,6 @@
 ||cognyte.com^
 ||coinimp.net^
 ||collector.github.com^
-||collector.roistat.com^
 ||comcastcom.hb.omtrdc.net^
 ||comcast.demdex.net^
 ||comcastentertainmentgroup.hb.omtrdc.net^
@@ -1849,7 +1844,6 @@
 ||management.application.net.zooplus.de^
 ||management.azure.com^
 ||management-ctl.api.net.zooplus.de^
-||mangoads.vn^
 ||map.baidu.com^
 ||map.media6degrees.com^
 ||map.qq.com^
@@ -1935,6 +1929,7 @@
 ||mlb.hb-api.omtrdc.net^
 ||mlb.hb.omtrdc.net^
 ||mmm.hb.omtrdc.net^
+||m.mradx.net^
 ||moat.bfmio.com^
 ||mob.adnxs.com^
 ||mobile.adsafeprotected.com^
@@ -2154,7 +2149,6 @@
 ||pingback.giphy.com^
 ||pingback.issuu.com^
 ||ping.chartbeat.net^
-||pinpoll.com^
 ||piwik.ero-advertising.com^
 ||pixel1097.everesttech.net^
 ||pixel1324.everesttech.net^
@@ -2942,7 +2936,6 @@
 ||superficial.crwdcntrl.net^
 ||superpcexpert.ru^
 ||supersonic.com^
-||supplyframe.com^
 ||supply.inmobicdn.net^
 ||support.api.2.net.zooplus.de^
 ||supportctl.api.net.zooplus.de^
@@ -2988,7 +2981,6 @@
 ||syndication.twitter.com^
 ||systemeuropewest.backend-owa.net.zooplus.nl^
 ||system-sslbucket.backend-owa.net.zooplus.nl^
-||syteapi.com^
 ||sy-v1.presage.io^
 ||t0.c.appier.net^
 ||t1.extreme-dm.com^
@@ -3226,7 +3218,6 @@
 ||vast.extremereach.io^
 ||vastproxy.brand.inmobi.com^
 ||vcdn.adnxs.com^
-||vclick.vn^
 ||vdna.exelator.com^
 ||vdx.tv^
 ||vectaury.io^
