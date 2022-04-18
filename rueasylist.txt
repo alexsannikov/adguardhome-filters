@@ -1919,7 +1919,6 @@
 ||ext.net.zooplus.nl^
 ||ext-ns.controlmarketing-emailvision-tomcat.net.zooplus.nl^
 ||eyeota.com^
-||ezstat.ru^
 ||f1.market.mi-img.com^
 ||f2.market.mi-img.com^
 ||f2.market.xiaomi.com^
@@ -4221,6 +4220,7 @@
 ||snap.snapmobile.asia^
 ||sniff.visistat.com^
 ||snowplowanalytics.com^
+||snrbox.com^
 ||s.ntv.io^
 ||so.2mdn.net^
 ||socauth.privatbank.ua^
@@ -4571,6 +4571,7 @@
 ||try.engine.adglare.net^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^
 ||t.trackedlink.net^
+||t.unbounce.com^
 ||turnerclassicmovies.hb-api.omtrdc.net^
 ||turnerclassicmovies.hb.omtrdc.net^
 ||turnerinternational.hb.omtrdc.net^
@@ -4829,6 +4830,7 @@
 ||yleisradio.hb.omtrdc.net^
 ||ym.adnxs.com^
 ||yodleeinc.tt.omtrdc.net^
+||youbora.com^
 ||ysa-static.passport.yandex.ru^
 ||yt1.mmstat.com^
 ||yt.mmstat.com^
