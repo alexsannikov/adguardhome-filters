@@ -918,6 +918,7 @@
 ||c.jsrdn.com^
 ||ck.solocpm.com^
 ||clck.yandex.ru^
+||cldup.com^
 ||clevertap.com^
 ||cl-gmtdmp.mookie1.com^
 ||click.atdmt.com^
@@ -965,6 +966,7 @@
 ||cognyte.com^
 ||coinimp.net^
 ||collector.github.com^
+||comasoiling.casa^
 ||comcastcom.hb.omtrdc.net^
 ||comcast.demdex.net^
 ||comcastentertainmentgroup.hb.omtrdc.net^
@@ -1206,6 +1208,7 @@
 ||down.sqlnetcat.com^
 ||d.pub.network^
 ||dra.amazon-adsystem.com^
+||dragbarstints.com^
 ||dreamsearch.or.kr^
 ||d.reddit.com^
 ||drevil.to^
@@ -1694,6 +1697,7 @@
 ||iplis.ru^
 ||iplogger.co^
 ||iplogger.info^
+||iqdigital.demdex.net^
 ||iqzn-useast.adnxs.com^
 ||ir-jp.amazon-adsystem.com^
 ||ir-na.amazon-adsystem.com^
@@ -1878,7 +1882,6 @@
 ||logger.adthor.com^
 ||logger.ivi.ru^
 ||loggly.com^
-||login.creditals-email.space^
 ||log-ingestion-eu.samsungacr.com^
 ||log-ingestion.samsungacr.com^
 ||log.mmstat.com^
@@ -3266,6 +3269,7 @@
 ||um3.eqads.com^
 ||umbs.ero-advertising.com^
 ||umpweefuyfgxlei.com^
+||umpweefuyfgxlei.top^
 ||unfaithfulmakeryeary.com^
 ||unified.adsafeprotected.com^
 ||unifiedbidding.ad.smaato.net^
@@ -3293,6 +3297,7 @@
 ||us.api.net.zooplus.de^
 ||usasync01.admantx.com^
 ||usbank.tt.omtrdc.net^
+||uscpn0c485wn.com^
 ||us-east-1.event.prod.bidr.io^
 ||us-east-1.prod.pr.analytics.console.aws.a2z.com^
 ||us-east-1.prod.pw.analytics.console.aws.a2z.com^
