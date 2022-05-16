@@ -94,6 +94,7 @@
 ||aax-fe-sin.amazon-adsystem.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-east.amazon-adsystem.com^
+||aax-us-east-retail-direct.amazon-adsystem.com^
 ||aax-us-east-rtb.amazon-adsystem.com^
 ||aax-us-pdx.amazon-adsystem.com^
 ||abasourdir.tech^
@@ -144,6 +145,7 @@
 ||ad2.fivecdm.com^
 ||ad.360in.com^
 ||ad3.apx.appier.net^
+||ad3.cross-a.net^
 ||ad4push.com^
 ||ad4screen.com^
 ||ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv^
@@ -894,6 +896,7 @@
 ||click.gowadogo.com^
 ||click.howdoesin.net^
 ||click.icptrack.com^
+||clickiocdn.com^
 ||clickio.mgr.consensu.org^
 ||click.mail.theknot.com^
 ||clickserve.cc-dt.com^
@@ -956,7 +959,6 @@
 ||condenast.demdex.net^
 ||config.ad-brix.com^
 ||config.inmobi.com^
-||config.ioam.de^
 ||config.sdk.scopely.io^
 ||configure.rayjump.com^
 ||confluence-elmananadevalles.blob.core.windows.net.zooplus.com^
@@ -3253,6 +3255,7 @@
 ||trackdownload.startappservice.com^
 ||tracker2kss.eu^
 ||tracker.ero-advertising.com^
+||tracker.esputnik.com^
 ||trackerodss.eu^
 ||tracking.ad-brix.com^
 ||tracking.admarketplace.net^
