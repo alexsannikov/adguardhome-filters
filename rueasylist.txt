@@ -1178,6 +1178,7 @@
 ||docs.pipenv.org^
 ||documentcore.windows.net.zooplus.com^
 ||dofolo.ru^
+||dollarkurum.com^
 ||dood.ws^
 ||dov-e.com^
 ||dowjones.hb-api.omtrdc.net^
@@ -1916,6 +1917,7 @@
 ||log-ingestion.samsungacr.com^
 ||log.mmstat.com^
 ||log.sdk.zadn.vn^
+||logs.eu-west-1.amazonaws.com^
 ||logs.juspay.in^
 ||log.vietnamnetad.vn^
 ||look-sport.org^
@@ -2505,6 +2507,7 @@
 ||retcode-us-west-1.arms.aliyuncs.com^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
+||rfkrgmpjvu.top^
 ||rikhov.ru^
 ||ringcentral.tt.omtrdc.net^
 ||rlogoro.ru^
