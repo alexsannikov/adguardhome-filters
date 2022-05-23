@@ -2763,6 +2763,7 @@
 ||mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com^
 ||mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com^
 ||md-a-s.apptimize.com^
+||media5.fc2.com^
 ||media.adnetwork.vn^
 ||media.bidr.io^
 ||media.boomads.com^
@@ -3415,6 +3416,7 @@
 ||photobucket.adnxs.com^
 ||php-ctl.api.net.zooplus.de^
 ||phpmyadmin.ero-advertising.com^
+||pijper.io^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
 ||ping.chartbeat.net^
@@ -4896,6 +4898,7 @@
 ||xx.c.appier.net^
 ||yabs.yandex.ru^
 ||yabs.yandex.ua^
+||yads.yjtag.yahoo.co.jp^
 ||yandex.com^
 ||yandexdatafactory.com^
 ||yastatic.ru^
