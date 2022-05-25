@@ -839,7 +839,6 @@
 ||baonpay.net.zooplus.nl^
 ||base-cdn.admarvel.com^
 ||basesclick.ru^
-||bastingestival.com^
 ||batch.com^
 ||batch.upsight-api.com^
 ||bavners2.ero-advertising.com^
@@ -1383,7 +1382,6 @@
 ||ctl.production.api.net.zooplus.de^
 ||ctl.ssl.api.net.zooplus.de^
 ||cts.w55c.net^
-||cul.xunjiu.online^
 ||cumul.net.zooplus.nl^
 ||c.us1.dyntrk.com^
 ||customerids.net.zooplus.nl^
@@ -1413,7 +1411,6 @@
 ||dadata.ru^
 ||d.adsplay.xyz^
 ||daea.ero-advertising.com^
-||dafa.io^
 ||daia.ero-advertising.com^
 ||dailymotion.demdex.net^
 ||darangi.ru^
@@ -1633,7 +1630,6 @@
 ||eacash.streamplay.to^
 ||e.adhaven.com^
 ||eappssslvision-tomcat.net.zooplus.nl^
-||earn-bitcoins.net^
 ||eb2.3lift.com^
 ||eberalofe.pro^
 ||ebony.streamate.com^
@@ -2105,7 +2101,6 @@
 ||hot.browser.miui.com^
 ||houndify.com^
 ||hp.myway.com^
-||hqchbs.com^
 ||hqqz4airo9j.net.zooplus.nl^
 ||hr.clearancesale2021.ru^
 ||h-sdk.online-metrix.net^
@@ -2338,7 +2333,6 @@
 ||k8sing.net.zooplus.nl^
 ||k8s-prd.net.zooplus.nl^
 ||kattenvoer.net.zooplus.nl^
-||katukaunamiss.com^
 ||kbmg.com^
 ||kbnetworkz.s3.amazonaws.com^
 ||kds.ero-advertising.com^
@@ -2469,7 +2463,6 @@
 ||login-waf.mail.net.zooplus.nl^
 ||log.mmstat.com^
 ||log.sdk.zadn.vn^
-||logs.eu-west-1.amazonaws.com^
 ||logs.juspay.in^
 ||log.vietnamnetad.vn^
 ||londonbrokers.net.zooplus.nl^
@@ -2763,7 +2756,6 @@
 ||mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com^
 ||mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com^
 ||md-a-s.apptimize.com^
-||media5.fc2.com^
 ||media.adnetwork.vn^
 ||media.bidr.io^
 ||media.boomads.com^
@@ -3416,7 +3408,6 @@
 ||photobucket.adnxs.com^
 ||php-ctl.api.net.zooplus.de^
 ||phpmyadmin.ero-advertising.com^
-||pijper.io^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
 ||ping.chartbeat.net^
@@ -3726,6 +3717,7 @@
 ||rosettastone.tt.omtrdc.net^
 ||rotator.riedta.com^
 ||routesdeshommes.net.zooplus.nl^
+||rouwhapt.com^
 ||rp4.liadm.com^
 ||rp.liadm.com^
 ||rs2.ero-advertising.com^
@@ -4718,7 +4710,6 @@
 ||uswest.bfmio.com^
 ||us-west-tlx.3lift.com^
 ||us.y.atwola.com^
-||utopia.ad-loupe.com^
 ||uxip.meizu.com^
 ||uznatpochemu.ru^
 ||v10.events.data.microsoft.com^
@@ -4898,7 +4889,6 @@
 ||xx.c.appier.net^
 ||yabs.yandex.ru^
 ||yabs.yandex.ua^
-||yads.yjtag.yahoo.co.jp^
 ||yandex.com^
 ||yandexdatafactory.com^
 ||yastatic.ru^
@@ -4911,7 +4901,6 @@
 ||ysa-static.passport.yandex.ru^
 ||yun-static.soperson.com^
 ||yupiromo.ru^
-||yylgt.com^
 ||z9q9kj37oy.kameleoon.eu^
 ||za-gmtdmp.mookie1.com^
 ||z.cdn.bescore.com^
