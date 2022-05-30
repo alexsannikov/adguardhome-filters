@@ -1385,7 +1385,6 @@
 ||creative.mng-ads.com^
 ||creatives.cliphunter.com^
 ||creatives.lavanetwork.net^
-||creative.xxxjmp.com^
 ||creditagricole.tt.omtrdc.net^
 ||creusatcom.tt.hb-api.omtrdc.net^
 ||crid.bfmio.com^
@@ -2135,7 +2134,6 @@
 ||go.pl.bbelements.com^
 ||go.pub2srv.com^
 ||go.trafficrouter.io^
-||go.xxxjmp.com^
 ||goya.rutube.ru^
 ||gozing.directtrack.com^
 ||grade.market.yandex.ru^
@@ -4251,6 +4249,7 @@
 ||srd1-ukb.net.zooplus.nl^
 ||s.rfihub.com^
 ||sr.rlcdn.com^
+||sr.studiostack.com^
 ||s-rtb.send.microadinc.com^
 ||sr-weight.rlcdn.com^
 ||ss.c.appier.net^

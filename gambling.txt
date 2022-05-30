@@ -471,6 +471,7 @@
 ||csgoresort.com^
 ||csgorich.com^
 ||csgoroll.com^
+||csgoroll.gg^
 ||csgo-saloon.com^
 ||csgoshuffle.com^
 ||csgoskinlottery.com^
@@ -527,6 +528,7 @@
 ||dreamjackpot.com^
 ||dreamvegas.com^
 ||dreamz.com^
+||duckyluck.ag^
 ||duelbits.com^
 ||duelz.com^
 ||dunder.com^
@@ -598,6 +600,7 @@
 ||frankcasino.com^
 ||frankfred.com^
 ||freakyvegas.com^
+||freeslotshub.com^
 ||fruitycasa.com^
 ||fsl11.com^
 ||fsport.net^
@@ -778,6 +781,7 @@
 ||ladbrokes.com^
 ||ladbrokes.com.au^
 ||lapalingo.com^
+||lasatlantispromos.com^
 ||laspalmassportsbook.com^
 ||lasvegassportsbetting.com^
 ||latinopoker.eu^
@@ -1091,6 +1095,7 @@
 ||realdealbet.com^
 ||rebatewager.ag^
 ||redbet.com^
+||reddogcasinobonuses.com^
 ||redkings.com^
 ||redmilebets.com^
 ||redspins.com^
