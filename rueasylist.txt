@@ -52,7 +52,6 @@
 ||4px.ru^
 ||5726.bapi.adsafeprotected.com^
 ||5clickcashsoftware.com^
-||5.sc126.com^
 ||6063.bapi.adsafeprotected.com^
 ||6159.genieessp.com^
 ||67s6gxv28kin.com^
@@ -64,6 +63,7 @@
 ||79423.analytics.edgekey.net^
 ||7wmw.adj.st^
 ||83nsdjqqo1cau183xz.com^
+||8s8.eu^
 ||94vs.adj.st^
 ||9864.engine.mobileapptracking.com^
 ||9ata.ero-advertising.com^
@@ -182,7 +182,6 @@
 ||admax.nexage.com^
 ||adm.dynamicyield.com^
 ||admin.adsplay.xyz^
-||administrator.auth-mail.net.zooplus.nl^
 ||admin.lavanetwork.net^
 ||admob.google.com^
 ||ad.monetate.net^
@@ -535,6 +534,7 @@
 ||appvast.adsafeprotected.com^
 ||ap-southeast-1.prod.pr.analytics.console.aws.a2z.com^
 ||a.pub.network^
+||ar.1.net.daraz.com^
 ||ar.adserver.yahoo.com^
 ||ar-ar.facebook.com^
 ||ar.atwola.com^
@@ -543,6 +543,7 @@
 ||ar-gmtdmp.mookie1.com^
 ||arkena.hb.omtrdc.net^
 ||arm.c.appier.net^
+||arrahgodded.com^
 ||arthurmiddletoncapit.tt.omtrdc.net^
 ||as.adlooxtracking.com^
 ||asadventure.tt.omtrdc.net^
@@ -731,6 +732,7 @@
 ||cams.spacash.com^
 ||cancertreatmente.tt.omtrdc.net^
 ||canonresourcecenter.com^
+||car40.1.net.daraz.com^
 ||carbonite.tt.omtrdc.net^
 ||carbonrmp.com^
 ||cartoonnetworknewmedia.hb-api.omtrdc.net^
@@ -1057,7 +1059,6 @@
 ||de.rayjump.com^
 ||deseretdigitalmedia.tt.omtrdc.net^
 ||deta.ero-advertising.com^
-||dev-file.backend.net.zooplus.fr^
 ||deviantart.crwdcntrl.net^
 ||device.4seeresults.com^
 ||dfe.mic.mob.com^
@@ -1318,7 +1319,6 @@
 ||foxsports.hb.omtrdc.net^
 ||foxtel-prod-events.digitalsmiths.net^
 ||fpa.ero-advertising.com^
-||fpgbazgezr.online^
 ||f-questionnaire.com^
 ||fra1-ib.adnxs.com^
 ||fr.a2dfp.net^
@@ -1386,7 +1386,6 @@
 ||gm.demdex.net^
 ||g.meizu.com^
 ||gmtdmp.mookie1.com^
-||gnixtkjsft.online^
 ||go.affec.tv^
 ||go.bb007.bbelements.com^
 ||go.cj.com^
@@ -1421,7 +1420,6 @@
 ||gv1.xdrig.com^
 ||gxb.mmstat.com^
 ||hallmarkcom.hb.omtrdc.net^
-||haogo.cc^
 ||hapjs.org^
 ||hata.ero-advertising.com^
 ||hb.adscale.de^
@@ -1437,6 +1435,7 @@
 ||hb.vntsm.com^
 ||hdvapp.com^
 ||hdvbox.com^
+||health.192-204.net.daraz.com^
 ||hearst.blueconic.net^
 ||hearst.gscontxt.net^
 ||heartbeats.omtrdc.net^
@@ -1526,7 +1525,6 @@
 ||img.4clvr.jp^
 ||imgbum.net^
 ||img.cdns.turn.com^
-||img-c.net^
 ||img.directtrack.com^
 ||imgg.marketgid.com^
 ||img.macromill.com^
@@ -1561,6 +1559,7 @@
 ||inpost.olxkonstosx.xyz^
 ||inpost.pl-orderedpays.shop^
 ||inpost.polskaolerta.store^
+||inrix.com^
 ||insightenterprises.tt.omtrdc.net^
 ||integralads.com^
 ||intensedigital.adk2x.com^
@@ -1605,7 +1604,6 @@
 ||jcrew.tt.omtrdc.net^
 ||jellyfish.pandora.xiaomi.com^
 ||jgl.microad.net^
-||jhdajrgpag.online^
 ||j.microad.net^
 ||j.newssuite.sony.net^
 ||jnn-pa.googleapis.com^
@@ -1661,6 +1659,7 @@
 ||kds.ero-advertising.com^
 ||keywordlink3.xlisting.jp^
 ||keywordlink.co.kr^
+||kibana.authpartner.net.daraz.com^
 ||kingofthehill.fox-fan.tv^
 ||kinopokaz.org^
 ||kinozal-me.appspot.com^
@@ -1792,6 +1791,7 @@
 ||mads.amazon-adsystem.com^
 ||magnite.com^
 ||mahnatka.ru^
+||mail.alphapartner.net.daraz.com^
 ||main.exosrv.com^
 ||main.realsrv.com^
 ||makemytrip.tt.omtrdc.net^
@@ -1864,7 +1864,6 @@
 ||metrics1.data.hicloud.com^
 ||metrics3.data.hicloud.com^
 ||metrics5.data.hicloud.com^
-||metrics-file.backend.net.zooplus.fr^
 ||metrics.gammadsp.com^
 ||metrics.nationalgeographic.com^
 ||metrics.omniture.com^
@@ -1889,6 +1888,7 @@
 ||mishop.pandora.xiaomi.com^
 ||mis.migc.xiaomi.com^
 ||mlb.hb-api.omtrdc.net^
+||mlb.hb.omtrdc.net^
 ||m.mradx.net^
 ||moat.bfmio.com^
 ||mob.adnxs.com^
@@ -1960,6 +1960,7 @@
 ||nautilus.tt.omtrdc.net^
 ||nav.browser.miui.com^
 ||naydex.net^
+||nbagroup.hb.omtrdc.net^
 ||nbaprop.hb-api.omtrdc.net^
 ||nbaprop.hb.omtrdc.net^
 ||nbcots.demdex.net^
@@ -2045,6 +2046,7 @@
 ||onlgc.voluumtrk.com^
 ||online.rayjump.com^
 ||onrt.stsdk.vivo.com.cn^
+||onsite-tag-logs.apps.nielsen.com^
 ||onyarysh.ru^
 ||opads.ero-advertising.com^
 ||openapi-news.meizu.com^
@@ -2190,6 +2192,7 @@
 ||prebid.cootlogix.com^
 ||prebid.openx.net^
 ||prebid.the-ozone-project.com^
+||pre-livekit.application-spring.net.daraz.com^
 ||premature-ejaculation-causes.org^
 ||premierfarnell.tt.omtrdc.net^
 ||presentation-ams1.turn.com^
@@ -2223,6 +2226,7 @@
 ||pr-v1.presage.io^
 ||pt-gmtdmp.mookie1.com^
 ||ptimeinc.chartbeat.net^
+||p.typekit.net^
 ||pubguard.com^
 ||pub.lavanetwork.net^
 ||publited.net^
@@ -2239,7 +2243,6 @@
 ||px.ads.linkedin.com^
 ||px.owneriq.net^
 ||px.steelhousemedia.com^
-||pycechznrw.online^
 ||pythagore.demdex.net^
 ||pyze.com^
 ||q4mn.adj.st^
@@ -2283,7 +2286,6 @@
 ||readersdigest.tt.omtrdc.net^
 ||real2clean.ru^
 ||rebill.me^
-||redbullmediahouse.hb.omtrdc.net^
 ||redbutton-adproxy-lb-prod.redbutton.de^
 ||redir.adap.tv^
 ||redirect.ero-advertising.com^
@@ -2307,18 +2309,18 @@
 ||res-push.ad.jiguang.cn^
 ||rest-app.net^
 ||restaurantcom.tt.omtrdc.net^
+||restricted.192-204.net.daraz.com^
 ||retcode-us-west-1.arms.aliyuncs.com^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
-||rfypebzjtm.online^
 ||rikhov.ru^
 ||ringcentral.tt.omtrdc.net^
+||r-ln-1.1.net.daraz.com^
 ||rlogoro.ru^
 ||r.mail.ru^
 ||rogersmedia.hb.omtrdc.net^
 ||ro-gmtdmp.mookie1.com^
 ||ronetu.ru^
-||roomandboard.hb-api.omtrdc.net^
 ||roomandboard.hb.omtrdc.net^
 ||r.openx.net^
 ||rosenberg.appmetrica.yandex.net^
@@ -2369,7 +2371,6 @@
 ||rtl.hb.omtrdc.net^
 ||rts.ssl2.duapps.com^
 ||rttr2.zaycev.net^
-||rtvc.hb.omtrdc.net^
 ||rtve.hb.omtrdc.net^
 ||rubicon.socdm.com^
 ||rublacklist.net^
@@ -2429,6 +2430,7 @@
 ||schwab.tt.omtrdc.net^
 ||sc.iasds01.com^
 ||sc.omtrdc.net^
+||score-api.application-spring.net.daraz.com^
 ||s.cpx.to^
 ||scraper.pandora.xiaomi.com^
 ||scripps.demdex.net^
@@ -3026,7 +3028,6 @@
 ||tlx.3lift.com^
 ||tm2.r-ad.ne.jp^
 ||t.mail.ru^
-||tmobileusa.hb.omtrdc.net^
 ||t.mookie1.com^
 ||tm.r-ad.ne.jp^
 ||tmscdn.coremetrics.com^
@@ -3315,6 +3316,7 @@
 ||wunderkind.co^
 ||w.uptolike.com^
 ||wv.inner-active.mobi^
+||ww0.application-spring.net.daraz.com^
 ||ww2.ero-advertising.com^
 ||ww2.xn--30986-udb.biz^
 ||wwa.ero-advertising.com^
@@ -3328,18 +3330,19 @@
 ||xml.opera.com^
 ||xn--adspace-kvg.ero-advertising.com^
 ||xp.apple.com^
-||xxaycxswtx.online^
 ||xx.c.appier.net^
 ||yabs.yandex.ru^
 ||yabs.yandex.ua^
 ||yandex.com^
 ||yandexdatafactory.com^
+||yastatic.net^
 ||yastatic.ru^
 ||yepdigital.adk2x.com^
 ||yieldbird-d.openx.net^
 ||yleisradio.hb-api.omtrdc.net^
 ||yleisradio.hb.omtrdc.net^
 ||ym.adnxs.com^
+||ymixqb.nationalgeographic.com^
 ||yodleeinc.tt.omtrdc.net^
 ||ysa-static.passport.yandex.ru^
 ||yun-static.soperson.com^
@@ -3359,4 +3362,3 @@
 ||zuora.com^
 ||zww.ero-advertising.com^
 ||zzhc.vnet.cn^
-||z.znqip.org^
