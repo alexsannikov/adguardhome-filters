@@ -63,7 +63,6 @@
 ||79423.analytics.edgekey.net^
 ||7wmw.adj.st^
 ||83nsdjqqo1cau183xz.com^
-||8s8.eu^
 ||94vs.adj.st^
 ||9864.engine.mobileapptracking.com^
 ||9ata.ero-advertising.com^
@@ -756,6 +755,7 @@
 ||ccma.hb.omtrdc.net^
 ||c.company-target.com^
 ||c.cpl1.ru^
+||c.data.mob.com^
 ||cd.ladsp.com^
 ||cdn11.contentabc.com^
 ||cdn1.extremereach.io^
@@ -848,7 +848,6 @@
 ||chmod777.ltd^
 ||choozle.com^
 ||christianscience.tt.omtrdc.net^
-||christmasporn.top^
 ||chronophotographie.science^
 ||c.hrzn-nxt.com^
 ||chupapo.ru^
@@ -896,7 +895,6 @@
 ||cn2.adserver.yahoo.com^
 ||cn.adserver.yahoo.com^
 ||cnb.cnews.ru^
-||cn.dap.dmm.co.jp^
 ||cnn.hb.omtrdc.net^
 ||cnv.event.prod.bidr.io^
 ||cnzz.mmstat.com^
@@ -1378,6 +1376,7 @@
 ||gj.mmstat.com^
 ||glance.l.inmobicdn.net^
 ||glbgcl.logsss.com^
+||gleameddelightprosperity.com^
 ||global.adserver.yahoo.com^
 ||globalapi.ad.xiaomi.com^
 ||global.event.prod.bidr.io^
@@ -1475,7 +1474,6 @@
 ||hw-cdn2.adtng.com^
 ||hw-cdn2.contentabc.com^
 ||hw-cdn.contentabc.com^
-||hxwygsk2.xyz^
 ||hybird.rayjump.com^
 ||i.4see.mobi^
 ||iact.atdmt.com^
@@ -1486,6 +1484,7 @@
 ||ib.adnxs.com^
 ||ibanners.empoweredcomms.com.au^
 ||ib.mookie1.com^
+||ib.teicdn.com^
 ||ic.de.inmobi.com^
 ||iciciprulife.tt.omtrdc.net^
 ||iconhealthfitness.tt.omtrdc.net^
@@ -1655,7 +1654,6 @@
 ||js.spacenine.biz^
 ||js.speead.jp^
 ||js-ssl.aaddcount.com^
-||jtj7tq6c.xyz^
 ||jtt.tt.omtrdc.net^
 ||justjared.crwdcntrl.net^
 ||kbmg.com^
@@ -1673,7 +1671,6 @@
 ||kolort.ru^
 ||komego.work^
 ||kontakt.io^
-||kqiekmsq.world^
 ||kuhnivsemisrazu.ru^
 ||kursovik.kz^
 ||kyivstar.digital.nuance.com^
@@ -1841,6 +1838,7 @@
 ||mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com^
 ||mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com^
 ||md-a-s.apptimize.com^
+||m.data.mob.com^
 ||media.adnetwork.vn^
 ||media.bidr.io^
 ||media.boomads.com^
@@ -2231,7 +2229,6 @@
 ||pr-v1.presage.io^
 ||pt-gmtdmp.mookie1.com^
 ||ptimeinc.chartbeat.net^
-||p.typekit.net^
 ||pubguard.com^
 ||pub.lavanetwork.net^
 ||publited.net^
@@ -2797,6 +2794,7 @@
 ||skype.tt.omtrdc.net^
 ||skywarts.ru^
 ||slapi-bts.logsss.com^
+||smart-bdash.com^
 ||smblock.s3.amazonaws.com^
 ||smetrics.cloudera.com^
 ||s.metric.vodacom.co.za^
@@ -3348,8 +3346,6 @@
 ||ym.adnxs.com^
 ||ymixqb.nationalgeographic.com^
 ||yodleeinc.tt.omtrdc.net^
-||youre123.com^
-||youzonggw.com^
 ||ysa-static.passport.yandex.ru^
 ||yun-static.soperson.com^
 ||yupiromo.ru^
