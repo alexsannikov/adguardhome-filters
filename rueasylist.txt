@@ -718,6 +718,7 @@
 ||btbusiness.tt.omtrdc.net^
 ||btw.ero-advertising.com^
 ||bugsnag.com^
+||bydonline.com^
 ||by.essl.optimost.com^
 ||c1.adform.net^
 ||ca.adserver.yahoo.com^
@@ -1505,6 +1506,7 @@
 ||ibanners.empoweredcomms.com.au^
 ||ib.mookie1.com^
 ||ib.teicdn.com^
+||i.btg360.com.br^
 ||ic.de.inmobi.com^
 ||iciciprulife.tt.omtrdc.net^
 ||iconhealthfitness.tt.omtrdc.net^
@@ -2140,6 +2142,7 @@
 ||pingback.giphy.com^
 ||pingback.issuu.com^
 ||ping.chartbeat.net^
+||ping.staticmoly.me^
 ||piwik.ero-advertising.com^
 ||pixel1097.everesttech.net^
 ||pixel1324.everesttech.net^
@@ -2897,6 +2900,7 @@
 ||stags.bluekai.com^
 ||stampscom.tt.omtrdc.net^
 ||start.io^
+||stat.adultium.com^
 ||stat-analytics.mediavitrina.ru^
 ||statchecker.yandex.ru^
 ||stat.flygame.io^
