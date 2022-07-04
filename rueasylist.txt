@@ -1442,6 +1442,7 @@
 ||heroeswm.ru^
 ||hey.lt^
 ||heyue.xiaomi.com^
+||hfjuki.com^
 ||hhcdn.ru^
 ||hilltopads.com^
 ||hitcounter.ru^
@@ -1665,6 +1666,7 @@
 ||kontakt.io^
 ||kuhnivsemisrazu.ru^
 ||kursovik.kz^
+||kwntistyuogo.com^
 ||kyivstar.digital.nuance.com^
 ||kyson.ad.daum.net^
 ||k.zucks.net^
@@ -1750,6 +1752,7 @@
 ||log-ingestion.samsungacr.com^
 ||login-microsoftonline.priaso.com^
 ||log.mmstat.com^
+||log.r-oo.jp^
 ||log.sdk.zadn.vn^
 ||logs.juspay.in^
 ||log.vietnamnetad.vn^
@@ -2003,8 +2006,10 @@
 ||nu9k.adj.st^
 ||numberly.com^
 ||nv.vi-serve.com^
+||nwwap.com^
 ||nxd.adhaven.com^
 ||nyidt.adsafeprotected.com^
+||nykps.com^
 ||nym1-ib.adnxs.com^
 ||nym1-ib.adnxs-simple.com^
 ||nz.adserver.yahoo.com^
@@ -2044,6 +2049,7 @@
 ||orfw.adsafeprotected.com^
 ||origin-ads.exosrv.com^
 ||origin-ads.realsrv.com^
+||original-empire.com^
 ||orodi.ru^
 ||orpixel.adsafeprotected.com^
 ||osb-apps.samsungqbe.com^
@@ -2053,8 +2059,10 @@
 ||ota.cdn.pandora.xiaomi.com^
 ||outils.f5biz.com^
 ||overstock.tt.omtrdc.net^
+||ovkwiz.xyz^
 ||owneriq.com^
 ||owpawuk.ru^
+||oystertown.net^
 ||pac12.hb-api.omtrdc.net^
 ||p.adnxs.com^
 ||pad-v3.presage.io^
@@ -2111,6 +2119,7 @@
 ||pixel-user-1039.everesttech.net^
 ||pixel.wp.pl^
 ||pizzaseo.com^
+||p.kolplay.com^
 ||pl1a.bestshopping-voucher.com^
 ||pl1b.food-voucher.com^
 ||plachetde.biz^
@@ -2739,6 +2748,7 @@
 ||sjc.ads0.nexage.com^
 ||s.jsrdn.com^
 ||skimlinks.com^
+||skogsborg.net^
 ||skydeutschland.hb.omtrdc.net^
 ||skyitalia.hb.omtrdc.net^
 ||skype.tt.omtrdc.net^
@@ -2913,6 +2923,7 @@
 ||tag.1rx.io^
 ||tag.brainient.com^
 ||tag.crsspxl.com^
+||tagmanager.alright.network^
 ||tagr-gcp-lb1-ase1.mookie1.com^
 ||tagr-gcp-odr-use1.mookie1.com^
 ||tagr-gcp-xs2-use1.mookie1.com^
@@ -2995,6 +3006,7 @@
 ||torontostar.demdex.net^
 ||torrent-anime.ru^
 ||toutapp.com^
+||towers-shield.com^
 ||toyota.demdex.net^
 ||toysrus.tt.omtrdc.net^
 ||tracelive.ru^
@@ -3017,6 +3029,7 @@
 ||trading24.io^
 ||trck.at^
 ||trc.taboolasyndication.com^
+||treg.hearstnp.com^
 ||trendmicro.tt.omtrdc.net^
 ||trend-trader.cc^
 ||tr-gmtdmp.mookie1.com^
