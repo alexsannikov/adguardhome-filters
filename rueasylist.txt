@@ -442,6 +442,7 @@
 ||analytics.social.unity.com^
 ||analytics.yinzcam.com^
 ||ana.masky.biddingx.com^
+||android-safebrowsing.googleapis.com^
 ||a.netmng.com^
 ||angieslist.tt.omtrdc.net^
 ||animate.adobe.com^
@@ -628,6 +629,7 @@
 ||banne4s.ero-advertising.com^
 ||banner.ero-advertising.com^
 ||banner-in.net^
+||bannerku.xyz^
 ||banners1.ero-advertising.com^
 ||banners2.ero-advertising.com^
 ||banners3.spacash.com^
@@ -940,6 +942,7 @@
 ||content.bannerconnect.net^
 ||content.quantcount.com^
 ||contents.adingo.jp.eimg.jp^
+||content-signature-2.cdn.mozilla.net^
 ||content.streamplay.to^
 ||contribute.to-support.me^
 ||control.adap.tv^
@@ -1056,6 +1059,7 @@
 ||de.rayjump.com^
 ||deseretdigitalmedia.tt.omtrdc.net^
 ||deta.ero-advertising.com^
+||developers.google.com^
 ||deviantart.crwdcntrl.net^
 ||device.4seeresults.com^
 ||dfe.mic.mob.com^
@@ -1278,6 +1282,7 @@
 ||firebase.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
+||firefox.settings.services.mozilla.com^
 ||fir-zdorovru.firebaseio.com^
 ||flashtest.ero-advertising.com^
 ||flatdee.ero-advertising.com^
@@ -1538,6 +1543,7 @@
 ||imp.admarketplace.net^
 ||imp.gammadsp.com^
 ||impl.onscroll.com^
+||improving.duckduckgo.com^
 ||impr.ymtracking.com^
 ||imp.startappservice.com^
 ||imp.xmax.jp^
@@ -1791,6 +1797,7 @@
 ||main.exosrv.com^
 ||main.realsrv.com^
 ||makemytrip.tt.omtrdc.net^
+||malware-error.mozilla.con^
 ||management.azure.com^
 ||manage.newssuite.sony.net^
 ||map.baidu.com^
@@ -2092,6 +2099,7 @@
 ||pgatour.hb.omtrdc.net^
 ||ph-gmtdmp.mookie1.com^
 ||philly.demdex.net^
+||phish-error.mozilla.con^
 ||photobucket.adnxs.com^
 ||phpmyadmin.ero-advertising.com^
 ||pingback.giphy.com^
@@ -2390,6 +2398,8 @@
 ||s4m.io^
 ||sact.atdmt.com^
 ||s.ad.smaato.net^
+||safebrowsing.googleapis.com^
+||safebrowsing.google.com^
 ||safethings.avira.com^
 ||salesforce.com^
 ||salesforcecom.tt.omtrdc.net^
@@ -2400,8 +2410,10 @@
 ||sba.yandex.net^
 ||sbbe.group-ib.ru^
 ||sb.freeskreen.com^
+||sb.l.google.com^
 ||sb.monetate.net^
 ||sbsaustralia.hb.omtrdc.net^
+||sb-ssl.google.com^
 ||sc5.omniture.com^
 ||scandit.com^
 ||s.c.appier.net^
@@ -2741,6 +2753,7 @@
 ||single.upsight-api.com^
 ||sitecheck.opera.com^
 ||site.flashx.cc^
+||s.izrnvo.com^
 ||sjc-249.sjc-rtb1.rfihub.com^
 ||sjc.ads0.nexage.com^
 ||s.jsrdn.com^
@@ -3230,6 +3243,7 @@
 ||widgets-omni-live-chat.kyivstar.ua^
 ||widgets.pinterest.com^
 ||widgets.tcimg.com^
+||widget.trustpilot.com^
 ||wifi.adsplay.xyz^
 ||wifi-api1.adsplay.xyz^
 ||wifi-api2.adsplay.xyz^
