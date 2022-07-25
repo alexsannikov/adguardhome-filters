@@ -41,6 +41,7 @@
 ||7godscasino.com^
 ||7jackpots.com^
 ||828bet.net^
+||8888.bg^
 ||888.com^
 ||888sport.com^
 ||88asia88.com^
@@ -121,6 +122,7 @@
 ||betaland.com^
 ||betamerica.com^
 ||betandclick.com^
+||betano.bg^
 ||betanysports.eu^
 ||bet-at-home.com^
 ||betbanks.com^
@@ -174,6 +176,7 @@
 ||betika.com^
 ||betin1.com^
 ||betin.com^
+||betindex.net^
 ||betinternet.com^
 ||betive.com^
 ||betjamaica.com^
@@ -269,6 +272,7 @@
 ||betusa.ag^
 ||betus.com.pa^
 ||betvictor.com^
+||betway.bg^
 ||betway.co.ke^
 ||betway.com^
 ||betworks.com^
@@ -338,6 +342,7 @@
 ||casineto.net^
 ||casiniabet.com^
 ||casinoandfriends.com^
+||casinobg.info^
 ||casinobitco.in^
 ||casinocalzone.com^
 ||casinocruise.com^
@@ -353,6 +358,7 @@
 ||casino.org^
 ||casinopop.com^
 ||casino-pp.net^
+||casinorobots.com^
 ||casinoroom.com^
 ||casinostugan.com^
 ||casinotown.se^
@@ -565,6 +571,7 @@
 ||etoto.pl^
 ||euro24sports.com^
 ||eurobet.bg^
+||eurofootball.bg^
 ||europe-bet.com^
 ||euroslots.com^
 ||evobet.com^
@@ -701,6 +708,7 @@
 ||igame.se^
 ||ikibu.com^
 ||inbet88.com^
+||inbet.com^
 ||indobola77.casa^
 ||indycasino.com^
 ||infinitybet.com^
@@ -752,9 +760,11 @@
 ||karjalakasino.com^
 ||karlcasino.com^
 ||kashmobet.com^
+||kasinoguru-bg.com^
 ||kasinot.fi^
 ||kassu.com^
 ||katiesbingo.com^
+||kazinoigri.com^
 ||keyarena.gg^
 ||key-drop.com^
 ||kingkong999.net^
@@ -1033,6 +1043,7 @@
 ||pais.co.il^
 ||palladiumcasino.eu^
 ||palmerbet.com^
+||palmsbet.com^
 ||pandabet.net^
 ||paradisewin.com^
 ||parasino.com^
@@ -1045,6 +1056,7 @@
 ||pinnacle.com^
 ||pinnaclesports.com^
 ||piratespin.com^
+||pixabay.com^
 ||planetofbets.com^
 ||planetwin365.com^
 ||playbet.com^
@@ -1065,6 +1077,7 @@
 ||pokerimaa.com^
 ||pokermax.com^
 ||pokermaya.com^
+||pokerstars.bg^
 ||pokerstarscasino.uk^
 ||pokerstars.cz^
 ||pokerstars.eu^
@@ -1140,6 +1153,7 @@
 ||seaniemac.com^
 ||sectorbet.com^
 ||secure.bkbet.eu^
+||sesame.bg^
 ||sesbet.com^
 ||setantabet.com^
 ||simppeli.com^
@@ -1291,7 +1305,9 @@
 ||topbetta.com^
 ||topbetta.com.au^
 ||topcasino.com^
+||topcasinos.bg^
 ||topcatsports.ag^
+||topigri.bg^
 ||topodds.com.au^
 ||topplay.cc^
 ||topsport.com.au^
@@ -1363,6 +1379,8 @@
 ||williamhill.com.au^
 ||wilsonbet.com^
 ||win29.com^
+||winbetaffiliates.bg^
+||winbet.bg^
 ||winmasters.com^
 ||winner.co.uk^
 ||winningft.com^
