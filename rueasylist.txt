@@ -982,7 +982,6 @@
 ||billing-ob.trial-application.s3coregitlab.windows.net.zooplus.com^
 ||billing-ob.trial-applicationsvc.coregitlab.windows.net.zooplus.com^
 ||billing-ob.trial-application.v2.windows.net.zooplus.com^
-||billing.veronadigital.com^
 ||billingy.page-mail-svcgateway.accountingapitoolbarer.net.zooplus.com^
 ||billingy.page-mail-svcgateway.applicationapitester.net.zooplus.com^
 ||billingy.page-mail-svcgateway.ghingapitester.net.zooplus.com^
@@ -1739,6 +1738,7 @@
 ||feeds.logicbuy.com^
 ||fe.miui.com^
 ||ff1c0cc5.api.splkmobile.com^
+||ffkjdjxcbhn.com^
 ||fhatfee.ero-advertising.com^
 ||fh.under9.co^
 ||fifa.hb-api.omtrdc.net^
@@ -3886,6 +3886,7 @@
 ||uav.tidaltv.com^
 ||uberm.bttn.io^
 ||ubm.tt.omtrdc.net^
+||ueeyumhkpqp.com^
 ||uhf.microsoft.com^
 ||uidbox.uimserv.net^
 ||u.in.meizu.com^
@@ -4100,6 +4101,7 @@
 ||ws.tapjoyads.com^
 ||wsw.ero-advertising.com^
 ||wta.ero-advertising.com^
+||wtqgwnckbvjovg.com^
 ||wtradv.market.xiaomi.com^
 ||wt.rutube.ru^
 ||wunderkind.co^
