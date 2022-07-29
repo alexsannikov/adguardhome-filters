@@ -1630,6 +1630,7 @@
 ||encrypted-vtbn4.gstatic.com^
 ||encrypted-vtbn5.gstatic.com^
 ||encyclopediabritannica.blueconic.net^
+||engine.adtidy.net^
 ||engine.monetate.net^
 ||engine.rbc.medialand.ru^
 ||engine.widespace.com^
@@ -2938,6 +2939,7 @@
 ||p-v2.presage.io^
 ||p.vtracy.de^
 ||px.ads.linkedin.com^
+||px.effirst.com^
 ||px.owneriq.net^
 ||px.steelhousemedia.com^
 ||pythagore.demdex.net^
@@ -3606,6 +3608,7 @@
 ||static.adroute.focas.jp^
 ||static.adsafeprotected.com^
 ||static.ads-twitter.com^
+||static.adtidy.net^
 ||static.aprod.scopely.io^
 ||static.contentabc.com^
 ||static.eaglecdn.com^
