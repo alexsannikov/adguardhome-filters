@@ -253,7 +253,11 @@
 ||allotalk.com^
 ||amp-reddit-com.cdn.ampproject.org^
 ||amp.twimg.com^
+||badoo.com^
+||bumble.com^
 ||cdninstagram.com^
+||clover.co^
+||coffeemeetsbagel.com^
 ||connect.facebook.net^
 ||connect.facebook.net.edgekey.net^
 ||crashlogs.whatsapp.net^
@@ -342,8 +346,10 @@
 ||g.twimg.com^
 ||gu.twimg.com^
 ||g.whatsapp.net^
+||happn.com^
 ||hca.twimg.com^
 ||h-ct-m-fbx.fbsbx.com.online-metrix.net^
+||hinge.co^
 ||ibytedtos.com^
 ||image-proxy-origin.twimg.com^
 ||instagr.am^
@@ -362,6 +368,7 @@
 ||ma1.twimg.com^
 ||ma2.twimg.com^
 ||ma3.twimg.com^
+||match.com^
 ||ma.twimg.com^
 ||mbga.jp^
 ||media-ams3-1.cdn.whatsapp.net^
@@ -449,6 +456,7 @@
 ||musically.ly^
 ||myspacecdn.com^
 ||myspace.com^
+||okcupid.com^
 ||o.twimg.com^
 ||p16.hypstarcdn.com^
 ||p16-tiktokcdn-com.akamaized.net^
@@ -463,6 +471,7 @@
 ||pinterest.fr^
 ||platform.foursquare.com^
 ||plus.google.com^
+||pof.com^
 ||pps.whatsapp.net^
 ||prod.pinterest.global.map.fastly.net^
 ||profile.ak.facebook.com.edgesuite.net^
@@ -498,6 +507,7 @@
 ||tiktok.com^
 ||tiktok.org^
 ||tiktokv.com^
+||tinder.com^
 ||ton.twimg.com^
 ||tumblr.com^
 ||twimg0-0.akamaihd.net^
@@ -507,6 +517,7 @@
 ||v.pinimg.com.edgekey.net^
 ||vpn.tfbnw.net^
 ||v.whatsapp.net^
+||weareher.com^
 ||whatsapp.com^
 ||widgets.twimg.com^
 ||www-cdn.whatsapp.net^

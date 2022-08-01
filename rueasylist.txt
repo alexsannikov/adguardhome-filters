@@ -1630,7 +1630,6 @@
 ||encrypted-vtbn4.gstatic.com^
 ||encrypted-vtbn5.gstatic.com^
 ||encyclopediabritannica.blueconic.net^
-||engine.adtidy.net^
 ||engine.monetate.net^
 ||engine.rbc.medialand.ru^
 ||engine.widespace.com^
@@ -1739,7 +1738,6 @@
 ||feeds.logicbuy.com^
 ||fe.miui.com^
 ||ff1c0cc5.api.splkmobile.com^
-||ffkjdjxcbhn.com^
 ||fhatfee.ero-advertising.com^
 ||fh.under9.co^
 ||fifa.hb-api.omtrdc.net^
@@ -2205,6 +2203,7 @@
 ||ir-jp.amazon-adsystem.com^
 ||ir-na.amazon-adsystem.com^
 ||isaca.tt.omtrdc.net^
+||isbnrs.com^
 ||i.smartnews-ads.com^
 ||i.socdm.com^
 ||i.solo.rde.ru^
@@ -2939,7 +2938,6 @@
 ||p-v2.presage.io^
 ||p.vtracy.de^
 ||px.ads.linkedin.com^
-||px.effirst.com^
 ||px.owneriq.net^
 ||px.steelhousemedia.com^
 ||pythagore.demdex.net^
@@ -3608,7 +3606,6 @@
 ||static.adroute.focas.jp^
 ||static.adsafeprotected.com^
 ||static.ads-twitter.com^
-||static.adtidy.net^
 ||static.aprod.scopely.io^
 ||static.contentabc.com^
 ||static.eaglecdn.com^
@@ -3889,7 +3886,6 @@
 ||uav.tidaltv.com^
 ||uberm.bttn.io^
 ||ubm.tt.omtrdc.net^
-||ueeyumhkpqp.com^
 ||uhf.microsoft.com^
 ||uidbox.uimserv.net^
 ||u.in.meizu.com^
@@ -4104,7 +4100,6 @@
 ||ws.tapjoyads.com^
 ||wsw.ero-advertising.com^
 ||wta.ero-advertising.com^
-||wtqgwnckbvjovg.com^
 ||wtradv.market.xiaomi.com^
 ||wt.rutube.ru^
 ||wunderkind.co^
