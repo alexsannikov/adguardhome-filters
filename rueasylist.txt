@@ -1436,6 +1436,7 @@
 ||d1.hb.omtrdc.net^
 ||d1jwpcr0q4pcq0.cloudfront.net^
 ||d1oxlq5h9kq8q5.cloudfront.net^
+||d1zgderxoe1a.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d2tnx644ijgq6i.cloudfront.net^
 ||d37ju0xanoz6gh.cloudfront.net^
@@ -2203,7 +2204,6 @@
 ||ir-jp.amazon-adsystem.com^
 ||ir-na.amazon-adsystem.com^
 ||isaca.tt.omtrdc.net^
-||isbnrs.com^
 ||i.smartnews-ads.com^
 ||i.socdm.com^
 ||i.solo.rde.ru^
@@ -2831,7 +2831,6 @@
 ||post.rmbn.ru^
 ||pp.lp4.io^
 ||p.presage.io^
-||pp.ua^
 ||prd1.personalization.centech.glulive.com^
 ||prd1.revid.centech.glulive.com^
 ||prd1.session.centech.glulive.com^
