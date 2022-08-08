@@ -4151,6 +4151,7 @@
 ||zhwnlapi.etouch.cn^
 ||z-na.associates-amazon.com^
 ||zoohitnorthamerica.dii1machinevision.activemarketing.net.zooplus.it^
+||zoom.us^
 ||zoriana.kyivstar.ua^
 ||zuora.com^
 ||zww.ero-advertising.com^
