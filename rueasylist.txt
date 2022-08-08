@@ -2964,6 +2964,7 @@
 ||radiocanada-stage.hb-api.omtrdc.net^
 ||rambler-sync.rutarget.ru^
 ||rankc1.apserver.net^
+||raspberrypi.org^
 ||rata.ero-advertising.com^
 ||ratari.ru^
 ||raven.aprod.scopely.io^
