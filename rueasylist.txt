@@ -202,7 +202,6 @@
 ||ac.mmstat.com^
 ||acnescarsx.info^
 ||acspaces.ero-advertising.com^
-||act1-1.info^
 ||action.media6degrees.com^
 ||action.metaffiliation.com^
 ||active-activeect-ssl.activemarketing.net.zooplus.it^
@@ -558,7 +557,6 @@
 ||alpha-nginx-core.windowsdev.system.net.zooplus.com^
 ||alphaold.legacy.tester.net.zooplus.com^
 ||alpha-svcgatewaysecuritytesting.tester.net.zooplus.com^
-||altruja.de^
 ||am.adlooxtracking.com^
 ||amazonwebservicesinc.tt.omtrdc.net^
 ||amc.yandex.ru^
@@ -635,7 +633,6 @@
 ||api-core.windowsfwsystemsvcgateway.accountingapi-docs.net.zooplus.com^
 ||api.crispadvertising.com^
 ||api.cupid.ptqy.gitv.tv^
-||api.dataroid.com^
 ||api.df.mob.com^
 ||api.distribution.hulu.com^
 ||api-docs.core.ssl.windows.net.zooplus.com^
@@ -956,7 +953,6 @@
 ||beacons.extremereach.io^
 ||beacon-sie.krxd.net^
 ||be.adserver.yahoo.com^
-||beanscattering.jp^
 ||bebo.crwdcntrl.net^
 ||beeswax.com^
 ||be-gmtdmp.mookie1.com^
@@ -1435,7 +1431,6 @@
 ||d1.hb.omtrdc.net^
 ||d1jwpcr0q4pcq0.cloudfront.net^
 ||d1oxlq5h9kq8q5.cloudfront.net^
-||d1zgderxoe1a.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d2tnx644ijgq6i.cloudfront.net^
 ||d37ju0xanoz6gh.cloudfront.net^
@@ -1474,7 +1469,6 @@
 ||dcdn.adnxs.com^
 ||dco-assets.everestads.net^
 ||dcs.wtlive.com^
-||de5v6rb80m4j1.cloudfront.net^
 ||de.adserver.yahoo.com^
 ||de.demdex.net^
 ||de-gmtdmp.mookie1.com^
@@ -1606,6 +1600,7 @@
 ||ehealthinsurance.tt.omtrdc.net^
 ||e-hpaces.ero-advertising.com^
 ||ei.rlcdn.com^
+||eksiup.com^
 ||elb.the-ozone-project.com^
 ||elmananadevalles.engine.core.windows.net.zooplus.com^
 ||eltepo.ru^
@@ -2556,7 +2551,6 @@
 ||mtv3.hb.omtrdc.net^
 ||mtv.hb.omtrdc.net^
 ||mtvn.demdex.net^
-||muatui.com^
 ||multiply.crwdcntrl.net^
 ||mutuza.win^
 ||mx.adserver.yahoo.com^
@@ -3553,7 +3547,6 @@
 ||ssl.msdk.qq.com^
 ||ssl.socdm.com^
 ||ssl.webtracker.jp^
-||ssp.njxzwh.com^
 ||ssp.rambler.ru^
 ||ssp-res.flyme.cn^
 ||s-static.innovid.com^
@@ -3607,7 +3600,6 @@
 ||static-tagr.gd1.mookie1.com^
 ||static.wi-fi.ru^
 ||stat.livejournal.com^
-||stats.bitban.com^
 ||stats.ero-advertising.com^
 ||statse.webtrendslive.com^
 ||s.tcimg.com^
@@ -3709,7 +3701,6 @@
 ||telefonicauklimited.tt.omtrdc.net^
 ||telegraph.grapeshot.co.uk^
 ||telegraphmediagroupl.tt.omtrdc.net^
-||telemetry.api.playstation.com^
 ||telemetry.sdk.inmobi.com^
 ||telemetry.urs.microsoft.com^
 ||telstra.imrworldwide.com^
@@ -3794,7 +3785,6 @@
 ||tmscdn.coremetrics.com^
 ||tms-st.cdn.ngenix.net^
 ||t.myvisualiq.net^
-||tn.flashb.id^
 ||tnyzin.ru^
 ||todich.ru^
 ||tomorrowperegrinemortician.info^
@@ -3822,7 +3812,6 @@
 ||tracking.admarketplace.net^
 ||tracking.ero-advertising.com^
 ||tracking.m6r.eu^
-||tracking.maxcdn.com^
 ||tracking.vietnamnetad.vn^
 ||track.seadform.net^
 ||trading24.io^
