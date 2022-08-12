@@ -534,6 +534,7 @@
 ||aiqua-config.c.appier.net^
 ||aiqua-sdk.c.appier.net^
 ||aiqua-user.c.appier.net^
+||airlinemeals.net^
 ||airpushmarketing.s3.amazonaws.com^
 ||ais.abacast.com^
 ||ajnad.aljazeera.net^
@@ -940,6 +941,7 @@
 ||batch.upsight-api.com^
 ||bavners2.ero-advertising.com^
 ||bbnaut.bbelements.com^
+||bc0a.com^
 ||bc.ad.daum.net^
 ||bcbsla.tt.hb-api.omtrdc.net^
 ||b-code.liadm.com^
@@ -2339,6 +2341,7 @@
 ||l.gm.mob.com^
 ||l.hrzn-nxt.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
+||librogratis.info^
 ||libs.coremetrics.com^
 ||libs.lavanetwork.net^
 ||lifeway.hb.omtrdc.net^
@@ -2348,6 +2351,7 @@
 ||lisnr.com^
 ||liveexpert.ru^
 ||liveramp.com^
+||livetex.ru^
 ||ll.a.hulu.com^
 ||l.logly.co.jp^
 ||lmadvertising.engine.adglare.net^
@@ -2606,6 +2610,7 @@
 ||newsday.hb-api.omtrdc.net^
 ||news-muxeta.cc^
 ||news-whistleout.s3.amazonaws.com^
+||news.zsjxwj.com^
 ||nexstar.blueconic.net^
 ||nextroll.com^
 ||nfl.demdex.net^
@@ -4127,6 +4132,7 @@
 ||yt1.mmstat.com^
 ||yt.mmstat.com^
 ||yupiromo.ru^
+||yzsjsjx.cn^
 ||z9q9kj37oy.kameleoon.eu^
 ||za-gmtdmp.mookie1.com^
 ||z.cdn.bescore.com^
