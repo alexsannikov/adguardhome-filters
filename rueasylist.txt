@@ -23,6 +23,7 @@
 ||189358.engine.mobileapptracking.com^
 ||190107.engine.mobileapptracking.com^
 ||190829.engine.mobileapptracking.com^
+||1.92caijing.com^
 ||194192.engine.mobileapptracking.com^
 ||1afcfcb2c.ninja^
 ||1e0y.xyz^
@@ -964,6 +965,7 @@
 ||besocial.online^
 ||bestbuy.demdex.net^
 ||bestcoinsignals.com^
+||bestsrv.de^
 ||beta.nginxaws.net.zooplus.com^
 ||beta.scmsystemsvcgateway.aws.net.zooplus.com^
 ||bet.demdex.net^
@@ -1688,6 +1690,7 @@
 ||events-us-west-2.ipredictive.com^
 ||everydayhealth.demdex.net^
 ||evgywgur.com^
+||evilsbedont.de^
 ||evt.bfmio.com^
 ||evtvpaid.bfmio.com^
 ||ewscripps.hb.omtrdc.net^
@@ -3831,6 +3834,8 @@
 ||trk.mail.ru^
 ||trk.tidaltv.com^
 ||troweprice.hb.omtrdc.net^
+||trustaproiam.de^
+||trusteverything.de^
 ||trutv.hb.omtrdc.net^
 ||tr-v1.presage.io^
 ||trvdp.com^
