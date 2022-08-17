@@ -23,7 +23,6 @@
 ||189358.engine.mobileapptracking.com^
 ||190107.engine.mobileapptracking.com^
 ||190829.engine.mobileapptracking.com^
-||1.92caijing.com^
 ||194192.engine.mobileapptracking.com^
 ||1afcfcb2c.ninja^
 ||1e0y.xyz^
@@ -68,6 +67,7 @@
 ||5clickcashsoftware.com^
 ||6063.bapi.adsafeprotected.com^
 ||6159.genieessp.com^
+||666756.xyz^
 ||66.net.zooplus.com^
 ||67s6gxv28kin.com^
 ||7227272.collect.igodigital.com^
@@ -535,7 +535,6 @@
 ||aiqua-config.c.appier.net^
 ||aiqua-sdk.c.appier.net^
 ||aiqua-user.c.appier.net^
-||airlinemeals.net^
 ||airpushmarketing.s3.amazonaws.com^
 ||ais.abacast.com^
 ||ajnad.aljazeera.net^
@@ -942,7 +941,6 @@
 ||batch.upsight-api.com^
 ||bavners2.ero-advertising.com^
 ||bbnaut.bbelements.com^
-||bc0a.com^
 ||bc.ad.daum.net^
 ||bcbsla.tt.hb-api.omtrdc.net^
 ||b-code.liadm.com^
@@ -1055,6 +1053,7 @@
 ||bucket.raw.dockeruschef.net.zooplus.com^
 ||bucket.raw.dockervler-control.net.zooplus.com^
 ||bucket.raw.dockervler-coregitlab.net.zooplus.com^
+||bugherd.com^
 ||bugsnag.com^
 ||c1.adform.net^
 ||ca.adserver.yahoo.com^
@@ -1604,7 +1603,6 @@
 ||ehealthinsurance.tt.omtrdc.net^
 ||e-hpaces.ero-advertising.com^
 ||ei.rlcdn.com^
-||eksiup.com^
 ||elb.the-ozone-project.com^
 ||elmananadevalles.engine.core.windows.net.zooplus.com^
 ||eltepo.ru^
@@ -1750,6 +1748,7 @@
 ||fingerprint.pb.ua^
 ||firebase.com^
 ||firebaseinstallations.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firefox.settings.services.mozilla.com^
 ||fir-zdorovru.firebaseio.com^
@@ -2344,7 +2343,6 @@
 ||l.gm.mob.com^
 ||l.hrzn-nxt.com^
 ||libertyglobalpaneu.tt.omtrdc.net^
-||librogratis.info^
 ||libs.coremetrics.com^
 ||libs.lavanetwork.net^
 ||lifeway.hb.omtrdc.net^
@@ -2354,7 +2352,6 @@
 ||lisnr.com^
 ||liveexpert.ru^
 ||liveramp.com^
-||livetex.ru^
 ||ll.a.hulu.com^
 ||l.logly.co.jp^
 ||lmadvertising.engine.adglare.net^
@@ -2467,6 +2464,7 @@
 ||mcc.intl.inf.miui.com^
 ||mcdonaldscorporation.tt.omtrdc.net^
 ||mc-kzgvx04-jk8n38gyn7s08m1d8.device.marketingcloudapis.com^
+||mcs-va.tiktok.com^
 ||mctd22d-xfy4kdg18w8cmd9bvhsq.device.marketingcloudapis.com^
 ||mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com^
 ||mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com^
@@ -2508,6 +2506,7 @@
 ||mibi.api.xiaomi.com^
 ||mibi.xiaomi.com^
 ||microsoftwindowscom.tt.omtrdc.net^
+||middleware.p7s1.io^
 ||milink.pandora.xiaomi.com^
 ||millionairesurveys.com^
 ||min-api.cryptocompare.com^
@@ -2613,7 +2612,6 @@
 ||newsday.hb-api.omtrdc.net^
 ||news-muxeta.cc^
 ||news-whistleout.s3.amazonaws.com^
-||news.zsjxwj.com^
 ||nexstar.blueconic.net^
 ||nextroll.com^
 ||nfl.demdex.net^
@@ -2781,6 +2779,7 @@
 ||pixel.everesttech.net^
 ||pixel.mediaiqdigital.com^
 ||pixel.quantcount.com^
+||pixels.ai^
 ||pixel.servebom.com^
 ||pixel-user-1039.everesttech.net^
 ||pixel.wp.pl^
@@ -3610,6 +3609,7 @@
 ||stat.livejournal.com^
 ||stats.ero-advertising.com^
 ||statse.webtrendslive.com^
+||stats.norton.com^
 ||s.tcimg.com^
 ||sterrencash.nl^
 ||s.thebrighttag.com^
@@ -4137,7 +4137,6 @@
 ||yt1.mmstat.com^
 ||yt.mmstat.com^
 ||yupiromo.ru^
-||yzsjsjx.cn^
 ||z9q9kj37oy.kameleoon.eu^
 ||za-gmtdmp.mookie1.com^
 ||z.cdn.bescore.com^
