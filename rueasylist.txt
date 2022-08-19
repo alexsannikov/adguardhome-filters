@@ -565,6 +565,7 @@
 ||americaneagleoutfitt.tt.omtrdc.net^
 ||americaninternationa.tt.hb-fa-stage.omtrdc.net^
 ||americanmedia.blueconic.net^
+||am.i.mullvad.net^
 ||a.monetate.net^
 ||amp.admarvel.com^
 ||amrytt.adk2x.com^
@@ -2230,6 +2231,7 @@
 ||jellyfish.pandora.xiaomi.com^
 ||jgl.microad.net^
 ||j.microad.net^
+||j.mrpdata.net^
 ||j.newssuite.sony.net^
 ||jnn-pa.googleapis.com^
 ||joelosteenministries.tt.omtrdc.net^
@@ -3820,6 +3822,7 @@
 ||tracking.admarketplace.net^
 ||tracking.ero-advertising.com^
 ||tracking.m6r.eu^
+||tracking.monsido.com^
 ||tracking.vietnamnetad.vn^
 ||track.seadform.net^
 ||trading24.io^
@@ -4144,6 +4147,7 @@
 ||z.cdn.trafficdok.com^
 ||z.cdn.trafficlide.com^
 ||zdbb.netshelter.net^
+||zenaps.com^
 ||zeste.top^
 ||zetaglobal.com^
 ||zeus.ad.xiaomi.com^
