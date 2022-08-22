@@ -197,6 +197,7 @@
 ||acc.systemsvcgateway.tester-train.net.zooplus.com^
 ||acc.toolbar.v2.net.zooplus.com^
 ||acdn.adnxs.com^
+||acdn.adnxs-simple.com^
 ||acecashexpress.tt.hb-api.omtrdc.net^
 ||ackee.mark.vin^
 ||aclu.tt.omtrdc.net^
@@ -1849,6 +1850,7 @@
 ||getsentry.com^
 ||getsitecontrol.com^
 ||gfaf-banners.s3.amazonaws.com^
+||ghent-gce-sc.bidswitch.net^
 ||gh.region.dii1testbedvision.activemarketing.net.zooplus.it^
 ||gigamon.tt.omtrdc.net^
 ||gi-js.genieessp.com^
@@ -2376,6 +2378,7 @@
 ||log.adaptv.advertising.com^
 ||log.adsplay.xyz^
 ||log.adtimaserver.vn^
+||log.cizion.com^
 ||logger.adthor.com^
 ||logger.ivi.ru^
 ||loggly.com^
@@ -2465,6 +2468,7 @@
 ||mcafee12.tt.omtrdc.net^
 ||mcc.intl.inf.miui.com^
 ||mcdonaldscorporation.tt.omtrdc.net^
+||mcg-ads.inmobi.com^
 ||mc-kzgvx04-jk8n38gyn7s08m1d8.device.marketingcloudapis.com^
 ||mcs-va.tiktok.com^
 ||mctd22d-xfy4kdg18w8cmd9bvhsq.device.marketingcloudapis.com^
@@ -3151,6 +3155,7 @@
 ||salesforcecom.tt.omtrdc.net^
 ||s.amazon-adsystem.com^
 ||samsung3.solution.weborama.fr^
+||samyonews-d.openx.net^
 ||sandbox.xmpush.xiaomi.com^
 ||saspreview.com^
 ||saxobank.hb.omtrdc.net^
@@ -3611,6 +3616,7 @@
 ||stat.livejournal.com^
 ||stats.ero-advertising.com^
 ||statse.webtrendslive.com^
+||statsf-tm.everesttech.net^
 ||stats.norton.com^
 ||s.tcimg.com^
 ||sterrencash.nl^
@@ -3894,6 +3900,7 @@
 ||update.stickyadstv.com^
 ||update.wtag.adaptv.advertising.com^
 ||upload.mobpowertech.com^
+||ups.demdex.net^
 ||ups.ksmobile.net^
 ||ups.tt.omtrdc.net^
 ||uptime-info.yandex.ru^
@@ -3916,6 +3923,7 @@
 ||us-east-1.prod.pw.analytics.console.aws.a2z.com^
 ||us-east-2.prod.pr.analytics.console.aws.a2z.com^
 ||useast.bfmio.com^
+||us-east-sync.bidswitch.net^
 ||us-east-tlx.3lift.com^
 ||user.lucidmedia.com^
 ||usermatch.krxd.net^
