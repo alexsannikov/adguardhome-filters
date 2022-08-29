@@ -3148,6 +3148,7 @@
 ||safebrowsing.googleapis.com^
 ||safebrowsing.google.com^
 ||safethings.avira.com^
+||sailthru.com^
 ||s-a.innovid.com^
 ||salesforce.com^
 ||salesforcecom.tt.omtrdc.net^
