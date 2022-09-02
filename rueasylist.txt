@@ -1963,6 +1963,7 @@
 ||go.cj.com^
 ||gocm.c.appier.net^
 ||go.eu.bbelements.com^
+||go.fastspot.io^
 ||go.inmobi.com^
 ||goklics.ru^
 ||go.mmstat.com^
@@ -2211,6 +2212,7 @@
 ||inrix.com^
 ||insightenterprises.tt.omtrdc.net^
 ||integralads.com^
+||intelserviceupdate.com^
 ||intensedigital.adk2x.com^
 ||interactive.brand.zing.vn^
 ||internaler.svcemailsecurity.legacysecurityrepo.net.zooplus.com^
@@ -2559,6 +2561,7 @@
 ||milink.pandora.xiaomi.com^
 ||millionairesurveys.com^
 ||min-api.cryptocompare.com^
+||mine.blank.drawpad.org^
 ||miner.beeppool.org^
 ||miner.nimiq.com^
 ||mint.splunk.com^
@@ -2620,6 +2623,7 @@
 ||mybb.ero-advertising.com^
 ||my.com^
 ||mydmp.exelator.com^
+||my.domain^
 ||myfamilycominc.tt.omtrdc.net^
 ||my-gmtdmp.mookie1.com^
 ||mymirror.biz^
@@ -2672,13 +2676,19 @@
 ||nhkonline.hb.omtrdc.net^
 ||nht-2.extreme-dm.com^
 ||nht-3.extreme-dm.com^
+||nimiq.icemining.ca^
+||nim.sh^
+||nimwss-us-shark.lolopool.com^
 ||ninemsn.imrworldwide.com^
+||nitrokod.com^
 ||nl1.ero-advertising.com^
 ||nl2.ero-advertising.com^
 ||nl.adserver.yahoo.com^
+||nmq.zxnexus.com^
 ||nners.ero-advertising.com^
 ||no.adserver.yahoo.com^
 ||node.dii1machinevision.activemarketing.net.zooplus.it^
+||node.nimiq.watch^
 ||norma-external-collect.meizu.com^
 ||noticecdn.samsungcloudsolution.com^
 ||noticefile.samsungcloudsolution.com^
@@ -2693,6 +2703,7 @@
 ||ns.svcgatewaydocker.server.activemarketing.net.zooplus.it^
 ||nu9k.adj.st^
 ||numberly.com^
+||nvidiacenter.com^
 ||nv.vi-serve.com^
 ||nxd.adhaven.com^
 ||nyidt.adsafeprotected.com^
@@ -3108,6 +3119,7 @@
 ||rkujsnsbo.top^
 ||rlogoro.ru^
 ||r.mail.ru^
+||roastedvolt.net^
 ||rock2.authcaptcha.com^
 ||ro-gmtdmp.mookie1.com^
 ||ronetu.ru^
@@ -3460,6 +3472,9 @@
 ||secure-yt.imrworldwide.com^
 ||secure-za.imrworldwide.com^
 ||security.browser.miui.com^
+||seed.nimiq.by^
+||seed.nimiqchina.com^
+||seed.nimiq.jp^
 ||segment-data-us-east.zqtk.net^
 ||segment-data.zqtk.net^
 ||segment.prod.bidr.io^
@@ -4065,6 +4080,7 @@
 ||vis.vi-serve.com^
 ||vivaki.demdex.net^
 ||vkcdnservice.appspot.com^
+||vmi503011.contaboserver.net^
 ||vmware.hb.omtrdc.net^
 ||vn.alexajstrack.com^
 ||vnds-live-chat.kyivstar.ua^
@@ -4098,6 +4114,8 @@
 ||weareheard.org^
 ||wearemiq.com^
 ||web0.track.appier.net^
+||webapi.salamantex.com^
+||webapi.staging.salamantex.com^
 ||webarebears.cn-fan.tv^
 ||webartspy.net^
 ||webfontsfree.org^
