@@ -4032,6 +4032,7 @@
 ||vz-cdn.contentabc.com^
 ||wallpaper.cdn.pandora.xiaomi.com^
 ||wap.game.xiaomi.com^
+||w-api.baomoi.com^
 ||wapi-live-chat.kyivstar.ua^
 ||warnerbrosentertainmentinc.hb.omtrdc.net^
 ||warning.rt.ru^
