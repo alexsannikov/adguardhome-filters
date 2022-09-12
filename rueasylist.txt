@@ -26,6 +26,7 @@
 ||194192.engine.mobileapptracking.com^
 ||1afcfcb2c.ninja^
 ||1e0y.xyz^
+||1f7de8569ea97f0614.com^
 ||1l-hit.my.games^
 ||1sadx.net^
 ||1tizer.com^
@@ -34,6 +35,7 @@
 ||20738914p.rfihub.com^
 ||20766699p.rfihub.com^
 ||22006.engine.mobileapptracking.com^
+||23205523023daea6.com^
 ||239.net.zooplus.com^
 ||29627a66.api.splkmobile.com^
 ||2baners.ero-advertising.com^
@@ -51,6 +53,7 @@
 ||3minc.tt.hb-fa-stage.omtrdc.net^
 ||3p3x.adj.st^
 ||4495.adj.st^
+||4a5dfca9f.com^
 ||4anners.ero-advertising.com^
 ||4e43ac9c.info^
 ||4px.ru^
@@ -71,6 +74,7 @@
 ||666792.xyz^
 ||66.net.zooplus.com^
 ||67s6gxv28kin.com^
+||71bcab8994dbe2.com^
 ||7227272.collect.igodigital.com^
 ||7336.engine.mobileapptracking.com^
 ||7345023508.fxm9485766783.com^
@@ -125,6 +129,7 @@
 ||abcnews.tt.omtrdc.net^
 ||abcotv.hb-api.omtrdc.net^
 ||abcotv.hb.omtrdc.net^
+||ablepsysnup.com^
 ||abletomeet.com^
 ||ablink.email.pray.com^
 ||ablink.notify.pray.com^
@@ -327,6 +332,7 @@
 ||a.dpmsrv.com^
 ||ad.polymorphicads.jp^
 ||adr.adplus.co.id^
+||adrevkiq.top^
 ||ads1.ero-advertising.com^
 ||ads2.eqads.com^
 ||ads2.ero-advertising.com^
@@ -508,6 +514,7 @@
 ||adx.adform.net^
 ||adx.hasmobi.net^
 ||adx.mediaz.asia^
+||ad.yieldpartners.com^
 ||ae.adserver.yahoo.com^
 ||aem.hb.omtrdc.net^
 ||ae.mmstat.com^
@@ -588,6 +595,7 @@
 ||android-safebrowsing.googleapis.com^
 ||a.netmng.com^
 ||angieslist.tt.omtrdc.net^
+||anguloawezn.com^
 ||animate.adobe.com^
 ||animebox.com.ua^
 ||animeconsortiumjapan.hb.omtrdc.net^
@@ -645,6 +653,7 @@
 ||api.flygame.io^
 ||api.fuseplatform.net^
 ||api-game.meizu.com^
+||api.getadx.com^
 ||api.giphy.com^
 ||api.glance.inmobi.com^
 ||api-gps-em.hismarttv.com^
@@ -949,6 +958,7 @@
 ||bcp.crwdcntrl.net^
 ||bdcore-apr-lb.bda.ndmdhs.com^
 ||b.de.inmobi.com^
+||bdsruihmkge.com^
 ||beachfront.adhaven.com^
 ||beacon-ash-prod.krxd.net^
 ||beacon.krxd.net^
@@ -1022,6 +1032,7 @@
 ||b.netall.ru^
 ||bo.goadservices.com^
 ||bombora.com^
+||bonus-point1.life^
 ||booster.osnova.io^
 ||boot.pbstck.com^
 ||bootstrap.upsight-api.com^
@@ -1414,6 +1425,7 @@
 ||crosspixel.demdex.net^
 ||crowdtangle.com^
 ||crs.adapf.com^
+||crumberccitt.com^
 ||cs.atdmt.com^
 ||cspix.media6degrees.com^
 ||csr21-v3.net.zooplus.com^
@@ -1440,6 +1452,7 @@
 ||d37ju0xanoz6gh.cloudfront.net^
 ||d3mjsomixevyw7.cloudfront.net^
 ||d7.adsplay.xyz^
+||d809b2ea6c.com^
 ||daaa.ero-advertising.com^
 ||dacash.streamplay.to^
 ||dadata.ru^
@@ -1506,6 +1519,7 @@
 ||didna-d.openx.net^
 ||digdug.divxnetworks.com^
 ||digitalfirstmedia.blueconic.net^
+||dimedontisar.cam^
 ||dircash-promost.com^
 ||directtv.tt.omtrdc.net^
 ||directvapplications.hb.omtrdc.net^
@@ -1561,6 +1575,7 @@
 ||d.socdm.com^
 ||dspbeacons.error.ihasdsp.inmobi.com^
 ||dsp.bnmla.com^
+||dspcuwndtxld.top^
 ||dsp.logly.co.jp^
 ||dsp.mediaz.asia^
 ||ds.polyad.net^
@@ -1604,6 +1619,7 @@
 ||educationmanagementl.tt.omtrdc.net^
 ||ee.connextra.com^
 ||eedclicks.ero-advertising.com^
+||effqtfscudeqshx.com^
 ||eharmony.tt.omtrdc.net^
 ||ehealthinsurance.tt.omtrdc.net^
 ||e-hpaces.ero-advertising.com^
@@ -1636,12 +1652,14 @@
 ||encrypted-vtbn5.gstatic.com^
 ||encyclopediabritannica.blueconic.net^
 ||engine.monetate.net^
+||enulfumh.com^
 ||epiroc.hb.omtrdc.net^
 ||epn.adledge.com^
 ||epowernetworktrackerimages.s3.amazonaws.com^
 ||epsilon.6sense.com^
 ||eqab4.app.goo.gl^
 ||eragi.ru^
+||erenowcommie.com^
 ||error.demdex.net^
 ||errors.imrworldwide.com^
 ||ers.ero-advertising.com^
@@ -1909,6 +1927,7 @@
 ||gitlab.yskins.net.core.windows.net.zooplus.com^
 ||gizmo.serving-sys.com^
 ||gj.mmstat.com^
+||gk8j5woqk26f.com^
 ||glance.l.inmobicdn.net^
 ||glb.adtechus.com^
 ||glbgcl.logsss.com^
@@ -2008,6 +2027,7 @@
 ||hk-gmtdmp.mookie1.com^
 ||hmi-hershey.hrzn-nxt.com^
 ||hnfwg.voluumtrk.com^
+||hoavdxrrfh.com^
 ||homedepot.tt.omtrdc.net^
 ||h.online-metrix.net^
 ||hostingcloud.date^
@@ -2217,6 +2237,8 @@
 ||iqdigital.demdex.net^
 ||iqzn-useast.adnxs.com^
 ||isaca.tt.omtrdc.net^
+||isakbrjjkkshr.top^
+||iscjltdnjqjims.com^
 ||i.smartnews-ads.com^
 ||i.socdm.com^
 ||i.solo.rde.ru^
@@ -2230,7 +2252,9 @@
 ||jade853gmbh.tt.omtrdc.net^
 ||j.adlooxtracking.com^
 ||jadserve.postrelease.com^
+||japabi.com^
 ||japan.inmobi.com^
+||jautouze.net^
 ||j.bg.adresult-sp.jp^
 ||jcb.tt.omtrdc.net^
 ||jcpenney.tt.hb.omtrdc.net^
@@ -2238,6 +2262,7 @@
 ||jellyfish.pandora.xiaomi.com^
 ||jgl.microad.net^
 ||j.microad.net^
+||jn69.work^
 ||j.newssuite.sony.net^
 ||jnn-pa.googleapis.com^
 ||joelosteenministries.tt.omtrdc.net^
@@ -2297,6 +2322,7 @@
 ||kinozal-tv.appspot.com^
 ||kiosked-d.openx.net^
 ||kiwimethod.co^
+||knmbgepqi.com^
 ||kolort.ru^
 ||komego.work^
 ||kontakt.io^
@@ -2340,6 +2366,7 @@
 ||lbal.wowanalytics.co.uk^
 ||lbnyj2.bidder.owneriq.net^
 ||lbsjc.bidder.owneriq.net^
+||lbwdqljuwibdon.com^
 ||lci1a.voluumtrk.com^
 ||ldschurch.tt.omtrdc.net^
 ||lds.hb.omtrdc.net^
@@ -2357,10 +2384,12 @@
 ||lightad.co.kr^
 ||link.email.atumanera.burgerking.com.mx^
 ||link.link.ru^
+||liondignify.com^
 ||lisnr.com^
 ||liveexpert.ru^
 ||liveramp.com^
 ||ll.a.hulu.com^
+||llnjdfagj.com^
 ||l.logly.co.jp^
 ||lmadvertising.engine.adglare.net^
 ||lm.serving-sys.com^
@@ -2395,11 +2424,13 @@
 ||log.vietnamnetad.vn^
 ||look-sport.org^
 ||looky.hyves.org^
+||lorryinnercorrespond.com^
 ||lotame.com^
 ||lottery.flygame.io^
 ||loveanime.live^
 ||lowes.tt.omtrdc.net^
 ||lrt7a.coldcertainchannel.com^
+||lthmlkkppfengi.com^
 ||lugiy.ru^
 ||lululemonusa.tt.hb-fa-stage.omtrdc.net^
 ||luxporno.net^
@@ -2539,6 +2570,7 @@
 ||mobula.ssl2.duapps.com^
 ||moevideo.net^
 ||moneymaiker.ru^
+||monotonousincessant.com^
 ||mooo.com^
 ||m.optnx.com^
 ||movieads.ero-advertising.com^
@@ -2574,6 +2606,7 @@
 ||myander.do.am^
 ||myao.adocean.pl^
 ||myasiantv.gsspcln.jp^
+||my.audmrk.com^
 ||mybb.ero-advertising.com^
 ||my.com^
 ||mydmp.exelator.com^
@@ -2609,6 +2642,7 @@
 ||nbcustr.netmng.com^
 ||ndn.cdn.auditude.com^
 ||neccorp.tt.omtrdc.net^
+||negnssoknbw.com^
 ||nep.advangelists.com^
 ||netappinc.tt.omtrdc.net^
 ||net.kg^
@@ -2626,6 +2660,7 @@
 ||nfl.demdex.net^
 ||nfl.hb-api.omtrdc.net^
 ||nfl.hb.omtrdc.net^
+||ngpdamiursig.com^
 ||nhkonline.hb.omtrdc.net^
 ||nht-2.extreme-dm.com^
 ||nht-3.extreme-dm.com^
@@ -2698,6 +2733,7 @@
 ||op.searchteria.co.jp^
 ||orbit.lun.ua^
 ||oreck.tt.omtrdc.net^
+||oreukandth.xyz^
 ||orfw.adsafeprotected.com^
 ||origin-ads.exosrv.com^
 ||origin-ads.realsrv.com^
@@ -2709,11 +2745,14 @@
 ||osb.samsungqbe.com^
 ||ota.cdn.pandora.xiaomi.com^
 ||outils.f5biz.com^
+||overcaprefute.com^
 ||overstock.tt.omtrdc.net^
 ||owneriq.com^
 ||owpawuk.ru^
+||oxdvxkdmeblg.top^
 ||pac12.hb.omtrdc.net^
 ||package.cdn.pandora.xiaomi.com^
+||paddedhayssag.com^
 ||p.adnxs.com^
 ||pad-v3.presage.io^
 ||pagepeel.ero-advertising.com^
@@ -2964,6 +3003,7 @@
 ||qiye.xiaomi.com^
 ||qpnoag.com^
 ||qqrp.adj.st^
+||qrxotrlt.com^
 ||qualtrics.com^
 ||quantcast.mgr.consensu.org^
 ||quantcast.net^
@@ -3025,6 +3065,7 @@
 ||redirects.ero-advertising.com^
 ||redirredirectornorthamerica.activemarketing.net.zooplus.it^
 ||reed-cw.grapeshot.co.uk^
+||reedsbullyingpsafestgatetocontent.com^
 ||ref.ad-brix.com^
 ||region.apacns-dii1testbedvision.activemarketing.net.zooplus.it^
 ||region.appdii1testbedvision.activemarketing.net.zooplus.it^
@@ -3041,6 +3082,7 @@
 ||regionus.dii1testbedvision.activemarketing.net.zooplus.it^
 ||registercom.tt.omtrdc.net^
 ||rek.rus-porno.org^
+||remeetsunglow.com^
 ||remiroyal.ro^
 ||rentalcars.com^
 ||rentcom.tt.omtrdc.net^
@@ -3058,6 +3100,8 @@
 ||retcode-us-west-1.arms.aliyuncs.com^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
+||reverseaggressivedependent.com^
+||rgyijtcuovge.top^
 ||rikhov.ru^
 ||ringcentral.tt.omtrdc.net^
 ||rlogoro.ru^
@@ -3221,6 +3265,7 @@
 ||sec-cdn.static.xiaomi.net^
 ||sec-citi.bridgetrack.com^
 ||sec.levexis.com^
+||secondunderminappland.com^
 ||sec.resource.xiaomi.net^
 ||secretmedia.s3.amazonaws.com^
 ||secserv.adtech.de^
@@ -3504,6 +3549,7 @@
 ||site.flashx.cc^
 ||sjc-249.sjc-rtb1.rfihub.com^
 ||sjc.ads0.nexage.com^
+||sjcnnddcx.com^
 ||s.jsrdn.com^
 ||skimlinks.com^
 ||skins-beta.partner-prod.net.zooplus.com^
@@ -3807,6 +3853,7 @@
 ||tlx.3lift.com^
 ||tm2.r-ad.ne.jp^
 ||t.mail.ru^
+||tm-banners.gamingadult.com^
 ||tmobilehome.hb-api.omtrdc.net^
 ||tmobilehome-stage.hb-api.omtrdc.net^
 ||t.mookie1.com^
@@ -3816,6 +3863,7 @@
 ||t.myvisualiq.net^
 ||tnyzin.ru^
 ||todich.ru^
+||tommiesalegars.cam^
 ||tomorrowperegrinemortician.info^
 ||tongji.meizu.com^
 ||topads.ero-advertising.com^
