@@ -1058,6 +1058,7 @@
 ||bucket.raw.dockervler-control.net.zooplus.com^
 ||bucket.raw.dockervler-coregitlab.net.zooplus.com^
 ||bugsnag.com^
+||buyeasy.by^
 ||c1.adform.net^
 ||ca.adserver.yahoo.com^
 ||c.aaxads.com^
@@ -4175,6 +4176,7 @@
 ||z.cdn.trafficdok.com^
 ||z.cdn.trafficlide.com^
 ||zdbb.netshelter.net^
+||zeronaught.com^
 ||zeste.top^
 ||zetaglobal.com^
 ||zeus.ad.xiaomi.com^
