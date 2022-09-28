@@ -636,7 +636,6 @@
 ||api-docs.core.ssl.windows.net.zooplus.com^
 ||api.ero-advertising.com^
 ||api.eu.hismarttv.com^
-||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||api-flow.flyme.cn^
 ||api.flygame.io^
 ||api.fuseplatform.net^
@@ -1583,6 +1582,7 @@
 ||ecs.demdex.net^
 ||e.de.inmobi.com^
 ||edgenorthamerica.dii1machinevision.activemarketing.net.zooplus.it^
+||educatiocenter.online^
 ||educationmanagementl.tt.omtrdc.net^
 ||ee.connextra.com^
 ||eedclicks.ero-advertising.com^
@@ -3954,7 +3954,6 @@
 ||vmware.hb.omtrdc.net^
 ||vn.alexajstrack.com^
 ||vnds-live-chat.kyivstar.ua^
-||vn-garena.vn^
 ||vn-gmtdmp.mookie1.com^
 ||vodafoneit.solution.weborama.fr^
 ||voip-shop.ru^
@@ -4103,7 +4102,6 @@
 ||z.cdn.trafficdok.com^
 ||z.cdn.trafficlide.com^
 ||zdbb.netshelter.net^
-||zeronaught.com^
 ||zeste.top^
 ||zetaglobal.com^
 ||zeus.ad.xiaomi.com^
