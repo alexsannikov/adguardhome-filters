@@ -447,6 +447,7 @@
 ||ads.freeskreen.com^
 ||adshare.freedocast.com^
 ||adsheads.go2affise.com^
+||ad-shield.io^
 ||ads.inmobi.com^
 ||ads.kabbmedia.com^
 ||ads.lucidmedia.com^
@@ -2314,6 +2315,7 @@
 ||lci1a.voluumtrk.com^
 ||lds.hb.omtrdc.net^
 ||leaddyno-client-images.s3.amazonaws.com^
+||leadfamly.com^
 ||lee.blueconic.net^
 ||legacyportal.nettvservices.com^
 ||lentaru.media.eagleplatform.com^
@@ -3016,6 +3018,7 @@
 ||rikhov.ru^
 ||rlogoro.ru^
 ||r.mail.ru^
+||rndntpmgnj-a.akamaihd.net^
 ||roastedvolt.net^
 ||rock2.authcaptcha.com^
 ||ro-gmtdmp.mookie1.com^
@@ -3118,6 +3121,7 @@
 ||s-a.innovid.com^
 ||salesforce.com^
 ||salesforcecom.tt.omtrdc.net^
+||salesmanago.pl^
 ||s.amazon-adsystem.com^
 ||samsung3.solution.weborama.fr^
 ||samyonews-d.openx.net^
@@ -3430,6 +3434,7 @@
 ||sgmedia.adspirit.net^
 ||sg.mmstat.com^
 ||s.go-mpulse.net^
+||sgphctileh-a.akamaihd.net^
 ||sgpixel.adsafeprotected.com^
 ||sg-tk.mobpowertech.com^
 ||sharebar.addthiscdn.com^
@@ -3836,6 +3841,7 @@
 ||uav.tidaltv.com^
 ||uberm.bttn.io^
 ||uhf.microsoft.com^
+||uhytajrtpo-a.akamaihd.net^
 ||uidbox.uimserv.net^
 ||u.in.meizu.com^
 ||uip.semasio.net^
@@ -4110,5 +4116,6 @@
 ||zoohitnorthamerica.dii1machinevision.activemarketing.net.zooplus.it^
 ||zoriana.kyivstar.ua^
 ||zuora.com^
+||zvsuhljiha-a.akamaihd.net^
 ||zww.ero-advertising.com^
 ||zzhc.vnet.cn^
