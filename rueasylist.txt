@@ -1159,6 +1159,7 @@
 ||cdn.schemaapp.com^
 ||cdn.smartnews-ads.com^
 ||cdn.stickyadstv.com^
+||cdns.us1.gigya.com^
 ||cdn.taboolasyndication.com^
 ||cdn.tagular.com^
 ||cdn.trackclicks.info^
@@ -2410,6 +2411,7 @@
 ||marchex.com^
 ||marijkacom.hb.omtrdc.net^
 ||market-click2.yandex.ru^
+||marketingautomation.services^
 ||marketing.rakuten.com^
 ||marketing-ssl.upsight-api.com^
 ||markitdigital.com^
@@ -2574,6 +2576,7 @@
 ||nbcustr.netmng.com^
 ||ndn.cdn.auditude.com^
 ||nep.advangelists.com^
+||netcentric.biz^
 ||net.kg^
 ||neustar.biz^
 ||newenglandsportsnetworkinc.hb-api.omtrdc.net^
@@ -3656,6 +3659,7 @@
 ||tag.1rx.io^
 ||tag.brainient.com^
 ||tag.crsspxl.com^
+||tag.hariken.co^
 ||tagr-gcp-lb1-ase1.mookie1.com^
 ||tagr-gcp-lb1-use1.mookie1.com^
 ||tagr-gcp-odr-use1.mookie1.com^
