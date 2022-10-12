@@ -1588,6 +1588,7 @@
 ||eedclicks.ero-advertising.com^
 ||e-hpaces.ero-advertising.com^
 ||ei.rlcdn.com^
+||ekod.info^
 ||elb.the-ozone-project.com^
 ||elmananadevalles.engine.core.windows.net.zooplus.com^
 ||eltepo.ru^
@@ -2262,6 +2263,7 @@
 ||kds.ero-advertising.com^
 ||keywordlink3.xlisting.jp^
 ||keywordlink.co.kr^
+||kinesis.eu-west-1.amazonaws.com^
 ||kingofthehill.fox-fan.tv^
 ||kinopokaz.org^
 ||kinozal-me.appspot.com^
@@ -2885,6 +2887,7 @@
 ||promote.telegram.org^
 ||promotions-paradise.org^
 ||promo.vbetua.com^
+||proofly.win^
 ||prov.samsungcloudsolution.com^
 ||proxymachine-emeacontrollerbackend.fw.windows-control.net.zooplus.com^
 ||proxymachine-gitlab.github-net.core.gw-int-511.windows.net.zooplus.com^
