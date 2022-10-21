@@ -437,7 +437,6 @@
 ||adservice.google.rs^
 ||adservice.google.ru^
 ||adservice.google.sc^
-||adservice.google.se^
 ||adservice.google.sk^
 ||adservice.google.sn^
 ||adservice.google.sr^
@@ -579,6 +578,7 @@
 ||analytics.ccgateway.net^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.ero-advertising.com^
+||analytics.freespee.com^
 ||analytics.glance.inmobi.com^
 ||analyticsimages.net.zooplus.com^
 ||analyticslatin.account-elastic-gitlab.global.net.zooplus.com^
@@ -1079,6 +1079,7 @@
 ||cam.demdex.net^
 ||campaign.ad-brix.com^
 ||campaign.brand.zing.vn^
+||campaigns-collector.albacross.com^
 ||cams.spacash.com^
 ||canonresourcecenter.com^
 ||car21.net.zooplus.com^
@@ -1682,6 +1683,7 @@
 ||eu-tlx.3lift.com^
 ||eu.y.atwola.com^
 ||evania.adspirit.de^
+||eventapi.libring.com^
 ||event.inner-active.mobi^
 ||events2-us-east-1.ipredictive.com^
 ||events.startappservice.com^
@@ -1948,6 +1950,7 @@
 ||go.padsdel.com^
 ||go.pl.bbelements.com^
 ||go.pub2srv.com^
+||go.traqueto.com^
 ||goya.rutube.ru^
 ||gozing.directtrack.com^
 ||grade.market.yandex.ru^
@@ -2177,6 +2180,7 @@
 ||inmarket.com^
 ||inpost-pl-pacid273jks.clhctrk.com^
 ||inrix.com^
+||insight.bellmetric.net^
 ||integralads.com^
 ||intelserviceupdate.com^
 ||intensedigital.adk2x.com^
@@ -2602,6 +2606,7 @@
 ||nep.advangelists.com^
 ||net.kg^
 ||neustar.biz^
+||new-collect.albacross.com^
 ||newenglandsportsnetworkinc.hb-api.omtrdc.net^
 ||newimagitasinc.hb.omtrdc.net^
 ||newrelic.com^
@@ -3057,7 +3062,6 @@
 ||roomandboard.hb.omtrdc.net^
 ||r.openx.net^
 ||rosettastone.tt.omtrdc.net^
-||rotator.riedta.com^
 ||rouwhapt.com^
 ||rp4.liadm.com^
 ||rp.liadm.com^
@@ -3160,6 +3164,7 @@
 ||saxobank.hb.omtrdc.net^
 ||sbbe.group-ib.ru^
 ||sb.freeskreen.com^
+||sbhc.portalhc.com^
 ||sb.l.google.com^
 ||sb.monetate.net^
 ||sbsaustralia.hb.omtrdc.net^
@@ -3237,7 +3242,6 @@
 ||secure.coax7nice.com^
 ||secure.coup7cold.com^
 ||secure.cuba7tilt.com^
-||secure.curl7bike.com^
 ||secure.dana8herb.com^
 ||secure.dawn3host.com^
 ||secure-dcr-cert.imrworldwide.com^
@@ -3512,7 +3516,6 @@
 ||snap.snapmobile.asia^
 ||sniff.visistat.com^
 ||snowplowanalytics.com^
-||s.ntv.io^
 ||so.2mdn.net^
 ||socauth.privatbank.ua^
 ||soda.startappservice.com^

@@ -1825,7 +1825,6 @@
 ||theamericanrevenant.com^
 ||theantimedia.org^
 ||theavocadonews.com^
-||thebeaverton.com^
 ||theblacksphere.net^
 ||theblaze.com^
 ||thebostontribune.com^
