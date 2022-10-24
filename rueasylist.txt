@@ -201,7 +201,6 @@
 ||acdn.adnxs-simple.com^
 ||acecashexpress.tt.hb-api.omtrdc.net^
 ||ackee.mark.vin^
-||ackeyimerina.com^
 ||ac.mmstat.com^
 ||acnescarsx.info^
 ||acspaces.ero-advertising.com^
@@ -837,7 +836,6 @@
 ||ats.rlcdn.com^
 ||att.hb-api.omtrdc.net^
 ||att.hb.omtrdc.net^
-||attritioncuff.com^
 ||at.umtrack.com^
 ||a.t.webtracker.jp^
 ||au.adserver.yahoo.com^
@@ -913,7 +911,6 @@
 ||backendtest-svc.systemprofilespartner-prod.net.zooplus.com^
 ||b.adnxs.com^
 ||balancer-cloud-live-chat.kyivstar.ua^
-||balledalloy.com^
 ||bam.eu01.nr-data.net^
 ||bam.nr-data.net^
 ||bamtech.tt.omtrdc.net^
@@ -972,7 +969,6 @@
 ||bet.demdex.net^
 ||bet.hb.omtrdc.net^
 ||bhpz.adj.st^
-||biasedrepercussion.com^
 ||biddr.brealtime.com^
 ||biddr-cloud.brealtime.com^
 ||bid.openx.net^
@@ -3051,7 +3047,6 @@
 ||retcode-us-west-1.arms.aliyuncs.com^
 ||retency.com^
 ||reunion.tt.omtrdc.net^
-||revolutioninsinuate.com^
 ||rikhov.ru^
 ||rlogoro.ru^
 ||r.mail.ru^
@@ -3886,7 +3881,6 @@
 ||um2.eqads.com^
 ||um3.eqads.com^
 ||umbs.ero-advertising.com^
-||unbeltsmoringa.com^
 ||unified.adsafeprotected.com^
 ||unifiedbidding.ad.smaato.net^
 ||unified-ter-na.hismarttv.com^
