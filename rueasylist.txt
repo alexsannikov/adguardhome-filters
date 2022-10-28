@@ -78,6 +78,7 @@
 ||7wmw.adj.st^
 ||83nsdjqqo1cau183xz.com^
 ||8t5arpenulwportal.images.net.zooplus.com^
+||9136.com^
 ||94vs.adj.st^
 ||9864.engine.mobileapptracking.com^
 ||9ata.ero-advertising.com^
@@ -3585,6 +3586,8 @@
 ||stats.ero-advertising.com^
 ||statse.webtrendslive.com^
 ||statsf-tm.everesttech.net^
+||stats.zone-telechargement.click^
+||stats.zone-telechargement.work^
 ||s.tcimg.com^
 ||sterrencash.nl^
 ||s.thebrighttag.com^
