@@ -199,7 +199,6 @@
 ||acdn.adnxs.com^
 ||acdn.adnxs-simple.com^
 ||acecashexpress.tt.hb-api.omtrdc.net^
-||ackee.mark.vin^
 ||ac.mmstat.com^
 ||acnescarsx.info^
 ||acspaces.ero-advertising.com^
@@ -2737,7 +2736,6 @@
 ||pespn.chartbeat.net^
 ||p.estream.to^
 ||pfa.levexis.com^
-||pfm-stat.online.sberbank.ru^
 ||pg2.solution.weborama.fr^
 ||pgatour.hb.omtrdc.net^
 ||ph-gmtdmp.mookie1.com^
