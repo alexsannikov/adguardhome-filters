@@ -81,16 +81,12 @@
 ||9ata.ero-advertising.com^
 ||9newstoday.net^
 ||a1.adform.net^
-||a1.adsplay.xyz^
 ||a1.seadform.net^
-||a3.adsplay.xyz^
 ||a3pub.com^
-||a4.adsplay.xyz^
 ||a5pub.com^
 ||aaa.at4.info^
 ||aaa.dv0.info^
 ||a.ads2.msn.com^
-||a.adsplay.xyz^
 ||a.adtechus.com^
 ||a.adtng.com^
 ||aa.online-metrix.net^
@@ -261,7 +257,6 @@
 ||adm.dynamicyield.com^
 ||adm.email-svcgateway-bucket-nautilus-apache-tester.net.zooplus.com^
 ||ad.mi.com^
-||admin.adsplay.xyz^
 ||admincsr21raw.skins.raw-int-511.controllerapplication.net.zooplus.com^
 ||administrator.gitlab.net.core.windows.net.zooplus.com^
 ||administrator-oid.dii1testbedvision.activemarketing.net.zooplus.it^
@@ -515,6 +510,7 @@
 ||affiliate.playhub.store^
 ||affiliates.bet-at-home.com^
 ||affiliationjs.s3.amazonaws.com^
+||affiliatly.com^
 ||a.fileplaneta.com^
 ||afimg.liveperson.com^
 ||aflt.market.yandex.ru^
@@ -612,10 +608,8 @@
 ||apc.socdm.com^
 ||api16-access-gcp.pangle.io^
 ||api16-access-sg.pangle.io^
-||api4report.adsplay.xyz^
 ||api.activemarketing.net.zooplus.it^
 ||api.ad.smaato.net^
-||api.adsplay.xyz^
 ||api.adthor.com^
 ||api.adtimaserver.vn^
 ||api.ad.xiaomi.com^
@@ -1369,8 +1363,6 @@
 ||count.yandex.ru^
 ||coxcommunications.hb-api.omtrdc.net^
 ||coxnet.hb.omtrdc.net^
-||cp1.adsplay.xyz^
-||cp.adsplay.xyz^
 ||cpa-tracking.mclick.mobi^
 ||cpm1.affiz.net^
 ||cp.masiodls.com^
@@ -1416,11 +1408,9 @@
 ||d241ujsiy3yht0.cloudfront.net^
 ||d37ju0xanoz6gh.cloudfront.net^
 ||d3mjsomixevyw7.cloudfront.net^
-||d7.adsplay.xyz^
 ||daaa.ero-advertising.com^
 ||dacash.streamplay.to^
 ||dadata.ru^
-||d.adsplay.xyz^
 ||daea.ero-advertising.com^
 ||daia.ero-advertising.com^
 ||dailymotion.demdex.net^
@@ -2031,7 +2021,6 @@
 ||icqadvert.org^
 ||i.ctnsnet.com^
 ||ictowaz.ru^
-||id.adsplay.xyz^
 ||id.crwdcntrl.net^
 ||idearc.tt.omtrdc.net^
 ||identity.mparticle.com^
