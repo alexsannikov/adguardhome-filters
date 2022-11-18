@@ -425,6 +425,7 @@
 ||adservice.google.pt^
 ||adservice.google.ro^
 ||adservice.google.rs^
+||adservice.google.ru^
 ||adservice.google.sc^
 ||adservice.google.sk^
 ||adservice.google.sn^
@@ -2103,6 +2104,7 @@
 ||impr.ymtracking.com^
 ||in.adserver.yahoo.com^
 ||in.appcenter.ms^
+||incolumitas.com^
 ||independentdigital.hb.omtrdc.net^
 ||indexhu.adocean.pl^
 ||indium.openx.net^
@@ -2384,6 +2386,7 @@
 ||matomo.org^
 ||maven.blueconic.net^
 ||max.ad.xiaomi.com^
+||maxpark.com^
 ||mbox12.offermatica.com^
 ||mbox3e.offermatica.com^
 ||mbox3.offermatica.com^
@@ -2636,6 +2639,7 @@
 ||package.cdn.pandora.xiaomi.com^
 ||p.adnxs.com^
 ||pad-v3.presage.io^
+||pagead2.googleadservices.com^
 ||pagead46.l.doubleclick.net^
 ||pagead.googlesyndication.com^
 ||pagepeel.ero-advertising.com^
