@@ -1480,7 +1480,6 @@
 ||dmp.brand-display.com^
 ||dmpsync.3lift.com^
 ||dms.netmng.com^
-||dnacdn.net^
 ||d.newssuite.sony.net^
 ||docs.pipenv.org^
 ||dofolo.ru^
@@ -1735,6 +1734,7 @@
 ||freecontent.date^
 ||freecontent.party^
 ||freecontent.stream^
+||freestar-d.openx.net^
 ||free.thesocialsexnetwork.com^
 ||freewheeleventsbidder-east.extend.tv^
 ||fr-gmtdmp.mookie1.com^
