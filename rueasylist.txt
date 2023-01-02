@@ -1035,6 +1035,7 @@
 ||carbonrmp.com^
 ||cartoonnetworknewmedia.hb-api.omtrdc.net^
 ||cartoonnetworknewmedia.hb.omtrdc.net^
+||cas.clickability.com^
 ||cata.ero-advertising.com^
 ||catalina.com^
 ||cbcca.hb.omtrdc.net^
@@ -1998,6 +1999,7 @@
 ||idspaces.ero-advertising.com^
 ||idsync.rlcdn.com^
 ||iflix.hb.omtrdc.net^
+||iframe.mediaplazza.com^
 ||ih.adscale.de^
 ||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||i.l-dsp.inmobicdn.net^
