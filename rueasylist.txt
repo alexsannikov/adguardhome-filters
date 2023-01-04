@@ -1926,7 +1926,6 @@
 ||hmi-hershey.hrzn-nxt.com^
 ||hnfwg.voluumtrk.com^
 ||homedepot.tt.omtrdc.net^
-||h.online-metrix.net^
 ||hostingcloud.date^
 ||hostingcloud.review^
 ||hostingcloud.science^
