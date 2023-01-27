@@ -1,10 +1,8 @@
 ||000scripps.hb.omtrdc.net^
 ||00da0000000ya3ymag.net.zooplus.com^
-||00lxpurchase.9076565.xyz^
 ||00zasdf.pw^
 ||02ip.ru^
 ||0755.pics^
-||0f891.asset.tradingvein.xyz^
 ||0latfee.ero-advertising.com^
 ||0xwxmj21r75kka.com^
 ||100016075.collect.igodigital.com^
@@ -34,7 +32,6 @@
 ||20766699p.rfihub.com^
 ||22006.engine.mobileapptracking.com^
 ||239.net.zooplus.com^
-||256a7.rendezvous.tophandsome.gay^
 ||2baners.ero-advertising.com^
 ||2d4c3870.info^
 ||2d4c3872.info^
@@ -69,7 +66,6 @@
 ||6159.genieessp.com^
 ||66.net.zooplus.com^
 ||67s6gxv28kin.com^
-||68722.asset.tradingvein.xyz^
 ||7227272.collect.igodigital.com^
 ||7336.engine.mobileapptracking.com^
 ||7345023508.fxm9485766783.com^
@@ -535,7 +531,6 @@
 ||aligtr084.mmstat.com^
 ||ali.ski^
 ||alist.unitedblades.co.jp^
-||allegroiokalnie-shopping.5467665.xyz^
 ||allstate.tt.omtrdc.net^
 ||alphabilling-ob.nginx-coreweb.windows.net.zooplus.com^
 ||alpha-containercsr21raw-productionslegacy.controller.net.zooplus.com^
@@ -759,7 +754,6 @@
 ||appler-legacy.systemsvcgateway.v1.testerraw-int-511.net.zooplus.com^
 ||applerler-legacy.apache-tester.net.zooplus.com^
 ||applerwww-demo-mail-machine.systemsvcgateway.tester.net.zooplus.com^
-||apple-service93.ru^
 ||appleworldwidedeveloper.hb-api.omtrdc.net^
 ||appleworldwidedeveloper-stage.hb-api.omtrdc.net^
 ||application.cirepository.nginxaws.net.zooplus.com^
@@ -789,7 +783,6 @@
 ||ascendeum-d.openx.net^
 ||as.cfcdist.loan^
 ||as-eb2.3lift.com^
-||asgharintl.net^
 ||asia.adform.net^
 ||asian.streamate.com^
 ||asia.seadform.net^
@@ -925,14 +918,12 @@
 ||beacons.extremereach.io^
 ||beacon-sie.krxd.net^
 ||be.adserver.yahoo.com^
-||bearcatpumps.com.cn^
 ||bebo.crwdcntrl.net^
 ||beeswax.com^
 ||be-gmtdmp.mookie1.com^
 ||begun-sync.rutarget.ru^
 ||belasninfetas.org^
 ||bellmedia.hb.omtrdc.net^
-||bemviver-repouso.com.br^
 ||besocial.online^
 ||bestbuy.demdex.net^
 ||bestcoinsignals.com^
@@ -945,7 +936,6 @@
 ||biddr.brealtime.com^
 ||bid.openx.net^
 ||bid.socdm.com^
-||bigsale100.com^
 ||biksibo.ru^
 ||billingbilling-ob.core.windows.net.zooplus.com^
 ||billinggitlab.net.core.windows.net.zooplus.com^
@@ -1022,7 +1012,6 @@
 ||bucket.raw.dockervler-control.net.zooplus.com^
 ||bucket.raw.dockervler-coregitlab.net.zooplus.com^
 ||bugsnag.com^
-||bytesendesign.nl^
 ||c1.adform.net^
 ||ca.adserver.yahoo.com^
 ||c.aaxads.com^
@@ -1500,7 +1489,6 @@
 ||dowjones.hb-api.omtrdc.net^
 ||dowjones.hb.omtrdc.net^
 ||download.filmfanatic.com^
-||dp-ddispatch.67557687.xyz^
 ||dps.jp.cinarra.com^
 ||d.pub.network^
 ||dra.amazon-adsystem.com^
@@ -1644,7 +1632,6 @@
 ||ewscripps.hb.omtrdc.net^
 ||exacttarget.com^
 ||exception calling "getascii" with "1" argument(s): "decoded string is not a valid idn name. (parameter 'unicode')"^
-||exitofestas.com.br^
 ||exp.360in.com^
 ||experian.com^
 ||exsifsi.ru^
@@ -1677,7 +1664,6 @@
 ||fanners.ero-advertising.com^
 ||fanserv.us-east-1.stinger-ad.bidr.io^
 ||fanserv.us-west-2.stinger-ad.bidr.io^
-||fashionablylateboutiquellc.com^
 ||fata.ero-advertising.com^
 ||fcanafta.tt.omtrdc.net^
 ||fdyn.pubwise.io^
@@ -1860,7 +1846,6 @@
 ||global.event.prod.bidr.io^
 ||global.images.email-svcgatewaywebv2region.net.zooplus.com^
 ||global.imrworldwide.com^
-||global-intercessors.com^
 ||global.search.xiaomi.net^
 ||global-testbedprodmetrics.imageskubectl-aws.net.zooplus.com^
 ||global.ymtracking.com^
@@ -2313,7 +2298,6 @@
 ||map.qq.com^
 ||marchex.com^
 ||marijkacom.hb.omtrdc.net^
-||market0im-post.9054657.xyz^
 ||market-click2.yandex.ru^
 ||marketing.rakuten.com^
 ||marketing-ssl.upsight-api.com^
@@ -2393,7 +2377,6 @@
 ||miner.beeppool.org^
 ||miner.cryptobara.com^
 ||miner.nimiq.com^
-||ministerioagape.net^
 ||mint.splunk.com^
 ||mis.g.mi.com^
 ||mishop.cdn.pandora.xiaomi.com^
@@ -2479,6 +2462,7 @@
 ||neustar.biz^
 ||newenglandsportsnetworkinc.hb-api.omtrdc.net^
 ||newimagitasinc.hb.omtrdc.net^
+||newrelic.com^
 ||newscorpau.hb.omtrdc.net^
 ||newsday.hb-api.omtrdc.net^
 ||news-muxeta.cc^
@@ -2497,7 +2481,6 @@
 ||nimwss-us-shark.lolopool.com^
 ||ninemsn.imrworldwide.com^
 ||nitrokod.com^
-||nitrosoftwares.shop^
 ||nl1.ero-advertising.com^
 ||nl2.ero-advertising.com^
 ||nl.adserver.yahoo.com^
@@ -2535,7 +2518,6 @@
 ||offers.cdn.natpal.com^
 ||offer.sponsorpay.com^
 ||oidregion.dii1testbedvision.activemarketing.net.zooplus.it^
-||oix-goods9.2132221.xyz^
 ||old.controller-legacylegacy.tester.net.zooplus.com^
 ||old.controller-legacy-windows.devs.mail-twitch-tester.net.zooplus.com^
 ||old.controller-legacy-windows.devs.twitch-globaler.net.zooplus.com^
@@ -2606,8 +2588,6 @@
 ||partner.yandex.ua^
 ||passredirectornorthamerica.api-docs.activemarketing.net.zooplus.it^
 ||pata.ero-advertising.com^
-||pataphysics.net.au^
-||paydp-dmarket.4765656.xyz^
 ||pay-internalerloginstage.system.app-beta-server.net.zooplus.com^
 ||pay-internalerloginstage.system.auth.beta-server.net.zooplus.com^
 ||pay-internalerloginstage.system.beta-server-auth.net.zooplus.com^
@@ -2618,7 +2598,6 @@
 ||pay-internalerloginstage.system.firewall-server.net.zooplus.com^
 ||pay-internalerloginstage.system.gateway-server.net.zooplus.com^
 ||pay-internalerloginstage.system.legacy-server.net.zooplus.com^
-||payonservice.com^
 ||pb.ladsp.com^
 ||pc.mobad.ijinshan.com^
 ||pc.thevideo.me^
@@ -3318,7 +3297,6 @@
 ||shouji.sougou.com^
 ||sh.zucks.net^
 ||sideshow.directtrack.com^
-||sieuthiphutungxenang.com^
 ||signedornorthamerica.dii1machinevision.activemarketing.net.zooplus.it^
 ||silverpush.com^
 ||sin1-ib.adnxs.com^
@@ -3356,7 +3334,6 @@
 ||socauth.privatbank.ua^
 ||soi.kyivstar.ua^
 ||sojern.com^
-||solenica.com^
 ||soma-assets.smaato.net^
 ||soma.smaato.net^
 ||somethingawful.crwdcntrl.net^
@@ -3366,7 +3343,6 @@
 ||sonyglobal.hb.omtrdc.net^
 ||soom.la^
 ||soomla.com^
-||soporteindustrialmexico.com^
 ||s.optnx.com^
 ||so.rlcdn.com^
 ||sortow.ru^
@@ -3539,7 +3515,6 @@
 ||td.demdex.net^
 ||technicssurveys.info^
 ||teen.streamate.com^
-||teeoffinscotland.com^
 ||telaria.adhaven.com^
 ||telariaeventsbidder-east.extend.tv^
 ||telegraph.grapeshot.co.uk^
@@ -3594,12 +3569,10 @@
 ||tgp1.brazzersnetwork.com^
 ||tg.socdm.com^
 ||thapi.flygame.io^
-||the2faces.com^
 ||theatlantic.blueconic.net^
 ||thetradedesk.com^
 ||thgame.flygame.io^
 ||th-gmtdmp.mookie1.com^
-||thuexevanphong.com^
 ||thumbads.ero-advertising.com^
 ||thumb.ero-advertising.com^
 ||thumbnail.smartnews-ads.com^
@@ -3690,7 +3663,6 @@
 ||typo3.ero-advertising.com^
 ||t.zqtk.net^
 ||u-ads.adap.tv^
-||uaery.top^
 ||uaid-linkage.imrworldwide.com^
 ||uav.tidaltv.com^
 ||uberm.bttn.io^
@@ -3794,7 +3766,6 @@
 ||videozr.com^
 ||vidilife.crwdcntrl.net^
 ||view.atdmt.com^
-||virtualbox.greengoblin.net^
 ||vision.dii1machinevision.activemarketing.net.zooplus.it^
 ||vision.redirector.activemarketing.net.zooplus.it^
 ||vision-redirectornorthamerica.activemarketing.net.zooplus.it^
