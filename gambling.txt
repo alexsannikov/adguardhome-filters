@@ -131,6 +131,7 @@
 ||32red.com^
 ||32redsport.com^
 ||331725.com^
+||331729.com^
 ||338kbet.com^
 ||33beta.com^
 ||33betad.com^
@@ -411,6 +412,7 @@
 ||ae888vn.com^
 ||ae9888.com^
 ||ae988bet.com^
+||aebet.bet^
 ||aewin88.com^
 ||affiliate.w88f1.com^
 ||affk8top.com^
@@ -482,7 +484,9 @@
 ||bay789.vin^
 ||bayvip247.fun^
 ||bayvip247.live^
+||bayvip247.me^
 ||bayvip247.page^
+||bayvip247.win^
 ||bayvip.biz^
 ||bayvip.tv^
 ||b-bets.com^
@@ -733,6 +737,7 @@
 ||bk8vnd.com^
 ||bk8vn.live^
 ||bk8vn.vip^
+||bk8win.top^
 ||blogcmd368.com^
 ||blogf8bet.com^
 ||bobcasino.com^
@@ -1064,6 +1069,7 @@
 ||dakotacasino.com^
 ||damacai.com.my^
 ||dangkybayvip.com^
+||dangkybum.club^
 ||dangkykubet.vip^
 ||dangkythabet.com^
 ||danskespil.dk^
@@ -1125,6 +1131,7 @@
 ||dreamjackpot.com^
 ||dreamvegas.com^
 ||dreamz.com^
+||dubaivn.vip^
 ||duckyluck.ag^
 ||duelbits.com^
 ||duelz.com^
@@ -1438,6 +1445,7 @@
 ||happy9luck.com^
 ||happynb.com^
 ||hawaiicasino.com^
+||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
 ||hb88g.com^
@@ -1544,6 +1552,7 @@
 ||i9bet39.com^
 ||i9bet3.com^
 ||i9bet444.com^
+||i9bet49.com^
 ||i9bet4.com^
 ||i9bet5.com^
 ||i9bet666.com^
@@ -1598,10 +1607,13 @@
 ||isportbet.net^
 ||itvbingo.com^
 ||iwiin.club^
+||iwin6699.com^
+||iwin68m.com^
 ||iwinapk.link^
 ||iwinapplink.club^
 ||iwin.club^
 ||iwinclub.win^
+||iwin.info^
 ||j3108.com^
 ||j7bet.com^
 ||j9-btc.com^
@@ -4040,8 +4052,10 @@
 ||playgo88.top^
 ||playgrandcasino.com^
 ||playiwin.biz^
+||playiwin.club^
 ||playiwin.in^
 ||playiwin.site^
+||playiwin.top^
 ||playiwin.uk^
 ||playmanclub.uk^
 ||playmanclub.vin^
@@ -4144,6 +4158,7 @@
 ||rikkk.net^
 ||rikk.us^
 ||rikstoto.no^
+||rik.top^
 ||rik.vip^
 ||rikvip2.vip^
 ||rikvipclub.us^
@@ -4206,13 +4221,15 @@
 ||sesame.bg^
 ||sesbet.com^
 ||setantabet.com^
-||shb11.com^
 ||shbet0.com^
 ||shbet2.com^
 ||shbet3.com^
-||shbetcc.com^
 ||shbet.com^
 ||shbetgg.com^
+||shbet.love^
+||shbet.me^
+||shbet.news^
+||shbet.rip^
 ||shbet.site^
 ||shbet.vin^
 ||shbetvv.com^
@@ -4492,6 +4509,7 @@
 ||thunderpick.com^
 ||thuonghieunhacai.com^
 ||thuonghieunhacai.net^
+||thuongkingfun.biz^
 ||thvwbet.com^
 ||tin010.com^
 ||tipbet.com^
@@ -4864,9 +4882,11 @@
 ||win365good.com^
 ||win365vip8.com^
 ||win365vip9.com^
+||win456.cc^
 ||win79.app^
 ||win79.download^
 ||win79play.me^
+||win79.pro^
 ||win79.vip^
 ||win888b.com^
 ||win88.me^
