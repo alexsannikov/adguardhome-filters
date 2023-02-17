@@ -19,6 +19,7 @@
 ||03bestk8.com^
 ||03gamek8.com^
 ||03prok8.com^
+||048.com^
 ||04bestk8.com^
 ||04gamek8.com^
 ||04prok8.com^
@@ -1036,7 +1037,17 @@
 ||cuocvuik8.com^
 ||cupcakebingo.com^
 ||cupcakebingo.co.uk^
+||cwin01.com^
+||cwin02.com^
+||cwin03.com^
+||cwin04.com^
+||cwin05.com^
+||cwin111.com^
+||cwin222.com^
+||cwin333.com^
+||cwin444.com^
 ||cwin999.com^
+||cwin.com^
 ||d4j95.com^
 ||d9bet38.com^
 ||d9bet68.com^
@@ -4896,6 +4907,7 @@
 ||winmasters.com^
 ||winner.co.uk^
 ||winningft.com^
+||wintbr.com^
 ||wishmaker.com^
 ||wixstars.com^
 ||worldofsport.co.za^
