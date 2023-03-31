@@ -547,6 +547,7 @@
 ||betamerica.com^
 ||betandclick.com^
 ||betano.bg^
+||betano.cz^
 ||betanysports.eu^
 ||bet-at-home.com^
 ||betbanh88.com^
@@ -758,6 +759,7 @@
 ||bk8vn.live^
 ||bk8vn.vip^
 ||bk8win.top^
+||blancoshrimp.com^
 ||blogcmd368.com^
 ||blogf8bet.com^
 ||bobcasino.com^
@@ -1663,6 +1665,7 @@
 ||ibet889.com^
 ||ibetcasino.com^
 ||ibwinghot.com^
+||iforbet.cz^
 ||iforbet.pl^
 ||ifortuna.cz^
 ||igame.com^
