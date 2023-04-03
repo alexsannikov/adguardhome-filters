@@ -18811,6 +18811,7 @@
 ||vid2c.com^
 ||vidbang.com^
 ||vidble.com^
+||vidcdn.info^
 ||video1tube.com^
 ||video.520call.me^
 ||video69.ru^
