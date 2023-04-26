@@ -363,12 +363,14 @@
 ||jp.twimg.com^
 ||licdn.com^
 ||linkedin.com^
+||lobi.co^
 ||ma0.twimg.com^
 ||ma1.twimg.com^
 ||ma2.twimg.com^
 ||ma3.twimg.com^
 ||match.com^
 ||ma.twimg.com^
+||mbga.jp^
 ||media-ams3-1.cdn.whatsapp.net^
 ||media-amt2-1.cdn.whatsapp.net^
 ||media-arn2-1.cdn.whatsapp.net^
@@ -433,6 +435,8 @@
 ||media-yyz1-1-cdn.whatsapp.net^
 ||messages-facebook.com^
 ||messenger.com^
+||mixch.tv^
+||mixi.jp^
 ||m.me^
 ||mme6.whatsapp.net^
 ||mme.whatsapp.net^
