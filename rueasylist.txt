@@ -919,6 +919,7 @@
 ||bannevs.ero-advertising.com^
 ||barclayscapital-ssl.112.2o7.net^
 ||barclaysinternationalibprod.112.2o7.net^
+||bar.investtraderxreh.com^
 ||base-cdn.admarvel.com^
 ||basesclick.ru^
 ||bassmaster.112.2o7.net^
@@ -1012,6 +1013,7 @@
 ||blisspoint.us-east-1.stinger-ad.bidr.io^
 ||blisspoint.us-west-2.stinger-ad.bidr.io^
 ||block.s4block.com^
+||blog.investtraderxreh.com^
 ||b.logly.co.jp^
 ||blogtalkradio.crwdcntrl.net^
 ||bluehawk-ci.com^
@@ -1526,6 +1528,7 @@
 ||data.ero-advertising.com^
 ||data.game.xiaomi.com^
 ||date.ero-advertising.com^
+||dat.investtraderxreh.com^
 ||dat.itsup.com^
 ||datonics.com^
 ||dats.ero-advertising.com^
@@ -1974,7 +1977,6 @@
 ||georgewbushcom.112.2o7.net^
 ||geo.rlcdn.com^
 ||geosign.112.2o7.net^
-||getlasso.co^
 ||get.optad360.io^
 ||getsentry.com^
 ||getsitecontrol.com^
