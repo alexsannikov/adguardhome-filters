@@ -347,6 +347,7 @@
 ||8game19.com^
 ||8game20.com^
 ||8icuu.com^
+||8k00000.com^
 ||8kbet.app^
 ||8kbet.vn^
 ||8live.club^
@@ -1363,6 +1364,7 @@
 ||fb88you.com^
 ||fb88zo.com^
 ||fb9.com^
+||fb9fun.com^
 ||fcb88.com^
 ||fcb88d.com^
 ||fcb8.club^
@@ -1498,6 +1500,7 @@
 ||go88f.com^
 ||go88.im^
 ||go88.live^
+||go88.luxury^
 ||go88.vip^
 ||go88-vn.com^
 ||go88vn.live^
@@ -1665,6 +1668,7 @@
 ||i9bet68.com^
 ||i9bet6.com^
 ||i9bet71.com^
+||i9bet72.com^
 ||i9bet74.com^
 ||i9bet75.com^
 ||i9bet7.com^
@@ -4410,6 +4414,7 @@
 ||sky88.info^
 ||sky88.top^
 ||sky88.uk^
+||sky88vao.club^
 ||sky88.win^
 ||skybet.com^
 ||skybook.ag^
@@ -4509,6 +4514,8 @@
 ||storspiller.com^
 ||strikewin.com^
 ||sts.pl^
+||sun52.bid^
+||sun52.click^
 ||sun52.tv^
 ||sun6.win^
 ||sun88.online^
@@ -4806,6 +4813,7 @@
 ||vernons.com^
 ||vestabet365.com^
 ||vf003.xyz^
+||vf234.com^
 ||vfun88.com^
 ||vg66.app^
 ||vg66.com^
