@@ -27,10 +27,12 @@
 ||20585485p.rfihub.com^
 ||20738914p.rfihub.com^
 ||20766699p.rfihub.com^
+||251-a1e-3000g0.v.plground.live^
 ||2d4c3870.info^
 ||2d4c3872.info^
 ||321j1157ftjd.tech^
 ||32d1d3b9c.se^
+||3525-c73e.kxcdn.com^
 ||3gupload.112.2o7.net^
 ||3p3x.adj.st^
 ||3ppa.jp.cinarra.com^
@@ -51,6 +53,7 @@
 ||79423.analytics.edgekey.net^
 ||7wmw.adj.st^
 ||83nsdjqqo1cau183xz.com^
+||85b6b2.ws^
 ||94vs.adj.st^
 ||9newstoday.net^
 ||a1.adform.net^
@@ -623,6 +626,7 @@
 ||apis.murdoog.com^
 ||api.sociaplus.com^
 ||api.sponsorpay.com^
+||api.strvid.ws^
 ||api.thetake.com^
 ||api.tiles.mapbox.com^
 ||api.tjme.io^
@@ -748,6 +752,7 @@
 ||ap-southeast-1.prod.pr.analytics.console.aws.a2z.com^
 ||a.pub.network^
 ||ar.adserver.yahoo.com^
+||aragorn-as.newplayjj.com^
 ||aramarkus.112.2o7.net^
 ||ar-ar.facebook.com^
 ||ar.atwola.com^
@@ -1144,6 +1149,7 @@
 ||cdn2.extremereach.io^
 ||cdn2.inner-active.mobi^
 ||cdn.3lift.com^
+||cdn3.vb17123filippaaniketos.pw^
 ||cdn4.crispadvertising.com^
 ||cdn4.mxpnl.com^
 ||cdn4.vb17123filippaaniketos.pw^
@@ -1213,6 +1219,7 @@
 ||cdn.urekamedia.com^
 ||cdn-usent.kampyle.com^
 ||cdn.vidible.tv^
+||cds.b5g9b8e4.hwcdn.net^
 ||cengagecsinfosec.112.2o7.net^
 ||central1creditunion.112.2o7.net^
 ||cerebral.typn.com^
@@ -1446,6 +1453,7 @@
 ||cz.bbelements.com^
 ||czerwo.ru^
 ||cz-gmtdmp.mookie1.com^
+||d0b-000-2600g0.v.plground.live^
 ||d179kwmlpc4o47.cloudfront.net^
 ||d1jwpcr0q4pcq0.cloudfront.net^
 ||d1oxlq5h9kq8q5.cloudfront.net^
@@ -2996,6 +3004,7 @@
 ||pcconnectioncom.112.2o7.net^
 ||pch.122.2o7.net^
 ||pc.mobad.ijinshan.com^
+||pc.playjusting.com^
 ||pc.thevideo.me^
 ||pctoolscom.112.2o7.net^
 ||pcworldcommunication.122.2o7.net^
@@ -3759,6 +3768,7 @@
 ||s.vi-serve.com^
 ||swa.demdex.net^
 ||swadvertising.org^
+||swamp.alloeclub.com^
 ||swisscom.demdex.net^
 ||swsoft.122.2o7.net^
 ||sxcdn02.now.sh^
@@ -3917,6 +3927,7 @@
 ||tracer.a-cast.jp^
 ||track.activemetering.com^
 ||track.adform.net^
+||track.adpod.in^
 ||track.ad.xiaomi.com^
 ||trackdownload.startappservice.com^
 ||tracker2kss.eu^
@@ -4037,7 +4048,9 @@
 ||us-west-tlx.3lift.com^
 ||uxip.meizu.com^
 ||v10.events.data.microsoft.com^
+||v-2.alloha.tv^
 ||v2.reachmax.cn^
+||v2.vandervort.link^
 ||v7pjo.voluumtrk.com^
 ||vabid.prod.sift.co^
 ||vafw.adsafeprotected.com^
@@ -4275,6 +4288,7 @@
 ||yukoyuko.112.2o7.net^
 ||yun.rili.cn^
 ||yupiromo.ru^
+||z9mx.ipchanger.live^
 ||z9q9kj37oy.kameleoon.eu^
 ||zag.112.2o7.net^
 ||zag.122.2o7.net^
