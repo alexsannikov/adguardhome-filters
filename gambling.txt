@@ -248,6 +248,7 @@
 ||78win09.com^
 ||79lucky.com^
 ||79sodo.com^
+||79sun.bet^
 ||79sun.net^
 ||7ballbet.com^
 ||7ballcity.com^
@@ -736,6 +737,7 @@
 ||bgbet.com^
 ||bgo.com^
 ||biendo1.com^
+||biendo2.com^
 ||biendo3.com^
 ||biendo9.com^
 ||biendo.club^
@@ -1519,6 +1521,7 @@
 ||go88.im^
 ||go88.live^
 ||go88.luxury^
+||go88r.pro^
 ||go88.vip^
 ||go88-vn.com^
 ||go88vn.live^
@@ -4874,6 +4877,7 @@
 ||vinalottery.com^
 ||vinnarum.com^
 ||vip130130.com^
+||vipbet001.org^
 ||vipbet998.com^
 ||vipclub.so^
 ||vipsports.eu^
