@@ -42,6 +42,7 @@
 ||09bestk8.com^
 ||09gamek8.com^
 ||09prok8.com^
+||101ae888.com^
 ||10bet.com^
 ||10bet.co.uk^
 ||10gamek8.com^
@@ -83,6 +84,7 @@
 ||13lg8.com^
 ||168kbet.com^
 ||17878b7e7t.com^
+||1789bet.com^
 ||179bet.net^
 ||180bets.com^
 ||18834677.com^
@@ -145,6 +147,7 @@
 ||32redsport.com^
 ||331725.com^
 ||331729.com^
+||333666.buzz^
 ||338kbet.com^
 ||33beta.com^
 ||33betad.com^
@@ -225,12 +228,25 @@
 ||777.com^
 ||7788one.com^
 ||779one.com^
+||77ae888.com^
 ||78966.app^
+||7897890.bet^
 ||7897890.vip^
+||7897892.bet^
+||7897895.bet^
 ||789a.club^
 ||789b.asia^
 ||789b.dev^
+||789beta.com^
+||789betf.com^
+||789betj.com^
+||789betk.com^
+||789betn.com^
+||789betp.com^
+||789betr.com^
 ||789bet.run^
+||789bett.com^
+||789betu.com^
 ||789b.live^
 ||789b.win^
 ||789.club^
@@ -276,6 +292,7 @@
 ||828bet.net^
 ||8559553.com^
 ||8559555.com^
+||8559558.com^
 ||868vip1.live^
 ||868vip.mobi^
 ||881ae888.com^
@@ -385,6 +402,7 @@
 ||968.club^
 ||978bet34.com^
 ||988bet.info^
+||9911789.com^
 ||9966789.com^
 ||99994y.com^
 ||999live.net^
@@ -554,6 +572,7 @@
 ||bet88012.com^
 ||bet88013.com^
 ||bet88014.com^
+||bet88099.com^
 ||bet885678.com^
 ||bet90.com^
 ||bet9ja.com^
@@ -754,6 +773,7 @@
 ||bitcoinrush.io^
 ||bitcoinsports.eu^
 ||bitsaloon.com^
+||bk368.com^
 ||bk88safe.com^
 ||bk8ae.com^
 ||bk8bongda.com^
@@ -834,6 +854,7 @@
 ||buckandbutler.com^
 ||bulldog777.com^
 ||bulletbets.com^
+||bum3.club^
 ||bustabit.com^
 ||bustadice.com^
 ||butterflybingo.com^
@@ -1545,6 +1566,7 @@
 ||go88.live^
 ||go88.luxury^
 ||go88r.pro^
+||go88s.tv^
 ||go88.vip^
 ||go88-vn.com^
 ||go88vn.live^
@@ -1593,6 +1615,7 @@
 ||happynb.com^
 ||hawaiicasino.com^
 ||hb88017.com^
+||hb88031.com^
 ||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
@@ -1720,6 +1743,7 @@
 ||i9bet74.com^
 ||i9bet75.com^
 ||i9bet7.com^
+||i9bet85.com^
 ||i9bet86.com^
 ||i9bet888.com^
 ||i9bet8.com^
@@ -3167,7 +3191,9 @@
 ||ku19.net^
 ||ku558.net^
 ||ku6101.net^
+||ku6102.net^
 ||ku6106.net^
+||ku6107.net^
 ||ku6110.net^
 ||ku6131.net^
 ||ku777bet.com^
@@ -3186,6 +3212,7 @@
 ||kubet86.com^
 ||kubet888.info^
 ||kubet88.fun^
+||kubet88.org^
 ||kubet88.win^
 ||kubet8.us^
 ||kubet9.com^
@@ -3374,6 +3401,7 @@
 ||lxviet66.com^
 ||m.188sbsoccer.com^
 ||m1.may88d.com^
+||m2305.com^
 ||m883d.com^
 ||m88cvf.com^
 ||m88my.com^
@@ -3571,6 +3599,7 @@
 ||new8808.vip^
 ||new88111.com^
 ||new8884.com^
+||new88.ai^
 ||new88.love^
 ||new88.tips^
 ||new88w.com^
@@ -3894,6 +3923,9 @@
 ||sachsenlotto.de^
 ||safaribet.com.gh^
 ||saharabet.com^
+||sam86vip.tv^
+||sam86vip.vin^
+||samvip.bet^
 ||samvo.com^
 ||sanfrancasino.com^
 ||sasa889.com^
@@ -3993,6 +4025,7 @@
 ||smarkets.com^
 ||smashsportsbetting.com^
 ||snabbare.com^
+||soc88.uk^
 ||soc99.com^
 ||socalsportbook.com^
 ||society.gg^
@@ -4075,6 +4108,7 @@
 ||storspiller.com^
 ||strikewin.com^
 ||sts.pl^
+||sum4.club^
 ||sun52.bid^
 ||sun52.click^
 ||sun52.tv^
@@ -4158,12 +4192,14 @@
 ||taib52.com^
 ||taib52.vin^
 ||tai.b52vn.fun^
+||taibum.tv^
 ||taichoang.fun^
 ||taido99.win^
 ||taigame789.club^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
 ||taigenvip88.club^
+||taigenvip88.com^
 ||taigenvip.club^
 ||taigo88vn.com^
 ||taigo88vn.pro^
@@ -4177,6 +4213,7 @@
 ||tainbet.net^
 ||tai.nhatvip.live^
 ||taiok88.app^
+||taisum.co^
 ||taiv8.com^
 ||taiv8.info^
 ||taiv8.top^
@@ -4186,6 +4223,8 @@
 ||tap88.club^
 ||tatts.com^
 ||tbab395.com^
+||tbab535.com^
+||tbab953.com^
 ||tbr.games^
 ||tdtc.cc^
 ||tdtc.fun^
@@ -4384,6 +4423,7 @@
 ||vacasino.com^
 ||vandersports.com^
 ||vao789club.win^
+||vaoku.net^
 ||vaorikvip.com^
 ||vaorikvip.net^
 ||vb211.com^
@@ -4472,6 +4512,7 @@
 ||vnbiz88.com^
 ||vnbong88.live^
 ||vnclub88.live^
+||vncustomer1.vncslive.com^
 ||vnd1888.com^
 ||vnd188.app^
 ||vnd88hn.com^
@@ -4602,6 +4643,7 @@
 ||w88c1.com^
 ||w88city.com^
 ||w88club.com^
+||w88.day^
 ||w88easy.com^
 ||w88gp.com^
 ||w88hn.com^
@@ -4611,6 +4653,7 @@
 ||w88mp.com^
 ||w88ok.com^
 ||w88so.com^
+||w88st.com^
 ||w88u2.com^
 ||w88ud2.com^
 ||w88.vin^
@@ -4671,6 +4714,7 @@
 ||win79.vip^
 ||win86.info^
 ||win888b.com^
+||win88az.top^
 ||win88.me^
 ||winbet58.live^
 ||winbet58.win^
