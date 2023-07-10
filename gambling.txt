@@ -78,12 +78,12 @@
 ||12b99.com^
 ||12bet.com^
 ||12bet.uk^
+||12fifa2018.com^
 ||130casino.com^
 ||1337bid.com^
 ||138.com^
-||13lg8.com^
+||14betvnd.com^
 ||168kbet.com^
-||17878b7e7t.com^
 ||1789bet.com^
 ||179bet.net^
 ||180bets.com^
@@ -110,11 +110,9 @@
 ||189sport.com^
 ||18bet.com^
 ||18luck.pro^
-||18uvd.com^
 ||1bet2bet.com^
 ||1bet.com^
 ||1eight8.com^
-||1ghuw.com^
 ||1k98x.com^
 ||1stlines.com^
 ||1tamtam.com^
@@ -128,6 +126,7 @@
 ||21casino.com^
 ||21prive.com^
 ||221vw.com^
+||2222039.com^
 ||2277789.com^
 ||228kbet.com^
 ||22bet.co.ke^
@@ -148,6 +147,7 @@
 ||331725.com^
 ||331729.com^
 ||333666.buzz^
+||333666j.com^
 ||338kbet.com^
 ||33beta.com^
 ||33betad.com^
@@ -187,6 +187,7 @@
 ||5566688.com^
 ||5566688.net^
 ||558kbet.com^
+||55qh88.com^
 ||570manx.com^
 ||59y2x.com^
 ||5dimes.com^
@@ -386,6 +387,7 @@
 ||8xbet06.com^
 ||8xbet0.com^
 ||8xbet11.com^
+||8xbet253.com^
 ||8xbet.cc^
 ||8xbet.com^
 ||8xbet.fun^
@@ -496,7 +498,9 @@
 ||anonibet.com^
 ||apollobet.com^
 ||app611.net^
+||app.68win.co^
 ||appbk8.com^
+||appi9bet.com^
 ||arena-bet.com^
 ||artemisbet10.com^
 ||asianbeta.com^
@@ -510,6 +514,7 @@
 ||awin686.com^
 ||axbet.com^
 ||azcasino.com^
+||azf8bet.com^
 ||b29.bet^
 ||b29qc.win^
 ||b52d.club^
@@ -525,6 +530,7 @@
 ||bancalucky88.com^
 ||banca-red88.top^
 ||bandarklik4d.net^
+||baowin.net^
 ||barbadoscasino.com^
 ||bay789.vin^
 ||bayvip247.fun^
@@ -741,6 +747,8 @@
 ||betvictor.com^
 ||betvietnam.info^
 ||betvisa.com^
+||betvnd.cc^
+||betvnd.vip^
 ||betway.bg^
 ||betway.co.ke^
 ||betway.com^
@@ -1207,6 +1215,7 @@
 ||dccasino.com^
 ||dd7bet.me^
 ||dealerscasino.com^
+||debet1.com^
 ||debet88.win^
 ||debet.club^
 ||debet.com^
@@ -1364,8 +1373,10 @@
 ||f8betaa.com^
 ||f8betapp.net^
 ||f8bet.com^
+||f8betgg.com^
 ||f8bet.homes^
 ||f8bet.site^
+||f8bets.pro^
 ||f8bet.win^
 ||fa88vn.live^
 ||fa88.win^
@@ -1469,6 +1480,7 @@
 ||fsport.net^
 ||fuksiarz.pl^
 ||fullbetter.com^
+||fullbetvn.com^
 ||fun1008.com^
 ||fun1118.com^
 ||fun705.com^
@@ -1487,6 +1499,7 @@
 ||funk8th888.com^
 ||funtaikhoan.com^
 ||funtructuyen88.com^
+||fv88.win^
 ||fxbg7.com^
 ||g9vip.com^
 ||ga179.com^
@@ -1683,6 +1696,7 @@
 ||i99906.com^
 ||i99908.com^
 ||i999bb.com^
+||i9bet100.com^
 ||i9bet101.com^
 ||i9bet102.com^
 ||i9bet103.com^
@@ -1693,7 +1707,17 @@
 ||i9bet108.com^
 ||i9bet109.com^
 ||i9bet10.com^
+||i9bet110.com^
 ||i9bet111.com^
+||i9bet112.com^
+||i9bet113.com^
+||i9bet114.com^
+||i9bet115.com^
+||i9bet116.com^
+||i9bet117.com^
+||i9bet118.com^
+||i9bet119.com^
+||i9bet120.com^
 ||i9bet12.com^
 ||i9bet13.com^
 ||i9bet14.com^
@@ -1731,22 +1755,40 @@
 ||i9bet4.com^
 ||i9bet59.com^
 ||i9bet5.com^
+||i9bet60.com^
+||i9bet61.com^
 ||i9bet62.com^
 ||i9bet63.com^
 ||i9bet64.com^
+||i9bet65.com^
 ||i9bet666.com^
 ||i9bet6688.com^
+||i9bet67.com^
 ||i9bet68.com^
 ||i9bet6.com^
+||i9bet70.com^
 ||i9bet71.com^
 ||i9bet72.com^
 ||i9bet74.com^
 ||i9bet75.com^
+||i9bet76.com^
+||i9bet78.com^
+||i9bet79.com^
 ||i9bet7.com^
+||i9bet80.com^
+||i9bet81.com^
+||i9bet82.com^
+||i9bet83.com^
+||i9bet84.com^
 ||i9bet85.com^
 ||i9bet86.com^
+||i9bet87.com^
 ||i9bet888.com^
+||i9bet89.com^
 ||i9bet8.com^
+||i9bet90.com^
+||i9bet91.com^
+||i9bet92.com^
 ||i9bet999.com^
 ||i9bet9.com^
 ||i9bet.app^
@@ -1793,6 +1835,7 @@
 ||isportbet.net^
 ||itvbingo.com^
 ||iwiin.club^
+||iwin58.vip^
 ||iwin6699.com^
 ||iwin68m.com^
 ||iwin888.com^
@@ -2225,6 +2268,7 @@
 ||k8cc55.com^
 ||k8cc66.com^
 ||k8cc.com^
+||k8cc.today^
 ||k8cf001.com^
 ||k8cf002.com^
 ||k8cf003.com^
@@ -3152,6 +3196,7 @@
 ||kingbet86.com^
 ||kingbet86.info^
 ||kingdoithuong.net^
+||kingfun1.club^
 ||kingfun247.net^
 ||kingfun2.com^
 ||kingkong999.net^
@@ -3466,6 +3511,7 @@
 ||may88.top^
 ||may88.us^
 ||may88.vip^
+||may88vn.top^
 ||may88.win^
 ||mayansports.eu^
 ||mayclub.net^
@@ -3543,6 +3589,7 @@
 ||mu88f.com^
 ||mu88g.com^
 ||mu88h.com^
+||mu88.uk^
 ||mu90.com^
 ||mu922.com^
 ||mu929.com^
@@ -3599,6 +3646,7 @@
 ||new8808.vip^
 ||new88111.com^
 ||new8884.com^
+||new8894.com^
 ||new88.ai^
 ||new88.love^
 ||new88.tips^
@@ -3740,7 +3788,9 @@
 ||oz37j.com^
 ||ozbet.com.au^
 ||p2poker.net^
+||p350000.com^
 ||p38000.com^
+||p3vn.co^
 ||paddypower.com^
 ||paf.com^
 ||pais.co.il^
@@ -3761,8 +3811,10 @@
 ||pinnacle.com^
 ||pinnaclesports.com^
 ||piratespin.com^
+||pkwin1.com^
 ||planetofbets.com^
 ||planetwin365.com^
+||playbaowin.net^
 ||playbet.com^
 ||playclub.com^
 ||playersonly.ag^
@@ -3818,6 +3870,7 @@
 ||prontocasino.com^
 ||propawin.com^
 ||pt66.vip^
+||ptwin6.com^
 ||punchbets.com^
 ||purepoker.eu^
 ||pzbuk.pl^
@@ -3908,6 +3961,7 @@
 ||royalslots.com^
 ||royrichie.com^
 ||rubet.com^
+||rubik88.com^
 ||rush777.com^
 ||s0kn5.com^
 ||s26bet.bet^
@@ -4004,6 +4058,7 @@
 ||sky88.fun^
 ||sky88.in^
 ||sky88.info^
+||sky88.net^
 ||sky88.top^
 ||sky88.uk^
 ||sky88vao.club^
@@ -4029,8 +4084,10 @@
 ||soc99.com^
 ||socalsportbook.com^
 ||society.gg^
+||soco88.com^
 ||socvip9.club^
 ||socvip.com^
+||sodo109.com^
 ||sodo12.com^
 ||sodo13.com^
 ||sodo14.com^
@@ -4096,7 +4153,9 @@
 ||st66602.com^
 ||st66606.com^
 ||st666.bid^
+||st666.tv^
 ||st666.win^
+||st666win.us^
 ||stake.com^
 ||stakers.com^
 ||stakes.com^
@@ -4149,8 +4208,10 @@
 ||sv66c.com^
 ||sv66qc9.com^
 ||sv66s.com^
+||sv88a.com^
 ||sv88.club^
 ||sv88.com^
+||sv88r.com^
 ||sv88.uk^
 ||sv88.vin^
 ||sv88.vip^
@@ -4219,6 +4280,7 @@
 ||taiv8.top^
 ||taiwanlottery.com.tw^
 ||taiwin79.win^
+||taixiusunwin.games^
 ||takarakuji-official.jp^
 ||tap88.club^
 ||tatts.com^
@@ -4365,6 +4427,7 @@
 ||twin163.com^
 ||twin188.co^
 ||twin5568.com^
+||twin68.ink^
 ||twin868.com^
 ||tzzxt.com^
 ||uberskins.net^
@@ -4427,6 +4490,7 @@
 ||vaorikvip.com^
 ||vaorikvip.net^
 ||vb211.com^
+||vb777.co^
 ||vbet.com^
 ||vebo.bet^
 ||vegas79.casino^
@@ -4509,6 +4573,7 @@
 ||vn88vui.live^
 ||vn88win.live^
 ||vn969.com^
+||vnaz888.com^
 ||vnbiz88.com^
 ||vnbong88.live^
 ||vnclub88.live^
@@ -4669,6 +4734,7 @@
 ||wagerweb.ag^
 ||wagerweb.eu^
 ||wb77.net^
+||wbet58.com^
 ||wbet99.net^
 ||we1win10.com^
 ||we1win11.com^
@@ -4716,8 +4782,12 @@
 ||win888b.com^
 ||win88az.top^
 ||win88.me^
+||win88y.com^
+||win999.vip^
+||winbet288.com^
 ||winbet58.live^
 ||winbet58.win^
+||winbet999.info^
 ||winbet99.co^
 ||winbetaffiliates.bg^
 ||winbet.bg^
