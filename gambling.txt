@@ -83,6 +83,7 @@
 ||1337bid.com^
 ||138.com^
 ||14betvnd.com^
+||157win.com^
 ||168kbet.com^
 ||1789bet.com^
 ||179bet.net^
@@ -106,7 +107,6 @@
 ||188thethao.com^
 ||188vaobong.com^
 ||188viet.com^
-||1898bet.com^
 ||189sport.com^
 ||18bet.com^
 ||18luck.pro^
@@ -149,6 +149,7 @@
 ||333666.buzz^
 ||333666j.com^
 ||338kbet.com^
+||33ae888.com^
 ||33beta.com^
 ||33betad.com^
 ||33betc.com^
@@ -181,6 +182,8 @@
 ||4gy80.com^
 ||5123b.com^
 ||520xiaojin.com^
+||523bet.app^
+||523betapp.site^
 ||52gp1.com^
 ||5516688.com^
 ||5533789.com^
@@ -295,7 +298,10 @@
 ||8559555.com^
 ||8559558.com^
 ||868vip1.live^
+||868vip.asia^
+||868vip.live^
 ||868vip.mobi^
+||868vip.top^
 ||881ae888.com^
 ||882ae888.com^
 ||883ae888.com^
@@ -308,7 +314,9 @@
 ||888b.com^
 ||888betk8.net^
 ||888b.in^
+||888b.moe^
 ||888b.trade^
+||888bvn.vip^
 ||888.com^
 ||888k8vn.com^
 ||888sport.com^
@@ -463,6 +471,7 @@
 ||ae988bet.com^
 ||aebet.bet^
 ||aevn52888.com^
+||aevn999.com^
 ||aewin88.com^
 ||affiliate.w88f1.com^
 ||affk8top.com^
@@ -487,6 +496,7 @@
 ||allyoubet.ag^
 ||almeriaxxx.com^
 ||alo789.com^
+||alo789viet.com^
 ||alo789.vip^
 ||alo888.com^
 ||alo88.bet^
@@ -501,6 +511,7 @@
 ||app.68win.co^
 ||appbk8.com^
 ||appi9bet.com^
+||apptk.app^
 ||arena-bet.com^
 ||artemisbet10.com^
 ||asianbeta.com^
@@ -513,6 +524,7 @@
 ||aw8vn.com^
 ||awin686.com^
 ||axbet.com^
+||az888.bet^
 ||azcasino.com^
 ||azf8bet.com^
 ||b29.bet^
@@ -959,6 +971,7 @@
 ||cf68.club^
 ||cf68club.com^
 ||cf68club.net^
+||cf68.dev^
 ||cf68.fun^
 ||cf68.shop^
 ||cf68.vin^
@@ -1158,6 +1171,7 @@
 ||d9bet.cam^
 ||d9bet.store^
 ||dabet.club^
+||dabet.fun^
 ||dabet.me^
 ||dabet.top^
 ||dabet.us^
@@ -1193,9 +1207,11 @@
 ||daga.win^
 ||daily88uu.com^
 ||dailybet365vn.com^
+||dailybong88.bet^
 ||dailybong88.com^
 ||dailydime.eu^
 ||dailyk8.com^
+||dailysbobetz.me^
 ||daisybingo.com^
 ||dakotacasino.com^
 ||damacai.com.my^
@@ -1204,6 +1220,7 @@
 ||dangkybum.club^
 ||dangkyee88.online^
 ||dangkykubet.vip^
+||dangkyrikvip.tv^
 ||dangkythabet.com^
 ||danhbaidoithuongizi.com^
 ||danhloo.com^
@@ -1446,6 +1463,7 @@
 ||fi8822.com^
 ||fi883.com^
 ||fi8852.com^
+||fi8858.com^
 ||fi8883.com^
 ||fi.888casino.com^
 ||fi8899.com^
@@ -1566,6 +1584,7 @@
 ||glimmercasino.com^
 ||globalwagering.ws^
 ||globetworld.com^
+||gnbet.vip^
 ||go50.net^
 ||go789.nl^
 ||go789.to^
@@ -2407,6 +2426,7 @@
 ||k8jsback2app.com^
 ||k8jsback3app.com^
 ||k8jsback4app.com^
+||k8k26.com^
 ||k8kol.com^
 ||k8life.com^
 ||k8link.com^
@@ -2832,6 +2852,7 @@
 ||k8vip88.net^
 ||k8vip89.com^
 ||k8vip99.com^
+||k8vip.me^
 ||k8vipro01.com^
 ||k8vipro02.com^
 ||k8vipro03.com^
@@ -3435,6 +3456,7 @@
 ||luckymeslots.com^
 ||luckyniki.com^
 ||luckywinslots.com^
+||luckyxoso.com^
 ||lumibet.com^
 ||lutrija.co.me^
 ||lutrija.hr^
@@ -3558,6 +3580,7 @@
 ||moneyyellow.com^
 ||montecarlocasino.com^
 ||morganbet.eu^
+||mot88i.com^
 ||moto880.com^
 ||moto88.win^
 ||mozzartbet.co.ke^
@@ -3643,6 +3666,7 @@
 ||netbet.com^
 ||netbet.co.uk^
 ||neverfelted.eu^
+||new8805.com^
 ||new8808.vip^
 ||new88111.com^
 ||new8884.com^
@@ -3972,11 +3996,16 @@
 ||s9996.com^
 ||s9997.com^
 ||s999b.com^
+||s999c.com^
 ||s999d.com^
+||s999e.com^
+||s999g.com^
+||s999h.com^
 ||saartoto.de^
 ||sachsenlotto.de^
 ||safaribet.com.gh^
 ||saharabet.com^
+||sam86vip.org^
 ||sam86vip.tv^
 ||sam86vip.vin^
 ||samvip.bet^
@@ -3991,6 +4020,7 @@
 ||sbobetbola.org^
 ||sbobetcasino.orgfree.com^
 ||sbobet.com^
+||sbobetfun.org^
 ||sbojoki.com^
 ||sbotop246.com^
 ||scandibet.com^
@@ -4087,11 +4117,15 @@
 ||soco88.com^
 ||socvip9.club^
 ||socvip.com^
+||sodo103.com^
 ||sodo109.com^
 ||sodo12.com^
 ||sodo13.com^
 ||sodo14.com^
 ||sodo15.com^
+||sodo66.app^
+||sodo678.com^
+||sodo6868.com^
 ||sodoviet.net^
 ||sodovn.net^
 ||softbet.eu^
@@ -4259,6 +4293,7 @@
 ||taigame789.club^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
+||taigem79.win^
 ||taigenvip88.club^
 ||taigenvip88.com^
 ||taigenvip.club^
@@ -4301,6 +4336,7 @@
 ||tf88639.com^
 ||tf88716.com^
 ||tf88792.com^
+||tf88agent.com^
 ||tf88luck.com^
 ||tf88v.com^
 ||tf88vn.com^
@@ -4365,7 +4401,29 @@
 ||tjb15.net^
 ||tjb22.net^
 ||tk326.com^
+||tk777.vip^
+||tk88a.com^
+||tk88b.com^
+||tk88c.com^
+||tk88d.com^
+||tk88e.com^
+||tk88f.com^
 ||tk88g.com^
+||tk88h.com^
+||tk88i.com^
+||tk88.in^
+||tk88j.com^
+||tk88k.com^
+||tk88.la^
+||tk88l.com^
+||tk88m.com^
+||tk88n.com^
+||tk88p.com^
+||tk88q.com^
+||tk88.rocks^
+||tk88s.com^
+||tk88.store^
+||tk88.tv^
 ||to188xj.com^
 ||toals.co.uk^
 ||tobet88.net^
@@ -4510,6 +4568,7 @@
 ||vg977.com^
 ||vg99.com^
 ||vh79.com^
+||vi68.org^
 ||vic.fun^
 ||victorwin555.com^
 ||vic.win^
@@ -4568,6 +4627,7 @@
 ||vn88.club^
 ||vn88.com^
 ||vn88hn.live^
+||vn88.io^
 ||vn88.mobi^
 ||vn88ok.live^
 ||vn88vui.live^
@@ -4575,6 +4635,7 @@
 ||vn969.com^
 ||vnaz888.com^
 ||vnbiz88.com^
+||vnboc.com^
 ||vnbong88.live^
 ||vnclub88.live^
 ||vncustomer1.vncslive.com^
@@ -4597,6 +4658,7 @@
 ||vnloto.com^
 ||vnloto.vip^
 ||vnmx66.com^
+||vnn138.com^
 ||vnn8d.com^
 ||vn.pg.bet^
 ||vnpro88.com^
@@ -4721,6 +4783,7 @@
 ||w88st.com^
 ||w88u2.com^
 ||w88ud2.com^
+||w88ud4.net^
 ||w88.vin^
 ||w88vui.com^
 ||w88yes.com^
@@ -4829,6 +4892,7 @@
 ||xengtructuyen.com^
 ||xingtou888.com^
 ||xinweide.com^
+||xkiosx.xyz^
 ||xljs2.com^
 ||xn--hi-ji6caa.com^
 ||xo88.com^
@@ -4842,6 +4906,7 @@
 ||xoso55.com^
 ||xoso5678.com^
 ||xoso6600.com^
+||xoso66.io^
 ||xoso678.com^
 ||xoso6.com^
 ||xoso788.com^
@@ -4874,6 +4939,7 @@
 ||yule12888.com^
 ||yylive.top^
 ||z333666.com^
+||zbet6898.com^
 ||zbet.com^
 ||zbet.me^
 ||zbet.vn^
