@@ -1015,6 +1015,7 @@
 ||brandmuscleinstantimpact.112.2o7.net^
 ||brandmuscleinstantimpactstaging.112.2o7.net^
 ||brangista.122.2o7.net^
+||bravia-cfgdst-ore-pro.bda.ndmdhs.com^
 ||breath.pb.ua^
 ||brifiols.112.2o7.net^
 ||brightcove.112.2o7.net^
@@ -1387,8 +1388,11 @@
 ||content-signature-2.cdn.mozilla.net^
 ||content.streamplay.to^
 ||contribute.to-support.me^
+||control2.tvinteractive.tv^
 ||control.adap.tv^
 ||controller.4seeresults.com^
+||control.tvinteractive.tv^
+||control-zoo-dai-default.tvinteractive.tv^
 ||conversions.adaptv.advertising.com^
 ||cookie.brealtime.com^
 ||cookingcom.112.2o7.net^
@@ -2513,6 +2517,7 @@
 ||mckinseyglobalnewsitecoreprod.112.2o7.net^
 ||mckinseyknowledge.122.2o7.net^
 ||mc-kzgvx04-jk8n38gyn7s08m1d8.device.marketingcloudapis.com^
+||mcp.tvinteractive.tv^
 ||mctd22d-xfy4kdg18w8cmd9bvhsq.device.marketingcloudapis.com^
 ||mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com^
 ||mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com^
@@ -2970,7 +2975,7 @@
 ||orlandoinfocom.112.2o7.net^
 ||orodi.ru^
 ||orpixel.adsafeprotected.com^
-||osb-apps.samsungqbe.com^
+||osb-apps-v2.samsungqbe.com^
 ||osb-eusvc.samsungqbe.com^
 ||osb-krsvc.samsungqbe.com^
 ||osb.samsungqbe.com^
@@ -3973,6 +3978,7 @@
 ||turnersports.112.2o7.net^
 ||tvguide.112.2o7.net^
 ||t.vi-serve.com^
+||tvmeta-dynamic.tvinteractive.tv^
 ||tvn.adocean.pl^
 ||tv.rlcdn.com^
 ||tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com^
@@ -4025,6 +4031,8 @@
 ||us-ads.openx.net^
 ||usasync01.admantx.com^
 ||usatoday1.112.2o7.net^
+||us.cdpbeacon.lgtvcommon.com^
+||us.cdpsvc.lgtvcommon.com^
 ||us.cfcdist.loan^
 ||usdm.122.2o7.net^
 ||us-east-1.event.prod.bidr.io^
@@ -4040,10 +4048,16 @@
 ||users.api.jeeng.com^
 ||usertesting.com^
 ||us-gmtdmp.mookie1.com^
+||us.homeprv.lgtvcommon.com^
 ||us.inmobi.koneomobiledsp.com^
+||us.lgsmartad.com^
 ||usmtprod.112.2o7.net^
 ||usnews.122.2o7.net^
+||us.nudge.lgtvcommon.com^
+||us.rdl.lgtvcommon.com^
+||us.recommend.lgtvcommon.com^
 ||ussearch.122.2o7.net^
+||us.service.lgtvcommon.com^
 ||usun.112.2o7.net^
 ||us-u.openx.net^
 ||us-v10.events.data.microsoft.com^
