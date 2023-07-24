@@ -263,6 +263,7 @@
 ||789k.club^
 ||789.mobi^
 ||789.moi^
+||789v.club^
 ||78win01.com^
 ||78win04.com^
 ||78win07.com^
@@ -312,6 +313,7 @@
 ||8888.bg^
 ||888ae888.com^
 ||888b.com^
+||888b.dev^
 ||888betk8.net^
 ||888b.in^
 ||888b.moe^
@@ -395,6 +397,7 @@
 ||8xbet06.com^
 ||8xbet0.com^
 ||8xbet11.com^
+||8xbet184.com^
 ||8xbet253.com^
 ||8xbet.cc^
 ||8xbet.com^
@@ -530,6 +533,7 @@
 ||b29.bet^
 ||b29qc.win^
 ||b52d.club^
+||b52k.club^
 ||b52.vip^
 ||b52.win^
 ||b88ag.com^
@@ -782,6 +786,8 @@
 ||bigbet0015.com^
 ||bigbet2258.com^
 ||bigbetworld.com^
+||bigboss23.com^
+||bigboss93.com^
 ||bigcitysportsbook.com^
 ||bigk8th888.com^
 ||bingo.com^
@@ -1390,6 +1396,7 @@
 ||f8betaa.com^
 ||f8betapp.net^
 ||f8bet.com^
+||f8bet.games^
 ||f8betgg.com^
 ||f8bet.homes^
 ||f8bet.site^
@@ -1648,6 +1655,7 @@
 ||hawaiicasino.com^
 ||hb88017.com^
 ||hb88031.com^
+||hb88032.com^
 ||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
@@ -1676,6 +1684,8 @@
 ||highroller.com^
 ||hippobingo.com^
 ||hit1.club^
+||hit32.club^
+||hit68.net^
 ||hititbet.com^
 ||hl8atm.com^
 ||hl8bai.com^
@@ -1715,6 +1725,7 @@
 ||i99906.com^
 ||i99908.com^
 ||i999bb.com^
+||i9bet07.com^
 ||i9bet100.com^
 ||i9bet101.com^
 ||i9bet102.com^
@@ -1854,6 +1865,7 @@
 ||isportbet.net^
 ||itvbingo.com^
 ||iwiin.club^
+||iwin10.club^
 ||iwin58.vip^
 ||iwin6699.com^
 ||iwin68m.com^
@@ -3499,6 +3511,7 @@
 ||manclub1.net^
 ||manclub1.top^
 ||manclub1.vip^
+||manclub.fun^
 ||manclub.live^
 ||manclub.us^
 ||manclub.vin^
@@ -3537,6 +3550,7 @@
 ||may88.win^
 ||mayansports.eu^
 ||mayclub.net^
+||mb88.bet^
 ||mb88.com^
 ||mbet.co.za^
 ||mbx88.com^
@@ -3699,6 +3713,7 @@
 ||nhacaiuytinso1vn.com^
 ||nhaicaik8.net^
 ||nhanthuong88.com^
+||nhat1.club^
 ||nhat.bet^
 ||nhat.game^
 ||nhat.it^
@@ -3953,6 +3968,7 @@
 ||revmasters.com^
 ||rgcsn.com^
 ||ridika.com^
+||rik6.com^
 ||rik.bet^
 ||rikbet789.club^
 ||rik.club^
@@ -4202,6 +4218,7 @@
 ||strikewin.com^
 ||sts.pl^
 ||sum4.club^
+||sun13.win^
 ||sun52.bid^
 ||sun52.click^
 ||sun52.tv^
@@ -4349,6 +4366,7 @@
 ||thabet.gg^
 ||thabet.one^
 ||thabet.tel^
+||thaifastpay.top^
 ||thaik8.net^
 ||thailandk8.com^
 ||thailandk8.net^
@@ -4448,6 +4466,7 @@
 ||topcc88.me^
 ||topdoithuong.net^
 ||topigri.bg^
+||topnhacaihot.com^
 ||topnohu.com^
 ||topodds.com.au^
 ||topplay.cc^
@@ -4582,6 +4601,7 @@
 ||villabet.com^
 ||vin168.com^
 ||vin68.com^
+||vin777.work^
 ||vinalottery.com^
 ||vinnarum.com^
 ||vip130130.com^
@@ -4836,6 +4856,7 @@
 ||win365vip8.com^
 ||win365vip9.com^
 ||win456.cc^
+||win79a.com^
 ||win79.app^
 ||win79.download^
 ||win79play.me^
@@ -4951,6 +4972,7 @@
 ||zetpoker.eu^
 ||zinwin.vip^
 ||zo1.win^
+||zo2.win^
 ||zo88.org^
 ||zo.club^
 ||zodiacu.com^
