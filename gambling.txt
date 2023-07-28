@@ -535,6 +535,7 @@
 ||b52d.club^
 ||b52k.club^
 ||b52.vip^
+||b52vn.org^
 ||b52.win^
 ||b88ag.com^
 ||b89.bet^
@@ -4085,6 +4086,7 @@
 ||sin88vao.com^
 ||sin88.vip^
 ||sin88.win^
+||sinbet.vip^
 ||sirbobet.com^
 ||sirjackpot.com^
 ||sisal.it^
