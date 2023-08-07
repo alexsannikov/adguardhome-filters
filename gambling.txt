@@ -212,6 +212,7 @@
 ||68game2.com^
 ||68gamebaix.com^
 ||68gb3.com^
+||68iwin.club^
 ||68rich.com^
 ||68rich.org^
 ||69dinhtruong.com^
@@ -1648,6 +1649,7 @@
 ||gwbet.com^
 ||gwin.pro^
 ||h3bet.com^
+||h51.live^
 ||hajper.com^
 ||halaplay.com^
 ||hamsterbet.com^
@@ -1707,8 +1709,10 @@
 ||hopa.com^
 ||horey4d.net^
 ||horizonsports.es^
+||hot51.com^
 ||hotlinecsgo.com^
 ||hotlive8.vip^
+||hotlive.in^
 ||howzat.com^
 ||hpbet.com^
 ||hrwager.ag^
@@ -4007,6 +4011,7 @@
 ||rubet.com^
 ||rubik88.com^
 ||rush777.com^
+||rw8800.com^
 ||s0kn5.com^
 ||s26bet.bet^
 ||s555.com^
@@ -4227,6 +4232,7 @@
 ||sun13.win^
 ||sun52.bid^
 ||sun52.click^
+||sun52.fun^
 ||sun52.tv^
 ||sun6.win^
 ||sun88.online^
