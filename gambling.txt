@@ -62,6 +62,7 @@
 ||11bet.win^
 ||11wickets.com^
 ||11zalo.com^
+||12388.club^
 ||123b03.com^
 ||123b04.com^
 ||123b05.com^
@@ -543,6 +544,7 @@
 ||b29qc.win^
 ||b52d.club^
 ||b52k.club^
+||b52m.club^
 ||b52.vip^
 ||b52vn.org^
 ||b52.win^
@@ -1159,6 +1161,7 @@
 ||cuoc88.com^
 ||cuoc88.net^
 ||cuoc8live.com^
+||cuocb52.me^
 ||cuocba.com^
 ||cuocbanh88.com^
 ||cuocbanh88.net^
@@ -1623,6 +1626,7 @@
 ||go88-vn.com^
 ||go88vn.live^
 ||go88vn.vip^
+||go88x.club^
 ||goal123.com^
 ||goal68.com^
 ||goal68.net^
@@ -1699,6 +1703,7 @@
 ||highroller.com^
 ||hippobingo.com^
 ||hit1.club^
+||hit1.co^
 ||hit32.club^
 ||hit68.net^
 ||hititbet.com^
@@ -1714,6 +1719,7 @@
 ||hl8thai8.com^
 ||hl8vi.com^
 ||hl8vn.fun^
+||hoahao.vip^
 ||hollywoodbets.net^
 ||hollywoodsportsbook.eu^
 ||homerunsportsbetting.com^
@@ -4047,6 +4053,7 @@
 ||samvip.bet^
 ||samvo.com^
 ||sanfrancasino.com^
+||sanos.fun^
 ||sasa889.com^
 ||saturnplay.com^
 ||sazka.cz^
@@ -4133,6 +4140,7 @@
 ||sky88.win^
 ||skybet.com^
 ||skybook.ag^
+||skyclub.city^
 ||skytowersportsbook.com^
 ||slbet.com^
 ||slotplanet.com^
@@ -4352,8 +4360,10 @@
 ||tainbet.net^
 ||tai.nhatvip.live^
 ||taiok88.app^
+||taiskyclub.online^
 ||taisum.co^
 ||taisun52.live^
+||taitx1.club^
 ||taiuk88.net^
 ||taiv8.com^
 ||taiv8.info^
@@ -4537,6 +4547,7 @@
 ||twin5568.com^
 ||twin68.ink^
 ||twin868.com^
+||tx1.vip^
 ||tzzxt.com^
 ||uberskins.net^
 ||ubet.com^
