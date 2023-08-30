@@ -4071,6 +4071,7 @@
 ||scasino.com^
 ||score99.net^
 ||scotbet.com^
+||sdjlbg.xyz^
 ||seabet.com^
 ||seangraham.com^
 ||seaniemac.com^
@@ -4250,6 +4251,7 @@
 ||strikewin.com^
 ||sts.pl^
 ||sum4.club^
+||sum5.club^
 ||sun13.win^
 ||sun52.bid^
 ||sun52.click^
@@ -4361,7 +4363,9 @@
 ||tai.nhatvip.live^
 ||taiok88.app^
 ||taiskyclub.online^
+||taisum.ac^
 ||taisum.co^
+||taisum.io^
 ||taisun52.live^
 ||taitx1.club^
 ||taiuk88.net^
@@ -4661,6 +4665,7 @@
 ||vjprok8.com^
 ||vloot.io^
 ||vlott88.com^
+||vn123.me^
 ||vn138138.com^
 ||vn138casino.com^
 ||vn138d.com^
@@ -4756,6 +4761,7 @@
 ||vuicungk8.com^
 ||vui.fun^
 ||vuigiaitri.online^
+||vuigiaitri.org^
 ||vulcun.com^
 ||vw109.com^
 ||vw115.com^
@@ -4922,6 +4928,7 @@
 ||winbet99.co^
 ||winbetaffiliates.bg^
 ||winbet.bg^
+||winclub.net^
 ||winmasters.com^
 ||winner.co.uk^
 ||winningft.com^
