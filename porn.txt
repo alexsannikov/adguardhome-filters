@@ -19959,6 +19959,7 @@
 ||protizer.net^
 ||proxy.proxy-site-tor.com^
 ||prrv.com^
+||prtawe.com^
 ||ps0z.com^
 ||psbbanners.com^
 ||psmcdn.net^
