@@ -1,6 +1,8 @@
 ||0000130.com^
 ||0066130.com^
 ||0077130.com^
+||009.casino^
+||009songbai.com^
 ||010bestk8.com^
 ||011bestk8.com^
 ||012bestk8.com^
@@ -276,6 +278,7 @@
 ||789.mobi^
 ||789.moi^
 ||789v.club^
+||789x.club^
 ||78win01.com^
 ||78win04.com^
 ||78win07.com^
@@ -555,6 +558,7 @@
 ||b52d.club^
 ||b52k.club^
 ||b52m.club^
+||b52.me^
 ||b52.vip^
 ||b52vn.org^
 ||b52.win^
@@ -1604,6 +1608,7 @@
 ||gamex8vn.club^
 ||gamezy.com^
 ||gamingclub1.com^
+||gamingsoc88.one^
 ||gamingsoc88.org^
 ||gate777.com^
 ||gatructiep.net^
@@ -1611,6 +1616,7 @@
 ||gaznbike.com^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||gem1.win^
 ||gembanca.com^
 ||genesiscasino.com^
 ||gentingcasino.com^
@@ -1640,12 +1646,14 @@
 ||go888.asia^
 ||go88b.com^
 ||go88bet.net^
+||go88.cam^
 ||go88.club^
 ||go88.com^
 ||go88f.com^
 ||go88.im^
 ||go88.live^
 ||go88.luxury^
+||go88p.com^
 ||go88r.pro^
 ||go88s.tv^
 ||go88.vip^
@@ -1732,6 +1740,7 @@
 ||hippobingo.com^
 ||hit1.club^
 ||hit1.co^
+||hit21.club^
 ||hit32.club^
 ||hit38.club^
 ||hit68.net^
@@ -1919,6 +1928,7 @@
 ||itvbingo.com^
 ||iwiin.club^
 ||iwin10.club^
+||iwin12.club^
 ||iwin58.vip^
 ||iwin6699.com^
 ||iwin68m.com^
@@ -3564,6 +3574,7 @@
 ||majorsportsbetting.com^
 ||malinasports.com^
 ||mamamiabingo.com^
+||man1.club^
 ||man.club^
 ||manclub1.com^
 ||manclub1.net^
@@ -3842,6 +3853,7 @@
 ||onbet2.com^
 ||onbet3.com^
 ||onbet7.com^
+||onbet863.com^
 ||onbet993.com^
 ||one88.club^
 ||one88.com^
@@ -4043,6 +4055,7 @@
 ||rik.vip^
 ||rikvip2.vip^
 ||rikvipclub.us^
+||rikvip.fun^
 ||rikvipp.net^
 ||rikvip.tv^
 ||rikvip.uk^
@@ -4293,6 +4306,8 @@
 ||sum4.club^
 ||sum5.club^
 ||sun13.win^
+||sun14win.win^
+||sun15.win^
 ||sun52.bid^
 ||sun52.click^
 ||sun52.fun^
@@ -4413,6 +4428,7 @@
 ||taisum.co^
 ||taisum.io^
 ||taisun52.live^
+||taisunwin.live^
 ||taitx1.club^
 ||taiuk88.net^
 ||taiv8.com^
@@ -4885,6 +4901,7 @@
 ||w365win.win^
 ||w365w.net^
 ||w388.com^
+||w698.bet^
 ||w69top.com^
 ||w753j.com^
 ||w88a3.com^
@@ -4965,8 +4982,10 @@
 ||win79.app^
 ||win79d.com^
 ||win79.download^
+||win79.live^
 ||win79play.me^
 ||win79.pro^
+||win79.site^
 ||win79.vip^
 ||win86.info^
 ||win888b.com^
@@ -4990,6 +5009,7 @@
 ||wixstars.com^
 ||wm88viet.com^
 ||wm88vn.com^
+||wo88.ac^
 ||worldofsport.co.za^
 ||worldsportsbetting.co.za^
 ||worldstar.co.ug^
