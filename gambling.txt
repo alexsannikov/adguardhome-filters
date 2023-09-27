@@ -78,6 +78,7 @@
 ||123b.com^
 ||123bdly.com^
 ||123bdy.com^
+||123bhh.com^
 ||123b.org^
 ||123b.vn^
 ||123win.pro^
@@ -1335,6 +1336,7 @@
 ||dp533.com^
 ||dp568bet.com^
 ||dp568.com^
+||draftkings.com^
 ||dream11.com^
 ||dreamjackpot.com^
 ||dreamvegas.com^
@@ -1707,13 +1709,25 @@
 ||happynb.com^
 ||hawaiicasino.com^
 ||hay8822.com^
+||hb88013.com^
+||hb88016.com^
 ||hb88017.com^
+||hb88021.com^
+||hb88024.com^
+||hb88025.com^
+||hb88028.com^
+||hb88029.com^
 ||hb88031.com^
 ||hb88032.com^
+||hb88033.com^
+||hb88036.com^
+||hb88037.com^
 ||hb88038.com^
+||hb88039.com^
 ||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
+||hb88.com^
 ||hb88g.com^
 ||hb88h.com^
 ||hb88p.com^
@@ -3531,6 +3545,7 @@
 ||luckycharmbingo.com^
 ||luckydino.com^
 ||luckyland.co.uk^
+||luckylandslots.com^
 ||luckylouis.com^
 ||luckymeslots.com^
 ||luckyniki.com^
@@ -3751,6 +3766,7 @@
 ||netbet.com^
 ||netbet.co.uk^
 ||neverfelted.eu^
+||new8803.com^
 ||new8805.com^
 ||new8808.vip^
 ||new88111.com^
@@ -4496,6 +4512,7 @@
 ||thethaodabet.com^
 ||thethaofb88.com^
 ||thethaofi88.com^
+||thethaouk88.org^
 ||thethaovip.vip^
 ||thevw155.com^
 ||thk8.net^
