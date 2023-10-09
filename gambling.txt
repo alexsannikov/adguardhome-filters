@@ -305,6 +305,7 @@
 ||7ballvnwin.com^
 ||7ballwinner.com^
 ||7ballwinvn.com^
+||7bet.lt^
 ||7bmnf.com^
 ||7epta7.com^
 ||7godscasino.com^
@@ -761,6 +762,7 @@
 ||bets10go.com^
 ||bets4all.com^
 ||betsafe.com^
+||betsafe.lt^
 ||betsbc.com^
 ||betsbi.com^
 ||betser.com^
@@ -996,6 +998,7 @@
 ||casinowinner.com^
 ||casinsi.com^
 ||casumo.com^
+||cbet.lt^
 ||cbmsport.com^
 ||cc898.com^
 ||celebbingo.com^
@@ -3498,6 +3501,7 @@
 ||loto188az.com^
 ||loto188vi.com^
 ||loto66.com^
+||loto.lt^
 ||loto.mk^
 ||lotoquebec.com^
 ||loto.ro^
@@ -3889,6 +3893,7 @@
 ||olimp.com^
 ||olybet.com^
 ||olybet.eu^
+||olybet.lt^
 ||olympic24.com^
 ||omniacasino.com^
 ||onbet111.com^
@@ -3919,6 +3924,7 @@
 ||oppa888.com^
 ||oppo96.com^
 ||optibet.com^
+||optibet.lt^
 ||optionsports.com^
 ||orakulas.lt^
 ||origin.net88.asia^
@@ -3958,6 +3964,7 @@
 ||parasino.com^
 ||parimatch.com^
 ||parimatchplay1.com^
+||partycasino.lt^
 ||partypoker.cz^
 ||pasarbola.com^
 ||pekqt.com^
@@ -4485,6 +4492,7 @@
 ||taixiusunwin.games^
 ||takarakuji-official.jp^
 ||tap88.club^
+||tatkazino.lt^
 ||tatts.com^
 ||tbab395.com^
 ||tbab535.com^
@@ -4625,6 +4633,7 @@
 ||topodds.com.au^
 ||topplay.cc^
 ||topsport.com.au^
+||topsport.lt^
 ||topsportwetten.com^
 ||topwin.cc^
 ||totalbets.com^
