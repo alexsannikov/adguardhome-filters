@@ -16899,7 +16899,6 @@
 ||hetarust.com^
 ||heuida.shopafrm.com^
 ||heukpiroot.com^
-||hevc.site^
 ||hewecas.com^
 ||hexasoft.com.my^
 ||hexud.com^
@@ -29549,6 +29548,7 @@
 ||shopdunk.baomoi.com^
 ||shopexclu.fr^
 ||shopify.retargetapp.com^
+||shopimind.com^
 ||shop.iwantclips.com^
 ||shopkick.com^
 ||shop.kicker.de^
@@ -35007,7 +35007,6 @@
 ||tr.animation.micromania.fr^
 ||tr.animations.bfmtv.com^
 ||tran.news.so.com^
-||tranquilcanyon.com^
 ||tranqulitius.com^
 ||transact-can.cedexis.com^
 ||transcodedmedia.mobivite.net^
