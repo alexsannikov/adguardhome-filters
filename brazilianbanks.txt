@@ -1,0 +1,9 @@
+||*.itau.com.br^$important
+||*.nubank.com.br^$important
+||*.bradesco.com.br^$important
+||*.bb.com.br^$important
+||*.bancobrasil.com.br^$important
+||*.bancomercantil.com.br^$important
+||*.banconeon.com.br^$important
+||*.bancointer.com.br^$important
+||*.bb.com.br^$important
