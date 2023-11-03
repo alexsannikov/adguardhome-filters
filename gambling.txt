@@ -4188,6 +4188,7 @@
 ||sesame.bg^
 ||sesbet.com^
 ||setantabet.com^
+||shb3939.vn^
 ||shbet0.com^
 ||shbet2.com^
 ||shbet3.com^
@@ -4702,6 +4703,10 @@
 ||uw88vnd1.com^
 ||uw88vnd.com^
 ||uw88vnn1.com^
+||uw88vnn2.com^
+||uw88vnn3.com^
+||uw88vnn4.com^
+||uw88vnn.com^
 ||v111w.com^
 ||v112w.com^
 ||v121w.com^
