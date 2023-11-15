@@ -450,7 +450,6 @@
 ||mmi701.whatsapp.net^
 ||mmi731.whatsapp.net^
 ||mms.whatsapp.net^
-||mon.byteoversea.com^
 ||muscdn.com^
 ||musical.ly^
 ||musically.ly^
