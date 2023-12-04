@@ -61,6 +61,7 @@
 ||11bet.online^
 ||11bet.us^
 ||11bet.vin^
+||11betvnd.com^
 ||11bet.win^
 ||11wickets.com^
 ||11zalo.com^
@@ -85,9 +86,16 @@
 ||12b99.com^
 ||12bet.com^
 ||12bet.uk^
+||12betvnd.com^
 ||12fifa2018.com^
 ||130casino.com^
 ||1337bid.com^
+||1388a8.com^
+||1388aws.com^
+||1388.com^
+||1388web.com^
+||1388ymjs.com^
+||1388yn.com^
 ||138.com^
 ||14betvnd.com^
 ||157win.com^
@@ -291,6 +299,7 @@
 ||78win04.com^
 ||78win07.com^
 ||78win09.com^
+||799999.cc^
 ||79luckyclub.fun^
 ||79lucky.com^
 ||79sodo.com^
@@ -349,6 +358,7 @@
 ||888.com^
 ||888k8vn.com^
 ||888loc.io^
+||888.pt^
 ||888sport.com^
 ||888thao.com^
 ||889ae888.com^
@@ -568,6 +578,7 @@
 ||az888.bet^
 ||azcasino.com^
 ||azf8bet.com^
+||b1388.com^
 ||b29.bet^
 ||b29qc.win^
 ||b52d.club^
@@ -578,8 +589,11 @@
 ||b52vn.org^
 ||b52.win^
 ||b69.city^
+||b77.fun^
+||b77.life^
 ||b88ag.com^
 ||b89.bet^
+||bacanaplay.pt^
 ||balkanbet.co.rs^
 ||ballebaazi.com^
 ||bamasportsbook.com^
@@ -647,6 +661,7 @@
 ||betandclick.com^
 ||betano.bg^
 ||betano.cz^
+||betano.pt^
 ||betanysports.eu^
 ||bet-at-home.com^
 ||betbanh88.com^
@@ -665,6 +680,7 @@
 ||betcityru.com^
 ||betclic.com^
 ||betclic.pl^
+||betclic.pt^
 ||betclock.com^
 ||betcoin.ag^
 ||betcostarica.ag^
@@ -811,6 +827,7 @@
 ||betway.bg^
 ||betway.co.ke^
 ||betway.com^
+||betway.pt^
 ||betwayvietnam88.com^
 ||betwinner.ng^
 ||betworks.com^
@@ -819,6 +836,7 @@
 ||betzone.com^
 ||bgbet.com^
 ||bgo.com^
+||bidluck.pt^
 ||biendo1.com^
 ||biendo2.com^
 ||biendo3.com^
@@ -876,6 +894,7 @@
 ||bobcasino.com^
 ||bobetting.com^
 ||bobregister.com^
+||boc8.fun^
 ||bodog888.com^
 ||bodog.eu^
 ||bodugi.com^
@@ -941,6 +960,8 @@
 ||bwingmkt8.com^
 ||bwingno1.com^
 ||bwingthethao.com^
+||bwin.pt^
+||c1388.com^
 ||c31test.com^
 ||c54373.com^
 ||c54455.com^
@@ -998,6 +1019,7 @@
 ||casinoonline88.vip^
 ||casino.org^
 ||casinopop.com^
+||casinoportugal.pt^
 ||casino-pp.net^
 ||casinorobots.com^
 ||casinoroom.com^
@@ -1054,11 +1076,13 @@
 ||choibancadoithuong.com^
 ||choigiaitri.net^
 ||choihay.vip^
+||choihitclub.fun^
 ||choihitclub.run^
 ||choiiwin79.fun^
 ||choilawin.net^
 ||choingay11b.mobi^
 ||choingay88.com^
+||choingayiwin.cc^
 ||choingayiwin.top^
 ||choingayone88.win^
 ||choisport.com^
@@ -1228,6 +1252,7 @@
 ||cwin444.com^
 ||cwin999.com^
 ||cwin.com^
+||d1388.com^
 ||d4j95.com^
 ||d9bet09.com^
 ||d9bet38.com^
@@ -1277,6 +1302,7 @@
 ||dailybong88.com^
 ||dailydime.eu^
 ||dailyk8.com^
+||dailynet88.com^
 ||dailysbobetz.me^
 ||daisybingo.com^
 ||dakotacasino.com^
@@ -1426,6 +1452,7 @@
 ||esportsbetting.com^
 ||esportscasino.com^
 ||e-stave.com^
+||estorilsolcasinos.pt^
 ||etherdice.io^
 ||etipos.sk^
 ||etopaz.az^
@@ -1599,6 +1626,7 @@
 ||funtructuyen88.com^
 ||fv88.win^
 ||fxbg7.com^
+||g1388.com^
 ||g9vip.com^
 ||ga179.com^
 ||gachoic1.com^
@@ -1685,6 +1713,7 @@
 ||go88f.com^
 ||go88.im^
 ||go88.live^
+||go88l.top^
 ||go88.luxury^
 ||go88p.com^
 ||go88r.pro^
@@ -1694,6 +1723,7 @@
 ||go88vn.live^
 ||go88vn.vip^
 ||go88x.club^
+||go8vui.info^
 ||goal123.com^
 ||goal68.com^
 ||goal68.net^
@@ -1708,6 +1738,7 @@
 ||golazobet.com^
 ||goldbetsports.com^
 ||goldenbetsng.com^
+||goldenpark.pt^
 ||goldmedalbingo.com^
 ||goliathcasino.com^
 ||gomy188.com^
@@ -1790,6 +1821,7 @@
 ||hit21.club^
 ||hit32.club^
 ||hit38.club^
+||hit38.co^
 ||hit68.net^
 ||hititbet.com^
 ||hl8atm.com^
@@ -2109,6 +2141,7 @@
 ||j9vn10.com^
 ||j9vn.bet^
 ||ja77.net^
+||jackpot12x.com^
 ||jackpotbingo.co.uk^
 ||jackpotcity.com^
 ||jackpotslot2020.com^
@@ -2137,6 +2170,7 @@
 ||jetbull.com^
 ||jetwin.com^
 ||jiejiekan.net^
+||jili919.com^
 ||jinbo989898.com^
 ||jingbets.com^
 ||jinglebingo.com^
@@ -3433,6 +3467,7 @@
 ||l69.me^
 ||ladbrokes.com^
 ||ladbrokes.com.au^
+||lambada-tx1app.fun^
 ||langvuichoi.net^
 ||lapalingo.com^
 ||lasatlantispromos.com^
@@ -3443,6 +3478,7 @@
 ||lazvegas.com^
 ||ld99.club^
 ||leaguex.com^
+||lebull.pt^
 ||legendsportsbook.com^
 ||legolas.bet^
 ||leisure888.com^
@@ -3565,6 +3601,7 @@
 ||luck8881.com^
 ||luck8882.com^
 ||luck8.com^
+||luckia.pt^
 ||luckland.com^
 ||lucky113.com^
 ||lucky678.com^
@@ -3661,6 +3698,8 @@
 ||marsbet400.com^
 ||masuk4d.com^
 ||matchbook.com^
+||max10.pro^
+||max10.vin^
 ||maxbet.id^
 ||maxbetmaxbetmaxbet.com^
 ||maxbet.me^
@@ -3725,6 +3764,7 @@
 ||moneyplayscasino.com^
 ||moneyyellow.com^
 ||montecarlocasino.com^
+||moosh.pt^
 ||morganbet.eu^
 ||mot88i.com^
 ||moto880.com^
@@ -3879,6 +3919,7 @@
 ||norskespilleautomater.com^
 ||norsk-tipping.no^
 ||northbet.com^
+||nossaaposta.pt^
 ||nostrabet.com^
 ||nova88.com^
 ||novibet.com^
@@ -3993,6 +4034,7 @@
 ||pinnaclesports.com^
 ||piratespin.com^
 ||pkwin1.com^
+||placard.pt^
 ||planetofbets.com^
 ||planetwin365.com^
 ||playbaowin.net^
@@ -4038,6 +4080,7 @@
 ||pokerstarscasino.uk^
 ||pokerstars.cz^
 ||pokerstars.eu^
+||pokerstars.pt^
 ||pokerstars.uk^
 ||postcodeloterij.nl^
 ||potsofluck.com^
@@ -4272,6 +4315,7 @@
 ||skytowersportsbook.com^
 ||slbet.com^
 ||slotplanet.com^
+||slotsclub123.com^
 ||slotsheaven.com^
 ||slotsino.co.uk^
 ||slotsmagic.com^
@@ -4308,6 +4352,7 @@
 ||sol86.com^
 ||solarbet.com^
 ||solbet88.com^
+||solverde.pt^
 ||speedybet.com^
 ||spela.com^
 ||spindipity.com^
@@ -4474,6 +4519,7 @@
 ||taib52.com^
 ||taib52.vin^
 ||tai.b52vn.fun^
+||taiboc.fun^
 ||taibum.tv^
 ||taichoang.fun^
 ||taido99.net^
@@ -4503,6 +4549,8 @@
 ||taiok88.app^
 ||taiqqlive.pro^
 ||taiskyclub.online^
+||taisum1.club^
+||taisum2.com^
 ||taisum.ac^
 ||taisum.co^
 ||taisum.io^
@@ -4595,6 +4643,8 @@
 ||thuongkingfun.biz^
 ||thvwbet.com^
 ||tienlen2022.com^
+||tienlenmega.com^
+||tienlenzo.com^
 ||tin010.com^
 ||tipbet.com^
 ||tipico.com^
@@ -4775,6 +4825,7 @@
 ||vegas79.casino^
 ||vegashero.com^
 ||veikkaus.fi^
+||velogame789.com^
 ||verajohn.com^
 ||vernons.com^
 ||vestabet365.com^
@@ -4847,6 +4898,7 @@
 ||vn333.org^
 ||vn34.com^
 ||vn357.bet^
+||vn369lyds.com^
 ||vn500.com^
 ||vn5858.com^
 ||vn666.bet^
@@ -5105,6 +5157,7 @@
 ||wintbr.com^
 ||winvn13.com^
 ||winvn15.com^
+||winvn16.com^
 ||winvn17.com^
 ||winvn18.com^
 ||winvn.vip^
@@ -5147,6 +5200,7 @@
 ||xengtructuyen.com^
 ||xidachplay.com^
 ||xingtou888.com^
+||xinloiduocchua.co^
 ||xinweide.com^
 ||xkiosx.xyz^
 ||xljs2.com^
@@ -5156,6 +5210,8 @@
 ||xo88.info^
 ||xo88moi.com^
 ||xo88.win^
+||xocdia778.com^
+||xocdiawin.com^
 ||xoi77.com^
 ||xoi99.com^
 ||xoso12345.com^
@@ -5176,9 +5232,13 @@
 ||y6top.com^
 ||yabet.com^
 ||yakocasino.com^
+||yallogame.com^
 ||ybbbet.com^
 ||yd88c.com^
 ||yeticasino.com^
+||ynpaaa.com^
+||ynpbbb.com^
+||ynpccc.com^
 ||yo789.fun^
 ||yo88.net^
 ||yo88vn.com^
