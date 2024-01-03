@@ -11757,7 +11757,6 @@
 ||analytics.ecorpnet.com^
 ||analytics.ecvv.com^
 ||analytics.edeveloperz.com^
-||analytics.eip.telegraph.co.uk^
 ||analytics.eis-web.hiroad.com^
 ||analytics.ekcs.us^
 ||analytics-elastic.app.smashfly.io^
@@ -14236,7 +14235,6 @@
 ||artellaagentur.se^
 ||artenthusiastany.sa.com^
 ||artepigr.com^
-||artertapirus.com^
 ||artesia.cpsi-twc.com^
 ||artfulmilesfake.com^
 ||article19.com^
@@ -27678,7 +27676,6 @@
 ||dreamtgistliveliness.com^
 ||dreamtryst.com^
 ||dreamwithyou.live^
-||drearlyknifes.com^
 ||drectsearch.com^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||drelawield.world^
@@ -46292,7 +46289,6 @@
 ||lunidev.com^
 ||luomi.com^
 ||lupic.cdn.bcebos.com^
-||lupininulster.com^
 ||luptbq.lampsplus.com^
 ||luq.uteefaud.top^
 ||luravius.com^
@@ -62679,7 +62675,6 @@
 ||repayment.jishitailai.com^
 ||repdata.packersnews.com^
 ||repelis.id^
-||repentantsympathy.com^
 ||repixel-sdk.netlify.com^
 ||replacenows1.click^
 ||replaycontroller.4seeresults.com^
@@ -80607,7 +80602,6 @@
 ||unfaircohortbait.com^
 ||unfitricesteady.com^
 ||unflobaillon.com^
-||ungillhenbane.com^
 ||un.ginnleunshift.com^
 ||ungirthranee.com^
 ||ungrandzabti.com^
@@ -81417,7 +81411,6 @@
 ||valindamyers.com^
 ||valis-cpx.jp^
 ||valkirum.com^
-||vallarymedlars.com^
 ||valley.ad.nl^
 ||valleyhouse.com^
 ||valleyhousegallery.com^
