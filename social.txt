@@ -501,6 +501,7 @@
 ||syndication.twimg.com^
 ||tailfeather.twimg.com^
 ||t.co^
+||threads.net^
 ||tiktokcdn.com^
 ||tiktokcdn-com.akamaized.net^
 ||tiktok.com^
@@ -520,4 +521,5 @@
 ||whatsapp.com^
 ||widgets.twimg.com^
 ||www-cdn.whatsapp.net^
+||x.com^
 ||xlog-va.byteoversea.com^
