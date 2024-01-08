@@ -59,6 +59,7 @@
 ||11bet.mobi^
 ||11bet.net^
 ||11bet.online^
+||11bet.org^
 ||11bet.us^
 ||11bet.vin^
 ||11betvnd.com^
@@ -300,6 +301,7 @@
 ||789.mobi^
 ||789.moi^
 ||789v.club^
+||789winchan.com^
 ||789x.club^
 ||78win01.com^
 ||78win04.com^
@@ -383,6 +385,7 @@
 ||88new.cc^
 ||88online.live^
 ||88online.me^
+||88online.moe^
 ||88quayclub.com^
 ||88quay.com^
 ||88sports88.com^
@@ -524,6 +527,7 @@
 ||ae88859.com^
 ||ae888.com^
 ||ae888i.com^
+||ae888.men^
 ||ae888.mobi^
 ||ae888.net^
 ||ae888sports01.com^
@@ -1434,7 +1438,9 @@
 ||ee88.club^
 ||ee88.com^
 ||ee88.in^
+||ee88.law^
 ||ee88.plus^
+||ee88.tips^
 ||eestiloto.ee^
 ||efbet.com^
 ||efg5e.com^
@@ -1652,6 +1658,7 @@
 ||gamblecsgo.com^
 ||gambling.com^
 ||gamdom.com^
+||game365.online^
 ||game69club.win^
 ||game69.top^
 ||game789club.net^
@@ -1696,6 +1703,7 @@
 ||gem1.win^
 ||gem79.win^
 ||gembanca.com^
+||gemwin.page^
 ||genesiscasino.com^
 ||gentingcasino.com^
 ||genvip88.com^
@@ -1731,12 +1739,15 @@
 ||go88.com^
 ||go88f.com^
 ||go88.im^
+||go88.info^
 ||go88.live^
 ||go88l.top^
 ||go88.luxury^
 ||go88p.com^
 ||go88r.pro^
+||go88.study^
 ||go88s.tv^
+||go88.tv^
 ||go88.vip^
 ||go88-vn.com^
 ||go88vn.live^
@@ -2038,6 +2049,7 @@
 ||iwinapk.link^
 ||iwinapplink.club^
 ||iwin.club^
+||iwinclub.onl^
 ||iwinclub.win^
 ||iwin.info^
 ||iwin.us^
@@ -2206,6 +2218,7 @@
 ||jun88bet.xyz^
 ||jun88k.com^
 ||jun88.tv^
+||jun88w.com^
 ||justbet.co^
 ||justbet.co.za^
 ||justbet.cx^
@@ -2447,8 +2460,10 @@
 ||k8bet99.com^
 ||k8bet.fun^
 ||k8bet.info^
+||k8betno1.com^
 ||k8bet.online^
 ||k8betting.com^
+||k8betvn.club^
 ||k8bongda.com^
 ||k8cacuoc.club^
 ||k8cacuoc.com^
@@ -2991,6 +3006,7 @@
 ||k8vietpro.com^
 ||k8vii36.com^
 ||k8vii85.com^
+||k8vina1.net^
 ||k8vinavn028.com^
 ||k8vinavn029.com^
 ||k8vinavn030.com^
@@ -3679,6 +3695,8 @@
 ||m8winvnn.com^
 ||m9853.com^
 ||m9u6s.com^
+||macao99.bid^
+||macao99.club^
 ||macaubet.com^
 ||macau.club^
 ||macauclub.fun^
@@ -3811,6 +3829,8 @@
 ||ms88ca.com^
 ||msl.ua^
 ||msmeb.com^
+||msrcxx.com^
+||mu111.vip^
 ||mu88a.com^
 ||mu88ads.com^
 ||mu88b.com^
@@ -4438,6 +4458,7 @@
 ||st666.tv^
 ||st666.win^
 ||st666win.us^
+||st666yet.site^
 ||stake.com^
 ||stakers.com^
 ||stakes.com^
@@ -4559,6 +4580,7 @@
 ||taido99.win^
 ||taigame789.club^
 ||taigamehay.site^
+||taigamehayvip.vip^
 ||taigamehot.pro^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
@@ -4577,6 +4599,9 @@
 ||taiiwinclub.cc^
 ||taiiwinclub.vip^
 ||taikufun.com^
+||taimacao99.club^
+||taimacao99.shop^
+||taimacao.club^
 ||taimacau.club^
 ||taimanclub.com^
 ||tainbet.net^
@@ -4891,6 +4916,7 @@
 ||vin777.co^
 ||vin777.work^
 ||vin999.fun^
+||vina88.net^
 ||vinalottery.com^
 ||vinb00.com^
 ||vinbet1001.com^
@@ -4958,6 +4984,7 @@
 ||vnbiz88.com^
 ||vnboc.com^
 ||vnbong88.live^
+||vnbongvip.net^
 ||vn.bway88vietnam.com^
 ||vnclub88.live^
 ||vncustomer1.vncslive.com^
