@@ -8965,7 +8965,6 @@
 ||app.aaas-science.org^
 ||app.accelerate.zoominfo.com^
 ||app.acm.dzwww.com^
-||app.adjust.com^
 ||appads.in^
 ||app-ad.variflight.com^
 ||app.advertisingsolutions.att-mail.com^
@@ -15898,7 +15897,6 @@
 ||ederrassi.com^
 ||edf.solution.weborama.fr^
 ||edg.appier.xyz^
-||edge.adobedc.net^
 ||edge.ads.twitch.tv^
 ||edge.bigbrothercanada.ca^
 ||edge.hgtv.ca^
@@ -38310,7 +38308,6 @@
 ||toolbar.msn.com^
 ||tool.justshopping.xyz^
 ||toolmatrix.plus^
-||tools-affil2.com^
 ||tools.indecentes-voisines.com^
 ||tools.prnewswire.com^
 ||toolspro.indecentes-voisines.com^
