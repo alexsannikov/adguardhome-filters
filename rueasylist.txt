@@ -18424,7 +18424,6 @@
 ||glamipixel.com^
 ||glancedcomics.life^
 ||glance.l.inmobicdn.net^
-||glaringregister.com^
 ||glb12pkgr.com^
 ||glb.adtechus.com^
 ||glcloudservice.com^
@@ -31287,7 +31286,6 @@
 ||rambunctiousvoyage.com^
 ||rampanel.com^
 ||rampantwork.com^
-||ranchsatin.com^
 ||randmcnally.112.2o7.net^
 ||rangecake.com^
 ||rangeplayground.com^
@@ -39983,7 +39981,6 @@
 ||unlimits.net^
 ||unlitui.com^
 ||unltdentertainment.co^
-||unmarcharthra.com^
 ||unmistdistune.guru^
 ||unnaturalcaption.com^
 ||unoakrookroo.com^

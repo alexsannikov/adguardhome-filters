@@ -5680,6 +5680,7 @@
 ||cameralux.co.no^
 ||cameralux.ee^
 ||cameralux.fi^
+||cameraprive.com^
 ||cam-exhib.fr^
 ||camfapr.com^
 ||camfavs.com^
