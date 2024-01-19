@@ -237,6 +237,7 @@
 ||668kbet.com^
 ||66ko1.com^
 ||66ko9.com^
+||67777.tv^
 ||679king.com^
 ||67win9.com^
 ||68b3.club^
@@ -306,6 +307,7 @@
 ||789.mobi^
 ||789.moi^
 ||789v.club^
+||789.win^
 ||789winchan.com^
 ||789x.club^
 ||78win01.com^
@@ -588,6 +590,7 @@
 ||asiatop88.com^
 ||asiavwin.com^
 ||asset2bay.com^
+||at99.club^
 ||atashows.com^
 ||atg.se^
 ||aw8vn2.com^
@@ -600,20 +603,24 @@
 ||azf8bet.com^
 ||b1388.com^
 ||b29.bet^
+||b29.cafe^
 ||b29qc.win^
 ||b52d.club^
 ||b52k.club^
 ||b52m.club^
 ||b52.me^
+||b52.mobi^
 ||b52.vip^
 ||b52vn.org^
 ||b52.win^
+||b69.cafe^
 ||b69.city^
 ||b77.fun^
 ||b77.life^
 ||b88ag.com^
 ||b89.bet^
 ||bacanaplay.pt^
+||bacty88.com^
 ||balkanbet.co.rs^
 ||ballebaazi.com^
 ||bamasportsbook.com^
@@ -884,6 +891,10 @@
 ||bitcoinrush.io^
 ||bitcoinsports.eu^
 ||bitsaloon.com^
+||bj288.com^
+||bj39.com^
+||bj88vietnam.com^
+||bj88vn.com^
 ||bk368.com^
 ||bk88safe.com^
 ||bk8ae.com^
@@ -934,6 +945,7 @@
 ||bong88.pro^
 ||bong88vivaw88.com^
 ||bong90.bet^
+||bong99.cc^
 ||bong99.com^
 ||bong99.fun^
 ||bong99.in^
@@ -1246,6 +1258,7 @@
 ||csgowheel.com^
 ||cshub.net^
 ||cspotluck.com^
+||cstga.com^
 ||cuoc8899.com^
 ||cuoc88.com^
 ||cuoc88.net^
@@ -1287,6 +1300,7 @@
 ||dabet.fun^
 ||dabet.me^
 ||dabet.top^
+||dabet.uk^
 ||dabet.us^
 ||dabet.win^
 ||daddyskins.com^
@@ -1536,6 +1550,7 @@
 ||fabet.us^
 ||fabet.vip^
 ||fabetvn.com^
+||fabet.win^
 ||falconbet.com^
 ||fan365.win^
 ||fansbet.com^
@@ -1581,6 +1596,7 @@
 ||fcb8.club^
 ||fcb8.com^
 ||fcb8.fun^
+||fcb8.mobi^
 ||fcb8.top^
 ||fcb8.vin^
 ||fcb8.vip^
@@ -1651,6 +1667,7 @@
 ||g1388.com^
 ||g9vip.com^
 ||ga179.com^
+||ga98.net^
 ||gachoic1.com^
 ||gachoiviet.com^
 ||galacasino.com^
@@ -1671,6 +1688,7 @@
 ||gameb52.pro^
 ||gamebai.club^
 ||gamebaisumvip.net^
+||gamebai.vin^
 ||gamebancaonline.com^
 ||gamebay365.us^
 ||gamebookers.com^
@@ -1724,6 +1742,7 @@
 ||gi8vn.vip^
 ||giaimanhacai.com^
 ||giaitri.fun^
+||giaitrimu88.com^
 ||giaitrinet88.live^
 ||giaitri.tv^
 ||giocoreale.com^
@@ -1857,6 +1876,7 @@
 ||hit38.co^
 ||hit68.net^
 ||hit.club^
+||hitclub.win^
 ||hititbet.com^
 ||hl8atm.com^
 ||hl8bai.com^
@@ -2057,6 +2077,7 @@
 ||iwinclub.onl^
 ||iwinclub.win^
 ||iwin.info^
+||iwin.net^
 ||iwin.us^
 ||izv5n.cc^
 ||j3108.com^
@@ -3697,6 +3718,7 @@
 ||m88vina.com^
 ||m8bet.net^
 ||m8poker.com^
+||m8u8.cc^
 ||m8winvip.com^
 ||m8winvnd.com^
 ||m8winvnn.com^
@@ -3735,6 +3757,7 @@
 ||mansion66.com^
 ||mansion88.com^
 ||mansionbet.com^
+||man.vip^
 ||manvip.icu^
 ||marathonbet.com^
 ||marathonbet.co.uk^
@@ -3841,8 +3864,12 @@
 ||mu111.vip^
 ||mu88a.com^
 ||mu88ads.com^
+||mu88.ae^
+||mu88.ag^
 ||mu88b.com^
+||mu88.black^
 ||mu88c.com^
+||mu88.com^
 ||mu88daily.com^
 ||mu88d.com^
 ||mu88e.com^
@@ -3851,7 +3878,10 @@
 ||mu88g.com^
 ||mu88h.com^
 ||mu88.id^
+||mu88.mu^
+||mu88.ooo^
 ||mu88.uk^
+||mu88.ws^
 ||mu90.com^
 ||mu922.com^
 ||mu929.com^
@@ -3894,6 +3924,7 @@
 ||nbet.com^
 ||nbet.fun^
 ||nbet.me^
+||nbet.net^
 ||nbet.site^
 ||nbet.top^
 ||nbet.tv^
@@ -4230,6 +4261,7 @@
 ||rikvip.uk^
 ||rikvip.us^
 ||rikvip.vip^
+||rikvip.win^
 ||rik.win^
 ||rio66qc.club^
 ||ritq4.com^
@@ -4477,6 +4509,7 @@
 ||stanjames.com^
 ||starlottosport.com^
 ||statusbet.com^
+||stby.com^
 ||stoloto.ru^
 ||storspelare.com^
 ||storspiller.com^
@@ -4584,10 +4617,12 @@
 ||tai789.win^
 ||tai9606.com^
 ||tai99vin.net^
+||taib29.cafe^
 ||taib52.club^
 ||taib52.com^
 ||taib52.vin^
 ||tai.b52vn.fun^
+||taib69.cafe^
 ||taiboc.fun^
 ||taibum.tv^
 ||taichoang.fun^
@@ -5035,7 +5070,6 @@
 ||vntop88.com^
 ||vnvwbet.com^
 ||vnvwin.com^
-||vnxoso66.net^
 ||voltbet.com^
 ||voodoodreams.com^
 ||vqtq-bet365vn.com^
@@ -5207,6 +5241,7 @@
 ||win456.cc^
 ||win79a.com^
 ||win79.app^
+||win79.com^
 ||win79d.com^
 ||win79.download^
 ||win79.live^
@@ -5331,6 +5366,7 @@
 ||youwin.com^
 ||yule12888.com^
 ||yylive.top^
+||yylive.tv^
 ||z333666.com^
 ||zbet6898.com^
 ||zbet.com^
