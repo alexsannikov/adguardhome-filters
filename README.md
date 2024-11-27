@@ -6,7 +6,7 @@
 Filter lists prepared for use with AdGuard Home.
 
 All the lists are generated automatically with the script and use other sources supported by their autors and contributors.
-If you found any error in the list (like disabled valid URL, banned legitimate service, etc.) please create issue in the Steven's repo (https://github.com/StevenBlack/hosts). Due to the automatic nature of the AdGuard Home lists generation, I do not correct these lists manually. All appled changes in the source hosts files to be applied to the AdGuard Home filter lists.
+If you found any error in the list (like disabled valid URL, banned legitimate service, etc.) please create issue in the Steven's repo (https://github.com/StevenBlack/hosts). Due to the automatic nature of the AdGuard Home lists generation, I do not correct these lists manually. All changes appled to the source hosts files by their authors to be reflected in AdGuard Home filter lists.
 
 Please also remember, that you can create your own local filter with importance markers and override any incorrect or unnecessary filters defined in lists from this repo.
 
