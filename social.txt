@@ -15,7 +15,6 @@
 ||instagram.co^
 ||t.co^
 ||twitter.co^
-||ads-twitter.com^
 ||allotalk.com^
 ||reddit-image.s3.amazonaws.com^
 ||redditgifts.s3.amazonaws.com^
@@ -41,8 +40,6 @@
 ||abtest-sg-tiktok.byteoversea.com^
 ||abtest-va-tiktok.byteoversea.com^
 ||dm-maliva16.byteoversea.com^
-||mon.byteoversea.com^
-||mon-va.byteoversea.com^
 ||verification-va.byteoversea.com^
 ||xlog-va.byteoversea.com^
 ||tiktokcdn.com.c.bytetcdn.com^
@@ -167,7 +164,6 @@
 ||tiktokv.com.c.worldfcdn2.com^
 ||wwwfacebook.com^
 ||x.com^
-||cookiex.ngd.yahoo.com^
 ||facebook.de^
 ||instagram.de^
 ||twitter.de^
