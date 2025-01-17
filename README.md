@@ -1,7 +1,7 @@
 # adguardhome-filters
 
 > [!NOTE]
-> **UPDATED FOR THIS REPOSITORY ARE RESTORED. AS USUAL, CHANGES WILL BE PUSHED EVERY MON, TUE, FRI. ENJOY!**
+> **UPDATES FOR THIS REPOSITORY ARE RESTORED. AS USUAL, CHANGES WILL BE PUSHED EVERY MON, TUE, FRI. ENJOY!**
 
 Filter lists are prepared for use with AdGuard Home DNS filtering system.
 
