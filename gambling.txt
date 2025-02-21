@@ -46,6 +46,7 @@
 ||wgh.ag^
 ||iwinclub.agency^
 ||vuabet88.agency^
+||bet88.ai^
 ||kubet.ai^
 ||78966.app^
 ||88uu.app^
@@ -137,6 +138,7 @@
 ||ben.bet^
 ||bet20.bet^
 ||bong90.bet^
+||cacuoc.bet^
 ||daga88.bet^
 ||debet.bet^
 ||deca.bet^
@@ -212,6 +214,7 @@
 ||topgamebai.biz^
 ||vn88.biz^
 ||mu88.black^
+||cacuoc365.blog^
 ||vin777.blog^
 ||hitclub.blue^
 ||miso88.boats^
@@ -434,6 +437,7 @@
 ||airbet88.co^
 ||baidoithuong.co^
 ||betplace88.co^
+||bongdanet.co^
 ||choiyo88.co^
 ||codere.com.co^
 ||dutapoker.co^
@@ -981,6 +985,7 @@
 ||c54bb.com^
 ||c54bbb.com^
 ||cacuoc247.com^
+||cacuocso.com^
 ||cadomienphi.com^
 ||cadovn.com^
 ||campeonbet.com^
@@ -2628,6 +2633,7 @@
 ||vntop88.com^
 ||vnvwbet.com^
 ||vnvwin.com^
+||vnxoso-web.com^
 ||voltbet.com^
 ||voodoodreams.com^
 ||vscore88.com^
@@ -3009,6 +3015,7 @@
 ||hitgame.in^
 ||hotlive.in^
 ||lucky88.in^
+||net88.in^
 ||oxbet.in^
 ||playiwin.in^
 ||sky88.in^
@@ -3201,6 +3208,7 @@
 ||xoso66.men^
 ||sportlife.com.mk^
 ||loto.mk^
+||debet.mn^
 ||sin88.mn^
 ||11bet.mobi^
 ||789.mobi^
@@ -3402,6 +3410,7 @@
 ||v9beta.net^
 ||v9betwin.net^
 ||vaoku.net^
+||vin88.net^
 ||vina88.net^
 ||viva88.net^
 ||vn138.net^
@@ -3617,6 +3626,7 @@
 ||loterija.si^
 ||123phim.site^
 ||523betapp.site^
+||cacuoconline.site^
 ||dangkysanvip.site^
 ||f8bet.site^
 ||kufun.site^
@@ -3642,6 +3652,7 @@
 ||tk88.store^
 ||go88.study^
 ||mk.support^
+||789club.sx^
 ||bet88.systems^
 ||2q.team^
 ||bong90.tech^
@@ -3682,6 +3693,7 @@
 ||may88.top^
 ||may88vn.top^
 ||nbet.top^
+||nhacaiuytin.top^
 ||one88.top^
 ||oxbet.top^
 ||playgo88.top^
@@ -3861,6 +3873,7 @@
 ||fcb8.vip^
 ||fcb88.vip^
 ||fi88.vip^
+||fm88.vip^
 ||fun99.vip^
 ||gameiwin.vip^
 ||gi8vn.vip^
@@ -3925,6 +3938,8 @@
 ||tdtc.vn^
 ||top88.vn^
 ||traiga.vn^
+||188bet.vote^
+||rikvip.wales^
 ||miso88.watch^
 ||bepe88.website^
 ||bongvip.website^
