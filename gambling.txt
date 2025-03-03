@@ -2478,8 +2478,10 @@
 ||thunderpick.com^
 ||thuonghieunhacai.com^
 ||thvwbet.com^
+||tic88.com^
 ||tin010.com^
 ||tinbongdaw88.com^
+||tip88.com^
 ||tipbet.com^
 ||tipico.com^
 ||tipp24.com^
@@ -2601,6 +2603,7 @@
 ||vip79.com^
 ||vitalbet.com^
 ||viva88.com^
+||vk88.com^
 ||vlott88.com^
 ||vn138casino.com^
 ||vn138d.com^
@@ -3552,6 +3555,7 @@
 ||king999.pro^
 ||kt88.pro^
 ||ku11.pro^
+||ku88.pro^
 ||luxvip.pro^
 ||max10.pro^
 ||na99.pro^
