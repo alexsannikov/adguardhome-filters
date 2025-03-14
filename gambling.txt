@@ -64,6 +64,7 @@
 ||v99win.app^
 ||vn.app^
 ||vnon.app^
+||vua88.app^
 ||vuabet88.app^
 ||vz99.app^
 ||win79.app^
@@ -213,6 +214,7 @@
 ||thuongkingfun.biz^
 ||topgamebai.biz^
 ||vn88.biz^
+||vua88.biz^
 ||mu88.black^
 ||cacuoc365.blog^
 ||vin777.blog^
@@ -675,6 +677,7 @@
 ||90dakika.com^
 ||92lottery.com^
 ||989bet.com^
+||98win.com^
 ||9911789.com^
 ||9966789.com^
 ||99994y.com^
@@ -3992,6 +3995,8 @@
 ||mibet88.win^
 ||mu9.win^
 ||nbet.win^
+||nohu.win^
+||nohudoithuong.win^
 ||nosap.win^
 ||okvip.win^
 ||one88.win^
