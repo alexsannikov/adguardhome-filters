@@ -61,6 +61,7 @@
 ||i9bet.app^
 ||sodo66.app^
 ||taimanclub.app^
+||taive.app^
 ||v99win.app^
 ||vn.app^
 ||vnon.app^
@@ -463,6 +464,7 @@
 ||xinloiduocchua.co^
 ||0000130.com^
 ||0066130.com^
+||007win.com^
 ||009.com^
 ||009songbai.com^
 ||016665.com^
@@ -3046,6 +3048,7 @@
 ||taigameslotsumvip50k.info^
 ||taiv8.info^
 ||thabet88.info^
+||thethaovin88.info^
 ||tructiepdaga.info^
 ||vipsodo.info^
 ||websvn.info^
@@ -3203,6 +3206,7 @@
 ||shbet.me^
 ||sin88.me^
 ||ta88.me^
+||tip88vn.me^
 ||tongdaga.me^
 ||top88.me^
 ||vaohitclub.me^
@@ -3473,6 +3477,7 @@
 ||vscore.online^
 ||vuigiaitri.online^
 ||vwsports.online^
+||007win.org^
 ||11bet.org^
 ||123b.org^
 ||789club.org^
@@ -3498,6 +3503,7 @@
 ||nbet88.org^
 ||neo79.org^
 ||okcado.org^
+||pagedebet.org^
 ||rehonnua.org^
 ||rgames.org^
 ||s26bet.org^
@@ -3628,6 +3634,7 @@
 ||svenskaspel.se^
 ||swedencasino.se^
 ||rikvip.services^
+||007win.shop^
 ||cf68.shop^
 ||vuabet88.shop^
 ||five88.show^
