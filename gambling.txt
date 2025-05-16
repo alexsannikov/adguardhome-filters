@@ -2226,6 +2226,7 @@
 ||prontocasino.com^
 ||propawin.com^
 ||ptwin6.com^
+||pum88.com^
 ||punchbets.com^
 ||qh205.com^
 ||qh215.com^
@@ -2811,6 +2812,7 @@
 ||zbet.com^
 ||zbetvn.com^
 ||zenitbet.com^
+||zet88.com^
 ||zo88.com^
 ||zodiacu.com^
 ||zpisportbk.com^
@@ -3717,6 +3719,7 @@
 ||fb88.top^
 ||fcb8.top^
 ||five88.top^
+||ga88.top^
 ||go88.top^
 ||go88l.top^
 ||hitclub.top^
