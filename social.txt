@@ -15,6 +15,7 @@
 ||instagram.co^
 ||t.co^
 ||twitter.co^
+||twitch.a2z.com^
 ||allotalk.com^
 ||reddit-image.s3.amazonaws.com^
 ||redditgifts.s3.amazonaws.com^
@@ -258,6 +259,8 @@
 ||fbcdn.net^
 ||fbstatic.net^
 ||instagram.net^
+||jtvnw.net^
+||live-video.net^
 ||h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||ae0.bb01.ams2.tfbnw.net^
@@ -515,6 +518,11 @@
 ||tiktokcdn-eu.net^
 ||ttoversea.net^
 ||ttoverseaus.net^
+||ttvnw.net^
+||twitch-shadow.net^
+||twitchcdn.net^
+||twitchcdn-shadow.net^
+||twitchsvc.net^
 ||whatsapp.net^
 ||facebook.nl^
 ||facebook.no^
@@ -526,6 +534,9 @@
 ||facebook.pl^
 ||facebook.ru^
 ||facebook.se^
+||twitchsvc-staging.tech^
+||ext-twitch.tv^
+||twitch.tv^
 ||facebook.us^
 ||tiktokv.us^
 ||tiktokw.us^
