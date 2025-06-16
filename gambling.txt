@@ -172,6 +172,7 @@
 ||sky88.bet^
 ||taib52.bet^
 ||tha.bet^
+||tin88.bet^
 ||vebo.bet^
 ||vn666.bet^
 ||vn88.bet^
@@ -1479,6 +1480,7 @@
 ||hb88h.com^
 ||hb88p.com^
 ||hcm66.com^
+||hdbet.com^
 ||heavenbet.com^
 ||hellcase.com^
 ||hellocasino.com^
@@ -2053,6 +2055,7 @@
 ||middlebet.com^
 ||mig8fans.com^
 ||mig8vn.com^
+||min88.com^
 ||minivn.com^
 ||miso88.com^
 ||miso88e.com^
@@ -2228,6 +2231,7 @@
 ||prontocasino.com^
 ||propawin.com^
 ||ptwin6.com^
+||pub88.com^
 ||pum88.com^
 ||punchbets.com^
 ||qh205.com^
@@ -2427,6 +2431,7 @@
 ||superlenny.com^
 ||supersportsbook.com^
 ||superusacasino.com^
+||sut88.com^
 ||sv368ga.com^
 ||sv388.com^
 ||sv388live.com^
@@ -2608,6 +2613,7 @@
 ||vg99.com^
 ||vgame365.com^
 ||vh79.com^
+||vibet.com^
 ||victorwin555.com^
 ||videoslots.com^
 ||vierklee.com^
@@ -2666,6 +2672,7 @@
 ||vsports88.com^
 ||vstar79.com^
 ||vu88.com^
+||vua88.com^
 ||vuabai9.com^
 ||vuabai9vn.com^
 ||vuabet.com^
@@ -2774,6 +2781,7 @@
 ||winvn18.com^
 ||wishmaker.com^
 ||wixstars.com^
+||won88.com^
 ||worldwidegamble.com^
 ||wtfskins.com^
 ||wunderino.com^
@@ -3057,6 +3065,7 @@
 ||988bet.info^
 ||b52vn.info^
 ||casinobg.info^
+||choiwon88.info^
 ||dagathomovn.info^
 ||dangkyva88.info^
 ||debet.info^
@@ -3097,6 +3106,7 @@
 ||vn88.io^
 ||xoso66.io^
 ||lotto.is^
+||yo88.is^
 ||vuabet88.ist^
 ||nhat.it^
 ||sisal.it^
@@ -3268,6 +3278,7 @@
 ||taigameviet.mobi^
 ||vn88.mobi^
 ||vnsodo.mobi^
+||x8.mobi^
 ||888b.moe^
 ||debet.moi^
 ||hay88.mom^
@@ -3370,6 +3381,7 @@
 ||k8fun.net^
 ||k8vina1.net^
 ||k8vn80.net^
+||k9bet.net^
 ||kenhthethao.net^
 ||keotot.net^
 ||ketquasoso.net^
@@ -3955,6 +3967,7 @@
 ||net88.vip^
 ||nhacaipro.vip^
 ||nhat9.vip^
+||nhatvip.vip^
 ||one88.vip^
 ||oxbet.vip^
 ||pt66.vip^
@@ -4075,6 +4088,7 @@
 ||vnq8.win^
 ||w365win.win^
 ||wi88.win^
+||won88.win^
 ||xibet.win^
 ||xo88.win^
 ||yo88.win^
