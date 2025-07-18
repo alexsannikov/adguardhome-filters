@@ -132,11 +132,6 @@
 ||bizstandardnews.com^
 ||blacklistednews.com^
 ||blastingnews.com^
-||aanirfan.blogspot.com^
-||jamesfetzer.blogspot.com^
-||landdestroyer.blogspot.com^
-||sitsshow.blogspot.com^
-||tradcatknight.blogspot.com^
 ||bloomingtonleader.com^
 ||bluegrasstimes.com^
 ||bluehillguide.com^
@@ -471,7 +466,6 @@
 ||flbusinessdaily.com^
 ||flcatholictribune.com^
 ||floridaparishnews.com^
-||floridasunpost.com^
 ||floydvalleyguide.com^
 ||fmobserver.com^
 ||folksvideo.com^
