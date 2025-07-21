@@ -232,6 +232,8 @@
 ||quic-tiktok-proxy-i18n-gcpva.byteoversea.net^
 ||tiktok-lb-alisg.byteoversea.net^
 ||tiktok-lb-maliva.byteoversea.net^
+||tiktok-platform-lb-alisg.byteoversea.net^
+||tiktok-platform-lb-maliva.byteoversea.net^
 ||d2rdfnizen5apl.cloudfront.net^
 ||s-static.ak.facebook.com.edgekey.net^
 ||i.pinimg.com.edgekey.net^
