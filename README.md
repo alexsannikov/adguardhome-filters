@@ -14,7 +14,7 @@ This repository contains filter lists specifically prepared for use with the AdG
 All filter lists in this repository are automatically generated using a script that incorporates sources supported by their respective authors and contributors. These lists are cleaned and reformatted from the `hosts` file format as follows:
    *  removed unnecessary lines (e.g., "local/localhost/broadcast/etc.");
    *  cleaned of IPv4 and IPv6 addresses as specified in RFC952;
-   *  replaced `127.0.0.1` and `0.0.0.`0 with `||` to match AdGuard Home’s subdomain-blocking logic;
+   *  replaced `127.0.0.1` and `0.0.0.0` with `||` to match AdGuard Home’s subdomain-blocking logic;
    *  maintained separate extension files for independent use (e.g., Fake News, Social, Gambling, etc.);
    *  removed subdomains if the top-level domain is already listed, as AdGuard blocks all subdomains automatically;
    *  fully blocked adult-related TLDs;
