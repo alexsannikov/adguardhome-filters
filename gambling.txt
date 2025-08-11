@@ -3230,6 +3230,7 @@
 ||go88.luxury^
 ||bovada.lv^
 ||cafecasino.lv^
+||go8.lv^
 ||latloto.lv^
 ||e-loterie.ma^
 ||loterie.ma^
@@ -3342,6 +3343,7 @@
 ||bets.net^
 ||betsocial.net^
 ||bettingroup.net^
+||big88.net^
 ||bingoscotland.net^
 ||bong88.net^
 ||bumvip.net^
@@ -3612,6 +3614,7 @@
 ||trafonline.pl^
 ||8k88.plus^
 ||ee88.plus^
+||go8.plus^
 ||saowin.plus^
 ||i9bet.poker^
 ||11bet.pro^
@@ -3670,7 +3673,9 @@
 ||pokerstars.pt^
 ||solverde.pt^
 ||b29.pub^
+||go8.pub^
 ||8xbet.pw^
+||go8.pw^
 ||taigamengay.pw^
 ||vb777.pw^
 ||gamebaidoithuong.quest^
