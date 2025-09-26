@@ -204,6 +204,7 @@
 ||st666.bid^
 ||sun52.bid^
 ||iwin.bio^
+||kkwin.bio^
 ||789club.biz^
 ||cadovn.biz^
 ||cfun68.biz^
@@ -2965,6 +2966,7 @@
 ||youwager.eu^
 ||zetpoker.eu^
 ||tk88.family^
+||nbet.fan^
 ||sa88.fans^
 ||kasinot.fi^
 ||veikkaus.fi^
@@ -3278,6 +3280,7 @@
 ||xoso66.me^
 ||zbet.me^
 ||ae888.men^
+||kkwin.men^
 ||net88.men^
 ||xoso66.men^
 ||sportlife.com.mk^
@@ -3391,6 +3394,7 @@
 ||go50.net^
 ||gowildcasino.net^
 ||hay88.net^
+||hbet.net^
 ||hit68.net^
 ||hitlub.net^
 ||hollywoodbets.net^
@@ -3488,6 +3492,7 @@
 ||tructiepketqua.net^
 ||tt128.net^
 ||uberskins.net^
+||usbet.net^
 ||uu8814.net^
 ||v9bet88.net^
 ||v9beta.net^
@@ -3642,6 +3647,7 @@
 ||i9.pro^
 ||k88.pro^
 ||king999.pro^
+||kkwin.pro^
 ||kt88.pro^
 ||ku11.pro^
 ||ku88.pro^
@@ -3652,6 +3658,7 @@
 ||one88.pro^
 ||playiwinclub.pro^
 ||sam86vip.pro^
+||sunwin.pro^
 ||taigamehot.pro^
 ||taigo88vn.pro^
 ||taiqqlive.pro^
@@ -3682,6 +3689,7 @@
 ||solverde.pt^
 ||b29.pub^
 ||go8.pub^
+||kkwin.pub^
 ||8xbet.pw^
 ||go8.pw^
 ||taigamengay.pw^
@@ -3763,6 +3771,7 @@
 ||new88.tips^
 ||33win.to^
 ||fabet.to^
+||nbet.to^
 ||sun.to^
 ||789vg.today^
 ||choiriikvip.today^
@@ -3812,6 +3821,7 @@
 ||topzo.top^
 ||uk88.top^
 ||vin88.top^
+||vip79.top^
 ||vipsodo.top^
 ||vn138z.top^
 ||vpn8k.top^
@@ -3943,6 +3953,7 @@
 ||five88.vin^
 ||gamebai.vin^
 ||hitclub.vin^
+||kkwin.vin^
 ||kubet11.vin^
 ||lucky88.vin^
 ||manclub.vin^
@@ -4014,6 +4025,7 @@
 ||nbet.vip^
 ||net88.vip^
 ||nhacaipro.vip^
+||nhat.vip^
 ||nhat9.vip^
 ||nhatvip.vip^
 ||one88.vip^
@@ -4050,6 +4062,7 @@
 ||winvn.vip^
 ||xo68.vip^
 ||yylive.vip^
+||zo88.vip^
 ||bj88.vision^
 ||f168.vision^
 ||123b.vn^
