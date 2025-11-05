@@ -388,6 +388,7 @@
 ||oxbet.club^
 ||playgem.club^
 ||quatanthu.club^
+||red88.club^
 ||rik.club^
 ||sanvip.club^
 ||sieutaixiu79.club^
@@ -3035,6 +3036,7 @@
 ||8xbet.games^
 ||bj88.games^
 ||f8bet.games^
+||go99.games^
 ||k8.games^
 ||taixiusunwin.games^
 ||x8.games^
@@ -3759,6 +3761,7 @@
 ||st666.solutions^
 ||neo79.space^
 ||biendo.store^
+||go99code.store^
 ||miso88.store^
 ||sungame.store^
 ||tk88.store^
@@ -4012,6 +4015,7 @@
 ||gnbet.vip^
 ||go88.vip^
 ||go88vn.vip^
+||go99code.vip^
 ||hotlive8.vip^
 ||i9bet.vip^
 ||iwin58.vip^
@@ -4111,6 +4115,7 @@
 ||gem88.win^
 ||go88tv.win^
 ||god66.win^
+||hbet.win^
 ||hitclub.win^
 ||hong88vn.win^
 ||i9betapp.win^
