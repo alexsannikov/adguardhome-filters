@@ -82,6 +82,7 @@
 ||qqlives.app^
 ||r34.app^
 ||sextop1.app^
+||snapcheat.app^
 ||stripchat.app^
 ||taiqqlive.app^
 ||tuoi69.app^
