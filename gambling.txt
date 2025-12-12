@@ -63,6 +63,7 @@
 ||gameiwin68.app^
 ||hi888.app^
 ||i9bet.app^
+||mv66.app^
 ||sodo66.app^
 ||taimanclub.app^
 ||taive.app^
@@ -118,6 +119,7 @@
 ||zebrabet.com.au^
 ||etopaz.az^
 ||wwin.ba^
+||mv66.baby^
 ||qh88.baby^
 ||nohu.band^
 ||b69.bar^
@@ -165,6 +167,7 @@
 ||mb88.bet^
 ||miso88.bet^
 ||mr.bet^
+||mv88.bet^
 ||ne88.bet^
 ||nhat.bet^
 ||vn.pg.bet^
@@ -214,6 +217,7 @@
 ||jun88bet.biz^
 ||k8vn.biz^
 ||kubet.biz^
+||mv66.biz^
 ||playhit.biz^
 ||playiwin.biz^
 ||pokergolden.biz^
@@ -2907,6 +2911,7 @@
 ||fb88.delivery^
 ||888b.dev^
 ||cf68.dev^
+||mv66.dev^
 ||taib52.dev^
 ||vuabet88.dev^
 ||kuwin.digital^
@@ -3034,9 +3039,11 @@
 ||hit.game^
 ||may88.game^
 ||mu88.game^
+||mv66.game^
 ||nhat.game^
 ||sodo66.game^
 ||tk88.game^
+||28bet.games^
 ||8xbet.games^
 ||au88.games^
 ||bj88.games^
@@ -3074,6 +3081,7 @@
 ||lutrija.hr^
 ||szerencsejatek.hu^
 ||manvip.icu^
+||mv66.icu^
 ||pp88.icu^
 ||tai789.icu^
 ||maxbet.id^
@@ -3667,6 +3675,7 @@
 ||kt88.pro^
 ||ku11.pro^
 ||ku88.pro^
+||lu88.pro^
 ||luxvip.pro^
 ||max10.pro^
 ||na99.pro^
@@ -3947,6 +3956,7 @@
 ||lodevip.us^
 ||manclub.us^
 ||may88.us^
+||mv66.us^
 ||neo79.us^
 ||nhatvip.us^
 ||one88.us^
@@ -4048,6 +4058,7 @@
 ||mm99.vip^
 ||mu111.vip^
 ||mu9.vip^
+||mv66.vip^
 ||nbet.vip^
 ||net88.vip^
 ||nhacaipro.vip^
