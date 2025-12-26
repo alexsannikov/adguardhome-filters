@@ -354,6 +354,7 @@
 ||dabet.club^
 ||debet.club^
 ||don1.club^
+||du88.club^
 ||ee66.club^
 ||ee88.club^
 ||fb68.club^
@@ -363,6 +364,7 @@
 ||gamebai.club^
 ||giaitriwin79.club^
 ||go88.club^
+||hbet.club^
 ||hit.club^
 ||hit1.club^
 ||hit21.club^
@@ -373,6 +375,7 @@
 ||iwin10.club^
 ||iwin12.club^
 ||iwinapplink.club^
+||k88.club^
 ||k8betvn.club^
 ||kaivip.club^
 ||kingfun1.club^
@@ -2296,6 +2299,7 @@
 ||redmilebets.com^
 ||redspins.com^
 ||registerigkbet.com^
+||ricbet.com^
 ||ridika.com^
 ||rik6.com^
 ||rivalo.com^
@@ -2386,6 +2390,7 @@
 ||sports.smartlivegaming.com^
 ||smashsportsbetting.com^
 ||snabbare.com^
+||so79.com^
 ||soc88.com^
 ||soc99.com^
 ||socalsportbook.com^
@@ -3523,7 +3528,9 @@
 ||v9bet88.net^
 ||v9beta.net^
 ||v9betwin.net^
+||vaobet.net^
 ||vaoku.net^
+||vic88.net^
 ||vin88.net^
 ||vina88.net^
 ||viva88.net^
@@ -3980,6 +3987,7 @@
 ||xocdia88.video^
 ||11bet.vin^
 ||388bet.vin^
+||789club.vin^
 ||789clubs.vin^
 ||8jbet.vin^
 ||b52.vin^
@@ -4159,6 +4167,7 @@
 ||kubet88.win^
 ||kufun.win^
 ||lucky88.win^
+||man88.win^
 ||may88.win^
 ||mibet.win^
 ||mibet88.win^
@@ -4170,12 +4179,14 @@
 ||okvip.win^
 ||one88.win^
 ||oxbet.win^
+||ricbet.win^
 ||rik.win^
 ||rikvip.win^
 ||rikvip8.win^
 ||shbet.win^
 ||sin88.win^
 ||sky88.win^
+||so79.win^
 ||st666.win^
 ||su789.win^
 ||sun.win^
@@ -4187,7 +4198,9 @@
 ||taido99.win^
 ||taigem79.win^
 ||taiwin79.win^
+||usbet.win^
 ||vao789club.win^
+||vaobet.win^
 ||vb88.win^
 ||vf88.win^
 ||vic.win^
