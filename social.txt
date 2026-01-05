@@ -110,6 +110,7 @@
 ||tiktokcdn.com.rocket-cdn.com^
 ||sgsnssdk.com^
 ||snapchat.com^
+||sniffies.com^
 ||thefacebook.com^
 ||tiktok.com^
 ||tiktokcdn.com^
