@@ -38,3 +38,4 @@ As a workaround, you can always unblock domains locally via the AdGuard Home GUI
 * [StevenBlack's repository on GitHub](https://github.com/StevenBlack "StevenBlack's repository on GitHub")
 * [Schakal's HOSTS file](https://schakal.ru/hosts/alive_hosts.txt "Schakal's HOSTS file")
 * [Schakal's post about the repo](https://4pda.to/forum/index.php?showtopic=275091&st=7980#entry89665467)
+* [MMotti's repository on GitHub](https://github.com/mmotti "MMotti's repository on GitHub")
