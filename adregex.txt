@@ -1,0 +1,67 @@
+# Regex filters provided by mmotti
+# https://github.com/mmotti
+
+# ---------------------------------------------------------------------------
+# WARNING / DISCLAIMER (Regex blocklist)
+#
+# These entries include regular expressions. Regex-based blocking can cause
+# false positives and may break websites, apps, logins, payments, streaming,
+# updates, or telemetry/analytics features.
+#
+# Use at your own risk. Review your AdGuard Home query logs after enabling
+# this list and be prepared to add exceptions (allowlist) for legitimate
+# domains that get blocked.
+#
+# No warranty is provided. The author(s) of this list and any contributor(s)
+# accept no liability for any damage, loss of functionality, or service
+# disruption resulting from the use of these rules.
+# ---------------------------------------------------------------------------
+
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/
+
+# ---------------------------------------------------------------------------
+# Extra regex rules (conservative / low false-positive set)
+# Format: /REGEXP/
+# ---------------------------------------------------------------------------
+
+# Core ad/tracking roles (very common and usually safe)
+/^(.+[_.-])?adserv(er|ice|ing)?s?[0-9]*[_.-]/
+/^(.+[_.-])?adnetwork(s)?[0-9]*[_.-]/
+/^(.+[_.-])?adexchange[0-9]*[_.-]/
+/^(.+[_.-])?adproxy[0-9]*[_.-]/
+/^(.+[_.-])?adtrack(er|ing)?[0-9]*[_.-]/
+/^(.+[_.-])?track(er|ing)?[0-9]*[_.-]/
+
+# Attribution / marketing plumbing (tends to be tracking)
+/^(.+[_.-])?click-?track(er|ing)?[0-9]*[_.-]/
+/^(.+[_.-])?impress(ion|ions)?[0-9]*[_.-]/
+/^(.+[_.-])?view-?through[0-9]*[_.-]/
+/^(.+[_.-])?convers(ion|ions)?[0-9]*[_.-]/
+/^(.+[_.-])?postback(s)?[0-9]*[_.-]/
+/^(.+[_.-])?retarget(ing)?[0-9]*[_.-]/
+/^(.+[_.-])?remarket(ing)?[0-9]*[_.-]/
+
+# “Pixel/beacon” variants (you already have pixel/beacon; these add common companions)
+/^(.+[_.-])?pixel-?track(er|ing)?[0-9]*[_.-]/
+/^(.+[_.-])?beacon-?track(er|ing)?[0-9]*[_.-]/
+
+# Affiliate/referral (usually marketing)
+/^(.+[_.-])?affiliat(e|es|ion|ions)?[0-9]*[_.-]/
+/^(.+[_.-])?referr?al(s)?[0-9]*[_.-]/
+
+# Stats/analytics “safe-ish” *only* when explicitly named as service roles
+/^(.+[_.-])?analytics-?service(s)?[0-9]*[_.-]/
+/^(.+[_.-])?tracking-?service(s)?[0-9]*[_.-]/
