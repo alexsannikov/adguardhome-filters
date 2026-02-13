@@ -79,6 +79,7 @@
 ||origin.net88.asia^
 ||playgo88.asia^
 ||sure168.asia^
+||taptap.asia^
 ||vsports88.asia^
 ||lotterien.at^
 ||sjbet.at^
@@ -264,6 +265,7 @@
 ||topwin.cc^
 ||udw87.cc^
 ||udw881.cc^
+||usbet.cc^
 ||win456.cc^
 ||betvip.center^
 ||vuagaaz.ceo^
@@ -928,6 +930,7 @@
 ||cherrycasino.com^
 ||chisholmbet.com^
 ||choi99.com^
+||choibongtaptap.com^
 ||choidabanh.com^
 ||choithomo.com^
 ||circlebet.com^
@@ -2191,6 +2194,7 @@
 ||taib52.com^
 ||taimanclub.com^
 ||taiv8.com^
+||taptaptructuyen.com^
 ||tatts.com^
 ||tbab395.com^
 ||tdtcyy.com^
@@ -2549,6 +2553,7 @@
 ||mybet.de^
 ||saartoto.de^
 ||sachsenlotto.de^
+||vu88.de^
 ||lotto.web.de^
 ||westlotto.de^
 ||wildz.de^
@@ -2661,10 +2666,12 @@
 ||tdtc.fun^
 ||tienlenpoker.fun^
 ||top88.fun^
+||tx88.fun^
 ||vbet88.fun^
 ||vn88.fun^
 ||vnsodo.fun^
 ||win79.fun^
+||xibet.fun^
 ||xo88.fun^
 ||zbet.fun^
 ||b52.game^
@@ -2686,6 +2693,7 @@
 ||f168.garden^
 ||legabet.gay^
 ||hi88.gd^
+||lu88.gdn^
 ||11bet.gg^
 ||bounty.gg^
 ||csgoroll.gg^
@@ -2703,6 +2711,7 @@
 ||fun88.green^
 ||go99.green^
 ||kuwin.guide^
+||gem88.guru^
 ||f8bet.homes^
 ||sodo.host^
 ||lutrija.hr^
@@ -2899,8 +2908,10 @@
 ||555win.mobi^
 ||789.mobi^
 ||8live.mobi^
+||9bet.mobi^
 ||b52.mobi^
 ||fcb8.mobi^
+||k88.mobi^
 ||kubet.mobi^
 ||megawin88.mobi^
 ||mibet.mobi^
@@ -3188,6 +3199,7 @@
 ||cado.pro^
 ||cadovn.pro^
 ||da88.pro^
+||du88.pro^
 ||ga88.pro^
 ||go88r.pro^
 ||go99.pro^
@@ -3237,6 +3249,7 @@
 ||kkwin.pub^
 ||8xbet.pw^
 ||go8.pw^
+||man88.pw^
 ||gamebaidoithuong.quest^
 ||vn88.quest^
 ||go99.red^
@@ -3456,6 +3469,7 @@
 ||st666win.us^
 ||top88.us^
 ||xo88.us^
+||789club.vg^
 ||xocdia88.video^
 ||11bet.vin^
 ||388bet.vin^
