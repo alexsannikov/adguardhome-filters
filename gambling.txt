@@ -1,6 +1,7 @@
 ||789f.ac^
 ||au88.ac^
 ||fabet.ac^
+||haywin.ac^
 ||kubet.ac^
 ||net88.ac^
 ||taisum.ac^
@@ -189,9 +190,11 @@
 ||toto.bg^
 ||winbet.bg^
 ||winbetaffiliates.bg^
+||hitclub.bi^
 ||skyclub.bid^
 ||iwin.bio^
 ||kkwin.bio^
+||3bet.biz^
 ||789club.biz^
 ||cadovn.biz^
 ||fabet.biz^
@@ -655,6 +658,7 @@
 ||b88ag.com^
 ||bachhoa88.com^
 ||bacty88.com^
+||ball88.com^
 ||ballebaazi.com^
 ||bamasportsbook.com^
 ||bananajackpot.com^
@@ -2515,6 +2519,7 @@
 ||miso88.cool^
 ||xocdiaonline.cool^
 ||yo88.cool^
+||sin88.cv^
 ||debet.cx^
 ||justbet.cx^
 ||vuabet88.cx^
@@ -2726,6 +2731,7 @@
 ||pais.co.il^
 ||bj88.im^
 ||sin88.im^
+||win79.im^
 ||11bet.in^
 ||bong99.in^
 ||casinobitco.in^
@@ -2737,6 +2743,7 @@
 ||net88.in^
 ||oxbet.in^
 ||sky88.in^
+||tin88.in^
 ||tk88.in^
 ||988bet.info^
 ||b52vn.info^
@@ -2750,6 +2757,7 @@
 ||k8bet.info^
 ||lixi88.info^
 ||nohuk8.info^
+||rikvip.info^
 ||sky88.info^
 ||taiv8.info^
 ||td88.info^
@@ -2851,6 +2859,7 @@
 ||optibet.lt^
 ||orakulas.lt^
 ||partycasino.lt^
+||sunwin.lt^
 ||tatkazino.lt^
 ||topsport.lt^
 ||twinsbet.lt^
@@ -2883,6 +2892,7 @@
 ||kufun.me^
 ||l69.me^
 ||maxbet.me^
+||min88.me^
 ||nbet.me^
 ||one88.me^
 ||sin88.me^
@@ -2899,6 +2909,7 @@
 ||ae888.men^
 ||kkwin.men^
 ||net88.men^
+||win79.men^
 ||xoso66.men^
 ||sportlife.com.mk^
 ||loto.mk^
@@ -2935,6 +2946,7 @@
 ||cashsweep.com.my^
 ||damacai.com.my^
 ||sportstoto.com.my^
+||gemwin.my^
 ||magnum4d.my^
 ||taiwin79.my^
 ||f168.name^
@@ -3113,6 +3125,7 @@
 ||big88.one^
 ||dangky789.one^
 ||maxbet.one^
+||nhat.one^
 ||sv368.one^
 ||thabet.one^
 ||thangto.one^
@@ -3124,6 +3137,7 @@
 ||11bet.online^
 ||8day.online^
 ||appdaga.online^
+||haywinvip.online^
 ||k8bet.online^
 ||lixi888.online^
 ||lode88.online^
@@ -3251,6 +3265,7 @@
 ||8xbet.pw^
 ||go8.pw^
 ||man88.pw^
+||sunwin.pw^
 ||gamebaidoithuong.quest^
 ||vn88.quest^
 ||go99.red^
@@ -3276,6 +3291,7 @@
 ||sveacasino.se^
 ||svenskaspel.se^
 ||swedencasino.se^
+||zowin.sh^
 ||007win.shop^
 ||kg88.shop^
 ||vuabet88.shop^
@@ -3295,9 +3311,11 @@
 ||etipos.sk^
 ||tipos.sk^
 ||debet.so^
+||hitclub.so^
 ||68gamebai.social^
 ||neo79.space^
 ||go99code.store^
+||haywin.store^
 ||miso88.store^
 ||tk88.store^
 ||f168.studio^
@@ -3306,6 +3324,7 @@
 ||789club.sx^
 ||sin88.sx^
 ||sunwin.sx^
+||zowin.sx^
 ||bet88.systems^
 ||2q.team^
 ||68gamebai.tel^
@@ -3316,6 +3335,7 @@
 ||new88.tips^
 ||33win.to^
 ||fabet.to^
+||gemwin.to^
 ||nbet.to^
 ||sun.to^
 ||choiriikvip.today^
