@@ -190,6 +190,7 @@
 ||toto.bg^
 ||winbet.bg^
 ||winbetaffiliates.bg^
+||zowin.bh^
 ||hitclub.bi^
 ||skyclub.bid^
 ||iwin.bio^
@@ -2727,6 +2728,7 @@
 ||tai789.icu^
 ||maxbet.id^
 ||shbet.id^
+||sunwin.id^
 ||lottery.ie^
 ||pais.co.il^
 ||bj88.im^
@@ -2936,6 +2938,7 @@
 ||888b.moe^
 ||debet.moi^
 ||sunwin.moi^
+||win79.moi^
 ||primebet.com.mt^
 ||mu88.mu^
 ||11bet.mx^
@@ -3311,9 +3314,11 @@
 ||win79.site^
 ||etipos.sk^
 ||tipos.sk^
+||3bet.so^
 ||debet.so^
 ||hitclub.so^
 ||68gamebai.social^
+||haywin.space^
 ||neo79.space^
 ||go99code.store^
 ||haywin.store^
@@ -3335,6 +3340,7 @@
 ||ee88.tips^
 ||new88.tips^
 ||33win.to^
+||ball88.to^
 ||fabet.to^
 ||gemwin.to^
 ||nbet.to^
@@ -3403,6 +3409,7 @@
 ||fa88.tv^
 ||fabet.tv^
 ||fun88viet.tv^
+||gemwin.tv^
 ||go88.tv^
 ||hitclub.tv^
 ||jun88.tv^
