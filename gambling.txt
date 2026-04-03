@@ -50,6 +50,7 @@
 ||bet88.ai^
 ||kubet.ai^
 ||lode88.ai^
+||lu88.ai^
 ||78966.app^
 ||88uu.app^
 ||8kbet.app^
@@ -124,6 +125,7 @@
 ||nationale-loterij.be^
 ||fc88.beauty^
 ||789f.best^
+||mubet.best^
 ||123b.bet^
 ||188asia.bet^
 ||2826.bet^
@@ -245,6 +247,7 @@
 ||sv368.casino^
 ||ttr.casino^
 ||vn88.casino^
+||keonhacai.cat^
 ||88new.cc^
 ||8xbet.cc^
 ||b52.cc^
@@ -2272,6 +2275,7 @@
 ||totobet24.com^
 ||toxicjackpot.com^
 ||trang188vn.com^
+||trangkeo.com^
 ||triobet.com^
 ||turbico.com^
 ||twin5568.com^
@@ -2567,6 +2571,7 @@
 ||fb88.delivery^
 ||888b.dev^
 ||cf68.dev^
+||mubet.dev^
 ||mv66.dev^
 ||vuabet88.dev^
 ||kuwin.digital^
@@ -2655,6 +2660,7 @@
 ||fcb8.fun^
 ||gamebai88.fun^
 ||k8bet.fun^
+||ku88.fun^
 ||kubet88.fun^
 ||leo88.fun^
 ||lucky88.fun^
@@ -2680,6 +2686,7 @@
 ||xibet.fun^
 ||xo88.fun^
 ||zbet.fun^
+||tx88.fyi^
 ||b52.game^
 ||bc.game^
 ||may88.game^
@@ -2738,6 +2745,7 @@
 ||bong99.in^
 ||casinobitco.in^
 ||choiwin79.in^
+||du88.in^
 ||ee88.in^
 ||hitclub.in^
 ||hotlive.in^
@@ -2747,6 +2755,8 @@
 ||sky88.in^
 ||tin88.in^
 ||tk88.in^
+||tx88.in^
+||sunwin.inc^
 ||988bet.info^
 ||b52vn.info^
 ||casinobg.info^
@@ -2755,6 +2765,7 @@
 ||dangkyva88.info^
 ||debet.info^
 ||debet79.info^
+||du88.info^
 ||iwin.info^
 ||k8bet.info^
 ||lixi88.info^
@@ -2790,7 +2801,9 @@
 ||betway.co.ke^
 ||mozzartbet.co.ke^
 ||kubet.kim^
+||lu88.kim^
 ||nlotto.co.kr^
+||man88.la^
 ||tk88.la^
 ||789f.lat^
 ||gamebaidoithuong.lat^
@@ -2938,10 +2951,12 @@
 ||888b.moe^
 ||debet.moi^
 ||sunwin.moi^
+||vin88.moi^
 ||win79.moi^
 ||primebet.com.mt^
 ||mu88.mu^
 ||11bet.mx^
+||11win.mx^
 ||caliente.mx^
 ||gamebaidoithuong.com.mx^
 ||lotenal.gob.mx^
@@ -2954,6 +2969,7 @@
 ||taiwin79.my^
 ||f168.name^
 ||11bet.net^
+||11win.net^
 ||123b.net^
 ||179bet.net^
 ||5566688.net^
@@ -3196,6 +3212,7 @@
 ||iforbet.pl^
 ||lotto.pl^
 ||lvbet.pl^
+||man88.pl^
 ||megalotto.pl^
 ||multipasko.pl^
 ||noblebet.pl^
@@ -3273,6 +3290,7 @@
 ||gamebaidoithuong.quest^
 ||vn88.quest^
 ||go99.red^
+||9bet.rest^
 ||miso88.review^
 ||shbet.rip^
 ||loto.ro^
@@ -3295,6 +3313,7 @@
 ||sveacasino.se^
 ||svenskaspel.se^
 ||swedencasino.se^
+||mubet.sh^
 ||zowin.sh^
 ||007win.shop^
 ||kg88.shop^
@@ -3317,6 +3336,7 @@
 ||3bet.so^
 ||debet.so^
 ||hitclub.so^
+||ta88.so^
 ||68gamebai.social^
 ||haywin.space^
 ||neo79.space^
@@ -3330,6 +3350,7 @@
 ||789club.sx^
 ||sin88.sx^
 ||sunwin.sx^
+||vin88.sx^
 ||zowin.sx^
 ||bet88.systems^
 ||2q.team^
@@ -3422,6 +3443,7 @@
 ||rikvip.tv^
 ||st666.tv^
 ||sun52.tv^
+||ta88.tv^
 ||tk88.tv^
 ||vin88.tv^
 ||yo88.tv^
@@ -3485,6 +3507,7 @@
 ||iwin.us^
 ||klik4d.us^
 ||kubet8.us^
+||lucky88.us^
 ||manclub.us^
 ||may88.us^
 ||mv66.us^
@@ -3560,8 +3583,10 @@
 ||haywin.vip^
 ||hotlive8.vip^
 ||i9bet.vip^
+||i9online.vip^
 ||iwin58.vip^
 ||k8win.vip^
+||keocopa.vip^
 ||kubet77.vip^
 ||lode88.vip^
 ||love580.vip^
@@ -3713,6 +3738,7 @@
 ||zo2.win^
 ||five88.wine^
 ||vin777.work^
+||9bet.world^
 ||five88.world^
 ||globalwagering.ws^
 ||mu88.ws^
