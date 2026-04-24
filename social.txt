@@ -1,4 +1,5 @@
 ||instagr.am^
+||bsky.app^
 ||tiktokmusic.app^
 ||facebook.at^
 ||facebook.com.au^
