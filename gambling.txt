@@ -59,6 +59,7 @@
 ||8kbet.app^
 ||ano88.app^
 ||appdaga.app^
+||ball88.app^
 ||benbet.app^
 ||cf68.app^
 ||fi88.app^
@@ -2677,6 +2678,7 @@
 ||may88.fun^
 ||mu9.fun^
 ||nbet.fun^
+||okvip.fun^
 ||one88.fun^
 ||oxbet.fun^
 ||rik.fun^
@@ -2732,6 +2734,7 @@
 ||789bet.green^
 ||fun88.green^
 ||go99.green^
+||debet.gs^
 ||kuwin.guide^
 ||gem88.guru^
 ||vic.hair^
@@ -2805,6 +2808,7 @@
 ||vloot.io^
 ||vn88.io^
 ||xoso66.io^
+||gemwin.is^
 ||lotto.is^
 ||nhatvip.is^
 ||shbet.is^
@@ -2949,6 +2953,7 @@
 ||xoso66.men^
 ||sportlife.com.mk^
 ||loto.mk^
+||yo88.ml^
 ||sin88.mn^
 ||11bet.mobi^
 ||11win.mobi^
@@ -2971,9 +2976,11 @@
 ||x8.mobi^
 ||888b.moe^
 ||debet.moi^
+||nhatvip.moi^
 ||sunwin.moi^
 ||vin88.moi^
 ||win79.moi^
+||sin88.ms^
 ||primebet.com.mt^
 ||mu88.mu^
 ||11bet.mx^
@@ -3315,6 +3322,7 @@
 ||gamebaidoithuong.quest^
 ||vn88.quest^
 ||go99.red^
+||zowin.red^
 ||9bet.rest^
 ||miso88.review^
 ||shbet.rip^
@@ -3345,6 +3353,7 @@
 ||vuabet88.shop^
 ||five88.show^
 ||eloterija.si^
+||hitclub.si^
 ||loterija.si^
 ||523betapp.site^
 ||f8bet.site^
@@ -3373,6 +3382,7 @@
 ||go88.study^
 ||789.sx^
 ||789club.sx^
+||five88.sx^
 ||sin88.sx^
 ||sunwin.sx^
 ||vin88.sx^
@@ -3549,6 +3559,7 @@
 ||st666win.us^
 ||top88.us^
 ||xo88.us^
+||3bet.vc^
 ||five88.vc^
 ||gemwin.vc^
 ||789club.vg^
@@ -3676,6 +3687,7 @@
 ||tdtc.vn^
 ||top88.vn^
 ||188bet.vote^
+||sv88.vu^
 ||rikvip.wales^
 ||bepe88.website^
 ||bongvip.website^

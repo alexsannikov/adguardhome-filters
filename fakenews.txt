@@ -1694,7 +1694,6 @@
 ||waskomreview.com^
 ||wastachnews.com^
 ||waterfordtoday.com^
-||waterfordwhispersnews.com^
 ||waterlooreview.com^
 ||waterlootimes.com^
 ||waukeetimes.com^
