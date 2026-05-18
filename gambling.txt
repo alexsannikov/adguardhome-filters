@@ -2761,6 +2761,7 @@
 ||choiwin79.in^
 ||du88.in^
 ||ee88.in^
+||five88.in^
 ||hitclub.in^
 ||hotlive.in^
 ||lucky88.in^
@@ -2813,6 +2814,7 @@
 ||nhatvip.is^
 ||shbet.is^
 ||yo88.is^
+||zowin.is^
 ||nhat.it^
 ||sisal.it^
 ||takarakuji-official.jp^
@@ -2911,7 +2913,9 @@
 ||cafecasino.lv^
 ||go8.lv^
 ||hbet.lv^
+||hitclub.lv^
 ||latloto.lv^
+||sv88.lv^
 ||e-loterie.ma^
 ||loterie.ma^
 ||388bet.me^
@@ -2962,6 +2966,7 @@
 ||8live.mobi^
 ||9bet.mobi^
 ||b52.mobi^
+||ball88.mobi^
 ||fcb8.mobi^
 ||k88.mobi^
 ||kubet.mobi^
@@ -3383,6 +3388,7 @@
 ||789.sx^
 ||789club.sx^
 ||five88.sx^
+||nhat.sx^
 ||sin88.sx^
 ||sunwin.sx^
 ||vin88.sx^
@@ -3563,6 +3569,7 @@
 ||five88.vc^
 ||gemwin.vc^
 ||789club.vg^
+||debet.vg^
 ||xocdia88.video^
 ||11bet.vin^
 ||388bet.vin^
@@ -3572,6 +3579,7 @@
 ||fcb8.vin^
 ||five88.vin^
 ||gamebai.vin^
+||gemwin.vin^
 ||hitclub.vin^
 ||kkwin.vin^
 ||kubet11.vin^
@@ -3798,6 +3806,7 @@
 ||miso88.xyz^
 ||td88.xyz^
 ||yylive.xyz^
+||3bet.you^
 ||bet.co.za^
 ||betflash.co.za^
 ||bettingworld.co.za^
