@@ -3413,6 +3413,7 @@
 ||haywin.store^
 ||miso88.store^
 ||tk88.store^
+||tot88.store^
 ||f168.studio^
 ||go88.study^
 ||789.sx^
