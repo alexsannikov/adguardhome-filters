@@ -1379,6 +1379,7 @@
 ||hotlinecsgo.com^
 ||howzat.com^
 ||hpbet.com^
+||hubet.com^
 ||hughesbet.com^
 ||hunkybingo.com^
 ||hypedrop.com^
@@ -1823,6 +1824,7 @@
 ||miso88.com^
 ||missbet.com^
 ||mk.com^
+||mm88.com^
 ||mobil6000.com^
 ||mobilautomaten.com^
 ||mobilbet.com^
@@ -2043,6 +2045,7 @@
 ||royalpanda.com^
 ||royalslots.com^
 ||royrichie.com^
+||rs88.com^
 ||rubet.com^
 ||rubik88.com^
 ||rush777.com^
@@ -2543,7 +2546,9 @@
 ||sin88.cv^
 ||debet.cx^
 ||justbet.cx^
+||nhat.cx^
 ||vuabet88.cx^
+||rs88.cyou^
 ||betano.cz^
 ||chance.cz^
 ||iforbet.cz^
@@ -2696,6 +2701,7 @@
 ||okvip.fun^
 ||one88.fun^
 ||oxbet.fun^
+||racvl.fun^
 ||rik.fun^
 ||rikvip.fun^
 ||sanos.fun^
@@ -2819,6 +2825,7 @@
 ||xvipwin.info^
 ||bom88.ing^
 ||tx88.ing^
+||gemwin.ink^
 ||miso88.ink^
 ||bay789.io^
 ||bitcoinrush.io^
@@ -2831,6 +2838,7 @@
 ||xoso66.io^
 ||gemwin.is^
 ||lotto.is^
+||nhat.is^
 ||nhatvip.is^
 ||shbet.is^
 ||yo88.is^
@@ -2844,6 +2852,7 @@
 ||kubet.kim^
 ||lu88.kim^
 ||nlotto.co.kr^
+||3bet.la^
 ||man88.la^
 ||tk88.la^
 ||789f.lat^
@@ -2929,6 +2938,7 @@
 ||s26bet.ltd^
 ||sa88.ltd^
 ||loterie.lu^
+||sin88.lu^
 ||go88.luxury^
 ||bovada.lv^
 ||cafecasino.lv^
@@ -2973,11 +2983,13 @@
 ||zbet.me^
 ||ae888.men^
 ||kkwin.men^
+||lc88.men^
 ||net88.men^
 ||win79.men^
 ||xoso66.men^
 ||sportlife.com.mk^
 ||loto.mk^
+||hitclub.ml^
 ||red88.ml^
 ||yo88.ml^
 ||sin88.mn^
@@ -3189,6 +3201,7 @@
 ||betpawa.ng^
 ||betwinner.ng^
 ||zowin.ng^
+||five88.nl^
 ||miso88.nl^
 ||nederlandseloterij.nl^
 ||postcodeloterij.nl^
@@ -3360,6 +3373,7 @@
 ||miso88.review^
 ||shbet.rip^
 ||loto.ro^
+||sv88.ro^
 ||klik4d.rocks^
 ||tk88.rocks^
 ||balkanbet.co.rs^
@@ -3380,6 +3394,7 @@
 ||svenskaspel.se^
 ||swedencasino.se^
 ||mubet.sh^
+||nhat.sh^
 ||zowin.sh^
 ||007win.shop^
 ||kg88.shop^
@@ -3409,6 +3424,8 @@
 ||68gamebai.social^
 ||haywin.space^
 ||neo79.space^
+||debet.st^
+||yo88.st^
 ||go99code.store^
 ||haywin.store^
 ||miso88.store^
@@ -3528,6 +3545,7 @@
 ||taiwanlottery.com.tw^
 ||i9bet.tw^
 ||sin88.tw^
+||zowin.tw^
 ||betpawa.co.tz^
 ||sportpesa.co.tz^
 ||msl.ua^
@@ -3694,6 +3712,7 @@
 ||red88.vip^
 ||rik.vip^
 ||rikvip.vip^
+||rs88.vip^
 ||sieub52.vip^
 ||sin88.vip^
 ||sinbet.vip^
@@ -3732,6 +3751,7 @@
 ||top88.voto^
 ||sv88.vu^
 ||rikvip.wales^
+||u88.watch^
 ||bepe88.website^
 ||bongvip.website^
 ||maxbet.website^
@@ -3858,5 +3878,6 @@
 ||worldsportsbetting.co.za^
 ||betpawa.co.zm^
 ||88vin.zone^
+||ball88.zone^
 ||god55.zone^
 ||betpawa.co.zw^
