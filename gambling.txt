@@ -198,6 +198,7 @@
 ||toto.bg^
 ||winbet.bg^
 ||winbetaffiliates.bg^
+||nhat.bh^
 ||zowin.bh^
 ||hitclub.bi^
 ||skyclub.bid^
@@ -287,6 +288,7 @@
 ||vuagaaz.ceo^
 ||hi88.chat^
 ||b69.city^
+||sv88.cl^
 ||hong88vn.click^
 ||taigamengay.click^
 ||vaob52.click^
@@ -2559,6 +2561,7 @@
 ||sazka.cz^
 ||synottip.cz^
 ||tipsport.cz^
+||ball88.day^
 ||net88.day^
 ||w88.day^
 ||faber.de^
@@ -2860,6 +2863,7 @@
 ||ee88.law^
 ||debet.lc^
 ||five88.lc^
+||gemwin.lc^
 ||hitclub.lc^
 ||11bet.life^
 ||b77.life^
@@ -2942,6 +2946,7 @@
 ||go88.luxury^
 ||bovada.lv^
 ||cafecasino.lv^
+||debet.lv^
 ||go8.lv^
 ||hbet.lv^
 ||hitclub.lv^
@@ -2991,6 +2996,7 @@
 ||loto.mk^
 ||hitclub.ml^
 ||red88.ml^
+||sin88.ml^
 ||yo88.ml^
 ||sin88.mn^
 ||11bet.mobi^
@@ -3019,8 +3025,10 @@
 ||sunwin.moi^
 ||vin88.moi^
 ||win79.moi^
+||zowin.mom^
 ||sin88.ms^
 ||primebet.com.mt^
+||hitclub.mu^
 ||mu88.mu^
 ||11bet.mx^
 ||11win.mx^
@@ -3034,6 +3042,7 @@
 ||gemwin.my^
 ||haywin.my^
 ||magnum4d.my^
+||nhat.my^
 ||taiwin79.my^
 ||f168.name^
 ||11bet.net^
@@ -3200,6 +3209,7 @@
 ||shbet.news^
 ||betpawa.ng^
 ||betwinner.ng^
+||five88.ng^
 ||zowin.ng^
 ||five88.nl^
 ||miso88.nl^
@@ -3211,6 +3221,7 @@
 ||uu88.now^
 ||mylotto.co.nz^
 ||tab.co.nz^
+||gemwin.nz^
 ||789f.one^
 ||big88.one^
 ||dangky789.one^
@@ -3272,6 +3283,7 @@
 ||gemwin.page^
 ||promotions.epic.partners^
 ||hb88.party^
+||3bet.ph^
 ||miso88.com.ph^
 ||miso88.pics^
 ||betclic.pl^
@@ -3367,6 +3379,7 @@
 ||yo88.pw^
 ||gamebaidoithuong.quest^
 ||vn88.quest^
+||ball88.red^
 ||go99.red^
 ||zowin.red^
 ||9bet.rest^
@@ -3387,6 +3400,7 @@
 ||five88.sale^
 ||hitclub.salon^
 ||8day.sbs^
+||debet.sc^
 ||atg.se^
 ||casinotown.se^
 ||igame.se^
@@ -3416,6 +3430,7 @@
 ||win79.site^
 ||etipos.sk^
 ||tipos.sk^
+||3bet.ski^
 ||3bet.so^
 ||debet.so^
 ||hitclub.so^
@@ -3621,6 +3636,7 @@
 ||789club.vg^
 ||debet.vg^
 ||win79.vg^
+||yo88.vg^
 ||xocdia88.video^
 ||11bet.vin^
 ||388bet.vin^
