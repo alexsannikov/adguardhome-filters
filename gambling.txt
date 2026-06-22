@@ -7,6 +7,7 @@
 ||nhatvip.ac^
 ||taisum.ac^
 ||sv88.ae^
+||yo88.ae^
 ||sunwin.af^
 ||1vice.ag^
 ||abcislands.ag^
@@ -2675,6 +2676,7 @@
 ||gemwin.fm^
 ||kubet.fo^
 ||new88.fo^
+||sin88.fo^
 ||fdj.fr^
 ||11bet.fun^
 ||789.fun^
@@ -2732,6 +2734,7 @@
 ||28bet.games^
 ||8xbet.games^
 ||au88.games^
+||ball88.games^
 ||bj88.games^
 ||f8bet.games^
 ||go99.games^
@@ -2854,6 +2857,7 @@
 ||mozzartbet.co.ke^
 ||kubet.kim^
 ||lu88.kim^
+||zowin.kim^
 ||nlotto.co.kr^
 ||3bet.la^
 ||man88.la^
@@ -2947,6 +2951,7 @@
 ||bovada.lv^
 ||cafecasino.lv^
 ||debet.lv^
+||gemwin.lv^
 ||go8.lv^
 ||hbet.lv^
 ||hitclub.lv^
@@ -2993,10 +2998,12 @@
 ||win79.men^
 ||xoso66.men^
 ||sportlife.com.mk^
+||hitclub.mk^
 ||loto.mk^
 ||hitclub.ml^
 ||red88.ml^
 ||sin88.ml^
+||sv88.ml^
 ||yo88.ml^
 ||sin88.mn^
 ||11bet.mobi^
@@ -3026,10 +3033,12 @@
 ||vin88.moi^
 ||win79.moi^
 ||zowin.mom^
+||debet.mp^
 ||sin88.ms^
 ||primebet.com.mt^
 ||hitclub.mu^
 ||mu88.mu^
+||debet.mw^
 ||11bet.mx^
 ||11win.mx^
 ||caliente.mx^
@@ -3373,6 +3382,7 @@
 ||go8.pw^
 ||hbet.pw^
 ||man88.pw^
+||nhat.pw^
 ||ricwin.pw^
 ||sunwin.pw^
 ||vin88.pw^
@@ -3385,6 +3395,7 @@
 ||9bet.rest^
 ||miso88.review^
 ||shbet.rip^
+||five88.ro^
 ||loto.ro^
 ||sv88.ro^
 ||klik4d.rocks^
@@ -3407,6 +3418,7 @@
 ||sveacasino.se^
 ||svenskaspel.se^
 ||swedencasino.se^
+||3bet.sh^
 ||mubet.sh^
 ||nhat.sh^
 ||zowin.sh^
@@ -3418,6 +3430,7 @@
 ||hitclub.si^
 ||loterija.si^
 ||sin88.si^
+||sv88.si^
 ||523betapp.site^
 ||f8bet.site^
 ||kufun.site^
@@ -3448,6 +3461,7 @@
 ||tot88.store^
 ||f168.studio^
 ||go88.study^
+||hitclub.su^
 ||789.sx^
 ||789club.sx^
 ||five88.sx^
@@ -3605,6 +3619,7 @@
 ||top88.uk^
 ||betpassion.uno^
 ||hi88.uno^
+||zowin.uno^
 ||11bet.us^
 ||388bet.us^
 ||8live.us^
@@ -3766,6 +3781,7 @@
 ||188bet.vote^
 ||top88.voto^
 ||sv88.vu^
+||yo88.vu^
 ||rikvip.wales^
 ||u88.watch^
 ||bepe88.website^
