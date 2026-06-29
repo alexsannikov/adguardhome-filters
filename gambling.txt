@@ -210,6 +210,7 @@
 ||cadovn.biz^
 ||fabet.biz^
 ||five88.biz^
+||gem88.biz^
 ||kubet.biz^
 ||mv66.biz^
 ||playhit.biz^
@@ -232,6 +233,7 @@
 ||herobet.com.br^
 ||jun88.buzz^
 ||11bet.bz^
+||nhat.bz^
 ||go88.ca^
 ||lottomax.ca^
 ||olg.ca^
@@ -239,6 +241,7 @@
 ||playolg.ca^
 ||proline.ca^
 ||sportsbook.ca^
+||gemwin.cab^
 ||b69.cafe^
 ||hitclub.cafe^
 ||taib69.cafe^
@@ -1058,6 +1061,7 @@
 ||csgovaults.com^
 ||csgowealth.com^
 ||csgowheel.com^
+||cskhkjc.com^
 ||cspotluck.com^
 ||cungv9choi.com^
 ||cuoc8899.com^
@@ -1247,6 +1251,7 @@
 ||fikacasino.com^
 ||five-88.com^
 ||five88.com^
+||five88chinhhang.com^
 ||flumecasino.com^
 ||fm88.com^
 ||folkeautomaten.com^
@@ -1298,6 +1303,7 @@
 ||gate777.com^
 ||gd55id.com^
 ||gem88.com^
+||gemwinchinhhang.com^
 ||gen88.com^
 ||genesiscasino.com^
 ||gentingcasino.com^
@@ -1373,6 +1379,7 @@
 ||highroller.com^
 ||hippobingo.com^
 ||hitclub.com^
+||hitclubchinhhang.com^
 ||hititbet.com^
 ||bet.hkjc.com^
 ||hl8thai8.com^
@@ -1671,6 +1678,7 @@
 ||kirsikka.com^
 ||kissmybingo.com^
 ||daftarpokeronline.kissr.com^
+||kjcvn.com^
 ||klik4a.com^
 ||klik4d.com^
 ||klik4donline.com^
@@ -1917,6 +1925,8 @@
 ||ohmbet.com^
 ||okcado.com^
 ||okking.com^
+||okvipcskh.com^
+||okvipworldcup.com^
 ||olaspill.com^
 ||ole777vietnam.com^
 ||ole7788.com^
@@ -2095,6 +2105,7 @@
 ||shviet0.com^
 ||simppeli.com^
 ||sin88.com^
+||sin88chinhhang.com^
 ||sin88s.com^
 ||sinbet.com^
 ||online.singaporepools.com^
@@ -2205,6 +2216,7 @@
 ||sv66vip6.com^
 ||sv88.com^
 ||sv88a.com^
+||sv88chinhhang.com^
 ||sv1.sv88d.com^
 ||sv88r.com^
 ||sv88vn.com^
@@ -2528,6 +2540,7 @@
 ||ybbbet.com^
 ||yd88c.com^
 ||yeticasino.com^
+||yo88chinhhang.com^
 ||yo88vn.com^
 ||yobetit.com^
 ||youwin.com^
@@ -2542,6 +2555,7 @@
 ||go88.contractors^
 ||okking.cooking^
 ||58win.cool^
+||bom88.cool^
 ||miso88.cool^
 ||xocdiaonline.cool^
 ||yo88.cool^
@@ -2723,6 +2737,7 @@
 ||xibet.fun^
 ||xo88.fun^
 ||zbet.fun^
+||gemwin.fyi^
 ||tx88.fyi^
 ||b52.game^
 ||bc.game^
@@ -2746,6 +2761,7 @@
 ||debet.gd^
 ||hi88.gd^
 ||lu88.gdn^
+||sin88.gdn^
 ||11bet.gg^
 ||bounty.gg^
 ||csgoroll.gg^
@@ -2849,6 +2865,8 @@
 ||shbet.is^
 ||yo88.is^
 ||zowin.is^
+||hitclub.ist^
+||yo88.ist^
 ||nhat.it^
 ||sisal.it^
 ||takarakuji-official.jp^
@@ -2857,6 +2875,7 @@
 ||mozzartbet.co.ke^
 ||kubet.kim^
 ||lu88.kim^
+||nhat.kim^
 ||zowin.kim^
 ||nlotto.co.kr^
 ||3bet.la^
@@ -2922,6 +2941,7 @@
 ||dlb.lk^
 ||nlb.lk^
 ||11win.llc^
+||ball88.llc^
 ||i9bet.llc^
 ||tx88.llc^
 ||789f.love^
@@ -2991,6 +3011,7 @@
 ||win79play.me^
 ||xoso66.me^
 ||zbet.me^
+||debet.med^
 ||ae888.men^
 ||kkwin.men^
 ||lc88.men^
@@ -3048,6 +3069,7 @@
 ||cashsweep.com.my^
 ||damacai.com.my^
 ||sportstoto.com.my^
+||five88.my^
 ||gemwin.my^
 ||haywin.my^
 ||magnum4d.my^
@@ -3294,6 +3316,8 @@
 ||hb88.party^
 ||3bet.ph^
 ||miso88.com.ph^
+||zowin.ph^
+||bom88.pics^
 ||miso88.pics^
 ||betclic.pl^
 ||betcris.pl^
@@ -3471,6 +3495,7 @@
 ||vin88.sx^
 ||zowin.sx^
 ||bet88.systems^
+||gemwin.tax^
 ||2q.team^
 ||3bet.tech^
 ||68gamebai.tel^
@@ -3502,6 +3527,7 @@
 ||cuocnohu.top^
 ||dabet.top^
 ||debet.top^
+||debetchinhhang.top^
 ||fb88.top^
 ||fcb8.top^
 ||five88.top^
@@ -3648,6 +3674,7 @@
 ||3bet.vc^
 ||five88.vc^
 ||gemwin.vc^
+||gem88.vet^
 ||789club.vg^
 ||debet.vg^
 ||win79.vg^
@@ -3782,6 +3809,7 @@
 ||top88.voto^
 ||sv88.vu^
 ||yo88.vu^
+||zowin.vu^
 ||rikvip.wales^
 ||u88.watch^
 ||bepe88.website^
