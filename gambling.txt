@@ -122,6 +122,7 @@
 ||williamhill.com.au^
 ||zebrabet.com.au^
 ||etopaz.az^
+||789club.ba^
 ||wwin.ba^
 ||mv66.baby^
 ||qh88.baby^
@@ -2051,6 +2052,7 @@
 ||ricbet.com^
 ||ridika.com^
 ||rik6.com^
+||rikvipchinhhang.com^
 ||rivalo.com^
 ||rivalry.com^
 ||rizk.com^
@@ -2379,6 +2381,7 @@
 ||villabet.com^
 ||vin68.com^
 ||vin88.com^
+||vin88chinhhang.com^
 ||vinnarum.com^
 ||vip79.com^
 ||vitalbet.com^
@@ -2621,6 +2624,7 @@
 ||vuabet88.dev^
 ||zbet.dev^
 ||kuwin.digital^
+||bom88.diy^
 ||bet25.dk^
 ||danskespil.dk^
 ||dantoto.dk^
@@ -2746,6 +2750,7 @@
 ||xibet.fun^
 ||xo88.fun^
 ||zbet.fun^
+||ball88.fyi^
 ||gemwin.fyi^
 ||tx88.fyi^
 ||b52.game^
@@ -2792,6 +2797,7 @@
 ||gem88.guru^
 ||vic.hair^
 ||f8bet.homes^
+||3bet.host^
 ||sodo.host^
 ||lutrija.hr^
 ||szerencsejatek.hu^
@@ -2855,6 +2861,7 @@
 ||xoso66.info^
 ||xvipwin.info^
 ||bom88.ing^
+||ricwin.ing^
 ||tx88.ing^
 ||gemwin.ink^
 ||miso88.ink^
@@ -3024,7 +3031,9 @@
 ||xoso66.me^
 ||zbet.me^
 ||debet.med^
+||rikvip.med^
 ||ae888.men^
+||ball88.men^
 ||kkwin.men^
 ||lc88.men^
 ||net88.men^
@@ -3046,8 +3055,10 @@
 ||8live.mobi^
 ||9bet.mobi^
 ||b52.mobi^
+||b52club.mobi^
 ||ball88.mobi^
 ||fcb8.mobi^
+||gemwin.mobi^
 ||k88.mobi^
 ||kubet.mobi^
 ||megawin88.mobi^
@@ -3259,6 +3270,7 @@
 ||man88.ng^
 ||zowin.ng^
 ||five88.nl^
+||haybet.nl^
 ||miso88.nl^
 ||nederlandseloterij.nl^
 ||postcodeloterij.nl^
@@ -3360,6 +3372,7 @@
 ||totolotek.pl^
 ||trafonline.pl^
 ||8k88.plus^
+||bom88.plus^
 ||ee88.plus^
 ||go8.plus^
 ||saowin.plus^
@@ -3421,6 +3434,7 @@
 ||b29.pub^
 ||go8.pub^
 ||kkwin.pub^
+||vin88.pub^
 ||8xbet.pw^
 ||go8.pw^
 ||hbet.pw^
@@ -3470,6 +3484,7 @@
 ||vuabet88.shop^
 ||five88.show^
 ||sunwin.show^
+||da88.si^
 ||eloterija.si^
 ||hitclub.si^
 ||loterija.si^
@@ -3496,6 +3511,7 @@
 ||68gamebai.social^
 ||haywin.space^
 ||neo79.space^
+||zowin.srl^
 ||debet.st^
 ||yo88.st^
 ||go99code.store^
@@ -3925,6 +3941,7 @@
 ||zo10.win^
 ||zo2.win^
 ||five88.wine^
+||3bet.work^
 ||vin777.work^
 ||9bet.world^
 ||five88.world^
