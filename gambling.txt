@@ -129,6 +129,7 @@
 ||etopaz.az^
 ||789club.ba^
 ||wwin.ba^
+||bom88.baby^
 ||mv66.baby^
 ||qh88.baby^
 ||nohu.band^
@@ -264,6 +265,7 @@
 ||nhat.cam^
 ||sv388.cam^
 ||du88.care^
+||ball88.casa^
 ||indobola77.casa^
 ||topclub.casa^
 ||009.casino^
@@ -303,10 +305,13 @@
 ||usbet.cc^
 ||vivu88.cc^
 ||win456.cc^
+||3bet.center^
 ||betvip.center^
 ||vuagaaz.ceo^
 ||lu88.ch^
 ||hi88.chat^
+||zowin.ci^
+||3bet.city^
 ||b69.city^
 ||dv88.city^
 ||sv88.cl^
@@ -2579,6 +2584,7 @@
 ||go88.contractors^
 ||okking.cooking^
 ||58win.cool^
+||ball88.cool^
 ||bom88.cool^
 ||miso88.cool^
 ||xocdiaonline.cool^
@@ -2623,6 +2629,7 @@
 ||lottohelden.de^
 ||lottomv.de^
 ||lottosachsenanhalt.de^
+||lu88.de^
 ||miso88.de^
 ||mybet.de^
 ||saartoto.de^
@@ -2811,6 +2818,7 @@
 ||safaribet.com.gh^
 ||supabets.com.gh^
 ||vuabet88.gold^
+||789club.gp^
 ||2winbet.gr^
 ||opap.gr^
 ||789bet.green^
@@ -2818,6 +2826,7 @@
 ||go99.green^
 ||debet.gs^
 ||kuwin.guide^
+||du88.guru^
 ||gem88.guru^
 ||vic.hair^
 ||f8bet.homes^
@@ -2915,6 +2924,7 @@
 ||nhat.it^
 ||sisal.it^
 ||takarakuji-official.jp^
+||789club.ke^
 ||22bet.co.ke^
 ||betway.co.ke^
 ||mozzartbet.co.ke^
@@ -2924,6 +2934,8 @@
 ||zowin.kim^
 ||nlotto.co.kr^
 ||3bet.la^
+||bom88.la^
+||hbet.la^
 ||man88.la^
 ||tk88.la^
 ||tx88.la^
@@ -2937,6 +2949,7 @@
 ||gemwin.lc^
 ||hitclub.lc^
 ||hbet.li^
+||man88.li^
 ||11bet.life^
 ||b77.life^
 ||bay789.life^
@@ -3113,6 +3126,8 @@
 ||x8.mobi^
 ||3bet.moe^
 ||888b.moe^
+||k88.moe^
+||vu88.moe^
 ||debet.moi^
 ||nhatvip.moi^
 ||ricwin.moi^
@@ -3331,6 +3346,7 @@
 ||tab.co.nz^
 ||gemwin.nz^
 ||lu88.nz^
+||xibet.nz^
 ||789f.one^
 ||big88.one^
 ||dangky789.one^
@@ -3398,6 +3414,7 @@
 ||hbet.ph^
 ||zowin.ph^
 ||yo88.phd^
+||tx88.photo^
 ||bom88.pics^
 ||miso88.pics^
 ||betclic.pl^
@@ -3527,6 +3544,7 @@
 ||svenskaspel.se^
 ||swedencasino.se^
 ||3bet.sh^
+||du88.sh^
 ||febet.sh^
 ||man88.sh^
 ||mubet.sh^
@@ -3560,6 +3578,7 @@
 ||3bet.ski^
 ||3bet.so^
 ||debet.so^
+||hbet.so^
 ||hitclub.so^
 ||ta88.so^
 ||yo88.so^
@@ -4047,5 +4066,6 @@
 ||88vin.zone^
 ||ball88.zone^
 ||god55.zone^
+||tx88.zone^
 ||vb88.zone^
 ||betpawa.co.zw^
