@@ -213,6 +213,7 @@
 ||zowin.bh^
 ||hitclub.bi^
 ||skyclub.bid^
+||3bet.bike^
 ||iwin.bio^
 ||kkwin.bio^
 ||3bet.biz^
@@ -266,6 +267,7 @@
 ||sv388.cam^
 ||du88.care^
 ||ball88.casa^
+||bom88.casa^
 ||indobola77.casa^
 ||topclub.casa^
 ||009.casino^
@@ -314,6 +316,7 @@
 ||3bet.city^
 ||b69.city^
 ||dv88.city^
+||man88.cl^
 ||sv88.cl^
 ||bom88.click^
 ||hong88vn.click^
@@ -2589,6 +2592,7 @@
 ||miso88.cool^
 ||xocdiaonline.cool^
 ||yo88.cool^
+||789club.cr^
 ||abc8.cv^
 ||sin88.cv^
 ||debet.cx^
@@ -2657,6 +2661,7 @@
 ||wager.dm^
 ||vic.doctor^
 ||betvisa.dog^
+||tx88.download^
 ||win79.download^
 ||loteria.com.ec^
 ||lu88.ec^
@@ -2721,6 +2726,7 @@
 ||nbet.fan^
 ||tx88.fan^
 ||zowin.fan^
+||gemwin.fast^
 ||kasinot.fi^
 ||veikkaus.fi^
 ||88clb.fit^
@@ -3134,6 +3140,7 @@
 ||sunwin.moi^
 ||vin88.moi^
 ||win79.moi^
+||xibet.moi^
 ||zowin.mom^
 ||debet.mp^
 ||sin88.ms^
@@ -3329,6 +3336,7 @@
 ||betwinner.ng^
 ||five88.ng^
 ||man88.ng^
+||vu88.ng^
 ||zowin.ng^
 ||five88.nl^
 ||haybet.nl^
@@ -3505,6 +3513,7 @@
 ||8xbet.pw^
 ||go8.pw^
 ||hbet.pw^
+||lu88.pw^
 ||man88.pw^
 ||nhat.pw^
 ||ricwin.pw^
@@ -3613,8 +3622,10 @@
 ||68gamebai.tel^
 ||au88.tel^
 ||fa88.tel^
+||k88.tel^
 ||kubet.tel^
 ||thabet.tel^
+||du88.tips^
 ||ee88.tips^
 ||new88.tips^
 ||33win.to^
@@ -3790,6 +3801,7 @@
 ||3bet.vc^
 ||five88.vc^
 ||gemwin.vc^
+||hbet.vc^
 ||man88.vc^
 ||gem88.vet^
 ||tx88.vet^
