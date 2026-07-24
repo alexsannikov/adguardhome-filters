@@ -238,6 +238,7 @@
 ||mu88.black^
 ||cacuoc365.blog^
 ||vin777.blog^
+||du88.blue^
 ||f168.blue^
 ||hitclub.blue^
 ||miso88.boats^
@@ -262,6 +263,7 @@
 ||taib69.cafe^
 ||68gb.cam^
 ||bong88.cam^
+||k88.cam^
 ||miso88.cam^
 ||nhat.cam^
 ||sv388.cam^
@@ -311,6 +313,7 @@
 ||betvip.center^
 ||vuagaaz.ceo^
 ||lu88.ch^
+||tx88.ch^
 ||hi88.chat^
 ||zowin.ci^
 ||3bet.city^
@@ -2602,6 +2605,7 @@
 ||rs88.cyou^
 ||betano.cz^
 ||chance.cz^
+||hbet.cz^
 ||iforbet.cz^
 ||ifortuna.cz^
 ||maxitip.cz^
@@ -2610,6 +2614,7 @@
 ||sazka.cz^
 ||synottip.cz^
 ||tipsport.cz^
+||vu88.cz^
 ||ball88.day^
 ||net88.day^
 ||pub88.day^
@@ -2954,6 +2959,7 @@
 ||five88.lc^
 ||gemwin.lc^
 ||hitclub.lc^
+||lu88.lc^
 ||hbet.li^
 ||man88.li^
 ||11bet.life^
@@ -3017,6 +3023,7 @@
 ||i9bet.llc^
 ||tx88.llc^
 ||789f.love^
+||ball88.love^
 ||new88.love^
 ||shbet.love^
 ||11bet.lt^
@@ -3145,6 +3152,7 @@
 ||debet.mp^
 ||sin88.ms^
 ||primebet.com.mt^
+||789club.mu^
 ||hitclub.mu^
 ||mu88.mu^
 ||debet.mw^
@@ -3349,6 +3357,7 @@
 ||rikstoto.no^
 ||tx88.now^
 ||uu88.now^
+||xibet.now^
 ||b52.nu^
 ||mylotto.co.nz^
 ||tab.co.nz^
@@ -3599,6 +3608,7 @@
 ||zowin.srl^
 ||debet.st^
 ||yo88.st^
+||3bet.store^
 ||go99code.store^
 ||haywin.store^
 ||miso88.store^
@@ -3618,6 +3628,8 @@
 ||bet88.systems^
 ||gemwin.tax^
 ||2q.team^
+||ball88.team^
+||bom88.team^
 ||3bet.tech^
 ||68gamebai.tel^
 ||au88.tel^
@@ -3939,6 +3951,7 @@
 ||top88.vn^
 ||188bet.vote^
 ||top88.voto^
+||man88.vu^
 ||sv88.vu^
 ||xibet.vu^
 ||yo88.vu^
