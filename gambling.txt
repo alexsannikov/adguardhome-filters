@@ -2653,6 +2653,7 @@
 ||cf68.dev^
 ||mubet.dev^
 ||mv66.dev^
+||uk88.dev^
 ||vuabet88.dev^
 ||zbet.dev^
 ||kuwin.digital^
@@ -3136,6 +3137,7 @@
 ||taigameviet.mobi^
 ||vn88.mobi^
 ||vnsodo.mobi^
+||vu88.mobi^
 ||x8.mobi^
 ||3bet.moe^
 ||888b.moe^
@@ -3149,12 +3151,14 @@
 ||win79.moi^
 ||xibet.moi^
 ||zowin.mom^
+||k88.mov^
 ||debet.mp^
 ||sin88.ms^
 ||primebet.com.mt^
 ||789club.mu^
 ||hitclub.mu^
 ||mu88.mu^
+||789club.mw^
 ||debet.mw^
 ||hitclub.mw^
 ||11bet.mx^
@@ -3455,6 +3459,7 @@
 ||superbet.pl^
 ||totolotek.pl^
 ||trafonline.pl^
+||xibet.pl^
 ||8k88.plus^
 ||bom88.plus^
 ||ee88.plus^
