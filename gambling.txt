@@ -85,6 +85,7 @@
 ||win79.app^
 ||winvn.app^
 ||codere.bet.ar^
+||9bet.army^
 ||du88.art^
 ||k88.art^
 ||868vip.asia^
@@ -132,6 +133,7 @@
 ||bom88.baby^
 ||mv66.baby^
 ||qh88.baby^
+||9bet.band^
 ||nohu.band^
 ||go88.bayern^
 ||betfirstcasino.be^
@@ -238,15 +240,18 @@
 ||mu88.black^
 ||cacuoc365.blog^
 ||vin777.blog^
+||9bet.blue^
 ||du88.blue^
 ||f168.blue^
 ||hitclub.blue^
 ||miso88.boats^
 ||sodo.bond^
 ||debet.bot^
+||vic.boutique^
 ||herobet.com.br^
 ||jun88.buzz^
 ||11bet.bz^
+||k88.bz^
 ||man88.bz^
 ||nhat.bz^
 ||go88.ca^
@@ -257,6 +262,7 @@
 ||proline.ca^
 ||sportsbook.ca^
 ||gemwin.cab^
+||uk88.cab^
 ||b69.cafe^
 ||du88.cafe^
 ||hitclub.cafe^
@@ -2154,6 +2160,7 @@
 ||skinprofit.com^
 ||skinsdream.com^
 ||sky88.com^
+||sky88chinhhang.com^
 ||skybet.com^
 ||skytowersportsbook.com^
 ||slbet.com^
@@ -2355,6 +2362,7 @@
 ||uer5.com^
 ||uk-k8.com^
 ||uk88.com^
+||uk88chinhhang.com^
 ||ultimate-odds.com^
 ||unibet.com^
 ||unibet-42.com^
@@ -2524,6 +2532,7 @@
 ||win365good.com^
 ||win79.com^
 ||win79a.com^
+||win79chinhhang.com^
 ||win79d.com^
 ||win888b.com^
 ||winbet288.com^
@@ -2672,6 +2681,7 @@
 ||loteria.com.ec^
 ||lu88.ec^
 ||xibet.ec^
+||win79.eco^
 ||eestiloto.ee^
 ||miso88.email^
 ||codere.es^
@@ -2732,6 +2742,8 @@
 ||nbet.fan^
 ||tx88.fan^
 ||zowin.fan^
+||du88.fashion^
+||tx88.fashion^
 ||gemwin.fast^
 ||kasinot.fi^
 ||veikkaus.fi^
@@ -2747,6 +2759,7 @@
 ||fdj.fr^
 ||11bet.fun^
 ||789.fun^
+||789club.fun^
 ||8live.fun^
 ||8xbet.fun^
 ||b77.fun^
@@ -2973,6 +2986,7 @@
 ||rik88.life^
 ||trangchu.life^
 ||xoso66.life^
+||gemwin.limo^
 ||five-88.link^
 ||gameiwin68.link^
 ||hn8.link^
@@ -3045,6 +3059,7 @@
 ||twinsbet.lt^
 ||uniclub.lt^
 ||ball88.ltd^
+||pub88.ltd^
 ||s26bet.ltd^
 ||sa88.ltd^
 ||loterie.lu^
@@ -3058,6 +3073,7 @@
 ||hbet.lv^
 ||hitclub.lv^
 ||latloto.lv^
+||lu88.lv^
 ||sv88.lv^
 ||vu88.lv^
 ||e-loterie.ma^
@@ -3139,6 +3155,7 @@
 ||vnsodo.mobi^
 ||vu88.mobi^
 ||x8.mobi^
+||sky88.moda^
 ||3bet.moe^
 ||888b.moe^
 ||k88.moe^
@@ -3368,6 +3385,7 @@
 ||gemwin.nz^
 ||lu88.nz^
 ||xibet.nz^
+||ku88.okinawa^
 ||789f.one^
 ||big88.one^
 ||dangky789.one^
@@ -3433,6 +3451,7 @@
 ||3bet.ph^
 ||miso88.com.ph^
 ||hbet.ph^
+||man88.ph^
 ||zowin.ph^
 ||yo88.phd^
 ||tx88.photo^
@@ -3530,6 +3549,7 @@
 ||lu88.pw^
 ||man88.pw^
 ||nhat.pw^
+||pub88.pw^
 ||ricwin.pw^
 ||sunwin.pw^
 ||vin88.pw^
@@ -3546,6 +3566,7 @@
 ||five88.ro^
 ||loto.ro^
 ||sv88.ro^
+||vu88.ro^
 ||klik4d.rocks^
 ||tk88.rocks^
 ||balkanbet.co.rs^
@@ -3569,6 +3590,7 @@
 ||3bet.sh^
 ||du88.sh^
 ||febet.sh^
+||hbet.sh^
 ||man88.sh^
 ||mubet.sh^
 ||nhat.sh^
@@ -3607,6 +3629,7 @@
 ||yo88.so^
 ||68gamebai.social^
 ||vin88.soy^
+||xibet.soy^
 ||haywin.space^
 ||neo79.space^
 ||gemwin.spot^
@@ -3631,6 +3654,7 @@
 ||vin88.sx^
 ||zowin.sx^
 ||bet88.systems^
+||mubet.talk^
 ||gemwin.tax^
 ||2q.team^
 ||ball88.team^
@@ -3820,6 +3844,7 @@
 ||gemwin.vc^
 ||hbet.vc^
 ||man88.vc^
+||vic.ventures^
 ||gem88.vet^
 ||tx88.vet^
 ||123bong.vg^
@@ -3830,6 +3855,7 @@
 ||yo88.vg^
 ||xocdia88.video^
 ||11bet.vin^
+||11win.vin^
 ||388bet.vin^
 ||789club.vin^
 ||bong99.vin^
@@ -4056,6 +4082,7 @@
 ||five88.wine^
 ||3bet.work^
 ||vin777.work^
+||11win.works^
 ||9bet.world^
 ||five88.world^
 ||globalwagering.ws^
