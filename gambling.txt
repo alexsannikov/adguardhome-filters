@@ -7,6 +7,7 @@
 ||net88.ac^
 ||nhatvip.ac^
 ||taisum.ac^
+||vicclub.ac^
 ||vu88.ac^
 ||sv88.ae^
 ||yo88.ae^
@@ -216,6 +217,7 @@
 ||hitclub.bi^
 ||skyclub.bid^
 ||3bet.bike^
+||hbet.bio^
 ||iwin.bio^
 ||kkwin.bio^
 ||3bet.biz^
@@ -241,6 +243,7 @@
 ||cacuoc365.blog^
 ||vin777.blog^
 ||9bet.blue^
+||ball88.blue^
 ||du88.blue^
 ||f168.blue^
 ||hitclub.blue^
@@ -319,11 +322,13 @@
 ||betvip.center^
 ||vuagaaz.ceo^
 ||lu88.ch^
+||man88.ch^
 ||tx88.ch^
 ||hi88.chat^
 ||zowin.ci^
 ||3bet.city^
 ||b69.city^
+||bom88.city^
 ||dv88.city^
 ||man88.cl^
 ||sv88.cl^
@@ -2742,6 +2747,7 @@
 ||nbet.fan^
 ||tx88.fan^
 ||zowin.fan^
+||tot88.farm^
 ||du88.fashion^
 ||tx88.fashion^
 ||gemwin.fast^
@@ -2752,10 +2758,12 @@
 ||x8.fit^
 ||gemwin.fm^
 ||hbet.fm^
+||vu88.fm^
 ||kubet.fo^
 ||new88.fo^
 ||sin88.fo^
 ||go88.food^
+||pub88.forum^
 ||fdj.fr^
 ||11bet.fun^
 ||789.fun^
@@ -2829,6 +2837,7 @@
 ||legabet.gay^
 ||debet.gd^
 ||hi88.gd^
+||lu88.gd^
 ||uk88.gd^
 ||lu88.gdn^
 ||sin88.gdn^
@@ -2847,6 +2856,7 @@
 ||2winbet.gr^
 ||opap.gr^
 ||789bet.green^
+||9bet.green^
 ||fun88.green^
 ||go99.green^
 ||debet.gs^
@@ -2854,6 +2864,7 @@
 ||du88.guru^
 ||gem88.guru^
 ||vic.hair^
+||du88.health^
 ||f8bet.homes^
 ||3bet.host^
 ||sodo.host^
@@ -2928,6 +2939,7 @@
 ||xibet.ing^
 ||gemwin.ink^
 ||miso88.ink^
+||tot88.ink^
 ||bay789.io^
 ||bitcoinrush.io^
 ||dagacampuchia.io^
@@ -2957,7 +2969,9 @@
 ||lu88.kim^
 ||nhat.kim^
 ||zowin.kim^
+||789club.kn^
 ||nlotto.co.kr^
+||tx88.krd^
 ||3bet.la^
 ||bom88.la^
 ||hbet.la^
@@ -2987,6 +3001,7 @@
 ||trangchu.life^
 ||xoso66.life^
 ||gemwin.limo^
+||11win.link^
 ||five-88.link^
 ||gameiwin68.link^
 ||hn8.link^
@@ -3037,6 +3052,7 @@
 ||ball88.llc^
 ||i9bet.llc^
 ||tx88.llc^
+||tot88.loan^
 ||789f.love^
 ||ball88.love^
 ||new88.love^
@@ -3078,6 +3094,7 @@
 ||vu88.lv^
 ||e-loterie.ma^
 ||loterie.ma^
+||k88.mba^
 ||uk88.mba^
 ||388bet.me^
 ||88online.me^
@@ -3115,6 +3132,7 @@
 ||zbet.me^
 ||debet.med^
 ||rikvip.med^
+||mubet.media^
 ||ae888.men^
 ||ball88.men^
 ||kkwin.men^
@@ -3457,6 +3475,7 @@
 ||tx88.photo^
 ||bom88.pics^
 ||miso88.pics^
+||tx88.pink^
 ||betclic.pl^
 ||betcris.pl^
 ||betfan.pl^
@@ -3484,6 +3503,7 @@
 ||ee88.plus^
 ||go8.plus^
 ||saowin.plus^
+||ball88.poker^
 ||i9bet.poker^
 ||11bet.pro^
 ||123win.pro^
@@ -3559,7 +3579,10 @@
 ||ball88.red^
 ||go99.red^
 ||rikbet.red^
+||xibet.red^
 ||zowin.red^
+||3bet.rent^
+||gemwin.rent^
 ||9bet.rest^
 ||miso88.review^
 ||shbet.rip^
@@ -3578,6 +3601,7 @@
 ||m88.run^
 ||net88.run^
 ||five88.sale^
+||gemwin.sale^
 ||hitclub.salon^
 ||8day.sbs^
 ||debet.sc^
@@ -3621,6 +3645,7 @@
 ||etipos.sk^
 ||tipos.sk^
 ||3bet.ski^
+||3bet.skin^
 ||3bet.so^
 ||debet.so^
 ||hbet.so^
@@ -3636,6 +3661,7 @@
 ||zowin.srl^
 ||debet.st^
 ||yo88.st^
+||zowin.st^
 ||3bet.store^
 ||go99code.store^
 ||haywin.store^
@@ -3666,6 +3692,7 @@
 ||k88.tel^
 ||kubet.tel^
 ||thabet.tel^
+||bom88.tips^
 ||du88.tips^
 ||ee88.tips^
 ||new88.tips^
@@ -3853,6 +3880,7 @@
 ||win79.vg^
 ||xibet.vg^
 ||yo88.vg^
+||mubet.video^
 ||xocdia88.video^
 ||11bet.vin^
 ||11win.vin^
@@ -3987,11 +4015,13 @@
 ||xibet.vu^
 ||yo88.vu^
 ||zowin.vu^
+||du88.wales^
 ||rikvip.wales^
 ||u88.watch^
 ||bepe88.website^
 ||bongvip.website^
 ||maxbet.website^
+||mubet.website^
 ||11bet.win^
 ||23win.win^
 ||3bet.win^
