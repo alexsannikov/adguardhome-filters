@@ -88,6 +88,7 @@
 ||codere.bet.ar^
 ||9bet.army^
 ||du88.art^
+||hbet.art^
 ||k88.art^
 ||868vip.asia^
 ||bk8mys68.asia^
@@ -137,6 +138,7 @@
 ||qh88.baby^
 ||9bet.band^
 ||nohu.band^
+||hbet.bar^
 ||sealjl.bar^
 ||go88.bayern^
 ||betfirstcasino.be^
@@ -279,8 +281,10 @@
 ||miso88.cam^
 ||nhat.cam^
 ||sv388.cam^
+||pub88.camera^
 ||9bet.care^
 ||du88.care^
+||11win.casa^
 ||ball88.casa^
 ||bom88.casa^
 ||indobola77.casa^
@@ -331,6 +335,7 @@
 ||lu88.ch^
 ||man88.ch^
 ||tx88.ch^
+||pub88.channel^
 ||hi88.chat^
 ||zowin.ci^
 ||3bet.city^
@@ -2777,12 +2782,15 @@
 ||gemwin.fm^
 ||hbet.fm^
 ||vu88.fm^
+||zowin.fm^
 ||kubet.fo^
 ||new88.fo^
 ||sin88.fo^
 ||go88.food^
+||du88.football^
 ||pub88.forum^
 ||fdj.fr^
+||11win.free^
 ||11bet.fun^
 ||789.fun^
 ||789club.fun^
@@ -2831,6 +2839,7 @@
 ||xibet.fun^
 ||xo88.fun^
 ||zbet.fun^
+||9bet.fund^
 ||ball88.fyi^
 ||gemwin.fyi^
 ||tx88.fyi^
@@ -3081,6 +3090,7 @@
 ||ball88.love^
 ||new88.love^
 ||shbet.love^
+||go88.ls^
 ||11bet.lt^
 ||7bet.lt^
 ||betsafe.lt^
@@ -3118,6 +3128,7 @@
 ||vu88.lv^
 ||e-loterie.ma^
 ||loterie.ma^
+||789club.mba^
 ||k88.mba^
 ||uk88.mba^
 ||go88.md^
@@ -3158,6 +3169,7 @@
 ||debet.med^
 ||rikvip.med^
 ||mubet.media^
+||789club.men^
 ||ae888.men^
 ||ball88.men^
 ||kkwin.men^
@@ -3257,6 +3269,7 @@
 ||88cado.net^
 ||8live.net^
 ||9bet.net^
+||go88.adqc.net^
 ||ae888.net^
 ||bandarklik4d.net^
 ||baowin.net^
@@ -3428,6 +3441,7 @@
 ||mylotto.co.nz^
 ||tab.co.nz^
 ||gemwin.nz^
+||k88.nz^
 ||lu88.nz^
 ||xibet.nz^
 ||ku88.okinawa^
@@ -3504,6 +3518,7 @@
 ||tx88.photo^
 ||bom88.pics^
 ||miso88.pics^
+||9bet.pink^
 ||tx88.pink^
 ||betclic.pl^
 ||betcris.pl^
@@ -3614,6 +3629,7 @@
 ||du88.rent^
 ||gemwin.rent^
 ||9bet.rest^
+||tx88.rest^
 ||miso88.review^
 ||shbet.rip^
 ||five88.ro^
@@ -3708,6 +3724,7 @@
 ||789.sx^
 ||789club.sx^
 ||five88.sx^
+||k88.sx^
 ||nhat.sx^
 ||sin88.sx^
 ||sunwin.sx^
@@ -3810,6 +3827,7 @@
 ||hitclub.tv^
 ||jun88.tv^
 ||kubet11.tv^
+||lu88.tv^
 ||lucky88.tv^
 ||nbet.tv^
 ||net88.tv^
@@ -3907,6 +3925,7 @@
 ||five88.vc^
 ||gemwin.vc^
 ||hbet.vc^
+||k88.vc^
 ||man88.vc^
 ||vic.ventures^
 ||gem88.vet^
