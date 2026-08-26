@@ -1,5 +1,6 @@
 ||789f.ac^
 ||au88.ac^
+||bom88.ac^
 ||fabet.ac^
 ||haywin.ac^
 ||hbet.ac^
@@ -225,6 +226,7 @@
 ||hbet.bio^
 ||iwin.bio^
 ||kkwin.bio^
+||lu88.bio^
 ||3bet.biz^
 ||789club.biz^
 ||cadovn.biz^
@@ -336,6 +338,7 @@
 ||man88.ch^
 ||tx88.ch^
 ||pub88.channel^
+||pub88.charity^
 ||hi88.chat^
 ||zowin.ci^
 ||3bet.city^
@@ -2693,6 +2696,7 @@
 ||vuabet88.dev^
 ||zbet.dev^
 ||kuwin.digital^
+||9bet.diy^
 ||bom88.diy^
 ||bet25.dk^
 ||danskespil.dk^
@@ -2840,6 +2844,7 @@
 ||xo88.fun^
 ||zbet.fun^
 ||9bet.fund^
+||tx88.fund^
 ||ball88.fyi^
 ||gemwin.fyi^
 ||tx88.fyi^
@@ -2898,6 +2903,7 @@
 ||sodo.host^
 ||vua88.host^
 ||tx88.hot^
+||du88.house^
 ||uk88.how^
 ||lutrija.hr^
 ||szerencsejatek.hu^
@@ -2913,6 +2919,7 @@
 ||shbet.id^
 ||sunwin.id^
 ||u888.id^
+||vicclub.id^
 ||lottery.ie^
 ||pais.co.il^
 ||bj88.im^
@@ -3634,11 +3641,13 @@
 ||9bet.rest^
 ||tx88.rest^
 ||miso88.review^
+||789club.rich^
 ||shbet.rip^
 ||five88.ro^
 ||loto.ro^
 ||sv88.ro^
 ||vu88.ro^
+||zowin.ro^
 ||klik4d.rocks^
 ||tk88.rocks^
 ||balkanbet.co.rs^
@@ -3705,6 +3714,7 @@
 ||ta88.so^
 ||yo88.so^
 ||68gamebai.social^
+||k88.soy^
 ||vin88.soy^
 ||xibet.soy^
 ||hbet.spa^
@@ -3736,6 +3746,7 @@
 ||bet88.systems^
 ||mubet.talk^
 ||gemwin.tax^
+||xibet.tax^
 ||2q.team^
 ||ball88.team^
 ||bom88.team^
@@ -3746,6 +3757,8 @@
 ||k88.tel^
 ||kubet.tel^
 ||thabet.tel^
+||vu88.tel^
+||11win.tips^
 ||bom88.tips^
 ||du88.tips^
 ||ee88.tips^
@@ -4186,6 +4199,7 @@
 ||zowin.ws^
 ||79king.wtf^
 ||xibet.wtf^
+||man88.xin^
 ||uk88.xin^
 ||8xbet.xyz^
 ||ah77lb5.xyz^
