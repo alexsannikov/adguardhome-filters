@@ -152,6 +152,7 @@
 ||11win.beer^
 ||789f.best^
 ||mubet.best^
+||vu88.best^
 ||123b.bet^
 ||188asia.bet^
 ||2826.bet^
@@ -493,6 +494,7 @@
 ||vin777.co^
 ||webpartners.co^
 ||winbet99.co^
+||pub88.college^
 ||007win.com^
 ||009.com^
 ||016665.com^
@@ -2790,11 +2792,13 @@
 ||kubet.fo^
 ||new88.fo^
 ||sin88.fo^
+||lu88.foo^
 ||go88.food^
 ||du88.football^
 ||pub88.forum^
 ||fdj.fr^
 ||11win.free^
+||tx88.free^
 ||11bet.fun^
 ||789.fun^
 ||789club.fun^
@@ -2843,6 +2847,7 @@
 ||xibet.fun^
 ||xo88.fun^
 ||zbet.fun^
+||3bet.fund^
 ||9bet.fund^
 ||tx88.fund^
 ||ball88.fyi^
@@ -3011,6 +3016,7 @@
 ||zowin.kim^
 ||789club.kn^
 ||nlotto.co.kr^
+||9bet.krd^
 ||tx88.krd^
 ||3bet.la^
 ||bom88.la^
@@ -3139,6 +3145,7 @@
 ||e-loterie.ma^
 ||loterie.ma^
 ||789club.mba^
+||du88.mba^
 ||k88.mba^
 ||uk88.mba^
 ||go88.md^
@@ -3252,6 +3259,7 @@
 ||ricwin.mx^
 ||sin88.mx^
 ||vic88.mx^
+||vicclub.mx^
 ||vu88.mx^
 ||cashsweep.com.my^
 ||damacai.com.my^
@@ -3279,6 +3287,7 @@
 ||88cado.net^
 ||8live.net^
 ||9bet.net^
+||3bet.adqc.net^
 ||go88.adqc.net^
 ||ae888.net^
 ||bandarklik4d.net^
@@ -3443,6 +3452,7 @@
 ||casinolasvegas.no^
 ||norsk-tipping.no^
 ||rikstoto.no^
+||k88.now^
 ||tx88.now^
 ||uu88.now^
 ||xibet.now^
@@ -3721,6 +3731,7 @@
 ||haywin.space^
 ||neo79.space^
 ||gemwin.spot^
+||hbet.srl^
 ||zowin.srl^
 ||debet.st^
 ||yo88.st^
@@ -3733,6 +3744,7 @@
 ||tot88.store^
 ||f168.studio^
 ||go88.study^
+||11win.style^
 ||hitclub.su^
 ||789.sx^
 ||789club.sx^
@@ -3762,6 +3774,7 @@
 ||bom88.tips^
 ||du88.tips^
 ||ee88.tips^
+||mubet.tips^
 ||new88.tips^
 ||33win.to^
 ||ball88.to^
@@ -4198,6 +4211,7 @@
 ||zbet.ws^
 ||zowin.ws^
 ||79king.wtf^
+||man88.wtf^
 ||xibet.wtf^
 ||man88.xin^
 ||uk88.xin^
@@ -4218,6 +4232,7 @@
 ||yylive.xyz^
 ||hitclub.yoga^
 ||3bet.you^
+||xibet.you^
 ||bet.co.za^
 ||betflash.co.za^
 ||bettingworld.co.za^
