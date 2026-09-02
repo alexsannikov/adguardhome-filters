@@ -75,6 +75,7 @@
 ||gameiwin68.app^
 ||hi888.app^
 ||i9bet.app^
+||lu88.app^
 ||mv66.app^
 ||sodo66.app^
 ||taimanclub.app^
@@ -139,6 +140,7 @@
 ||qh88.baby^
 ||9bet.band^
 ||nohu.band^
+||tx88.band^
 ||hbet.bar^
 ||sealjl.bar^
 ||go88.bayern^
@@ -228,6 +230,7 @@
 ||iwin.bio^
 ||kkwin.bio^
 ||lu88.bio^
+||vu88.bio^
 ||3bet.biz^
 ||789club.biz^
 ||cadovn.biz^
@@ -531,6 +534,7 @@
 ||188bet.com^
 ||188betcn2.com^
 ||188goal.com^
+||188lux.com^
 ||188pscn2.com^
 ||188thethao.com^
 ||18bet.com^
@@ -2626,6 +2630,7 @@
 ||zo88.com^
 ||zodiacu.com^
 ||zpisportbk.com^
+||pub88.company^
 ||go88.contractors^
 ||okking.cooking^
 ||58win.cool^
@@ -2700,6 +2705,7 @@
 ||kuwin.digital^
 ||9bet.diy^
 ||bom88.diy^
+||du88.diy^
 ||bet25.dk^
 ||danskespil.dk^
 ||dantoto.dk^
@@ -2717,6 +2723,7 @@
 ||win79.eco^
 ||eestiloto.ee^
 ||miso88.email^
+||9bet.es^
 ||codere.es^
 ||horizonsports.es^
 ||loteriasyapuestas.es^
@@ -2777,6 +2784,7 @@
 ||vu88.fan^
 ||zowin.fan^
 ||tot88.farm^
+||11win.fashion^
 ||du88.fashion^
 ||tx88.fashion^
 ||gemwin.fast^
@@ -2793,6 +2801,7 @@
 ||new88.fo^
 ||sin88.fo^
 ||lu88.foo^
+||xibet.foo^
 ||go88.food^
 ||du88.football^
 ||pub88.forum^
@@ -2897,12 +2906,14 @@
 ||9bet.green^
 ||fun88.green^
 ||go99.green^
+||zowin.gripe^
 ||debet.gs^
 ||kuwin.guide^
 ||du88.guru^
 ||gem88.guru^
 ||vic.hair^
 ||du88.health^
+||mubet.help^
 ||f8bet.homes^
 ||3bet.host^
 ||sodo.host^
@@ -2984,6 +2995,7 @@
 ||gemwin.ink^
 ||miso88.ink^
 ||tot88.ink^
+||vicclub.ink^
 ||bay789.io^
 ||bitcoinrush.io^
 ||dagacampuchia.io^
@@ -3029,6 +3041,7 @@
 ||789f.lat^
 ||ball88.lat^
 ||gamebaidoithuong.lat^
+||man88.lat^
 ||ee88.law^
 ||debet.lc^
 ||five88.lc^
@@ -3412,6 +3425,7 @@
 ||tele789.net^
 ||thaicasinosonline.net^
 ||thethaowin.net^
+||tin888.net^
 ||topbet.net^
 ||topdoithuong.net^
 ||tourghepmienbac.net^
@@ -3533,6 +3547,7 @@
 ||hbet.ph^
 ||man88.ph^
 ||zowin.ph^
+||k88.phd^
 ||yo88.phd^
 ||9bet.photo^
 ||tx88.photo^
@@ -3823,6 +3838,7 @@
 ||sky88.top^
 ||taiv8.top^
 ||tin88.top^
+||tin888.top^
 ||topbet.top^
 ||topzo.top^
 ||tx88.top^
@@ -4211,6 +4227,7 @@
 ||zbet.ws^
 ||zowin.ws^
 ||79king.wtf^
+||hbet.wtf^
 ||man88.wtf^
 ||xibet.wtf^
 ||man88.xin^
