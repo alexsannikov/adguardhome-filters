@@ -104,6 +104,7 @@
 ||vsports88.asia^
 ||lotterien.at^
 ||sjbet.at^
+||vicclub.at^
 ||acttab.com.au^
 ||betezy.com.au^
 ||betfair.com.au^
@@ -290,6 +291,7 @@
 ||pub88.camera^
 ||9bet.care^
 ||du88.care^
+||mubet.care^
 ||11win.casa^
 ||ball88.casa^
 ||bom88.casa^
@@ -304,6 +306,7 @@
 ||ttr.casino^
 ||vn88.casino^
 ||keonhacai.cat^
+||xibet.cat^
 ||191slotsgo.cc^
 ||88new.cc^
 ||8xbet.cc^
@@ -343,6 +346,7 @@
 ||tx88.ch^
 ||pub88.channel^
 ||pub88.charity^
+||du88.chat^
 ||hi88.chat^
 ||zowin.ci^
 ||3bet.city^
@@ -497,6 +501,7 @@
 ||vin777.co^
 ||webpartners.co^
 ||winbet99.co^
+||bom88.coach^
 ||pub88.college^
 ||007win.com^
 ||009.com^
@@ -1453,6 +1458,7 @@
 ||hititbet.com^
 ||bet.hkjc.com^
 ||hl8thai8.com^
+||hoibannghien.com^
 ||homerunsportsbetting.com^
 ||hopa.com^
 ||hot51.com^
@@ -2646,6 +2652,7 @@
 ||justbet.cx^
 ||nhat.cx^
 ||vuabet88.cx^
+||k88.cyou^
 ||rs88.cyou^
 ||zzzhhhhwoog488.cyou^
 ||betano.cz^
@@ -2660,6 +2667,7 @@
 ||synottip.cz^
 ||tipsport.cz^
 ||vu88.cz^
+||11win.dance^
 ||ball88.day^
 ||k88.day^
 ||net88.day^
@@ -2753,6 +2761,7 @@
 ||loteriasyapuestas.es^
 ||xocdia88.es^
 ||gemwin.esq^
+||hbet.esq^
 ||zowin.esq^
 ||bj88.estate^
 ||allpro.eu^
@@ -3184,6 +3193,7 @@
 ||789club.mba^
 ||du88.mba^
 ||k88.mba^
+||lu88.mba^
 ||uk88.mba^
 ||go88.md^
 ||388bet.me^
@@ -3309,6 +3319,7 @@
 ||taiwin79.my^
 ||11bet.name^
 ||f168.name^
+||9bet.navy^
 ||tx88.navy^
 ||11bet.net^
 ||11win.net^
@@ -3325,6 +3336,7 @@
 ||8live.net^
 ||9bet.net^
 ||3bet.adqc.net^
+||bom88.adqc.net^
 ||go88.adqc.net^
 ||ae888.net^
 ||bandarklik4d.net^
@@ -3470,6 +3482,7 @@
 ||vn789.net^
 ||vnbongvip.net^
 ||vnq8.net^
+||vsbetvbs.net^
 ||vu88.net^
 ||w-sunwin.net^
 ||winclub.net^
@@ -3666,6 +3679,7 @@
 ||b29.pub^
 ||go8.pub^
 ||kkwin.pub^
+||lu88.pub^
 ||vin88.pub^
 ||8xbet.pw^
 ||go8.pw^
@@ -3767,6 +3781,7 @@
 ||k88.soy^
 ||vin88.soy^
 ||xibet.soy^
+||789club.spa^
 ||hbet.spa^
 ||haywin.space^
 ||neo79.space^
@@ -3816,6 +3831,7 @@
 ||ee88.tips^
 ||mubet.tips^
 ||new88.tips^
+||pub88.tips^
 ||33win.to^
 ||ball88.to^
 ||fabet.to^
@@ -4138,6 +4154,7 @@
 ||tdtc.vn^
 ||top88.vn^
 ||188bet.vote^
+||tx88.vote^
 ||top88.voto^
 ||man88.vu^
 ||sv88.vu^
