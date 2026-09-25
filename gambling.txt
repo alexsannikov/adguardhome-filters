@@ -234,6 +234,7 @@
 ||vu88.bio^
 ||3bet.biz^
 ||789club.biz^
+||c168.biz^
 ||cadovn.biz^
 ||fabet.biz^
 ||five88.biz^
@@ -3783,6 +3784,7 @@
 ||xibet.soy^
 ||789club.spa^
 ||hbet.spa^
+||man88.spa^
 ||haywin.space^
 ||neo79.space^
 ||gemwin.spot^
@@ -3813,6 +3815,7 @@
 ||bet88.systems^
 ||mubet.talk^
 ||gemwin.tax^
+||vu88.tax^
 ||xibet.tax^
 ||2q.team^
 ||ball88.team^
@@ -3896,6 +3899,7 @@
 ||shbet.tours^
 ||sodo66.tours^
 ||123b.town^
+||mubet.toys^
 ||789club.tr^
 ||mpi.gov.tr^
 ||888b.trade^
@@ -4154,6 +4158,7 @@
 ||tdtc.vn^
 ||top88.vn^
 ||188bet.vote^
+||9bet.vote^
 ||tx88.vote^
 ||top88.voto^
 ||man88.vu^
