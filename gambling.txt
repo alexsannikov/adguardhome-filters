@@ -10,6 +10,7 @@
 ||taisum.ac^
 ||vicclub.ac^
 ||vu88.ac^
+||ku88.accountant^
 ||sv88.ae^
 ||yo88.ae^
 ||sunwin.af^
@@ -262,9 +263,13 @@
 ||hitclub.blue^
 ||miso88.boats^
 ||sodo.bond^
+||tx88.boston^
 ||debet.bot^
 ||vic.boutique^
 ||herobet.com.br^
+||api.9bet.build^
+||socket.9bet.build^
+||wp.9bet.build^
 ||jun88.buzz^
 ||11bet.bz^
 ||k88.bz^
@@ -283,6 +288,7 @@
 ||du88.cafe^
 ||hitclub.cafe^
 ||taib69.cafe^
+||yo88.cafe^
 ||68gb.cam^
 ||bong88.cam^
 ||k88.cam^
@@ -290,6 +296,7 @@
 ||nhat.cam^
 ||sv388.cam^
 ||pub88.camera^
+||11win.care^
 ||9bet.care^
 ||du88.care^
 ||mubet.care^
@@ -1184,6 +1191,7 @@
 ||dccasino.com^
 ||dealerscasino.com^
 ||debet.com^
+||debetchinhhang.com^
 ||deca88.com^
 ||depositbetplace88.com^
 ||dfbertuah.com^
@@ -2837,6 +2845,7 @@
 ||lu88.foo^
 ||xibet.foo^
 ||go88.food^
+||vua88.food^
 ||du88.football^
 ||pub88.forum^
 ||fdj.fr^
@@ -2945,12 +2954,14 @@
 ||kuwin.guide^
 ||du88.guru^
 ||gem88.guru^
+||mubet.hair^
 ||vic.hair^
 ||du88.health^
 ||mubet.help^
 ||f8bet.homes^
 ||3bet.host^
 ||sodo.host^
+||vicclub.host^
 ||vua88.host^
 ||tx88.hot^
 ||du88.house^
@@ -3543,6 +3554,7 @@
 ||trochoidonclub.online^
 ||trochoivuaclub.online^
 ||zowinchinhhang.online^
+||lu88.ooo^
 ||007win.org^
 ||11bet.org^
 ||123b.org^
@@ -3623,6 +3635,7 @@
 ||saowin.plus^
 ||ball88.poker^
 ||i9bet.poker^
+||debet.press^
 ||11bet.pro^
 ||123win.pro^
 ||188bet.pro^
@@ -3729,6 +3742,7 @@
 ||hitclub.salon^
 ||8day.sbs^
 ||debet.sc^
+||sun88.sc^
 ||atg.se^
 ||casinotown.se^
 ||igame.se^
@@ -3817,6 +3831,7 @@
 ||gemwin.tax^
 ||vu88.tax^
 ||xibet.tax^
+||9bet.taxi^
 ||2q.team^
 ||ball88.team^
 ||bom88.team^
@@ -3896,6 +3911,7 @@
 ||x8vn.top^
 ||yylive.top^
 ||zoplay.top^
+||du88.tours^
 ||shbet.tours^
 ||sodo66.tours^
 ||123b.town^
@@ -4258,6 +4274,7 @@
 ||xibet.win^
 ||xo88.win^
 ||yo88.win^
+||yo88chinhhang.win^
 ||zo1.win^
 ||zo10.win^
 ||zo2.win^
