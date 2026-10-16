@@ -145,6 +145,7 @@
 ||tx88.band^
 ||hbet.bar^
 ||sealjl.bar^
+||tx88.barcelona^
 ||go88.bayern^
 ||betfirstcasino.be^
 ||betfirst.dhnet.be^
@@ -2651,6 +2652,7 @@
 ||58win.cool^
 ||ball88.cool^
 ||bom88.cool^
+||ku88.cool^
 ||miso88.cool^
 ||xocdiaonline.cool^
 ||yo88.cool^
@@ -2747,6 +2749,7 @@
 ||9bet.diy^
 ||bom88.diy^
 ||du88.diy^
+||vua88.diy^
 ||bet25.dk^
 ||danskespil.dk^
 ||dantoto.dk^
@@ -2773,6 +2776,7 @@
 ||hbet.esq^
 ||zowin.esq^
 ||bj88.estate^
+||du88.estate^
 ||allpro.eu^
 ||beatthebook.eu^
 ||betanysports.eu^
@@ -2969,6 +2973,7 @@
 ||lutrija.hr^
 ||szerencsejatek.hu^
 ||manvip.icu^
+||mubet.icu^
 ||mv66.icu^
 ||pp88.icu^
 ||tai789.icu^
@@ -3817,6 +3822,7 @@
 ||go88.study^
 ||11win.style^
 ||hitclub.su^
+||11win.support^
 ||789.sx^
 ||789club.sx^
 ||five88.sx^
@@ -3919,6 +3925,7 @@
 ||789club.tr^
 ||mpi.gov.tr^
 ||888b.trade^
+||vicclub.trade^
 ||haywin.training^
 ||67777.tv^
 ||8xbet.tv^
