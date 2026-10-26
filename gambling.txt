@@ -297,6 +297,7 @@
 ||nhat.cam^
 ||sv388.cam^
 ||pub88.camera^
+||du88.cards^
 ||11win.care^
 ||9bet.care^
 ||du88.care^
@@ -2775,6 +2776,7 @@
 ||gemwin.esq^
 ||hbet.esq^
 ||zowin.esq^
+||9bet.estate^
 ||bj88.estate^
 ||du88.estate^
 ||allpro.eu^
@@ -2927,6 +2929,7 @@
 ||taixiusunwin.games^
 ||tx88.games^
 ||x8.games^
+||11win.garden^
 ||f168.garden^
 ||legabet.gay^
 ||debet.gd^
@@ -2938,6 +2941,7 @@
 ||11bet.gg^
 ||bounty.gg^
 ||csgoroll.gg^
+||du88.gg^
 ||keyarena.gg^
 ||kubet.gg^
 ||society.gg^
@@ -3098,6 +3102,7 @@
 ||gemwin.lc^
 ||hitclub.lc^
 ||lu88.lc^
+||vicclub.legal^
 ||hbet.li^
 ||man88.li^
 ||11bet.life^
@@ -3596,6 +3601,7 @@
 ||zo88.org^
 ||gemwin.page^
 ||promotions.epic.partners^
+||11win.parts^
 ||sunwin.parts^
 ||hb88.party^
 ||3bet.ph^
@@ -3700,6 +3706,7 @@
 ||kkwin.pub^
 ||lu88.pub^
 ||vin88.pub^
+||vua88.pub^
 ||8xbet.pw^
 ||go8.pw^
 ||hbet.pw^
@@ -3820,6 +3827,7 @@
 ||tot88.store^
 ||f168.studio^
 ||go88.study^
+||ku88.study^
 ||11win.style^
 ||hitclub.su^
 ||11win.support^
@@ -4289,6 +4297,7 @@
 ||3bet.work^
 ||vin777.work^
 ||11win.works^
+||tx88.works^
 ||9bet.world^
 ||five88.world^
 ||globalwagering.ws^
