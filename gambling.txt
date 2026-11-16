@@ -297,6 +297,7 @@
 ||nhat.cam^
 ||sv388.cam^
 ||pub88.camera^
+||ku88.capital^
 ||du88.cards^
 ||11win.care^
 ||9bet.care^
@@ -355,6 +356,7 @@
 ||man88.ch^
 ||tx88.ch^
 ||pub88.channel^
+||sun88.channel^
 ||pub88.charity^
 ||du88.chat^
 ||hi88.chat^
@@ -2657,6 +2659,7 @@
 ||miso88.cool^
 ||xocdiaonline.cool^
 ||yo88.cool^
+||du88.coupons^
 ||789club.cr^
 ||abc8.cv^
 ||sin88.cv^
@@ -2831,6 +2834,7 @@
 ||tx88.fan^
 ||vu88.fan^
 ||zowin.fan^
+||vua88.fans^
 ||tot88.farm^
 ||11win.fashion^
 ||du88.fashion^
@@ -2957,6 +2961,7 @@
 ||9bet.green^
 ||fun88.green^
 ||go99.green^
+||11win.gripe^
 ||zowin.gripe^
 ||debet.gs^
 ||kuwin.guide^
@@ -3304,11 +3309,13 @@
 ||debet.moi^
 ||nhatvip.moi^
 ||ricwin.moi^
+||sun88.moi^
 ||sunwin.moi^
 ||vin88.moi^
 ||win79.moi^
 ||xibet.moi^
 ||zowin.mom^
+||mubet.money^
 ||pub88.monster^
 ||k88.mov^
 ||debet.mp^
@@ -3341,6 +3348,7 @@
 ||taiwin79.my^
 ||11bet.name^
 ||f168.name^
+||vicclub.name^
 ||9bet.navy^
 ||tx88.navy^
 ||11bet.net^
@@ -3357,9 +3365,7 @@
 ||88cado.net^
 ||8live.net^
 ||9bet.net^
-||3bet.adqc.net^
-||bom88.adqc.net^
-||go88.adqc.net^
+||adqc.net^
 ||ae888.net^
 ||bandarklik4d.net^
 ||baowin.net^
@@ -3825,12 +3831,14 @@
 ||miso88.store^
 ||tk88.store^
 ||tot88.store^
+||9bet.stream^
 ||f168.studio^
 ||go88.study^
 ||ku88.study^
 ||11win.style^
 ||hitclub.su^
 ||11win.support^
+||tx88.support^
 ||789.sx^
 ||789club.sx^
 ||five88.sx^

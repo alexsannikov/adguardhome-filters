@@ -394,6 +394,7 @@
 ||cum.bar^
 ||fap.bar^
 ||nue.bar^
+||phimheo.bar^
 ||pornhub.bar^
 ||pc.porno-drochila.bar^
 ||xxx.porno-drochila.bar^
@@ -903,6 +904,7 @@
 ||hentais.blog^
 ||hentaisub.blog^
 ||heovl.blog^
+||heoxvn.blog^
 ||japansex.blog^
 ||javs.blog^
 ||javsub.blog^
@@ -1037,6 +1039,7 @@
 ||hdxxx.bond^
 ||hotxvideos.bond^
 ||japanxxxvideo.bond^
+||kkphimheo.bond^
 ||pornfree.bond^
 ||porngo.bond^
 ||pornhubs.bond^
@@ -1054,6 +1057,7 @@
 ||tubeporn.bond^
 ||turkporno.bond^
 ||videoxxx.bond^
+||vlxvn.bond^
 ||xhamsterz.bond^
 ||xnxxgay.bond^
 ||xnxxtube.bond^
@@ -12549,6 +12553,7 @@
 ||hentaizx.com^
 ||henvids.com^
 ||heo69.com^
+||heoav.com^
 ||heodem.com^
 ||heohay.com^
 ||heohd.com^
@@ -26140,6 +26145,7 @@
 ||vl9x.com^
 ||vlesbianporn.com^
 ||vlogxxx.com^
+||vlxvn.com^
 ||vlxx.com^
 ||vlxx-phimsex.com^
 ||vlxx-vip.com^
@@ -29824,6 +29830,7 @@
 ||tamilsexvideos.fans^
 ||telugusexvideo.fans^
 ||toppornovideo.fans^
+||vlxvn.fans^
 ||wwwxnxx.fans^
 ||wwwxxx.fans^
 ||xhxx.fans^
@@ -39573,6 +39580,7 @@
 ||chaturbate.page^
 ||hdsex8.page^
 ||hdxxx.page^
+||javhdz.page^
 ||live-sex.page^
 ||pornmovies.page^
 ||pornpics.page^
@@ -45844,6 +45852,8 @@
 ||xvids.wtf^
 ||xxxmovs.wtf^
 ||xxxporn.wtf^
+||javmup.xin^
+||vlxvn.xin^
 ||pornsites.xx^
 ||*.xxx^
 ||pornoohd.xy^
